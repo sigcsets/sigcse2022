@@ -1,0 +1,13 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "For Authors"
+  url:
+  # url: "/authors/"
+  side: left
+
+- title: "For Reviewers"
+  url:
+  # url: "/reviewers/"
+  side: left
