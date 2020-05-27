@@ -12,3 +12,9 @@ phlow: # replace this with your info
   email:
   twitter: "@phlow"
 # you can add more authors here
+SIGCSE: 
+  name: "ACM SIGCSE"
+  siterole: "Organizer"
+  uri: http://sigcse.org/
+  email: webteam@sigcse2021.org
+  twitter: "@SIGCSE_TS"
