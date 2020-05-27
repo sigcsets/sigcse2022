@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "More Info Soon!"
   image: widget-github-303x182.jpg
-  text: 'We are currently working on 2021 new website!  Please come back soon for more information about SIGCSE!'
+  text: 'We are currently working on the 2021 website!  Please come back soon for more information about SIGCSE!'
 #
 # Use the call for action to show a button on the frontpage
 #
