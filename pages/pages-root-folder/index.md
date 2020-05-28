@@ -11,7 +11,7 @@ widget1:
   title: "COVID-19 Plans"
   url: 'https://sigcse2021.sigcse.org/covid'
   image: covid-widget.png
-  text: 'The SIGCSE Board and Leadership Team are considering various options for SIGCSE 2021.'
+  text: 'The SIGCSE Board and Leadership Team are considering various options for SIGCSE 2021.  We plan to make an announcement soon.'
 widget2:
   title: "Submit to SIGCSE!"
   url: 'https://sigcse2021.sigcse.org/SIGCSE2021CFP.pdf'
