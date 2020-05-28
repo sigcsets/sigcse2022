@@ -9,12 +9,12 @@ header:
   image_fullwidth: sigcse2021-header.jpg
 widget1:
   title: "COVID-19 Plans"
-  # url: '#'
+  url: 'https://sigcse2021.sigcse.org/covid'
   image: covid-widget.png
   text: 'The SIGCSE Board and Leadership Team are considering various options for SIGCSE 2021.  More info will be posted soon!'
 widget2:
   title: "Submit to SIGCSE!"
-  url: 'http://sigcse2021.sigcse.org/SIGCSE2021CFP.pdf'
+  url: 'https://sigcse2021.sigcse.org/SIGCSE2021CFP.pdf'
   text: 'See the Call for Papers for more information on submitting to SIGCSE 2021!'
   image: ribbons-widget.png
 widget3:
