@@ -3,7 +3,7 @@ layout: page
 title: "COVID-19 Info"
 meta_title: "COVID-19 Information for SIGCSE 2021"
 teaser: "COVID-19 Information for SIGCSE 2021"
-permalink: "/covid/"
+permalink: "covid/"
 ---
 The ICSE 2020 conference has gone virtual due to the current COVID-19 pandemic. However, we would like to remind you that ICSE 2021 is scheduled to be held in Madrid from May 23 to 29, 2021. As there are chances that the world will be dealing with different confinement and mobility restrictions when ICSE 2021 is due to be held, we would like you to know that we are preparing for different potential scenarios:
 
