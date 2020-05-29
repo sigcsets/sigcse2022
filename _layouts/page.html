@@ -62,4 +62,10 @@ format: post
 		{% include _sidebar.html %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
+
+	{% if page.sidebar == "authors" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_authors.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
 </div><!-- /.row -->
