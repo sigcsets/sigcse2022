@@ -17,7 +17,7 @@ slogan: 'Expanding Opportunities'
 description: 'The SIGCSE Technical Symposium is a forum for educators and researchers to share new results and insights around developing, implementing, or evaluating computing programs, curricula, and courses.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p><a href="http://jekyllrb.com/" target="_blank">Jekyll</a> Template by <a href="http://phlow.de/">Phlow</a> - <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -158,8 +158,8 @@ defaults:
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32:                          'favicon-32x32.png'
-touch-icon-192x192:                     'touch-icon-192x192.png'
+favicon-32x32:                          'SIGCSE2021-logo-32x32.png'
+touch-icon-192x192:                     'SIGCSE2021-logo-192x192.png'
 apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
 apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
 apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
@@ -178,7 +178,7 @@ msapplication_tilecolor:                '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+og_image:                           ''
 og_locale:                          'en_EN'
 og_type:                            'website'
 
@@ -193,8 +193,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter: SIGCSE_TS
+    facebook: sigcse
 
 
 #        ____  _
@@ -230,7 +230,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id:
+google_analytics_tracking_id: 'UA-167771035-1'
 
 
 
