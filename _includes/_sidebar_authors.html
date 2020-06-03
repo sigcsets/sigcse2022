@@ -5,8 +5,10 @@
 			<ul>
 				<li>Submitting to SIGCSE 2021</li>
 				<ul>
-					<li>Papers</li>
-					<li>Panels / Special Sessions</li>
+                    {% assign posts = site.authors | sort: 'order' %}
+                    {% for post in posts %}
+                    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.plural }}</a></li>
+                    {% endfor %}
 				</ul>
 			</ul>
 		</p>

@@ -14,7 +14,14 @@
 {% capture description %}{% if page.meta_description %}{{ page.meta_description }}{% elsif page.teaser %}{{ page.teaser }}{% elsif page.excerpt %}{{ page.excerpt }}{% elsif site.description %}{{ site.description }}{% endif %}{% endcapture %}
 {% assign description = description | strip_html | escape | strip %}
 
-{% capture title %}{% if page.meta_title %}{{ page.meta_title}}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title | strip_html | strip }}{% endif %}{% endcapture %}
+
+{% capture title %}
+{% if page.collection == "authors" %}
+{{ page.title }} Submission Information for Authors for SIGCSE 2021
+{% else %}
+{% if page.meta_title %}{{ page.meta_title}}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title | strip_html | strip }}{% endif %}
+{% endif %}
+{% endcapture %}
 
 {% assign title = title | strip_html | escape | strip_newlines %}
 

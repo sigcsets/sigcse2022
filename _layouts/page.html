@@ -3,7 +3,7 @@ layout: default
 format: post
 ---
 <div class="row t30">
-	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+	<div class="medium-8 columns{% if page.sidebar == "left" %} medium-push-4{% endif %}">
 		<article itemscope itemtype="http://schema.org/Article">
 			<header>
 				{% if page.image.title %}
@@ -24,7 +24,11 @@ format: post
 
 				<div itemprop="name">
 					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
-					<h1>{{ page.title }}</h1>
+                    {% if page.collection == "authors" %}
+					    <h1>{{ page.title }} Submission Information</h1>
+                    {% else %}
+					    <h1>{{ page.title }}</h1>
+                    {% endif %}
 				</div>
 			</header>
 
@@ -63,7 +67,7 @@ format: post
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 
-	{% if page.sidebar == "authors" %}
+    {% if page.collection == "authors" %}
 	<div class="medium-4 columns">
 		{% include _sidebar_authors.html %}
 	</div><!-- /.medium-4.columns -->

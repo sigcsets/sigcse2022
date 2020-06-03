@@ -1,11 +1,8 @@
 ---
 layout: page
-title: "Paper Submission Information"
-meta_title: "Paper Submission Information for Authors for SIGCSE 2021"
-breadcrumb: true
-categories:
-    - authors
-sidebar: authors
+order: 0
+title: "Paper"
+plural: "Papers"
 ---
 
 ## SIGCSE Technical Symposium Paper Types
