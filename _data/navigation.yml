@@ -3,11 +3,9 @@
   side: left
 
 - title: "For Authors"
-  url:
-  # url: "/authors/"
+  url: "/authors/"
   side: left
 
 - title: "For Reviewers"
-  url:
-  # url: "/reviewers/"
+  url: "/reviewers/"
   side: left
