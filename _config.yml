@@ -40,6 +40,11 @@ improve_content:
 #
 urlimg: '//sigcse2021.sigcse.org/images/'
 
+collections:
+    authors:
+        output: true
+
+
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
