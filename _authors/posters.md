@@ -1,9 +1,11 @@
 ---
 layout: page
-order: 0
+order: 1
 title: "Poster"
 plural: "Posters"
 ---
+
+{% include submission-details.html %}
 
 
 ## What Is A Poster?
@@ -46,9 +48,9 @@ The full proposal is used for the review process only. If the proposal is accept
 
 ### Poster Proposal Format and Contents
 
-Limited to {{site.data.cfp.details[plural].limits}}.
+Limited to {{site.data.submissions.posters.limits}}.
 
-**New for SIGCSE 2020!** The first page of your submission will be published in the proceedings, while the second page will be for review purposes only. Please see the template provided below for more details. 
+The first page of your submission will be published in the proceedings, while the second page will be for review purposes only. Please see the template provided below for more details. 
 
 The first page (an extended abstract that will go into the proceedings) must adhere to ACM’s publication guidelines:
 
@@ -56,7 +58,7 @@ The first page (an extended abstract that will go into the proceedings) must adh
 <a href="{{site.data.publishing.acmpubguidelines}}">Formatting requirements, MS Word template, and LaTeX template</a>
 </div>
 
-SIGCSE 2020 is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Template. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
+SIGCSE {{site.year}} is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Template. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
 
 The extended abstract page should include:
 
@@ -64,7 +66,7 @@ The extended abstract page should include:
 
 -   **Proposer**: Include name, affiliation, and email address. You should expect most correspondence related to the conference to arrive via email to the corresponding author. Please check your spam filter if you haven’t received an expected notification.
 
--   **Abstract**: Limited to 250 words. The abstract should summarize the major aspects and serve as an advertisement for your poster. Some aspects you may want to include are the objective(s) of the work being presented, preliminary results, future work, and intended audience.  The same abstract will also need to be submitted via a text box on the submission page. Please be sure that your description is accurate and that both submitted copies (here in the poster proposal, and in the submission text box) are exactly the same.
+-   **Abstract**: Limited to {{site.data.submissions.posters.abstract-limits}}. The abstract should summarize the major aspects and serve as an advertisement for your poster. Some aspects you may want to include are the objective(s) of the work being presented, preliminary results, future work, and intended audience.  The same abstract will also need to be submitted via a text box on the submission page. Please be sure that your description is accurate and that both submitted copies (here in the poster proposal, and in the submission text box) are exactly the same.
 
 -   **Extended Abstract**: The sections for this will vary from poster to poster, but it is expected to describe the main topic of the poster. A suggestion is to have the following sections: 1) Problem / Background / Related Work; 2) Overview / Methods / Results; 3) Contributions and Future Work. You may want to also list references. Your objective here is to explain why the topic is significant.
 
@@ -100,7 +102,6 @@ Poster presentations by undergraduates will be judged by at least two judges.  S
 
 For consideration, please check the option __Presenting Author is an Undergraduate Student__ during submission of the poster.  The undergraduate student must be present during the poster presentation to be evaluated and be eligible for the award.  
 
-Please note that this award is separate from the [ACM Student Research Competition](src.html).  Undergraduate students participating in the ACM Student Research Competition are not eligible for consideration of the CUR award.
+Please note that this award is separate from the [ACM Student Research Competition](/authors/src).  Undergraduate students participating in the ACM Student Research Competition are not eligible for consideration of the CUR award.
 
-
-## How Do I Submit My Proposal?
+{% include submission-proposal.html %}

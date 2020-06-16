@@ -27,6 +27,8 @@ author: SIGCSE
 #
 url: '//sigcse2021.sigcse.org'
 baseurl: 
+domain: "sigcse2021.org"
+year: "2021"
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
