@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 1
+order: 3
 title: "Pre-Symposium Event"
 plural: "Pre-Symposium Events"
 ---

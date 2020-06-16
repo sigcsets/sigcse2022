@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 1
+order: 2
 title: "Lightning Talk"
 plural: "Lightning Talks"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 0
+order: 3
 title: Affiliated Events
 plural: Affiliated Events
 

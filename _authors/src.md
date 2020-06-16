@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 1
+order: 2
 title: "ACM Student Research Competition"
 plural: "ACM Student Research Competition"
 ---
