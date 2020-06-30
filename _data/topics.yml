@@ -78,11 +78,12 @@ experience:
     - "Undergraduate Instruction"
 
 methods:
-    - "Quantitative"
-    - "Qualitative"
-    - "Mixed Methods"
-    - "Experimental"
-    - "Quasi-Experimental"
     - "Case Study"
-    - "Experience Report"
     - "Descriptive"
+    - "Experience Report"
+    - "Experimental"
+    - "Mixed Methods"
+    - "Qualitative"
+    - "Quantitative"
+    - "Quasi-Experimental"
+    - "Survey"

@@ -88,8 +88,6 @@ If your paper is accepted you will have a chance to modify your publication vers
 ## How Do I Submit My Paper?
 Write your paper using the format specified above. Within the anonymized paper, you must provide Category and Subject Descriptors, General Terms, and Keywords based on the ACM classification system. These requirements are described in more detail in the [ACM publication guidelines]({{site.data.publishing.acmpubguidelines}}).
 
-SIGCSE {{site.year}} is NOT participating in the new workflow, template, and production system.  *Word Authors*, please use the Interim Template. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
-
 Recall that you will also need to cut-and-paste or type your text abstract description into a text box during the submission process.
 
 Be sure to choose the appropriate topic areas when submitting. Your choices help in assigning appropriate reviewers to your submission, and assist the reviewers in evaluating the paper from an appropriate perspective.

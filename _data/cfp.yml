@@ -104,7 +104,7 @@ master:
 
   # Papers
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Friday, October 4, 2020"
+    notification: "Friday, October 9, 2020"
     cameraready: "Sunday, December 1, 2020"
     abstractdue: "Friday, August 23, 2020"
     round: 1
@@ -115,7 +115,7 @@ master:
 
   # Panels, Special Sessions, Workshops
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Friday, October 4, 2020"
+    notification: "Friday, October 9, 2020"
     cameraready: "Sunday, December 1, 2020"
     round: 1
     types:
@@ -131,8 +131,8 @@ master:
 
   # ACM SRC, BoFs, Demos, LTs, Nifty, Posters
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    notification: "Friday, November 15, 2020"
-    cameraready: "Wednesday, December 11, 2020"
+    notification: "Monday, November 23, 2020"
+    cameraready: "Sunday, December 13, 2020"
     round: 2
     types:
       - plural: ACM Student Research Competition
