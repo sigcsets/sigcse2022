@@ -45,7 +45,8 @@ urlimg: '//sigcse2021.sigcse.org/images/'
 collections:
     authors:
         output: true
-
+    reviewers:
+        output: true
 
 
 # Logo size is 600x80 pixels
