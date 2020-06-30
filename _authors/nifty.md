@@ -11,9 +11,9 @@ plural: "Nifty Assignments"
 
 The [Nifty Assignments project](http://nifty.stanford.edu/) gathers great CS assignments to make their ideas and materials freely available for the CSE community.  Do you have a great assignment you would like to share with other educators? We'd love to have you apply to Nifty Assignments!
 
-**Proposals undergo review but not blind review.**
-
 ## How Should The Proposal Be Formatted?
+
+**Proposals undergo a review whereby reviewers are anonymous**; thus, submissions are not anonymized since this is not a dual anonymous review.
 
 Nifty Assignment proposals are submitted as a zip archive containing an overview web page and a directory of assignment materials. 
 

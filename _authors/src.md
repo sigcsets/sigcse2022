@@ -11,7 +11,9 @@ plural: "ACM Student Research Competition"
 
 The ***ACM Student Research Competition*** held at the 
 SIGCSE Technical Symposium will consist of two categories of competition, graduate and undergraduate, with prizes awarded based on judging during the conference. **A submission to the Student Research Competition should describe recently completed or ongoing student research in any area of Computer Science.**
-All graduate submissions must represent a student’s individual research contribution–neither supervisors or other students are allowed as co-authors. Undergraduate submissions may represent individual or team research contributions. Research completed while the student was an undergraduate may be submitted to the undergraduate category even if the student is now a first-year graduate student. A student must be an ACM student member to qualify for awards and travel grants (up to $500 may be available for students who do not have another source of funding).
+* All **graduate submissions** must represent a student’s individual research contribution–neither supervisors or other students are allowed as co-authors.
+* **Undergraduate submissions** may represent individual or team research contributions. Research completed while the student was an undergraduate may be submitted to the undergraduate category even if the student is now a first-year graduate student.
+A student must be an ACM student member to qualify for awards and travel grants (up to $500 may be available for students who do not have another source of funding).
 
 ## Preparing your ACM Student Research Competition Submission
 
@@ -35,7 +37,7 @@ The extended abstract submission is limited to a maximum of {{site.data.submissi
 <a href="{{site.data.publishing.acmpubguidelines}}">Formatting requirements, MS Word template, and LaTeX template</a>
 </div>
 
-SIGCSE {{site.year}} is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Tempalte. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
+SIGCSE {{site.year}} is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Template. *LaTeX Authors*, please use the official ACM Master with the `ACM_SigConf` template.
 
 If your submission is accepted into the ACM SRC, you will have a chance to modify your abstract of {{site.data.submissions["acm student research competition"].abstract-limits}} before it is published.
 
@@ -57,7 +59,7 @@ Judges will include professional computer scientists attending the conference ac
 
 At SIGCSE, the first round of the competition evaluates the research during a poster presentation. Those students who are selected by the judges to advance to the second round will continue in the competition by giving a formal, short, conference presentation of their research (10 minute presentation with 5 minutes for Q&A). The top three winners in the undergraduate and graduate categories as determined by the judges’ evaluation of the conference presentations will receive the prizes of $500, $300, and $200, respectively. 
 
-Additional competition details, including information about past winners, can be found on the ACM Student Research Competition home page (https://src.acm.org/).
+Additional competition details, including information about past winners, can be found on the [ACM Student Research Competition website](https://src.acm.org/).
 
 ### Round 1: Poster Presentation
 

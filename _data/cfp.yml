@@ -1,3 +1,17 @@
+
+submissionopen: true
+submissionurl: "https://easychair.org/conferences/?conf=sigcse-ts2021"
+
+camerareadyinstructionsopen: false
+#camerareadyinstructions: "http://www.sheridanprinting.com/typedept/sigcse2021.htm" 
+#UPDATE camera ready instructions
+
+reviewer-signup: http://sigcse2021.org/review
+
+symposiumchairsemail: symposium@sigcse2021.org
+programchairsemail: program@sigcse2021.org
+
+
 round:
 # Paper Abstract Deadline + Pre-Symposium/Affiliated Events Deadline
     - timestamp: "2020-08-21T00:23:59"
@@ -8,3 +22,195 @@ round:
 # ACM SRC, BoFs,  Demos,  Lightning  Talks,  Nifty, Posters
     - timestamp: "2020-10-23T00:23:59"
       date: "Friday, October 23, 2020"
+
+
+# Paper Reviewing
+bidstart: "Friday, August 21, 2020"
+bidend: "Friday, August 28, 2020"
+reviewstart: "Saturday, August 29, 2020"
+reviewend: "Wednesday, September 16, 2020"
+discussionstart: "Thursday, September 17, 2020" 
+discussionend: "Wednesday, September 23, 2020"
+
+# Round 1 Non-Paper Reviewing
+r1bidstart: "Saturday, August 29, 2020"
+r1bidend: "Wednesday, September 2, 2020"
+r1reviewstart: "Thursday, September 3, 2020"
+r1reviewend: "Wednesday, September 16, 2020"
+r1discussionstart: "Thursday, September 17, 2020" 
+r1discussionend: "Wednesday, September 23, 2020"
+
+# Round 2 Non-Paper Reviewing
+r2bidstart: "Saturday, October 24, 2020"
+r2bidend: "Tuesday, October 27, 2020"
+r2reviewstart: "Wednesday, October 28, 2020"
+r2reviewend: "Wednesday, November 11, 2020"
+r2discussionstart: "Thursday, November 12, 2020" 
+r2discussionend: "Monday, November 16, 2020"
+
+reviewing:
+  - track: Papers
+    round: 0
+    bidding: true
+  - track: Panels
+    round: 1
+    bidding: true # confirmed for 2021
+  - track: Special Sessions
+    round: 1
+    bidding: true # confirmed for 2021
+  - track: Workshops
+    round: 1
+    bidding: true  # confirmed for 2021
+  - track: ACM Student Research Competition
+    round: 2
+    bidding: false # confirmed for 2021
+  - track: Demos
+    round: 2
+    bidding: false # confirmed for 2021
+  - track: Lightning Talks
+    round: 2
+    bidding: false # confirmed for 2021
+  - track: Birds of a Feather
+    round: 2
+    bidding: false
+  - track: Nifty Assignments
+    round: 2
+    bidding: false
+  - track: Posters
+    round: 2
+    bidding: false # confirmed for 2021
+
+
+master:
+  #Pre-symposium events, Affiliated Events
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "Rolling notification"
+    round: 0
+    types:
+      - plural: Pre-Symposium Events
+        singular: Pre-Symposium Event
+        include: presymposium
+      - plural: Affiliated Events
+        singular: Affiliated Event
+        include: affiliated
+
+  # Paper Abstracts
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    round: 0
+    types:
+      - plural: Paper Abstracts
+        singular: Paper Abstract
+        include: papers
+
+  # Papers
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "Friday, October 4, 2020"
+    cameraready: "Sunday, December 1, 2020"
+    abstractdue: "Friday, August 23, 2020"
+    round: 1
+    types:
+      - plural: Papers
+        singular: Paper
+        include: papers
+
+  # Panels, Special Sessions, Workshops
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "Friday, October 4, 2020"
+    cameraready: "Sunday, December 1, 2020"
+    round: 1
+    types:
+      - plural: Panels
+        singular: Panel
+        include: panels
+      - plural: Special Sessions
+        singular: Special Session
+        include: specialsessions
+      - plural: Workshops
+        singular: Workshop
+        include: workshops
+
+  # ACM SRC, BoFs, Demos, LTs, Nifty, Posters
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "Friday, November 15, 2020"
+    cameraready: "Wednesday, December 11, 2020"
+    round: 2
+    types:
+      - plural: ACM Student Research Competition
+        singular: ACM Student Research Competition
+        include: src
+      - plural: Birds of a Feather
+        singular: Birds of a Feather
+        include: bofs
+      - plural: Demos
+        singular: demo
+        include: demos
+      - plural: Lightning Talks
+        singular: Lightning Talk
+        include: lightningtalks
+      - plural: Nifty Assignments
+        singular: Nifty Assignment
+        include: nifty
+      - plural: Posters
+        singular: Poster
+        include: posters
+
+
+# Details are keyed off the plural from the "master" above.
+details:
+  Pre-Symposium Events:
+    limits: "2 pages (including abstract of 250 words)"
+    length: "Morning (8:30-Noon, break 10-10:30 am),<br/>
+      Afternoon (1:30-5 pm, break 3-3:30 pm), or<br/>
+      All Day (8:30 am-5 pm, lunch, two breaks)"
+    specialsubmission: true
+  Affiliated Events:
+    limits: "2 pages (including abstract of 250 words)"
+    length: "Varies"
+    specialsubmission: true
+  #Round 1
+  Papers:
+    limits: "6 pages + 1 page for references"
+    length: "25 minutes"
+  Panels:
+    limits: "2 pages"
+    length: "75 minutes"
+  Special Sessions:
+    limits: "2 pages"
+    length: "75 minutes"
+  Workshops:
+    limits: "3 pages"
+    connector: "including"
+    abstract: "250 words, title page, and references"
+    length: "3 hours"
+  # Round 2
+  ACM Student Research Competition:
+    limits: "2 pages"
+    connector: "including"
+    abstract: "250 words"
+    length: "3.25 hours (first round: poster session) and 1.25 hours (second round: presentation)"
+    specialsubmission: true
+  Birds of a Feather:
+    limits: "1 page"
+    abstract: "250 words"
+    connector: "including"
+    length: "45 minutes"
+  Demos:
+    limits: "2 pages"
+    connector: "including"
+    abstract: "250 words"
+    length: "45 minutes (during breaks)"
+  Lightning Talks:
+    limits: "1 page, 500 words max."
+    connector: "including"
+    abstract: "250 words"
+    length: "5 minutes"
+  Nifty Assignments:
+    limits: "Relevant materials in a zip"
+    length: "5-10 minutes in the Nifty Assignments session"
+  Posters:
+    limits: "2 pages"
+    abstract: "1 page"
+    connector: "including extended"
+    length: "2 hours (poster session)"
+
+lastupdate: "June 29, 2020"

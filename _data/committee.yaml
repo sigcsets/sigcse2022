@@ -59,9 +59,10 @@
 "ACM Student Research Competition Team":
     email: src@sigcse2021.org
     members:
+        - name: Stan Kurkovsky
+          inst: Central Connecticut State University
         - name: Muztaba Fuad
           inst: Winston-Salem State University
-
 
 "Workshops Team":
     email: workshops@sigcse2021.org
