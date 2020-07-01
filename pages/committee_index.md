@@ -1,12 +1,15 @@
 ---
-layout: default
-title: Committees
+layout: page
+title: "Symposium Committee"
+meta_title: "Symposium Committee for SIGCSE TS 2021"
+permalink: "/committee/"
+# sidebar: committee
 ---
 
 {% assign rows = 2 %}
 {% assign cellstyle = "col-md-6" %}
 
-{% for comm in site.data.committees %}
+{% for comm in site.data.committee %}
 {% assign ctr = 0 %}
 <div class = "row">
 <a name = "{{comm.name | remove: " " }}"></a>
@@ -49,4 +52,5 @@ title: Committees
   {% endfor %}
 </div> <!-- row -->
 {% endfor %}
+
 
