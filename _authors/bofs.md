@@ -13,6 +13,7 @@ Birds-of-a-Feather (BOF) Sessions provide an environment for colleagues with sim
 **Proposals undergo a review whereby reviewers are anonymous**; thus, submissions are not anonymized since this is not a dual anonymous review.
 
 ## How Should The Proposal Be Formatted?
+{% include authorguidelines-planning.html %}
 
 BOF proposals are to be provided in PDF format. The full 2-page proposal contains an abstract and a body that describes your BOF (as detailed below). The abstract needs to appear in two places: in the PDF proposal and in a text box on the submission page.
 

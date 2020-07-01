@@ -13,6 +13,7 @@ The ***ACM Student Research Competition*** held at the
 SIGCSE Technical Symposium will consist of two categories of competition, graduate and undergraduate, with prizes awarded based on judging during the conference. **A submission to the Student Research Competition should describe recently completed or ongoing student research in any area of Computer Science.**
 * All **graduate submissions** must represent a student’s individual research contribution–neither supervisors or other students are allowed as co-authors.
 * **Undergraduate submissions** may represent individual or team research contributions. Research completed while the student was an undergraduate may be submitted to the undergraduate category even if the student is now a first-year graduate student.
+
 A student must be an ACM student member to qualify for awards and travel grants (up to $500 may be available for students who do not have another source of funding).
 
 ## Preparing your ACM Student Research Competition Submission
@@ -51,15 +52,17 @@ No more than three research projects will be accepted from a single department a
 
 Authors of all accepted submissions will receive instructions on how to submit the publication-ready copy of an abstract of {{site.data.submissions["acm student research competition"].abstract-limits}} that serves as a succinct description of the project. Deadline and instructions regarding publication-ready submissions are emailed to accepted authors. 
 
-A travel grant covering expenses for travel to SIGCSE, including conference registration, transportation, lodging, and meals, up to a limit of US $500 may be provided to each student whose submission was accepted to the Student Research Competition. Students must be members of ACM to qualify for these awards.
+A travel grant covering expenses for travel to the SIGCSE Technical Symposium, including conference registration, transportation, lodging, and meals, up to a limit of US $500 may be provided to each student whose submission was accepted to the Student Research Competition. Students must be members of ACM to qualify for these awards.
 
 ## At the Conference
 
 Judges will include professional computer scientists attending the conference activities. Students’ research will be evaluated on the quality and significance of the work, and the quality and clarity of both an oral and visual presentation.
 
-At SIGCSE, the first round of the competition evaluates the research during a poster presentation. Those students who are selected by the judges to advance to the second round will continue in the competition by giving a formal, short, conference presentation of their research (10 minute presentation with 5 minutes for Q&A). The top three winners in the undergraduate and graduate categories as determined by the judges’ evaluation of the conference presentations will receive the prizes of $500, $300, and $200, respectively. 
+At the SIGCSE Technical Symposium, the first round of the competition evaluates the research during a poster presentation. Those students who are selected by the judges to advance to the second round will continue in the competition by giving a formal, short, conference presentation of their research (10 minute presentation with 5 minutes for Q&A). The top three winners in the undergraduate and graduate categories as determined by the judges’ evaluation of the conference presentations will receive the prizes of $500, $300, and $200, respectively. 
 
 Additional competition details, including information about past winners, can be found on the [ACM Student Research Competition website](https://src.acm.org/).
+
+<!--  TODO: more information once more is known about how the conference will be done???
 
 ### Round 1: Poster Presentation
 
@@ -68,6 +71,7 @@ Your poster will be displayed for a 4-hour time period Thursday afternoon. You w
 ### Round 2: Presentation
 
 Students selected to participate in the Round 2 portion of the ACM SRC will have 15 minutes to present their work during one of the Friday afternoon sessions. Additional details about expectations will be provided prior to the conference.
+--->
 
 ## After the Conference
 

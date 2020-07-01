@@ -9,8 +9,8 @@ permalink: "/committee/"
 {% for comm in site.data.committee %}
 <a name = "{{comm[0] | remove: " " }}"></a>  <!-- create anchors from committee name with no spaces -->
 <h2>{{comm[0]}}</h2>
-<table>
-  <caption>{{comm[1].email}}</caption>
+<table width="100%">
+  <caption>Email: {{comm[1].email}}</caption>
   <tr><th scope="col">Name</th><th scope="col">Institution</th></tr>
     {% for memb in comm[1].members %}
       <tr>
