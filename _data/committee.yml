@@ -10,6 +10,23 @@
       inst: Air Force Institute of Technology
       email: symposium@sigcse2021.org
 
+- name: Program Co-Chairs
+  members:
+    - name: Pam Cutter
+      role: Program Co-Chair
+      inst: Kalamazoo College
+      email: program@sigcse2021.org
+    
+    - name: Alvaro Monge
+      role: Program Co-Chair
+      inst: California State University, Long Beach
+      email: program@sigcse2021.org
+
+    - name: Judy Sheard
+      role: Program Co-Chair
+      inst: Monash University
+      email: program@sigcse2021.org
+
 
 # "Program Chairs":
 #     email: program@sigcse2021.org
