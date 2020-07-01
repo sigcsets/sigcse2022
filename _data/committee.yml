@@ -1,95 +1,91 @@
-- name: Symposium Co-Chairs
+"Symposium Co-Chairs":
+  email: symposium@sigcse2021.org
   members:
     - name: Mark Sherriff
-      role: Symposium Co-Chair
       inst: University of Virginia
-      email: symposium@sigcse2021.org
 
     - name: Larry Merkle
-      role: Symposium Co-Chair
       inst: Air Force Institute of Technology
-      email: symposium@sigcse2021.org
 
-
-# "Program Chairs":
-#     email: program@sigcse2021.org
-#     members:
-#         - name: Pam Cutter
-#           inst: Kalamazoo College
+"Program Chairs":
+  email: program@sigcse2021.org
+  members:
+    - name: Pam Cutter
+      inst: Kalamazoo College
         
-#         - name: Alvaro Monge
-#           inst: California State University, Long Beach
+    - name: Alvaro Monge
+      inst: California State University, Long Beach
 
-#         - name: Judithe Sheard
-#           inst: Monash University
+    - name: Judithe Sheard
+      inst: Monash University
 
-# "Posters Team":
-#     email: posters@sigcse2021.org
-#     members:
-#         - name: Ruth Anderson
-#           inst: University of Washington
+"Posters Team":
+  email: posters@sigcse2021.org
+  members:
+    - name: Ruth Anderson
+      inst: University of Washington
 
-#         - name: Lina Battestilli
-#           inst: North Carolina State University
+    - name: Lina Battestilli
+      inst: North Carolina State University
 
-# "Birds of a Feather Team":
-#     email: bofs@sigcse2021.org
-#     members:
-#         - name: Meghan Allen
-#           inst: University of British Columbia
+"Birds of a Feather Team":
+  email: bofs@sigcse2021.org
+  members:
+    - name: Meghan Allen
+      inst: University of British Columbia
 
-#         - name: Dale-Marie Wilson
-#           inst: University of North Carolina Charlotte
+    - name: Dale-Marie Wilson
+      inst: University of North Carolina Charlotte
 
-# "Pre-Symposium and Affiliated Events Team":
-#     email: events@sigcse2021.org
-#     members:
-#         - name: Jeffrey Stone
-#           inst: Penn State University
+"Pre-Symposium and Affiliated Events Team":
+  email: events@sigcse2021.org
+  members:
+    - name: Jeffrey Stone
+      inst: Penn State University
 
-#         - name: Melanie Williamson
-#           inst: Bluegrass Community and Technical College
+    - name: Melanie Williamson
+      inst: Bluegrass Community and Technical College
 
-# "Panels and Special Sessions Team":
-#     email: panels@sigcse2021.org
-#     members:
-#         - name: Christine Alvarado
-#           inst: University of California, San Diego
+"Panels and Special Sessions Team":
+  email: panels@sigcse2021.org
+  members:
+    - name: Christine Alvarado
+      inst: University of California, San Diego
 
-#         - name: Ben Stephenson
-#           inst: University of Calgary
+    - name: Ben Stephenson
+      inst: University of Calgary
 
 
-# "ACM Student Research Competition Team":
-#     email: src@sigcse2021.org
-#     members:
-#         - name: Stan Kurkovsky
-#           inst: Central Connecticut State University
-#         - name: Muztaba Fuad
-#           inst: Winston-Salem State University
+"ACM Student Research Competition Team":
+  email: src@sigcse2021.org
+  members:
+    - name: Stan Kurkovsky
+      inst: Central Connecticut State University
+    - name: Muztaba Fuad
+      inst: Winston-Salem State University
 
-# "Workshops Team":
-#     email: workshops@sigcse2021.org
-#     members:
-#         - name: Dennis Bouvier
-#           inst: Southern Illinois University Edwardsville
+"Workshops Team":
+  email: workshops@sigcse2021.org
+  members:
+    - name: Dennis Bouvier
+      inst: Southern Illinois University Edwardsville
 
-#         - name: S. Monisha Pulimood
-#           inst: The College of New Jersey
+    - name: S. Monisha Pulimood
+      inst: The College of New Jersey
 
-# "Nifty Assignments Team":
-#     email: nifty@sigcse2021.org
-#     members:
-#         - name: Nick Parlante
-#           inst: Stanford University
+"Nifty Assignments Team":
+  email: nifty@sigcse2021.org
+  members:
+    - name: Nick Parlante
+      inst: Stanford University
 
-#         - name: Julie Zelenski
-#           inst: Stanford University
+    - name: Julie Zelenski
+      inst: Stanford University
 
-# "Demos and Lightning Talks Team":
-#     email: demos@sigcse2021.org
-#     members:
-#         - name: Jennifer Campbell
-#           inst: University of Toronto
-#         - name: Carsten Kleiner
-#           inst: University of Applied Sciences & Arts Hannover
+"Demos and Lightning Talks Team":
+  email: demos@sigcse2021.org
+  members:
+    - name: Jennifer Campbell
+      inst: University of Toronto
+    - name: Carsten Kleiner
+      inst: University of Applied Sciences & Arts Hannover

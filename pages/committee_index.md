@@ -6,51 +6,22 @@ permalink: "/committee/"
 # sidebar: committee
 ---
 
-{% assign rows = 2 %}
-{% assign cellstyle = "col-md-6" %}
-
 {% for comm in site.data.committee %}
-{% assign ctr = 0 %}
-<div class = "row">
-<a name = "{{comm.name | remove: " " }}"></a>
-<h2> {{comm.name}}</h2>
-  {% for memb in comm.members %}
-    {% if ctr == rows %}
-</div>
-<div class = "row" style = "margin-top: 30px;">
-{% assign ctr = 0 %}
-    {% endif %}
-    {% assign ctr = ctr | plus: 1 %}
-<div class = "{{cellstyle}}">
-  <table  width = "100%">
-    {% if memb.role %}
+<a name = "{{comm[0] | remove: " " }}"></a>  <!-- create anchors from committee name with no spaces -->
+<h2>{{comm[0]}}</h2>
+<table>
+  <caption>{{comm[1].email}}</caption>
+  <tr><th scope="col">Name</th><th scope="col">Institution</th></tr>
+    {% for memb in comm[1].members %}
       <tr>
-        <td  colspan = "2">
-          <h4>{{memb.role}}</h4>
-        </td>
+        <td>{{memb.name}}</td>
+        {% if memb.inst %}
+          <td>{{memb.inst}}</td>
+        {% else %}
+          <td>&nbsp;</td>
+        {% endif %}
       </tr>
-    {% endif %}
-    <tr>
-      <td width = "20%" > <b> Name: </b> </td>
-      <td> {{memb.name}} </td>
-    </tr>
-    {% if memb.inst %}
-    <tr>
-      <td> <b> Institution:&nbsp; </b> </td>
-      <td> {{memb.inst}} </td>
-    </tr>
-    {% endif %}
-    {% if memb.email %}
-    <tr>
-      <td> <b> E-mail: </b> </td>
-      <td> <a href="mailto:{{memb.email}}">{{memb.email}}</a> </td>
-    </tr>
-    {% endif %}
-
-  </table>
-</div>
-  {% endfor %}
-</div> <!-- row -->
+    {% endfor %}
+</table>
 {% endfor %}
-
 
