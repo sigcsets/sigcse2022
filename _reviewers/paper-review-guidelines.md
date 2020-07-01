@@ -5,7 +5,7 @@ showTitle: true
 ---
 
 
-We provide both [general guidelines](#general-guidelines) and [track-specific guidelines](#paper-track-guidelines) for reviewing SIGCSE Papers.  
+We provide both [general guidelines](#general-guidelines) and [track-specific guidelines](#paper-track-guidelines) for reviewing SIGCSE Technical Symposium Papers.  
 
 ## General Guidelines
 
@@ -31,11 +31,11 @@ Here are some recommendations for writing reviews of submitted papers that help 
 
 * Please point out typographic and grammatical errors; if there are too many to list, please state so in your review.
 
-* Although SIGCSE requires all submitted papers to be polished work, all accepted authors get a brief opportunity to improve the presentation of their paper before camera-ready copy is due. Your detailed feedback may help improve a paper, and in a small way, improve the conference.
+* Although the SIGCSE Technical Symposium requires all submitted papers to be polished work, all authors of accepted papers get a brief opportunity to improve the presentation of their paper before camera-ready copy is due. Your detailed feedback may help improve a paper, and in a small way, improve the conference.
 
 ## Substandard Reviews
 
-SIGCSE uses a meta-review process after reviews have been submitted. Reviews that do not objectively, accurately, and clearly assess a paper’s suitability for publication at SIGCSE, founded in the reviewer’s disciplinary expertise and on the basis of the written paper’s originality, technical soundness, contribution to CS education, and clarity of presentation, may be deleted.
+The SIGCSE Technical Symposium uses a meta-review process after reviews have been submitted. Reviews that do not objectively, accurately, and clearly assess a paper’s suitability for publication at SIGCSE, founded in the reviewer’s disciplinary expertise and on the basis of the written paper’s originality, technical soundness, contribution to CS education, and clarity of presentation, may be deleted.
 
 For example, an unacceptable review might:
 
@@ -61,9 +61,7 @@ Please summarize the submission in 2-4 sentences in your own words. Please DO NO
 
 * This paper makes a very good argument in the introduction for why this course is needed. It is timely, and addresses a topic outside of the norm often seen at the SIGCSE Technical Symposium.
 
-* I can’t recall ever seeing something similar at the SIGCSE Technical Symposium. 
-
-* This paper should generate a lot of discussion and have a good audience. It is a topic that many schools are trying to address (including mine.)
+* I can’t recall ever seeing something similar at the SIGCSE Technical Symposium. This paper should generate a lot of discussion and have a good audience. It is a topic that many schools are trying to address (including mine.)
 
 * Good level of detail on your approach. Table 2 is very handy. Under Section 2, it seems like log analysis and auditing may fit in your column two. How will you ensure additional security emphasis is implemented?
 
@@ -87,11 +85,11 @@ There are three tracks for papers.  Reviewers and APCs will be assigned to revie
 
 Authors must choose the track that they feel best fits their submission.  **Review the submission using the guidelines for the track the submission is in; not the track you would prefer it to be in.**  The Program Chairs will not move papers between tracks.
 
-### CS Education Research Paper Track
+### Computing Education Research Paper Track
 
-Papers submitted to the CS Education Research track describe an empirical computing education project.
+Papers submitted to the Computing Education Research track describe an empirical computing education project.
 
-CS Education Research papers should adhere to rigorous standards, describing hypotheses, methods, and results as is typical for research studies. These normally focus on topics relevant to computing education with emphasis on educational goals and knowledge units/topics relevant to computing education with statistical rigor; methods or techniques in computing education; evaluation of pedagogical approaches; and studies of the many different populations that are engaged in computing education, including (but not limited to) students, instructors, and issues of gender, diversity, and underrepresentation.  We welcome replication papers and papers that present null or negative results that meet the criteria below.
+Computing Education Research papers should adhere to rigorous standards, describing hypotheses, methods, and results as is typical for research studies. These normally focus on topics relevant to computing education with emphasis on educational goals and knowledge units/topics relevant to computing education with statistical rigor; methods or techniques in computing education; evaluation of pedagogical approaches; and studies of the many different populations that are engaged in computing education, including (but not limited to) students, instructors, and issues of gender, diversity, and underrepresentation.  We welcome replication papers and papers that present null or negative results that meet the criteria below.
 
 For a typical paper in this track, here are some key factors to include (as an author) and to look for (as a reviewer):
 
@@ -150,9 +148,9 @@ For a typical paper in this track, here are some key factors to include (as an a
     - The implications of the results for teaching
     - Information on how to adopt or adapt teaching techniques and/or pedagogical tools in other contexts or institutions. 
 
-### Curricula Initiatives Paper Track
+### Position and Curricula Initiatives Paper Track
 
-Curricula initiatives should describe new curricula, programs, and degrees, the motivating context before the new initiative was undertaken, what it took to put the initiative into place, what the impact has been, and suggestions for others wishing to adopt it. This track may also include position papers, which are meant to engender fruitful academic discussion by presenting a defensible opinion about a CS education topic, substantiated with evidence.
+Curricula initiatives should describe new curricula, programs, and degrees, the motivating context before the new initiative was undertaken, what it took to put the initiative into place, what the impact has been, and suggestions for others wishing to adopt it. This track may also include position papers, which are meant to engender fruitful academic discussion by presenting a defensible opinion about a computing education topic, substantiated with evidence.
 
 1. Is the innovation clearly stated? Since the rest of the paper will be organized around this, it’s often good to put it in the abstract and in the first section of the paper.
     - Description of the problem or need being addressed.
