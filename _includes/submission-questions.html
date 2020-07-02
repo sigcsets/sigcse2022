@@ -3,13 +3,15 @@
 
 <h3>Questions</h3>
 
-If you have questions about anything discussed above, please contact the <a href="/committee/#{{team | remove: " " }}">{{team}}</a>.
-
-<ul>
-  {% for member in site.data.committee[team].members %}
-    <li style="padding-bottom: 10px;"><b>{{member.name}}</b><br/>
-      {{member.inst}} <br/>
-      <a href="mailto:{{site.data.committee[team].email}}">{{site.data.committee[team].email}}</a>
-    </li>
-  {% endfor %}
-</ul>
+If you have questions about anything discussed above, please contact: 
+<section>
+	<h4><a href="/committee/#{{team | remove: " " }}">{{team}}</a>, 
+	Email: <a href="mailto:{{site.data.committee[team].email}}">{{site.data.committee[team].email}}</a></h4>
+	<ul>
+	  {% for member in site.data.committee[team].members %}
+	    <li style="padding-bottom: 10px;"><b>{{member.name}}</b><br/>
+	      {{member.inst}}
+	    </li>
+	  {% endfor %}
+	</ul>
+</section>
