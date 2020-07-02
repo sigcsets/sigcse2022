@@ -35,7 +35,7 @@ Workshops may have attendees participate in person or remotely. In this case, th
 
 ## Review Criteria and Process
 
-Submissions are **note** anonymous. Proposals are evaluated for relevance, anticipated interest, and quality. Additionally, the Workshop Chairs will consider the availability of appropriate facilities and the variety of topics with the aim of having a diverse program. Finally, for workshops that have run before, feedback from prior workshops may be taken into account. You may want to review the list of last year’s accepted SIGCSE Technical Symposium workshops prior to submitting a proposal.
+Submissions are **not** anonymous. Proposals are evaluated for relevance, anticipated interest, and quality. Additionally, the Workshop Chairs will consider the availability of appropriate facilities and the variety of topics with the aim of having a diverse program. Finally, for workshops that have run before, feedback from prior workshops may be taken into account. You may want to review the list of last year’s accepted SIGCSE Technical Symposium workshops prior to submitting a proposal.
 
 The proposal has two parts: the full proposal and the EasyChair submission, both of which are discussed in more detail below. 
 

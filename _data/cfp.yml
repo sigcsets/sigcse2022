@@ -198,7 +198,7 @@ details:
     limits: "2 pages"
     connector: "including"
     abstract: "250 words"
-    length: "45 minutes (during breaks)"
+    length: "20 minutes" # for 2021, prior (on the ground): "45 minutes (during breaks)"
   Lightning Talks:
     limits: "1 page, 500 words max."
     connector: "including"
@@ -211,6 +211,6 @@ details:
     limits: "2 pages"
     abstract: "1 page"
     connector: "including extended"
-    length: "2 hours (poster session)"
+    length: "2 hours (poster session), <em>tentative</em>"
 
-lastupdate: "June 29, 2020"
+lastupdate: "July 1, 2020"
