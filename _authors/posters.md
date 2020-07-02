@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 2
+order: 2.5
 title: "Poster"
 plural: "Posters"
 ---
@@ -64,12 +64,7 @@ The document submitted for review is limited to {{site.data.submissions.posters.
 Since SIGCSE TS 2020, **the first page of your submission will be published in the proceedings**, while the second page will be for review purposes only. Please see the template provided below for more details. 
 
 The first page of your submission (that will go into the proceedings) must adhere to ACM’s publication guidelines:
-
-<div class="text-center" style="margin-top: 10px; margin-bottom: 10px;">
-<a href="{{site.data.publishing.acmpubguidelines}}">Formatting requirements, MS Word template, and LaTeX template</a>
-</div>
-
-SIGCSE {{site.year}} is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Template. *LaTex Authors*, please use the official ACM Master with the `ACM_SigConf` template.
+{% include template-information.html %}
 
 The fist page extended abstract page should include:
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 2
+order: 2.4
 title: "Nifty Assignment"
 plural: "Nifty Assignments"
 ---

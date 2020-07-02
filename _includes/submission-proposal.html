@@ -1,7 +1,7 @@
 {% if page.title == "Nifty Assignment" %}
 {% include nifty-submission-block.html %}
 {% else %}
-{% include submission-block.html %}
+{% include generic-submission-block.html submissiontype=page.title %}
 {% endif %}
 
 {% include presenter-warning.html %}

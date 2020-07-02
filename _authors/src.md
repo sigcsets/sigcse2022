@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 2
+order: 2.0
 title: "ACM Student Research Competition"
 plural: "ACM Student Research Competition"
 ---
@@ -33,12 +33,7 @@ Qualifying research may come from any area of Computer Science, as described by 
 * **Results and Contributions**: This section should clearly show how the results of your work contribute to computer science and should explain the significance of those results.
 
 The extended abstract submission is limited to a maximum of {{site.data.submissions["acm student research competition"].limits}} plus a page for references and must adhere to ACM's publication guidelines:
-
-<div class="text-center" style="margin-top: 10px; margin-bottom: 10px;">
-<a href="{{site.data.publishing.acmpubguidelines}}">Formatting requirements, MS Word template, and LaTeX template</a>
-</div>
-
-SIGCSE {{site.year}} is NOT participating in the new ACM workflow, template, and production system.  *Word Authors*, please use the Interim Template. *LaTeX Authors*, please use the official ACM Master with the `ACM_SigConf` template.
+{% include template-information.html %}
 
 If your submission is accepted into the ACM SRC, you will have a chance to modify your abstract of {{site.data.submissions["acm student research competition"].abstract-limits}} before it is published.
 

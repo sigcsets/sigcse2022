@@ -42,7 +42,10 @@ The proposal has two parts: the full proposal and the EasyChair submission, both
 
 ## Full Proposal Content
 
-The full proposal is used only for the review process. The proposal length is {{site.data.submissions.workshops.limits}} maximum, including title page and references. The required content is as follows.
+The full proposal is used only for the review process. The proposal length is {{site.data.submissions.workshops.limits}} maximum, including title page and references, and must adhere to ACM's publication guidelines.
+{% include template-information.html %}
+
+The required content is as follows.
 
 - **Title**: A title for the Workshop.
 

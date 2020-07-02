@@ -36,32 +36,40 @@ There are many resources for writing high quality papers for submission to the S
 * [What's the difference between a research paper and an experience report? (Amy Ko)](https://gist.github.com/amyjko/689837b8eefccb3a8a28ff0aa5300615#whats-the-difference-between-a-research-paper-and-an-experience-report)
 
 ### Paper Topics
+<section class="row">
+<div class="large-3 columns">
 <h4>Computing Topics</h4>
 <ul>
 {% for type in site.data.topics.computing %}
   <li>{{type}}</li>
 {% endfor %}
 </ul>
-
+</div>
+<div class="large-3 columns">
 <h4>Education and Experience Topics</h4>
 <ul>
 {% for type in site.data.topics.experience%}
   <li>{{type}}</li>
 {% endfor %}
 </ul>
+</div>
+<div class="large-3 columns">
 <h4>Methods Topics</h4>
 <ul>
 {% for type in site.data.topics.methods %}
   <li>{{type}}</li>
 {% endfor %}
 </ul>
-
+</div>
+<div class="large-3 columns">
 <h4>Curriculum Topics</h4>
 <ul>
 {% for type in site.data.topics.curriculum%}
   <li>{{type}}</li>
 {% endfor %}
 </ul>
+</div>
+</section>
 
 ## Details about your abstract
 
@@ -85,13 +93,4 @@ SIGCSE {{site.year}} is NOT participating in the new ACM workflow, template, and
 
 If your paper is accepted you will have a chance to modify your publication version before it is published.
 
-## How Do I Submit My Paper?
-Write your paper using the format specified above. Within the anonymized paper, you must provide Category and Subject Descriptors, General Terms, and Keywords based on the ACM classification system. These requirements are described in more detail in the [ACM publication guidelines]({{site.data.publishing.acmpubguidelines}}).
-
-Recall that you will also need to cut-and-paste or type your text abstract description into a text box during the submission process.
-
-Be sure to choose the appropriate topic areas when submitting. Your choices help in assigning appropriate reviewers to your submission, and assist the reviewers in evaluating the paper from an appropriate perspective.
-
-{% include presenter-warning.html %}
-
-{% include submission-questions.html %}
+{% include submission-proposal.html %}

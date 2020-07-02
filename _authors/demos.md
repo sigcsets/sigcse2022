@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 2
+order: 2.2
 title: "Demo"
 plural: "Demos"
 ---
@@ -36,9 +36,9 @@ Demo proposals are submitted in PDF format. The full proposal contains an abstra
 
 * **Agenda for the Demo**: Timing details would be helpful here. Explain what the attendees can expect. Be sure to budget a realistic amount of time for questions from attendees. Describe how you will interact with and engage attendees.
 
-* **Face-to-Face Audio/Visual, Computational Requirements, or Other Materials**: Indicate your A/V requirements, such as wireless access, wired access, extra power outlets, data projector or other materials that you need to use in case the demo is going to be face-to-face, if possible. Please note that certain A/V materials and equipment will be available for all demos. At the time of acceptance, more information about the standard vs. non-standard A/V equipment will be available.
+* **Face-to-Face Audio/Visual, Computational Requirements, or Other Materials**: Indicate your A/V requirements, such as wireless access, wired access, extra power outlets, data projector or other materials that you need to use in case the Demo is going to be face-to-face, if possible. Please note that certain A/V materials and equipment will be available for all Demos. At the time of acceptance, more information about the standard vs. non-standard A/V equipment will be available.
 
-* **Virtual requirements**: Indicate any specific requirements you may have in case your demo is going to be virtual. Note that not all requirements might be met by the conferencing software used. At the time of acceptance more information about the conferencing software’s capabilities will be available.
+* **Virtual requirements**: Indicate any specific requirements you may have in case your Demo is going to be virtual. Note that not all requirements might be met by the conferencing software used. At the time of acceptance more information about the conferencing software’s capabilities will be available.
 
 ### Tips for Creating an Effective Demo
 
@@ -46,7 +46,7 @@ Demo proposals are submitted in PDF format. The full proposal contains an abstra
 
 * While proposed agendas may change, you should be as detailed in your agenda as possible.  Illustrate the specific activities you have in mind to the best of your ability.
 
-* Make sure that you are explicit about what *you* want to get out of the demo experience.  As described above, demos are meant for you (the presenter) to get exposure for your tool or to generate discussion.  However, it is helpful for your reviewers to understand if you are looking to find users, vet future research directions, etc.
+* Make sure that you are explicit about what *you* want to get out of the Demo experience.  As described above, Demos are meant for you (the presenter) to get exposure for your tool or to generate discussion.  However, it is helpful for your reviewers to understand if you are looking to find users, vet future research directions, etc.
 
 ### Demo Proposal Abstract
 
@@ -54,15 +54,15 @@ The abstract is the description of the Demo that will appear on the conference w
 
 ### Face-to-Face Options
 
-In the event that the conference has a face-to-face part you may present your demo live at the conference for better interaction with the attendees. The 20 minute demo would start with a 5-10 minute presentation followed by 10-15 minutes of Q&A and additional demoing based on questions from the attendees.
+In the event that the conference has a face-to-face part you may present your Demo live at the conference for better interaction with the attendees. The 20 minute Demo would start with a 5-10 minute presentation followed by 10-15 minutes of Q&A and additional demoing based on questions from the attendees.
 
 ### Virtual Options
 
-In the event that the conference is virtual, each demo will be presented live via a virtual platform.  The 20 minute demo would start with a 5-10 minute presentation followed by 10-15 minutes of Q&A and additional demoing based on questions from the attendees.
+In the event that the conference is virtual, each Demo will be presented live via a virtual platform.  The 20 minute Demo would start with a 5-10 minute presentation followed by 10-15 minutes of Q&A and additional demoing based on questions from the attendees.
 
 ### General Requirements
 
-Independent of your presentation option you will have to provide a pre-recorded video with an overview of the demo of at most 5 minutes length. The video must be provided before the symposium starts (exact date TBA) and will be referenced from the online program in order to give attendees the chance to get acquainted with the demo beforehand. It may also widen the potential audience for your demo. Note that this is an additional requirement in comparison to demos at previous symposiums due to the addition of virtual offerings at the symposium.
+Independent of your presentation option you will have to provide a pre-recorded video with an overview of the Demo of at most 5 minutes length. The video must be provided before the symposium starts (exact date TBA) and will be referenced from the online program in order to give attendees the chance to get acquainted with the Demo beforehand. It may also widen the potential audience for your Demo. Note that this is an additional requirement in comparison to Demos at previous symposiums due to the addition of virtual offerings at the symposium.
 
 
 ### Sample Proposal
