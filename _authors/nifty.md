@@ -7,7 +7,7 @@ plural: "Nifty Assignments"
 
 {% include submission-details.html %}
 
-## What are Nifty Assignments?
+## Author guidelines: Nifty Assignments
 
 The [Nifty Assignments project](http://nifty.stanford.edu/) gathers great CS assignments to make their ideas and materials freely available for the CSE community.  Do you have a great assignment you would like to share with other educators? We'd love to have you apply to Nifty Assignments!
 
@@ -54,13 +54,13 @@ Here's an example for the Random Sentence Generator assignment:
 
 Please see [Info about the Nifty Project](http://nifty.stanford.edu/info.html) for more information about the history of Nifty, the archive of previous Nifty assignments, and answers to frequently asked questions.
 
+## Accepted Submissions
+
 If your assignment is accepted, you will need to:
 
 * Finalize your assignment web page and its various materials.
 * Prepare a very short blurb for the proceedings.
 * Attend the SIGCSE Symposium to present your assignment at the Nifty session (10-15 minutes).
 * Your materials will be widely distributed for free on the web (although you may retain copyright), so you will need to be comfortable with that.
-
-## How Do I Submit My Proposal
 
 {% include submission-proposal.html %}

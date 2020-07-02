@@ -1,8 +1,8 @@
-## How Do I Submit My Proposal?
-
-Write your submission using the format specified above.
-
+{% if page.title == "Nifty Assignment" %}
+{% include nifty-submission-block.html %}
+{% else %}
 {% include submission-block.html %}
+{% endif %}
 
 {% include presenter-warning.html %}
 

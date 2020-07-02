@@ -1,4 +1,4 @@
 {% capture type %}{{ page.plural | downcase }}{% endcapture %}
-{% callout warning %}
-By SIGCSE policy, {% if site.data.submissions[type].all-must-attend %}<b>all contributors</b> are {% else %}<b>at least one contributor</b> is {% endif %}required to register, attend, and present a {{ page.title | downcase }}.  See our <a href="../attendees/policies.html">full policy</a> for more information.
-{% endcallout %}
+<section class="alert-box info" role="alert">
+By SIGCSE policy, {% if site.data.submissions[type].all-must-attend %}<strong>all contributors</strong> are {% else %}<strong>at least one contributor</strong> is {% endif %}required to register, attend, and present a {{ page.title | downcase }}.  See our <a href="../attendees/policies.html">full policy</a> for more information.
+</section>

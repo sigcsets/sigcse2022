@@ -1,1 +1,15 @@
+## How Do I Submit My Proposal?
+
+Write your submission using the format specified above.
+
+{% if site.data.cfp.submissionopen %}
+<section class="alert-box alert" role="alert">
+<strong>MISSING submission instructions</strong>
+{% comment %}
+See: generic-submission-block.html
+{% endcomment %}
+
+</section>
+{% else %}
 {% include submission-not-open.html %}
+{% endif %}

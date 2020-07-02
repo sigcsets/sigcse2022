@@ -49,7 +49,7 @@ For presenters attending the symposium in person, the presentation will be in a 
 
 - [SIGCSE TS 2020 Lightning Talks, online](https://sigcse2020.sigcse.org/online/lt.html)
 - SIGCSE TS 2018
-  - [SIGCSE 2018 Lightning Talks - Session 1](/docs/2018-lightning-talks/2018_LightningTalks_1.pdf)
-  - [SIGCSE 2018 Lightning Talks - Session 2](/docs/2018-lightning-talks/2018_LightningTalks_2.pdf)
+  - [Lightning Talks - Session 1](/docs/2018-lightning-talks/2018_LightningTalks_1.pdf)
+  - [Lightning Talks - Session 2](/docs/2018-lightning-talks/2018_LightningTalks_2.pdf)
 
 {% include submission-proposal.html %}

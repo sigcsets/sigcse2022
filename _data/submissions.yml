@@ -34,7 +34,7 @@ workshops:
     who: "Workshops Team"
     all-must-attend: true
     limits: "3 pages"
-    abstract-limits: "250 words, title page, and references"
+    abstract-limits: "250 words"
 
 nifty assignments:
     who: "Nifty Assignments Team"
