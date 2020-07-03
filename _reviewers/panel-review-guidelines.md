@@ -14,35 +14,38 @@ showTitle: true
 
 A typical panel will consist of four participants, including the moderator. Limiting a panel to four participants allows sufficient time for audience questions. Proposals with more than four panelists must convincingly show that all panelists will be able to speak, and the audience able to respond, within the session time.
 
-**Panel proposal review is NOT blind**. Criteria used in reviewing the proposals include the likely level of interest of the topic, the presence of panel members with multiple perspectives on the topic, and the likelihood that the panel will leave sufficient time for audience participation.
+**Panel proposal review is NOT anonymous**. Criteria used in reviewing the proposals include the likely level of interest of the topic, the presence of panel members with multiple perspectives on the topic, and the likelihood that the panel will leave sufficient time for audience participation.
 
 If the proposal is accepted, all presenters listed in the panel description will be required to register for the conference and to participate in the session.
 
 ## Review Guidelines
 
-SIGCSE panel proposals are reviewed using EasyChair. Each proposal is assigned to at least three reviewers.
+SIGCSE Technical Symposium panel proposals are reviewed using EasyChair. Each proposal is assigned to at least three reviewers.
 
 Please provide constructive feedback and clearly justify your choice of rating to help the authors. A review that gives a low score with no written comments is not helpful to the authors since it simply tells the authors that they have been unsuccessful, with no indication of how or why.
 
-For a typical Panel submission, here are some key factors to include (as an author) and to look for (as a reviewer):
+The review form for panels will ask you to comment specifically on three aspects of the proposal, described below. Please refer to the prompts below as you write your review.
 
-1. Topic
+1. Relevance and Interest
     - Is the panel topic clearly stated? 
     - Are the benefits to the SIGCSE audience clearly indicated? Is the panel topic of interest to the SIGCSE community?
-        - is this a new topic of discussion?
-        - is this a continuing topic of discussion for the SIGCSE community?
-        - is the panel topic timely and relevant to current trends in CS Education or CS Ed Research?
-    - Does the proposal identify appropriate methods for engaging the audience and facilitating an interactive discussion?
+        - Is this a new topic of discussion?
+        - Is this a continuing topic of discussion for the SIGCSE community?
+        - Is the panel topic timely and relevant to current trends in CS Education or CS Ed Research?
 2. Structure & Plan for Audience Participation
-    - Is their an overview of the panel structure?
+    - Is there an overview of the panel structure?
     - Does the proposed structure include time for a brief introduction of the topic and the panelists?
     - Does the proposed structure include time for panelists to present their view?
     - Does the proposed structure allow sufficient time for an interactive question and answer period between the audience and panelists (30 mins)?
-3. Panel Members
-    - Does the proposal clearly identify the panelists (i.e., name and affiliation) and describe their expertise related to the topic?
+    - Could the panel still be effective if given a shorter session?
+    - Do the panelists have a strong plan for virtual *and* hybrid formats?
+3. Panelist considerations
+    - Does the proposal clearly identify the panelists (i.e., name and affiliation) and describe their expertise related to the topic, as well as panelists from diverse groups?
     - Is the panel composed of panelists that represent multiple/diverse views on the topic?
     - Does the proposal clearly identify no more than 4 panelists, including the moderator? 
-    - If there are more than 4 panelists, are each of the panelist needed for representing a full range of perspectives on the panel topic?
+    - If there are more than 4 panelists, are each of the panelists needed for representing a full range of perspectives on the panel topic?
 
 
 {% include reviewreminder.html %}
+
+{% include reviewers-discussion.html %}

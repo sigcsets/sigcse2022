@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 1
+order: 1.1
 title: "Panel"
 plural: "Panels"
 ---

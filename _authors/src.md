@@ -68,7 +68,7 @@ Your poster will be displayed for a 4-hour time period Thursday afternoon. You w
 ### Round 2: Presentation
 
 Students selected to participate in the Round 2 portion of the ACM SRC will have 15 minutes to present their work during one of the Friday afternoon sessions. Additional details about expectations will be provided prior to the conference.
---->
+-->
 
 ## After the Conference
 

@@ -10,7 +10,7 @@ plural: "Papers"
 The SIGCSE Technical Symposium uses a community reviewing process, and we encourage you to participate. New reviewers are always wanted, and it is one of the best ways you can contribute to the conference and help ensure a strong and diverse program. We invite you to sign up to be a reviewer this year! Just fill out the interest form to sign up as a volunteer:
 
 <div class = " well text-center">
-  <a href = "{{site.data.cfp.reviewer-signup}}">{{site.data.sigcse.upper}} {{site.data.sigcse.year}} Reviewer Signup</a>
+  <a href = "{{site.data.cfp.reviewer-signup}}">{{site.title}} Reviewer Signup</a>
 </div>
 
 Formal invitations to review are sent in late July.

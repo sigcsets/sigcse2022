@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 1
+order: 1.2
 title: "Special Session"
 plural: "Special Sessions"
 ---

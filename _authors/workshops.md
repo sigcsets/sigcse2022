@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 1
+order: 1.3
 title: "Workshop"
 plural: "Workshops"
 ---
@@ -16,6 +16,7 @@ Workshops provide an in-depth review of, or introduction to, a topic of interest
 
 ## Face-to-Face or Virtual
 The Technical Symposium Committee is currently evaluating options for hosting the Symposium. At this time, either a face-to-face, virtual, or a hybrid conference is possible. It is also possible the mode decision will be made after reviews are completed; therefore, proposers must be committed to hold the workshop in either mode and proposals must include plans for running workshops in face-to-face, virtual and hybrid modes.
+
 Though the general idea of the Symposium Workshop is the same, there are some differences (and some unknowns) between face-to-face, virtual, and hybrid modes. The following lists highlight known differences. Details appear in the “Full Proposal Content” section.
 
 ### Virtual Mode
@@ -50,7 +51,7 @@ The full proposal is used only for the review process. The proposal length is {{
 
 The required content is as follows.
 
-- **Title**: A title for the Workshop.
+- **Title**: A concise description of the content of the proposed workshop. 
 
 - **Proposer**: Name, affiliation, email address, and website address of the presenter who will serve as the corresponding author.
 
@@ -94,7 +95,7 @@ The required content is as follows.
 -  [Proposal Example (Word)](/docs/sigcse-sample-workshop.docx)
 {% endcomment %}
 
-## Hands-On Lab-Based Workshops
+## Hands-On Workshops
 
 Many SIGCSE Technical Symposium workshops are “hands-on,” that is, participants actively use equipment during the workshop. It is normal for participants to use their own equipment in hands-on workshops. Workshop presenters are responsible for distribution of workshop software to participants prior to the Symposium. 
 
