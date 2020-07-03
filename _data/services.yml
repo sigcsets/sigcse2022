@@ -1,4 +1,4 @@
-- menu_name: "Services"
+- menu_name: "More Information"
 
 - name: "Contact"
   url: "/contact/"

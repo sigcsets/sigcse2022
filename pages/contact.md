@@ -17,3 +17,12 @@ Pam Cutter, Alvaro Monge, and Judy Sheard, Program Co-Chairs ([program@sigcse202
 
 For exhibitor or sponsor issues:     
 ([sigcse@dlplan.com](sigcse@dlplan.com))
+
+
+## SIGCSE Organization
+
+SIGCSE Board Chair:    
+Adrienne Decker 
+
+SIGCSE TS Board Liasion:    
+Manuel Perez Quinones
