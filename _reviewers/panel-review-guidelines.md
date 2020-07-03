@@ -10,7 +10,7 @@ showTitle: true
 
 ## Overview
 
-[Panel sessions](../authors/panels.html) provide an opportunity for expert panel members to present their views on a specific topic and then to discuss these views among themselves and with the audience. Usually a panel session starts with a brief introduction of the panel topic and the participants, followed by short presentations by the panelists giving their views. They are scheduled in standard conference spaces. The session must allow sufficient opportunity (about 30 minutes) for an interactive question and answer period involving both the panelists and the audience.
+[Panel sessions](/authors/panels) provide an opportunity for expert panel members to present their views on a specific topic and then to discuss these views among themselves and with the audience. Usually a panel session starts with a brief introduction of the panel topic and the participants, followed by short presentations by the panelists giving their views. They are scheduled in standard conference spaces. The session must allow sufficient opportunity (about 30 minutes) for an interactive question and answer period involving both the panelists and the audience.
 
 A typical panel will consist of four participants, including the moderator. Limiting a panel to four participants allows sufficient time for audience questions. Proposals with more than four panelists must convincingly show that all panelists will be able to speak, and the audience able to respond, within the session time.
 
@@ -45,7 +45,4 @@ The review form for panels will ask you to comment specifically on three aspects
     - Does the proposal clearly identify no more than 4 panelists, including the moderator? 
     - If there are more than 4 panelists, are each of the panelists needed for representing a full range of perspectives on the panel topic?
 
-
-{% include reviewreminder.html %}
-
-{% include reviewers-discussion.html %}
+{% include reviewer-shared-text.html %}

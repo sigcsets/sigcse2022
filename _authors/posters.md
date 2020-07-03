@@ -2,7 +2,7 @@
 layout: page
 order: 2.5
 title: "Poster"
-plural: "Posters"
+track: "Posters"
 ---
 
 {% include submission-details.html %}

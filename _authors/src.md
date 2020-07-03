@@ -2,7 +2,7 @@
 layout: page
 order: 2.0
 title: "ACM Student Research Competition"
-plural: "ACM Student Research Competition"
+track: "ACM Student Research Competition"
 ---
 
 {% include submission-details.html %}

@@ -2,7 +2,6 @@
 layout: page
 order: 0
 title: Reviewer Signup
-plural: "Papers"
 ---
 
 ## Volunteer to review!
@@ -23,4 +22,4 @@ Don't worry, we still need reviewing volunteers for the second submission deadli
 
 The Program Co-Chairs will periodically send out EasyChair invitations to volunteers for reviewing roles where additional people are needed. 
 
-{% include submission-questions.html %}
+{% include track-questions.html %}

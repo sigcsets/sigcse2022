@@ -10,7 +10,7 @@ track: Special Sessions
 
 ## Overview 
 
-[Special sessions](../authors/specialsessions.html) provide an opportunity for SIGCSE community members to customize and experiment with the Technical Symposium formats. Special sessions should NOT replicate existing formats (i.e., panels, paper presentations, lightning talks, and poster sessions). They are scheduled in standard conference spaces. Within these constraints, authors may design a format that meets their session's goals.
+[Special sessions](/authors/specialsessions) provide an opportunity for SIGCSE community members to customize and experiment with the Technical Symposium formats. Special sessions should NOT replicate existing formats (i.e., panels, paper presentations, lightning talks, and poster sessions). They are scheduled in standard conference spaces. Within these constraints, authors may design a format that meets their session's goals.
 
 For example, a special session might be a tutorial or seminar, a committee report, a curricular or accreditation forum, a rapid-fire sequence of five-minute talks, or a hands-on demo of dance moves proven to improve retention of computing topics.
 
@@ -41,7 +41,5 @@ The review form for special sessions will ask you to comment specifically on thr
 	- Does the proposal clearly identify the presenters/leaders of the special session (i.e., name and affiliation) and describe their expertise related to the topic?
 	- Does the proposal clearly describe the role of each participant in relation to the goal and topic of the special session?
 	
+{% include reviewer-shared-text.html %}
 
-{% include reviewreminder.html %}
-
-{% include reviewers-discussion.html %}

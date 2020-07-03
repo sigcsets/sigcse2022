@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 1.3
+order: 1.1
 title: General Review Process
 showTitle: true
 ---
@@ -139,8 +139,5 @@ Track specific Reviewer guidelines are available:
 [Nifty Assignments](/reviewers/nifty-review-guidelines), and
 [Posters](/reviewers/poster-review-guidelines)   
 
-{% include reviewreminder.html %}
+{% include reviewer-shared-text.html %}
 
-{% include reviewers-discussion.html %}
-
-{% include reviewers-recalcitrant.html %}

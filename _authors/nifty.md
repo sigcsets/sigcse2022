@@ -2,7 +2,7 @@
 layout: page
 order: 2.4
 title: "Nifty Assignment"
-plural: "Nifty Assignments"
+track: "Nifty Assignments"
 ---
 
 {% include submission-details.html %}

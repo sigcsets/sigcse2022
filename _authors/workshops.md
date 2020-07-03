@@ -2,7 +2,7 @@
 layout: page
 order: 1.3
 title: "Workshop"
-plural: "Workshops"
+track: "Workshops"
 ---
 
 {% include submission-details.html %}

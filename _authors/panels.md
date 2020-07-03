@@ -2,7 +2,7 @@
 layout: page
 order: 1.1
 title: "Panel"
-plural: "Panels"
+track: "Panels"
 ---
 
 {% include submission-details.html %}

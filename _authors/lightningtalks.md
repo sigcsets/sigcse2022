@@ -2,7 +2,7 @@
 layout: page
 order: 2.3
 title: "Lightning Talk"
-plural: "Lightning Talks"
+track: "Lightning Talks"
 ---
 
 {% include submission-details.html %}

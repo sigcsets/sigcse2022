@@ -2,7 +2,7 @@
 layout: page
 order: 3
 title: Affiliated Events
-plural: Affiliated Events
+track: Affiliated Events
 
 ---
 

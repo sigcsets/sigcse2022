@@ -2,7 +2,7 @@
 layout: page
 order: 1.2
 title: "Special Session"
-plural: "Special Sessions"
+track: "Special Sessions"
 ---
 
 {% include submission-details.html %}
