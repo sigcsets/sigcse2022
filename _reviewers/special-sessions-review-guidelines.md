@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+order: 1.5
 title: Special Session Review Guidelines
 showTitle: true
 ---

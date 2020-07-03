@@ -16,6 +16,8 @@ SIGCSE Technical Symposium will consist of two categories of competition, gradua
 
 A student must be an ACM student member to qualify for awards and travel grants (up to $500 may be available for students who do not have another source of funding).
 
+{% include review-anonymity.html %}
+
 ## Preparing your ACM Student Research Competition Submission
 
 Students will submit extended abstracts of {{site.data.submissions["acm student research competition"].limits}} maximum, which will be reviewed to determine acceptance into the ACM Student Research Competition (SRC) at SIGCSE. If accepted into the ACM SRC, an abstract of {{site.data.submissions["acm student research competition"].abstract-limits}} will be published (see below). 

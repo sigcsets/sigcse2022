@@ -9,14 +9,18 @@ plural: "Lightning Talks"
 
 ## Author Guidelines: Lightning Talks
 
-Lightning Talks describe works in progress, new and untested ideas, or opportunities for collaborative work. The purpose of a Lightning Talk can be to start a discussion, find collaborators, or receive input and critique about an idea. Proposals are limited to 500 words, including the abstract of 250 words, and will be **reviewed with a dual anonymous process** for acceptance. Lightning Talk presentations will be a maximum of 5 minutes each. Presenters may use slides, but these must be submitted to the Lightning Talks chair a few days before the presentation.
+Lightning Talks describe works in progress, new and untested ideas, or opportunities for collaborative work. The purpose of a Lightning Talk can be to start a discussion, find collaborators, or receive input and critique about an idea. Proposals are limited to 500 words, including the abstract of 250 words, and will be **reviewed with a dual-anonymous process** for acceptance. Lightning Talk presentations will be a maximum of 5 minutes each. Presenters may use slides, but these must be submitted to the Lightning Talks chair a few days before the presentation.
+
+{% include review-anonymity.html %}
 
 ## How Should The Proposal Be Formatted?
 {% include authorguidelines-planning.html %}
 
 Lightning Talk proposals must be submitted in PDF format. The full proposal contains an abstract and a description of your Lightning Talk (as detailed below). The full proposal is used for the review process only and must be anonymized. If the proposal is accepted, the title and authors appear in the printed program and the title, authors, and abstract appear in the online program and proceedings. The format for the proposal is described in the following section.
 
-## Lightning Talk Proposal Format and Contents (limited to {{site.data.submissions["lightning talks"].limits}})
+## Lightning Talk Proposal Format and Contents
+
+The proposal is limited to {{site.data.submissions["lightning talks"].limits}}), and should include the following:
 
 -   **Title**: A title for the Lightning Talk.
 
@@ -30,7 +34,7 @@ The abstract is the summary of the Lightning talk that will appear on the confer
 
 ### Supplementary Materials
 
-The abstract for an accepted proposal may contain a link to a website with more information.  However note that if you choose to include supplementary materials in your initial submission, you are **obligated to anonymize the material**, e.g., removing author names, using anonymous content hosting services such as Dropbox, as to respect the dual anonymous review process.  Furthermore, reviewers are not obligated to read your supplementary materials, so please ensure that your abstract is still self-contained and sufficient.
+The abstract for an accepted proposal may contain a link to a website with more information.  However note that if you choose to include supplementary materials in your initial submission, you are **obligated to anonymize the material**, e.g., removing author names, using anonymous content hosting services such as Dropbox, as to respect the dual-anonymous review process.  Furthermore, reviewers are not obligated to read your supplementary materials, so please ensure that your abstract is still self-contained and sufficient.
 
 ### Virtual Option
 For virtual presentations, the presenter may either present live via conferencing software or provide a recording of their presentation.  If a recording is provided, the presenter must be available to participate live in Q&A during the session online via conferencing software.

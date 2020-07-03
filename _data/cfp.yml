@@ -52,33 +52,43 @@ reviewing:
   - track: Papers
     round: 0
     bidding: true
+    dualAnonymous: true
   - track: Panels
     round: 1
     bidding: true # confirmed for 2021
+    dualAnonymous: false
   - track: Special Sessions
     round: 1
     bidding: true # confirmed for 2021
+    dualAnonymous: false
   - track: Workshops
     round: 1
     bidding: true  # confirmed for 2021
+    dualAnonymous: false
   - track: ACM Student Research Competition
     round: 2
     bidding: false # confirmed for 2021
+    dualAnonymous: false
   - track: Demos
     round: 2
     bidding: false # confirmed for 2021
+    dualAnonymous: false
   - track: Lightning Talks
     round: 2
     bidding: false # confirmed for 2021
+    dualAnonymous: true
   - track: Birds of a Feather
     round: 2
     bidding: false
+    dualAnonymous: false
   - track: Nifty Assignments
     round: 2
     bidding: false
+    dualAnonymous: false
   - track: Posters
     round: 2
     bidding: false # confirmed for 2021
+    dualAnonymous: true
 
 
 master:

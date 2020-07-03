@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+order: 2.3
 title: Lightning Talks Review Guidelines
 showTitle: true
 ---

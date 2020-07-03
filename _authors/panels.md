@@ -13,7 +13,10 @@ Panel sessions provide an opportunity for expert panel members to present their 
 
 A typical panel will consist of four participants, including the moderator. Limiting a panel to four participants allows sufficient time for audience questions. Proposals with more than four panelists must convincingly show that all panelists will be able to speak, and the audience able to respond, within the session time.
 
-**Panel proposal review is NOT dual anonymous**, so the proposal is not anonymized, however, reviewers are anonymous to each other and to the authors. Criteria used in reviewing the proposals include the likely level of interest of the topic, the presence of panel members with multiple perspectives on the topic and significant expertise and experience, and the likelihood that the panel will leave sufficient time for audience participation.
+
+{% include review-anonymity.html %}
+
+Criteria used in reviewing the proposals include the likely level of interest of the topic, the presence of panel members with multiple perspectives on the topic and significant expertise and experience, and the likelihood that the panel will leave sufficient time for audience participation.
 
 If the proposal is accepted, all presenters listed in the panel description will be required to register for the conference and to participate in the session.
 

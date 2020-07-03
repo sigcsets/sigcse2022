@@ -1,41 +1,42 @@
 ---
-layout: default
+layout: page
+order: 1.2
 title: Paper Review Guidelines
 showTitle: true
 ---
 
 
-We provide both [general guidelines](#general-guidelines) and [track-specific guidelines](#paper-track-guidelines) for reviewing SIGCSE Technical Symposium Papers.  
+This document provides both [general guidelines](#general-guidelines) and [track-specific guidelines](#paper-track-guidelines) for reviewing SIGCSE Technical Symposium Papers.  
 
 ## General Guidelines
 
 Here are some recommendations for writing reviews of submitted papers that help the authors and improve the quality of the symposium.
 
-* Papers submitted to the SIGCSE Technical Symposium are expected to be original work. If the work is not original or is not a sufficient advancement over prior work, please state so in the review or 'confidential comments to the program committee' section.
+* Papers submitted to the SIGCSE Technical Symposium are expected to be original work. If the work is not original or is not a sufficient advancement over prior work, please state so in the review or in the 'confidential comments to the program committee' section of the reviewer form.
 
 * Your job as a reviewer is to write detailed reviews, even for excellent papers. In addition to telling the authors what you didn’t like about their paper, be sure to include what you did like as well.
 
-* Even if your opinion is that the paper is poorly written or poorly thought-out, you can still provide constructive criticisms to help the authors, and in the long run, the conference. Think of your goal as convincing the authors of the paper you’re reviewing to submit something else next year, but of such high quality that it will be well-reviewed and easily accepted. Give the authors advice on how to do that.
+* Even if your opinion is that the paper is poorly written or poorly thought-out, you can still provide constructive criticisms to help the authors, and in the long run, the conference. For such papers, think of your goal as convincing the authors to submit something else next year, but of such high quality that it will be well-reviewed and easily accepted. Give the authors advice on how to do that.
 
 * The best reviews clearly justify the reviewer’s choice of rating. The least valuable review gives a low score with no written comments. That simply tells the authors that they have been unsuccessful, with no indication of how or why.
 
-* The focus of your review should be on content.
+* The focus of your review should be on content. If you find grammatical errors, do not let it distract you from reviewing the research/work presented in the paper. 
 
-* Papers that you review are supposed to be anonymous. Your review should be based on the merits of the paper, not the reputation of the authors or their institutions. Therefore, we have asked the authors to remove all identifiable references to themselves. We realize that reviewers sometimes know the work and can guess who the authors of the papers might be. If the work is not anonymized, please let the Program Chairs know and continue to provide a fair and unbiased review.  If you are unable to do so, please notify the Program Chairs.
+* Papers that you review are supposed to be anonymous. Your review should be based on the merits of the paper, not the reputation of the authors or their institutions. Therefore, we have asked the authors to remove all identifiable references to themselves. If the work is not anonymized, please let the Program Chairs know and continue to provide a fair and unbiased review. If you are unable to do so, please notify the Program Chairs.
 
-* If you recognize the work, it is your responsibility to give a fair and unbiased review, using only the information in the paper. If you do not feel that you can give a fair, unbiased review of the paper and not the authors or institutions, please contact the program chairs immediately.  Do NOT submit a review for the paper.  The Program Chairs can reassign as necessary.
+* We realize that reviewers sometimes know the work and can guess who the authors of the papers might be. If you recognize the work, it is your responsibility to give a fair and unbiased review, using only the information in the paper. If you do not feel that you can give a fair, unbiased review of the paper and not the authors or institutions, please contact the Program Chairs immediately.  Do NOT submit a review for the paper.  The Program Chairs can reassign as necessary.
 
-* Your review should not include comments to the authors about the anonymization (or lack thereof) in the paper. If you feel that it is necessary to comment on this, please use the text box, ‘Confidential comments to the committee.’
+* Your review should not include comments to the authors about the anonymization (or lack thereof) in the paper. If you feel that it is necessary to comment on this, please use the text box, ‘Confidential comments to the committee’, in the reviewer form.
 
-* We realize that occasionally anonymization requires the authors to remove information that affects your review (information that otherwise the paper appears to lack). As a reviewer, you can give the authors the benefit of the doubt. Use the ‘Confidential comments to the committee’ box to indicate this to us. Example “This paper should reference Matt Jadud’s work, unless those references were removed for anonymity”).
+* We realize that occasionally anonymization requires the authors to remove information that affects your review (information that otherwise the paper appears to lack). As a reviewer, you can give the authors the benefit of the doubt. Use the ‘Confidential comments to the committee’ box to indicate this to us. Example “This paper should reference Valerie E. Taylor’s work, unless those references were removed for anonymity”).
 
 * Please point out typographic and grammatical errors; if there are too many to list, please state so in your review.
 
-* Although the SIGCSE Technical Symposium requires all submitted papers to be polished work, all authors of accepted papers get a brief opportunity to improve the presentation of their paper before camera-ready copy is due. Your detailed feedback may help improve a paper, and in a small way, improve the conference.
+* Although the SIGCSE Technical Symposium requires all submitted papers to be polished work and are to be reviewed as if they are the final publishable version, all authors of accepted papers get a brief opportunity to improve the presentation of their paper before the camera-ready copy is due. Your detailed feedback may help improve a paper and by extension improve the conference.
 
 ## Substandard Reviews
 
-The SIGCSE Technical Symposium uses a meta-review process after reviews have been submitted. Reviews that do not objectively, accurately, and clearly assess a paper’s suitability for publication at SIGCSE, founded in the reviewer’s disciplinary expertise and on the basis of the written paper’s originality, technical soundness, contribution to CS education, and clarity of presentation, may be deleted.
+The SIGCSE Technical Symposium uses a meta-review process after reviews have been submitted. Reviews that do not objectively, accurately, and clearly assess a paper’s suitability for publication at the SIGCSE Technical Symposium, or are not founded in the reviewer’s disciplinary expertise and on the basis of the written paper’s originality, technical soundness, contribution to computing education, and clarity of presentation, may be deleted.
 
 For example, an unacceptable review might:
 
@@ -47,7 +48,7 @@ For example, an unacceptable review might:
 
 Please note that a difference in rating or opinion with other reviewers or PC members will NEVER be cause for deletion of a review.
 
-Reviewers with substandard reviews will be subject to the [Recalcitrant Reviewers policy](paper-review-process.html#recalcitrant-reviewers).
+Reviewers with substandard reviews will be subject to the [Recalcitrant Reviewers policy](/reviewers/paper-review-process/#recalcitrant-reviewers).
 
 ## Examples of Good Reviews
 
@@ -81,7 +82,7 @@ Please summarize the submission in 2-4 sentences in your own words. Please DO NO
 
 ## Paper Track Guidelines
 
-There are three tracks for papers.  Reviewers and APCs will be assigned to review papers in one of the three tracks.  Please ensure that the Program Chairs know your preferences for the track(s) where you can provide the most expertise and best feedback.  
+There are three tracks for papers.  Reviewers and APCs will be assigned to review papers in one of the three tracks.  Please ensure that the Program Chairs know your preferences (this is done in the reviewer signup form) for the track(s) where you can provide the most expertise and best feedback.  
 
 Authors must choose the track that they feel best fits their submission.  **Review the submission using the guidelines for the track the submission is in; not the track you would prefer it to be in.**  The Program Chairs will not move papers between tracks.
 
@@ -89,7 +90,7 @@ Authors must choose the track that they feel best fits their submission.  **Revi
 
 Papers submitted to the Computing Education Research track describe an empirical computing education project.
 
-Computing Education Research papers should adhere to rigorous standards, describing hypotheses, methods, and results as is typical for research studies. These normally focus on topics relevant to computing education with emphasis on educational goals and knowledge units/topics relevant to computing education with statistical rigor; methods or techniques in computing education; evaluation of pedagogical approaches; and studies of the many different populations that are engaged in computing education, including (but not limited to) students, instructors, and issues of gender, diversity, and underrepresentation.  We welcome replication papers and papers that present null or negative results that meet the criteria below.
+Computing Education Research papers should adhere to rigorous standards, describing research questions, hypotheses, methods, results, and limitations, as is typical and expected of research studies. These papers normally focus on topics relevant to computing education with emphasis on educational goals and knowledge units/topics; teaching and learning methods or techniques; evaluation of pedagogical approaches; studies of the many different populations that are engaged in computing education, including (but not limited to) students, instructors; and issues of gender, diversity, equity, and underrepresentation.  We welcome replication papers and papers that present null or negative results that meet the criteria below.
 
 For a typical paper in this track, here are some key factors to include (as an author) and to look for (as a reviewer):
 

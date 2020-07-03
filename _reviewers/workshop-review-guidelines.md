@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+order: 2.0
 title: Workshop Review Guidelines
 showTitle: true
 ---

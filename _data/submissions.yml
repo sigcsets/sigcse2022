@@ -13,7 +13,7 @@ posters:
 birds of a feather:
     who: "Birds of a Feather Team"
     all-must-attend: true
-    limits: "1 page"
+    limits: "Up to 2 pages"  # for 2021, previously was max of 1 page 
     abstract-limits: "250 words"
 
 affiliated events:

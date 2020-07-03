@@ -10,14 +10,14 @@ plural: "Birds of a Feather"
 
 Birds-of-a-Feather (BOF) Sessions provide an environment for colleagues with similar interests to meet for informal discussion. Proposers of BOF sessions should serve as discussion leaders only. BOFs are not intended to be presentations.
 
-**Proposals undergo a review whereby reviewers are anonymous**; thus, submissions are not anonymized since this is not a dual anonymous review.
+{% include review-anonymity.html %}
 
 ## How Should The Proposal Be Formatted?
 {% include authorguidelines-planning.html %}
 
-BOF proposals are to be provided in PDF format. The full 2-page proposal contains an abstract and a body that describes your BOF (as detailed below). The abstract needs to appear in two places: in the PDF proposal and in a text box on the submission page.
+BOF proposals are to be provided in PDF format. The full 1-to-2 page proposal contains an abstract and a body that describes your BOF (as detailed below). The abstract needs to appear in two places: in the PDF proposal and in a text box on the submission page.
 
-The full 2-page proposal is used for the review process only. If the proposal is accepted, the abstract is the description that appears on the Symposium website and in the Symposium program and proceedings. The format for the proposal is as follows.
+The full 1-to-2 page proposal is used for the review process only. If the proposal is accepted, the abstract is the description that appears on the Symposium website and in the Symposium program and proceedings. The format for the proposal is as follows.
 
 ### BOF Proposal Format and Contents
 {% include template-information.html %}

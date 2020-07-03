@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+order: 2.1
 title: Birds-of-a-Feather Review Guidelines
 showTitle: true
 ---

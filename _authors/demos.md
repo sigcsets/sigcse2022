@@ -11,7 +11,7 @@ plural: "Demos"
 
 Demos provide a way to showcase an educational tool or project in a live setting. Not designed to be sales pitches, demonstrations are a way for the community to see the relevance, potential, and innovation of the tool and allow time for discussion with its creator. Demos will be a maximum of 20 minutes each, with at least 10-15 minutes allocated for answering questions. The Demo format is significantly different this year with Demos held in a regular session at a fixed timeslot, rather than during coffee breaks where the longer time slot was used to accommodate audience members arriving at different times. These changes have been introduced to accommodate all possible scenarios for running the symposium (pure virtual or hybrid combination of face-to-face and virtual)  to the best extent possible.
 
-**Poster submissions do not undergo a dual anonymous review and thus should not be anonymized**; instead, they undergo a review process where reviewers are anonymous.
+{% include review-anonymity.html %}
 
 ## How Should The Proposal Be Formatted?
 {% include authorguidelines-planning.html %}

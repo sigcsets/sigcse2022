@@ -11,6 +11,9 @@ plural: "Workshops"
 
 Workshops provide an in-depth review of, or introduction to, a topic of interest to the SIGCSE community. A successful workshop should provide participants with materials and/or ideas that are immediately useful to the workshop participants. To this end, workshop presenters should provide participants with resources and experiences participants find valuable.
 
+{% include review-anonymity.html %}
+
+
 ## Face-to-Face or Virtual
 The Technical Symposium Committee is currently evaluating options for hosting the Symposium. At this time, either a face-to-face, virtual, or a hybrid conference is possible. It is also possible the mode decision will be made after reviews are completed; therefore, proposers must be committed to hold the workshop in either mode and proposals must include plans for running workshops in face-to-face, virtual and hybrid modes.
 Though the general idea of the Symposium Workshop is the same, there are some differences (and some unknowns) between face-to-face, virtual, and hybrid modes. The following lists highlight known differences. Details appear in the “Full Proposal Content” section.

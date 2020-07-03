@@ -1,18 +1,20 @@
 ---
-layout: default
+layout: page
+order: 1.1
 title: Paper Review Process
 showTitle: true
 ---
 
-SIGCSE papers are reviewed using a dual anonymous process managed through EasyChair. There are four phases to the review process: [bid](#bid), [review](#review), [discussion](#discussion), and [recommendation](#recommendation). In addition to the Program Co-Chairs, two other types of volunteers contribute to this process:
+SIGCSE Technical Symposium papers are reviewed using a dual anonymous process (see below) managed through EasyChair. There are four phases to the review process: [bid](#bid), [review](#review), [discussion](#discussion), and [recommendation](#recommendation). In addition to the Program Co-Chairs, two other types of volunteers contribute to this process:
 - **Reviewers** provide high-quality reviews for submissions to provide authors with feedback so they may improve their work for presentation or future submission.
 - **Associate Program Chairs** (APCs) meta-review each paper and provide a recommendation and feedback to the Program Chairs.
 
-Each *paper* submission will receive 4 reviews and a meta-review.  
+Each *paper* submission will receive 3 reviews and a meta-review.  
 
 All reviews are submitted through EasyChair.  Reviewers are considered "Ordinary PC members" in EasyChair.  APCs are considered "Senior PC members" in EasyChair.
 
-In the dual anonymous process, all paper submissions are anonymous and reviewers and APCs are anonymous to each other and the authors.  During the discussion, please refer to other reviewers by their reviewer number for each paper's review.
+### Dual Anonymous Review Process
+In the dual anonymous process, submissions are anonymized (so reviewers and APCs are unaware of the author) and reviewers and APCs are anonymous to each other and the authors.  During the discussion of a paper in EasyChair, reviewers can refer to each other by their reviewer number on that  paper’s review.
 
 ## Reviewer and APC Timeline
 
@@ -56,7 +58,7 @@ SIGSE Technical Symposium papers are up to 6 pages with 1 additional page that c
 
 On first authentication to EasyChair, please update your reviewer profile and include at least 5 topics that you are most qualified to review. If you do not bid, we will use topics to assign papers for review.  
 
-If you are reviewing for the CS Education Research track, please ensure that you select at least one of the new **Methods Topics**. We will be using these topics to better match reviewers to papers within their expertise.
+If you are reviewing for the Computing Education Research track, please ensure that you select at least one of the new **Methods Topics**. We will be using these topics to better match reviewers to papers within their expertise.
 
 **Reviewers** and **APCs** will bid on papers they are interested in reviewing or meta-reviewing during the week between abstract submission and full paper submission.  Please bid for papers where the title and abstract are in your area of expertise.  Bidding will help with assigning papers for review or meta-review that you're qualified and interested in reviewing!
 
@@ -71,13 +73,13 @@ As a **reviewer**, we ask that you carefully read each submission assigned to yo
 * The strengths and weaknesses, 
 * The contribution to an outstanding SIGCSE TS 2021 program and experience for attendees,
 * How it brings new ideas or extends current ideas through replication to the field and practitioners and researchers of computer science education, and
-* [Additional details depending on the review guidelines for the specific track you're reviewing](paper-review-guidelines.html).
+* Additional details about reviewing including track-specific details are provided in the [paper review guidelines](/reviewers/paper-review-guidelines).
 
 {% include reviewreminder.html %}
 
 ### APC Responsibilities
 
-As an **APC**, we ask that you carefully read each submission assigned to you and inspect the [paper review guidelines](paper-review-guidelines.html) for the track you are meta-reviewing. Additionally,
+As an **APC**, we ask that you carefully read each submission assigned to you and inspect the [paper review guidelines](/reviewers/paper-review-guidelines) for the track you are meta-reviewing. Additionally,
 
 * Ensure that reviewers are making progress on their tasks. Don't wait to see all reviews entered at the last moment. Instead, encourage partial progress from the reviewers along the way.
 * Use EasyChair to send reminder messages to the reviewers.
@@ -109,4 +111,4 @@ Please **do not** include your recommendation for acceptance or rejection of a p
 Additionally, the Program Chairs will request feedback from APCs on the quality of reviews for decisions about future invitations to review for the SIGCSE Technical Symposium.
 
 ## Recalcitrant Reviewers
-Reviewers who don't submit reviews, have reviews with limited constructive feedback, or who submit inappropriate reviews will be removed from the reviewer list (as per [SIGCSE policy](https://sigcse.org/sigcse/policies/pcr)). Recalcitrant reviewers will be informed of their removal from the reviewer list.  Reviewers with repeated offenses (two within a three year period) will be removed from SIGCSE reviewing for three years.
+Reviewers who don't submit reviews, have reviews with limited constructive feedback, or who submit inappropriate reviews will be removed from the reviewer list (as per [SIGCSE policy](https://sigcse.org/sigcse/policies/pcr.html)). Recalcitrant reviewers will be informed of their removal from the reviewer list.  Reviewers with repeated offenses (two within a three year period) will be removed from SIGCSE reviewing for three years.

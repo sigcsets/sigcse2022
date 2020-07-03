@@ -71,5 +71,9 @@ format: post
 	<div class="medium-4 columns">
 		{% include _sidebar_authors.html %}
 	</div><!-- /.medium-4.columns -->
+	{% elsif page.collection == "reviewers" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_reviewers.html %}
+	</div><!-- /.medium-4.columns -->
 	{% endif %}
 </div><!-- /.row -->

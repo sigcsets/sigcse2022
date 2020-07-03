@@ -15,7 +15,9 @@ For example, a special session might be a tutorial or seminar, a committee repor
 
 Possible topic areas include management of large classes, projects and assignments, teaching computer science in K-12, experiments on collaborative learning, report of an ACM committee addressing issues at two-year colleges, or special issues arising when teaching computing outside of North America.
 
-**Panel proposal review is NOT dual anonymous**, so the proposal is not anoymized, however, reviewers are anonymous to each other and to the authors. Criteria used in reviewing the proposals will include the likely level of interest in the session and the suitability and feasibility of the proposed format to its topic. If the proposal is accepted, all presenters listed in the special session description will be required to register for the conference and to participate in the session.
+{% include review-anonymity.html %}
+
+Criteria used in reviewing the proposals will include the likely level of interest in the session and the suitability and feasibility of the proposed format to its topic. If the proposal is accepted, all presenters listed in the special session description will be required to register for the conference and to participate in the session.
 
 ## What if the Symposium is Virtual or Hybrid?
 There is a real possibility that the SIGCSE 2021 Technical Symposium will be virtual or hybrid.  We believe that virtual or hybrid special sessions can still be lively and productive.  Some sessions (e.g. committee reports with Q&A) might need relatively little modifications, while others (e.g. brainstorming sessions with attendees in small groups) might require a fundamentally different structure.   Please include in your proposal how you will structure your session if the Symposium is virtual and how you will structure your session if the Symposium is hybrid.   Please do not refer to specific technologies.  Instead focus on the process that you will use to make sure remote participants are engaged and included.

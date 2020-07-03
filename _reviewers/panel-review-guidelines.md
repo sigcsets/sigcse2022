@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+order: 1.4
 title: Panel Review Guidelines
 showTitle: true
 ---

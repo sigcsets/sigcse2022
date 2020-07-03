@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+order: 2.0
 title: ACM Student Research Competition Review Guidelines
 showTitle: true
 ---

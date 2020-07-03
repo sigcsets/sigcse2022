@@ -14,8 +14,6 @@ Posters provide an opportunity for an informal presentation featuring “give an
 
 Posters should not be previously published, as a paper or a poster.
 
-Initial poster submissions will undergo a **dual-anonymous review process**, i.e. author names are not visible to the reviewers, and reviewer names are not visible to authors nor to other reviewers.
-
 Graduate or undergraduate students submitting posters may instead wish
 to submit to the [ACM Student Research Competition (SRC)](/authors/src) held
 at SIGCSE Technical Symposium. Like normal posters, ACM SRC posters are
@@ -24,6 +22,10 @@ their work orally, may win prizes and proceed to the international ACM
 Student Research Competition. 
 
 Separately from the ACM SRC, this year there is also an [award from the Council of Undergraduate Research (CUR) for undergraduates presenting posters.](#cur) 
+
+
+{% include review-anonymity.html %}
+
 
 ## Poster Topic Ideas
 
@@ -37,7 +39,7 @@ Any topic relevant to the conference focus areas is suitable for presentation as
 - data collected, initial results
 - computing education research that is in a preliminary stage
 
-Suggestions for poster design are given in [Research Posters 101](http://xrds.acm.org/article.cfm?aid=332138). (Although these suggestions were published for student researchers, the ideas are also applicable to posters for this conference.)
+Suggestions for poster design are given in [Creating Effective Academic Posters](https://urc.ucdavis.edu/creating-effective-academic-posters) [UC Davis] and [Research Posters 101](http://xrds.acm.org/article.cfm?aid=332138) [ACM Crossroads article]. While both of these references provide suggestions for student researchers, the ideas are also applicable to posters for this conference.
 
 ## Poster - Physical Presentation
 

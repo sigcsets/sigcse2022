@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+order: 2.4
 title: Nifty Assignments Review Guidelines
 showTitle: true
 ---
