@@ -3,9 +3,10 @@ layout: page
 order: 2.3
 title: Lightning Talks Review Guidelines
 showTitle: true
+track: Lightning Talks
 ---
 
-{% include reviewdetails.html plural="Lightning Talks" %}
+{% include reviewdetails.html %}
 
 ## Overview
 

@@ -3,9 +3,10 @@ layout: page
 order: 2.2
 title: Demos Review Guidelines
 showTitle: true
+track: Demos
 ---
 
-{% include reviewdetails.html plural="Demos" %}
+{% include reviewdetails.html %}
 
 ## Overview
 

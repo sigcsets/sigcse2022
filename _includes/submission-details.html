@@ -69,10 +69,6 @@ time: {{subtime}}
           {% endif %}
           </td>
         </tr>
-        <tr>
-          <th scope="row">Duration</th>
-          <td> {{site.data.cfp.details[plural].length}}</td>
-        </tr>
 
         {% if site.data.cfp.submissionopen %}
         <tr>
@@ -103,29 +99,10 @@ time: {{subtime}}
           </td>
         </tr>
 		{%endif %}
-
-        {% comment %}
-        <!--- FIXME: Why did I do this this way? It is probably to avoid
-        some kind of duplication between two YAML files. However, it makes things
-        a bit more complex. I am going to just do the render up above.
-
-        This may have been because things evolved organically during the first build of the site.
-      -->
-        {% for submission in site.data.reviewers.finalization %}
-          {% assign generateRow = false %}
-          {% for sub in submission.types %}
-            {% if plural == sub.plural %}
-              {% assign generateRow = true %}
-            {% endif %}
-          {% endfor %}
-          {% if generateRow %}
-            <tr>
-              <td> <b>{{submission.event}}</b> </td>
-              <td> {{submission.date}} </td>
-            </tr>
-          {% endif %}
-        {% endfor %}
-        {% endcomment %}
+        <tr>
+          <th scope="row">Duration</th>
+          <td> {{site.data.cfp.details[plural].length}}</td>
+        </tr>
 
       </tbody>
     </table>

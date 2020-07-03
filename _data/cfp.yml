@@ -14,39 +14,39 @@ programchairsemail: program@sigcse2021.org
 
 round:
 # Paper Abstract Deadline + Pre-Symposium/Affiliated Events Deadline
-    - timestamp: "2020-08-21T00:23:59"
-      date: "Friday, August 21, 2020"
+  - timestamp: "2020-08-21T00:23:59"
+    date: "Friday, August 21, 2020"
 #  Full  Papers,  Panels,  Special  Sessions  &  Workshops
-    - timestamp: "2020-08-28T00:23:59"
-      date: "Friday, August 28, 2020"
+  - timestamp: "2020-08-28T00:23:59"
+    date: "Friday, August 28, 2020"
 # ACM SRC, BoFs,  Demos,  Lightning  Talks,  Nifty, Posters
-    - timestamp: "2020-10-23T00:23:59"
-      date: "Friday, October 23, 2020"
+  - timestamp: "2020-10-23T00:23:59"
+    date: "Friday, October 23, 2020"
 
+reviewDates:
+# 0, Paper Reviewing
+  - bidstart: "Friday, August 21, 2020"
+    bidend: "Friday, August 28, 2020"
+    reviewstart: "Saturday, August 29, 2020"
+    reviewend: "Wednesday, September 16, 2020"
+    discussionstart: "Thursday, September 17, 2020" 
+    discussionend: "Wednesday, September 23, 2020"
 
-# Paper Reviewing
-bidstart: "Friday, August 21, 2020"
-bidend: "Friday, August 28, 2020"
-reviewstart: "Saturday, August 29, 2020"
-reviewend: "Wednesday, September 16, 2020"
-discussionstart: "Thursday, September 17, 2020" 
-discussionend: "Wednesday, September 23, 2020"
+# 1, Non-Paper Reviewing
+  - bidstart: "Saturday, August 29, 2020"
+    bidend: "Wednesday, September 2, 2020"
+    reviewstart: "Thursday, September 3, 2020"
+    reviewend: "Wednesday, September 16, 2020"
+    discussionstart: "Thursday, September 17, 2020" 
+    discussionend: "Wednesday, September 23, 2020"
 
-# Round 1 Non-Paper Reviewing
-r1bidstart: "Saturday, August 29, 2020"
-r1bidend: "Wednesday, September 2, 2020"
-r1reviewstart: "Thursday, September 3, 2020"
-r1reviewend: "Wednesday, September 16, 2020"
-r1discussionstart: "Thursday, September 17, 2020" 
-r1discussionend: "Wednesday, September 23, 2020"
-
-# Round 2 Non-Paper Reviewing
-r2bidstart: "Saturday, October 24, 2020"
-r2bidend: "Tuesday, October 27, 2020"
-r2reviewstart: "Wednesday, October 28, 2020"
-r2reviewend: "Wednesday, November 11, 2020"
-r2discussionstart: "Thursday, November 12, 2020" 
-r2discussionend: "Monday, November 16, 2020"
+# 2, Non-Paper Reviewing
+  - bidstart: "Saturday, October 24, 2020"
+    bidend: "Tuesday, October 27, 2020"
+    reviewstart: "Wednesday, October 28, 2020"
+    reviewend: "Wednesday, November 11, 2020"
+    discussionstart: "Thursday, November 12, 2020" 
+    discussionend: "Monday, November 16, 2020"
 
 reviewing:
   - track: Papers

@@ -7,7 +7,7 @@ plural: "Papers"
 
 {% include submission-details.html %}
 
-## SIGCSE Technical Symposium Papers
+## SIGCSE Technical Symposium Paper Types
 
 Papers describe an educational research project, classroom experience, teaching technique, curricular initiative, or pedagogical tool. All papers should explicitly state their motivating questions, relate to relevant literature, and contain an analysis of the effectiveness of the interventions. An **abstract submission is required for all papers** and it is due a week before the full paper is due.  
 
@@ -22,7 +22,7 @@ Please ensure that you **submit your paper to the correct paper track**. Papers 
 
 * **Experience Reports and Tools**. Papers should carefully describe the development and use of a computing education approach  or tool, the  context of use, and provide a rich reflection on what did or didn’t work, and why. This track accepts experience reports, teaching techniques, and pedagogical tools. All papers in this track should provide enough detail to enable the approach or tool to be  adopted by others.
 
-* **Curricula Initiatives**. Position papers should engender fruitful academic discussion through a defensible opinion about a computing education topic, substantiated with evidence. Curricula Initiative papers discuss new and revised curricula, programs, degrees and include position papers. Papers about curricula, programs, and degrees should describe the motivating context before the new initiative was undertaken, what it took to put the initiative into place, the impact, and suggestions for others wishing to adopt it.
+* **Position and Curricula Initiative**. Position papers should engender fruitful academic discussion through a defensible opinion about a computing education topic, substantiated with evidence. Curricula Initiative papers discuss new and revised curricula, programs, degrees and include position papers. Papers about curricula, programs, and degrees should describe the motivating context before the new initiative was undertaken, what it took to put the initiative into place, the impact, and suggestions for others wishing to adopt it.
 
 ### Selecting a Track
 Please select the most appropriate track for your work.  The Program Chairs will not move papers between tracks. Any submissions made to more than one track will be desk rejected from both tracks.  
@@ -32,10 +32,8 @@ Authors may find ["What is a SIGCSE Symposium Paper?"](https://dl.acm.org/citati
 * Experience Reports and Tools papers are a deeply reflective case study or experience that is of interest to the community; they typically don't have research questions, but instead, provide a reflection on the goal of the experience.  
 * Papers that are describing a tool and its use should be submitted to the Experience Reports and Tools track.  A research study on a tool should be submitted to the Computing Education Research track.
 
-Authors are encouraged to read the [reviewer guidelines](/reviewers/paper-review-guidelines) to understand how reviewers are expected to evaluate submissions. 
-
 ### Paper Resources
-There are many resources for writing high quality papers for submission to the SIGCSE Technical Symposium.  We encourage authors to read and evaluate papers from prior SIGCSE Technical Symposium, especially those designated as *best papers*, which were selected both due to content and high quality reporting (E.g.: [for example, the SIGCSE TS 2020 best papers](https://sigcse2020.sigcse.org/online/index.html#best-papers)).  Authors will also likely find the [paper review guidelines](../reviewers/paper-review-guidelines.html) beneficial for identifying how reviewers will assess papers for each track.   Below, we list additional resources that you may find useful as you write your papers, especially computing education research papers.
+There are many resources for writing high quality papers for submission to the SIGCSE Technical Symposium.  We encourage authors to read and evaluate papers from prior SIGCSE Technical Symposium, especially those designated as *best papers*, which were selected both due to content and high quality reporting (for example the [SIGCSE TS 2020 best papers](https://sigcse2020.sigcse.org/online/index.html#best-papers)).  Authors will also likely find the [paper review guidelines](/reviewers/paper-review-guidelines.html) beneficial for identifying how reviewers will assess papers for each track.   Below, we list additional resources that you may find useful as you write your papers, especially computing education research papers.
 
 * [Writing a research question (csedresearch.org)](https://csedresearch.org/write-a-research-question/)
 * [Reporting Tips (csedresearch.org)](https://csedresearch.org/reporting-activities/)
@@ -81,7 +79,7 @@ There are many resources for writing high quality papers for submission to the S
 
 ## Details about your abstract
 
-Your abstract can be up to {{site.data.submissions.papers.abstract-limits}} and **must be submitted by the paper abstract deadline of {{site.data.cfp.round[0].date}}**.  There are no formatting requirements for the abstract. When you log in to submit the abstract, you may paste the abstract text into the form field. The abstract submission is required to have an opportunity to submit your paper; the full paper is due by **{{site.data.cfp.round[1].date}}**.
+Your abstract can be up to {{site.data.submissions.papers.abstract-limits}} and **must be submitted by the paper abstract deadline of {{site.data.cfp.round[0].date}}**.  There are no formatting requirements for the abstract. When you log in to EasyChair to submit the abstract, you may paste the abstract text into the form field. The abstract submission is required to have an opportunity to submit your paper; the full paper is due by **{{site.data.cfp.round[1].date}}**.
 
 The abstract helps reviewers bid for papers that they are qualified and interested in reviewing.  To help the bidding and reviewing process, please submit an abstract that is as close to the finished version as possible.  The Program Chairs reserve the right to desk reject abstracts that do not contain content that can help a reviewer during bidding.
 

@@ -2,10 +2,11 @@
 layout: page
 order: 1.4
 title: Panel Review Guidelines
+track: Panels
 showTitle: true
 ---
 
-{% include reviewdetails.html plural="Panels" %}
+{% include reviewdetails.html %}
 
 ## Overview
 

@@ -3,9 +3,10 @@ layout: page
 order: 2.5
 title: Poster Review Guidelines
 showTitle: true
+track: Posters
 ---
 
-{% include reviewdetails.html plural="Posters" %}
+{% include reviewdetails.html %}
 
 ## Overview
 

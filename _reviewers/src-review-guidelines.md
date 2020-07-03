@@ -3,9 +3,10 @@ layout: page
 order: 2.0
 title: ACM Student Research Competition Review Guidelines
 showTitle: true
+track: ACM Student Research Competition
 ---
 
-{% include reviewdetails.html plural="ACM Student Research Competition" %}
+{% include reviewdetails.html %}
 
 ## Overview
 

@@ -3,8 +3,10 @@ layout: page
 order: 1.2
 title: Paper Review Guidelines
 showTitle: true
+track: Papers
 ---
 
+{% include reviewdetails.html %}
 
 This document provides both [general guidelines](#general-guidelines) and [track-specific guidelines](#paper-track-guidelines) for reviewing SIGCSE Technical Symposium Papers.  
 
@@ -20,8 +22,6 @@ Here are some recommendations for writing reviews of submitted papers that help 
 
 * The best reviews clearly justify the reviewer’s choice of rating. The least valuable review gives a low score with no written comments. That simply tells the authors that they have been unsuccessful, with no indication of how or why.
 
-* The focus of your review should be on content. If you find grammatical errors, do not let it distract you from reviewing the research/work presented in the paper. 
-
 * Papers that you review are supposed to be anonymous. Your review should be based on the merits of the paper, not the reputation of the authors or their institutions. Therefore, we have asked the authors to remove all identifiable references to themselves. If the work is not anonymized, please let the Program Chairs know and continue to provide a fair and unbiased review. If you are unable to do so, please notify the Program Chairs.
 
 * We realize that reviewers sometimes know the work and can guess who the authors of the papers might be. If you recognize the work, it is your responsibility to give a fair and unbiased review, using only the information in the paper. If you do not feel that you can give a fair, unbiased review of the paper and not the authors or institutions, please contact the Program Chairs immediately.  Do NOT submit a review for the paper.  The Program Chairs can reassign as necessary.
@@ -31,6 +31,8 @@ Here are some recommendations for writing reviews of submitted papers that help 
 * We realize that occasionally anonymization requires the authors to remove information that affects your review (information that otherwise the paper appears to lack). As a reviewer, you can give the authors the benefit of the doubt. Use the ‘Confidential comments to the committee’ box to indicate this to us. Example “This paper should reference Valerie E. Taylor’s work, unless those references were removed for anonymity”).
 
 * Please point out typographic and grammatical errors; if there are too many to list, please state so in your review.
+
+* The focus of your review should be on content. If you find grammatical errors, try not let it distract you from reviewing the research/work presented in the paper. 
 
 * Although the SIGCSE Technical Symposium requires all submitted papers to be polished work and are to be reviewed as if they are the final publishable version, all authors of accepted papers get a brief opportunity to improve the presentation of their paper before the camera-ready copy is due. Your detailed feedback may help improve a paper and by extension improve the conference.
 
@@ -72,7 +74,7 @@ Please summarize the submission in 2-4 sentences in your own words. Please DO NO
 
 * The hypotheses are too obvious and the validation of them is not enough. Therefore, the contribution of this paper is quite limited.
 
-* Hard to judge given the writing organization problems, but I do not see a lot of significance here. The verification that the laboratory helped more than on-line component alone is a nice result, if it is supported by the data. Having taught this course already and collected feedback on your approach makes the paper stronger.
+* Hard to judge given the writing organization problems, but I do not see a lot of significance here. The verification that the laboratory helped more than on-line components alone is a nice result, if it is supported by the data. Having taught this course already and collected feedback on your approach makes the paper stronger.
 
 * It is important for those who might be considering this approach to know that it can be successful. If I were considering this approach I would want to know if the students could understand the code, and how deeply I could get into the material given time constraints.
 
@@ -90,38 +92,38 @@ Authors must choose the track that they feel best fits their submission.  **Revi
 
 Papers submitted to the Computing Education Research track describe an empirical computing education project.
 
-Computing Education Research papers should adhere to rigorous standards, describing research questions, hypotheses, methods, results, and limitations, as is typical and expected of research studies. These papers normally focus on topics relevant to computing education with emphasis on educational goals and knowledge units/topics; teaching and learning methods or techniques; evaluation of pedagogical approaches; studies of the many different populations that are engaged in computing education, including (but not limited to) students, instructors; and issues of gender, diversity, equity, and underrepresentation.  We welcome replication papers and papers that present null or negative results that meet the criteria below.
+Computing Education Research papers should adhere to rigorous standards, describing research questions, hypotheses, methods, results with statistical rigor (where applicable), and limitations, as is typical and expected of research studies. These papers normally focus on topics relevant to computing education with emphasis on educational goals and knowledge units/topics; instructional and learning methods or techniques  in computing education; evaluation of pedagogical approaches; studies of the many different populations that are engaged in computing education, including (but not limited to) students, instructors, teaching assistants, tutors, advisors, etc; and issues of gender, diversity, equity, and underrepresentation.  We welcome replication papers and papers that present null or negative results that meet the criteria below.
 
 For a typical paper in this track, here are some key factors to include (as an author) and to look for (as a reviewer):
 
 1. Are there one or more clearly stated research questions? Since the rest of the paper will be organized around these, it’s often good to put them in the abstract and in the first section of the paper.
-2. Are the questions of interest to the SIGCSE Technical Symposium audience?
-3. Related work in computing education
+1. Are the questions of interest to the SIGCSE Technical Symposium audience?
+1. Related work in computing education
     - Is the relevant work in computing education included? If not, a good review must give references to missing material. Simply saying “The related work section is incomplete” is not enough.
     - Do the authors clearly describe the relationship between the previous work and the current research questions? In what ways does the current project build on the previous work, and how is it different?
-4. Related work in educational theory
+1. Related work in educational theory
     - Is the project based in educational theory?  If not, should it be and what are some theories the authors should consider?
     - Is the theory described clearly, with appropriate citations?
     - Is the theory’s relationship to the current project clearly described?
-5. Is the data gathering sufficiently clearly described so that the reader could replicate it? The [reporting tips by csedresearch.org](https://csedresearch.org/guides/) have great recommendations on what data to gather and report.  Some key information to include:
+1. Is the data gathering sufficiently clearly described so that the reader could replicate it? The [reporting tips by csedresearch.org](https://csedresearch.org/guides/) have great recommendations on what data to gather and report.  Some key information to include:
     - About the data: why this particular type of data is relevant to your research questions
     - About the participants: how many, what was their background (are they instructors, students, alumni, etc.); what if any formal coursework have they had in computing; how many were men and how many women; and any other factors that are relevant to the author’s project
     - About the person(s) gathering the data: What is their relationship to the participants? For example, if the data were collected from students in a class, was the instructor one of the researchers or not?
     - About the data gathering process: did the project use surveys, interviews, samples of student work, other; If surveys or interviews, exactly what questions were asked.
 	- Six pages may not be sufficient to provide all the necessary details.  Authors may link to supplemental materials that should be blinded for review.  However, as a reviewer, you are not expected to review linked supplemental materials. 
-6. Is the data analysis process/methodology sufficiently described so that the reader could reproduce it?
+1. Is the data analysis process/methodology sufficiently described so that the reader could reproduce it?
     - What methodology was used?
     - Is the methodology described, with an appropriate citation?
     - Is the implementation of the methodology clearly enough described? How many people were involved? What process was used to resolve any disagreements?
 	- Is the analysis process/methodology appropriate for answering the research questions?
-7. Is the analysis methodology something new to computing education research that might be a contribution itself?
-8. Are the results of the analysis clearly summarized?
-9. Are the results thoroughly discussed, including:
+1. Is the analysis methodology something new to computing education research that might be a contribution itself?
+1. Are the results of the analysis clearly summarized?
+1. Are the results thoroughly discussed, including:
     - Their relationship to the research questions
     - Their relationship to previous work
     - The implications of the results for teaching
     - The implications of the results for future research
-10. Are threats to validity discussed?
+1. Are threats to validity discussed?
 
 #### Research Paper Resources
 There are many resources for writing high quality papers for submission to the SIGCSE Technical Symposium.  We encourage reviewers to read and evaluate papers from prior SIGCSE Technical Symposium, especially those designated as *best papers*, which were selected both due to content and high quality reporting. We have linked in additional resources that you may find useful as you review CS Education Research papers.

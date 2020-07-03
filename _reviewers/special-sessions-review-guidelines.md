@@ -3,9 +3,10 @@ layout: page
 order: 1.5
 title: Special Session Review Guidelines
 showTitle: true
+track: Special Sessions
 ---
 
-{% include reviewdetails.html plural="Special Sessions" %}
+{% include reviewdetails.html %}
 
 ## Overview 
 

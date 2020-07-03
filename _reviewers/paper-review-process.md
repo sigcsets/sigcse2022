@@ -5,7 +5,7 @@ title: Paper Review Process
 showTitle: true
 ---
 
-SIGCSE Technical Symposium papers are reviewed using a dual anonymous process (see below) managed through EasyChair. There are four phases to the review process: [bid](#bid), [review](#review), [discussion](#discussion), and [recommendation](#recommendation). In addition to the Program Co-Chairs, two other types of volunteers contribute to this process:
+SIGCSE Technical Symposium papers are reviewed using a dual-anonymous review process (see below) managed through EasyChair. There are four phases to the review process: [bid](#bid), [review](#review), [discussion](#discussion), and [recommendation](#recommendation). In addition to the Program Co-Chairs, two other types of volunteers contribute to this process:
 - **Reviewers** provide high-quality reviews for submissions to provide authors with feedback so they may improve their work for presentation or future submission.
 - **Associate Program Chairs** (APCs) meta-review each paper and provide a recommendation and feedback to the Program Chairs.
 
@@ -13,8 +13,8 @@ Each *paper* submission will receive 3 reviews and a meta-review.
 
 All reviews are submitted through EasyChair.  Reviewers are considered "Ordinary PC members" in EasyChair.  APCs are considered "Senior PC members" in EasyChair.
 
-### Dual Anonymous Review Process
-In the dual anonymous process, submissions are anonymized (so reviewers and APCs are unaware of the author) and reviewers and APCs are anonymous to each other and the authors.  During the discussion of a paper in EasyChair, reviewers can refer to each other by their reviewer number on that  paper’s review.
+### Dual-Anonymous Review Process
+In the dual-anonymous process, submissions are anonymized (so reviewers and APCs are unaware of the author) and reviewers and APCs are anonymous to each other and the authors.  During the discussion of a paper in EasyChair, reviewers can refer to each other by their reviewer number on that  paper’s review.
 
 ## Reviewer and APC Timeline
 
