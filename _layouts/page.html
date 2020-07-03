@@ -67,6 +67,18 @@ format: post
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 
+	{% if page.sidebar == "authors" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_authors.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+	{% if page.sidebar == "reviewers" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_reviewers.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
     {% if page.collection == "authors" %}
 	<div class="medium-4 columns">
 		{% include _sidebar_authors.html %}
