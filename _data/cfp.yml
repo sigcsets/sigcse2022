@@ -97,10 +97,10 @@ master:
     notification: "Rolling notification"
     round: 0
     types:
-      - plural: Pre-Symposium Events
+      - track: Pre-Symposium Events
         singular: Pre-Symposium Event
         include: presymposium
-      - plural: Affiliated Events
+      - track: Affiliated Events
         singular: Affiliated Event
         include: affiliated
 
@@ -108,7 +108,7 @@ master:
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     round: 0
     types:
-      - plural: Paper Abstracts
+      - track: Paper Abstracts
         singular: Paper Abstract
         include: papers
 
@@ -119,7 +119,7 @@ master:
     abstractdue: "Friday, August 23, 2020"
     round: 1
     types:
-      - plural: Papers
+      - track: Papers
         singular: Paper
         include: papers
 
@@ -129,13 +129,13 @@ master:
     cameraready: "Sunday, December 1, 2020"
     round: 1
     types:
-      - plural: Panels
+      - track: Panels
         singular: Panel
         include: panels
-      - plural: Special Sessions
+      - track: Special Sessions
         singular: Special Session
         include: specialsessions
-      - plural: Workshops
+      - track: Workshops
         singular: Workshop
         include: workshops
 
@@ -145,27 +145,27 @@ master:
     cameraready: "Sunday, December 13, 2020"
     round: 2
     types:
-      - plural: ACM Student Research Competition
+      - track: ACM Student Research Competition
         singular: ACM Student Research Competition
         include: src
-      - plural: Birds of a Feather
+      - track: Birds of a Feather
         singular: Birds of a Feather
         include: bofs
-      - plural: Demos
+      - track: Demos
         singular: demo
         include: demos
-      - plural: Lightning Talks
+      - track: Lightning Talks
         singular: Lightning Talk
         include: lightningtalks
-      - plural: Nifty Assignments
+      - track: Nifty Assignments
         singular: Nifty Assignment
         include: nifty
-      - plural: Posters
+      - track: Posters
         singular: Poster
         include: posters
 
 
-# Details are keyed off the plural from the "master" above.
+# Details are keyed off the "track" from the "master" above.
 details:
   Pre-Symposium Events:
     limits: "2 pages (including abstract of 250 words)"

@@ -2,14 +2,16 @@
 layout: page
 order: 2.2
 title: "Demo"
-plural: "Demos"
+track: "Demos"
 ---
 
 {% include submission-details.html %}
 
 ## Author Guidelines: Demos
 
-Demos provide a way to showcase an educational tool or project in a live setting. Not designed to be sales pitches, demonstrations are a way for the community to see the relevance, potential, and innovation of the tool and allow time for discussion with its creator. Demos will be a maximum of 20 minutes each, with at least 10-15 minutes allocated for answering questions. The Demo format is significantly different this year with Demos held in a regular session at a fixed timeslot, rather than during coffee breaks where the longer time slot was used to accommodate audience members arriving at different times. These changes have been introduced to accommodate all possible scenarios for running the symposium (pure virtual or hybrid combination of face-to-face and virtual)  to the best extent possible.
+Demos provide a way to showcase an educational tool or project in a live setting. Not designed to be sales pitches, demonstrations are a way for the community to see the relevance, potential, and innovation of the tool and allow time for discussion with its creator. 
+
+For SIGCSE TS 2021, Demos will be a maximum of 20 minutes each, with at least 10-15 minutes allocated for answering questions. The Demo format is significantly different this year with Demos held in a regular session at a fixed timeslot, rather than during coffee breaks where the longer time slot was used to accommodate audience members arriving at different times. These changes have been introduced to accommodate all possible scenarios for running the symposium (pure virtual or hybrid combination of face-to-face and virtual)  to the best extent possible.
 
 {% include review-anonymity.html %}
 
@@ -30,15 +32,15 @@ Demo proposals are submitted in PDF format. The full proposal contains an abstra
 
 * **Expected Audience**: Briefly describe the nature and size of the expected audience. This information will help gauge the level of interest SIGCSE Technical Symposium attendees will have in the Demo.
 
-* **Other Presenter(s)**: Although correspondence will be with the proposer above, it will be the discussion leader(s) who will be mentioned in Symposium literature. Please list any additional such names (besides the proposer) and affiliations here. Be certain that you have their commitments to attend the Symposium. All presenters must register for the SIGCSE conference and be present for the Demo session.
+* **Other Presenter(s)**: Although correspondence will be with the proposer above, it will be the discussion leader(s) who will be mentioned in Symposium literature. Please list any additional such names (besides the proposer) and affiliations here. Be certain that you have their commitments to attend the Symposium. All presenters must register for the SIGCSE Technical Symposium and be present for the Demo session.
 
 * **Expertise of Presenter(s)**: Give a summary of the qualifications of the presenter(s) as it relates to the tool/project being proposed.
 
 * **Agenda for the Demo**: Timing details would be helpful here. Explain what the attendees can expect. Be sure to budget a realistic amount of time for questions from attendees. Describe how you will interact with and engage attendees.
 
-* **Face-to-Face Audio/Visual, Computational Requirements, or Other Materials**: Indicate your A/V requirements, such as wireless access, wired access, extra power outlets, data projector or other materials that you need to use in case the Demo is going to be face-to-face, if possible. Please note that certain A/V materials and equipment will be available for all Demos. At the time of acceptance, more information about the standard vs. non-standard A/V equipment will be available.
+* **Face-to-Face Audio/Visual, Computational Requirements, or Other Materials**: Indicate your A/V requirements, such as wireless access, wired access, extra power outlets, data projector or other materials that you need to use **in case the Demo is going to be face-to-face**, if possible. Please note that certain A/V materials and equipment will be available for all Demos. At the time of acceptance, more information about the standard vs. non-standard A/V equipment will be available.
 
-* **Virtual requirements**: Indicate any specific requirements you may have in case your Demo is going to be virtual. Note that not all requirements might be met by the conferencing software used. At the time of acceptance more information about the conferencing software’s capabilities will be available.
+* **Virtual requirements**: Indicate any specific requirements you may have **in case your Demo is going to be virtual**. Note that not all requirements might be met by the conferencing software used. At the time of acceptance more information about the conferencing software’s capabilities will be available.
 
 ### Tips for Creating an Effective Demo
 

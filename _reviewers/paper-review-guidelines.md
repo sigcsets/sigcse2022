@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 1.2
+order: 1.3
 title: Paper Review Guidelines
 showTitle: true
 track: Papers
@@ -169,3 +169,5 @@ Curricula initiatives should describe new curricula, programs, and degrees, the 
     - How could the curricular innovation or proposed idea be assessed if adopted or implemented?
     - In what context can the curricular innovation or proposed idea be used (large research institutions, community colleges, high schools)?	
     - How difficult would the curricular innovation or proposed idea be to adopt it? For example, the human and financial resources needed.
+
+{% include reviewer-shared-text.html %}

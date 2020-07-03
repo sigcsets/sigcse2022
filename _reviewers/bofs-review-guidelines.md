@@ -10,7 +10,7 @@ track: Birds of a Feather
 
 ## Overview
 
-[Birds-of-a-Feather](/authors/bofs.html) Sessions provide an environment for colleagues with similar interests to meet for informal discussion. Proposers of BOF sessions should serve as discussion leaders only. BOFs are not intended to be presentations.
+[Birds-of-a-Feather](/authors/bofs) Sessions provide an environment for colleagues with similar interests to meet for informal discussion. Proposers of BOF sessions should serve as discussion leaders only. BOFs are not intended to be presentations.
 
 **Submissions are not anonymized**, though, reviewers are anonymous to the author(s) and other reviewers.
 
@@ -20,6 +20,4 @@ SIGCSE Technical Symposium workshop proposals are reviewed within EasyChair. Ple
 
 In addition to the general review process, indicate in your review whether the proposed activity/structure is reasonable with respect to chosen mode of presentation
 
-{% include reviewreminder.html %}
-
-{% include reviewers-discussion.html %}
+{% include reviewer-shared-text.html %}

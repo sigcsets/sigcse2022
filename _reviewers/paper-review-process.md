@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 1.1
+order: 1.2
 title: Paper Review Process
 showTitle: true
 ---

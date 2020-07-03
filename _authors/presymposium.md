@@ -2,7 +2,7 @@
 layout: page
 order: 3
 title: "Pre-Symposium Event"
-plural: "Pre-Symposium Events"
+track: "Pre-Symposium Events"
 ---
 
 {% include submission-details.html %}

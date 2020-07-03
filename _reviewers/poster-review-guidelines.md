@@ -10,7 +10,7 @@ track: Posters
 
 ## Overview
 
-[Posters](../authors/posters.html) provide an opportunity for an informal presentation featuring “give and take” with conference attendees. Presenting a poster is also a good way in which to discuss and receive feedback on work in progress that has not been fully developed into a paper.
+[Posters](/authors/posters) provide an opportunity for an informal presentation featuring “give and take” with conference attendees. Presenting a poster is also a good way in which to discuss and receive feedback on work in progress that has not been fully developed into a paper.
 
 Posters should not be previously published, as a paper or a poster.
 
@@ -27,4 +27,4 @@ Keep in mind that posters are meant to be a place to present and receive feedbac
 Reviewers will be asked to summarize the work; provide their familiarity with the submission topic; provide numeric scores related to background and related work, approach and uniqueness, and results and contribution; identify strengths and weaknesses of the submissions; and provide an overall evaluation.  Reviewers may provide confidential comments to the program committee to address concerns about the submission. These comments will not be shared with submitting authors.
 
 
-{% include reviewreminder.html %}
+{% include reviewer-shared-text.html %}

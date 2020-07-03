@@ -1,8 +1,8 @@
-{% assign plural = page.plural %}
+{% assign track = page.track %}
 
 {% for submission in site.data.cfp.master %}
   {% for type in submission.types %}
-    {% if type.plural == plural %}
+    {% if type.track == track %}
       {% assign subtrack = submission.round %}
       {% if subtrack >= 0 and subtrack <= 2 %}
         {% assign subdate = site.data.cfp.round[subtrack].date %}
@@ -13,7 +13,7 @@
       {% assign subnotification = submission.notification %}
       {% assign subcameraready = submission.cameraready %}
       {% assign subtimelink = submission.link %}
-      {% assign specialsubmission = site.data.cfp.details[plural].specialsubmission %}
+      {% assign specialsubmission = site.data.cfp.details[track].specialsubmission %}
       {% assign abstractdue = submission.abstractdue %}
       {% assign abstractlink = submission.abstractlink %}
     {% endif %}
@@ -22,7 +22,7 @@
 
 <!-- DEBUGGING 
 
-{{include.plural}}
+{{track}}
 
 round: {{subtrack}}
 
@@ -63,9 +63,9 @@ time: {{subtime}}
         </tr>
         <tr>
           <th scope="row">Submission Limits</th>
-          <td> {{site.data.cfp.details[plural].limits}}
-          {% if site.data.cfp.details[plural].abstract %}
-            ({{site.data.cfp.details[plural].connector}} abstract of {{site.data.cfp.details[plural].abstract}})
+          <td> {{site.data.cfp.details[track].limits}}
+          {% if site.data.cfp.details[track].abstract %}
+            ({{site.data.cfp.details[track].connector}} abstract of {{site.data.cfp.details[track].abstract}})
           {% endif %}
           </td>
         </tr>
@@ -101,7 +101,7 @@ time: {{subtime}}
 		{%endif %}
         <tr>
           <th scope="row">Duration</th>
-          <td> {{site.data.cfp.details[plural].length}}</td>
+          <td> {{site.data.cfp.details[track].length}}</td>
         </tr>
 
       </tbody>

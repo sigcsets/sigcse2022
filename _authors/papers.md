@@ -2,7 +2,7 @@
 layout: page
 order: 0
 title: "Paper"
-plural: "Papers"
+track: "Papers"
 ---
 
 {% include submission-details.html %}

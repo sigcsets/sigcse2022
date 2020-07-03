@@ -1,4 +1,4 @@
-{% capture type %}{{ page.plural | downcase }}{% endcapture %}
+{% capture type %}{{ page.track | downcase }}{% endcapture %}
 <section class="alert-box info" role="alert">
 By SIGCSE policy, {% if site.data.submissions[type].all-must-attend %}<strong>all contributors</strong> are {% else %}<strong>at least one contributor</strong> is {% endif %}required to register, attend, and present a {{ page.title | downcase }}.  See our <a href="../attendees/policies.html">full policy</a> for more information.
 </section>

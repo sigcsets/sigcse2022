@@ -2,7 +2,7 @@
 layout: page
 order: 2.1
 title: "Birds-of-a-Feather (BOF)"
-plural: "Birds of a Feather"
+track: "Birds of a Feather"
 ---
 {% include submission-details.html %}
 

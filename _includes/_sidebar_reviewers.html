@@ -3,7 +3,12 @@
 	<ul>
         {% assign posts = site.reviewers | sort: 'order' %}
         {% for post in posts %}
-        <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+			{% if post.track %}
+				{% assign anchor = post.track %}
+			{% else %}
+				{% assign anchor = post.title %}
+			{% endif %}
+	        <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ anchor }}</a></li>
         {% endfor %}
 	</ul>
 </aside>

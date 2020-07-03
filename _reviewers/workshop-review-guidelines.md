@@ -10,7 +10,7 @@ track: Workshops
 
 ## Overview
 
-Workshops provide an in-depth review of, or introduction to, a topic of interest, and should provide participants with materials and/or ideas that are immediately useful. To this end, workshop presenters should provide participants with handouts, online materials, or other tangible documents/ artifacts outlining and/or supporting the workshop material.
+[Workshops](/authors/workshops) provide an in-depth review of, or introduction to, a topic of interest, and should provide participants with materials and/or ideas that are immediately useful. To this end, workshop presenters should provide participants with handouts, online materials, or other tangible documents/ artifacts outlining and/or supporting the workshop material.
 
 ### Reviews
 
@@ -24,6 +24,5 @@ Your overall recommendation should focus on significance and relevance, anticipa
 
 In addition, feedback on, and attendance at, similar workshops that have been offered in previous years may be taken into account. This is particularly relevant for workshops that propose repeating or extending a previously offered workshop. Authors may want to review the list of workshops accepted in previous years before submitting a proposal.
 
-{% include reviewreminder.html %}
+{% include reviewer-shared-text.html %}
 
-{% include reviewers-discussion.html %}
