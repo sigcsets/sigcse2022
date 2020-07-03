@@ -12,11 +12,15 @@ track: Nifty Assignments
 
 The [Nifty Assignments](/authors/nifty) project gathers great CS assignments to make their ideas and materials freely available for the CSE community.  
 
-To review for Nifty Assignments, you need to read and evaluate 5 submissions. Each submission is an assignment along with all its materials. If you have a conflict of interest with an assignment, just write that as your evaluation and don't score it.
+Thanks for thinking about reviewing for Nifty. To review for Nifty Assignments, you need to read and evaluate 5 submissions. Each submission is an assignment along with all its materials. 
+
+{% include review-anonymity.html %}
 
 ## Review Guidelines
 
-As a reviewer, we ask that you carefully read each submission assigned to you and write a constructive review that concisely summarizes the assignment and its fit as a Nifty Assignment. When reviewing a submission, consider:
+Nifty Assignments does not use bidding or anything especially complicated about matching Reviewers with submissions. If you have a conflict of interest with an assignment, just write that as your evaluation and don't score it.
+
+As a Reviewer, we ask that you carefully read each submission assigned to you and write a constructive review that concisely summarizes the assignment and its fit as a Nifty Assignment. When reviewing a submission, consider:
 
 * Is this a great assignment?
 * Does it teach topics of interest to many?
