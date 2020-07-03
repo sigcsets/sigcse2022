@@ -8,8 +8,8 @@ sidebar: authors
 
 We have broken out submission guidelines by type. There are many ways to share the excellent work you are doing, and we would encourage you to consider all of them as you think about what would make the best vehicle for sharing your efforts with the larger community.
 
-<h2>
-	<p>Follow the links below for detailed information about submission guidelines to the submission type.</p>
+## SIGCSE TS 2021 Tracks
+Follow the links below for detailed information about submission guidelines to the submission type.
 <ul>
     {% assign posts = site.authors | sort: 'order' %}
     {% for post in posts %}
