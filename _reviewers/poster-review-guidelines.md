@@ -14,7 +14,7 @@ track: Posters
 
 Posters should not be previously published, as a paper or a poster.
 
-**New for SIGCSE 2021**, poster submissions will be reviewed using the dual-anonymous review process (see below).
+**New for SIGCSE TS 2021**, poster submissions will be reviewed using the dual-anonymous review process (see below).
 
 {% include review-anonymity.html %}
 

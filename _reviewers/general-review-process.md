@@ -16,7 +16,7 @@ This document describes the general review process for submission types listed b
 [Nifty Assignments](/reviewers/nifty-review-guidelines), and
 [Posters](/reviewers/poster-review-guidelines)  
 
-(If you are reviewing for [Papers](/authors/papers), please refer to the [Paper Review Process](/reviewers/paper-review-process) and [Paper Review Guidelines](/reviewers/paper-review-guidelines).
+**If you are reviewing for [Papers](/authors/papers), please refer** to the [Paper Review Process](/reviewers/paper-review-process) and [Paper Review Guidelines](/reviewers/paper-review-guidelines).
 
 Reviewers provide high-quality reviews for submissions to provide authors with feedback so they may improve their work for presentation or future submission. Reviewers are expected to provide constructive, specific comments in reviews that support numeric indicators.  
 
