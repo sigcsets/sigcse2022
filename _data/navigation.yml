@@ -9,3 +9,7 @@
 - title: "For Reviewers"
   url: "/reviewers/"
   side: left
+
+- title: "SIGCSE 52nd Computer Science Education Technical Symposium"
+  url: "/"
+  side: right
