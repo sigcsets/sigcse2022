@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "COVID-19 Information for SIGCSE TS 2021"
-meta_title: "COVID-19 Information for SIGCSE TS 2021"
+title: "COVID-19 Info for SIGCSE TS 2021"
+meta_title: "COVID-19 Info for SIGCSE TS 2021"
 # teaser: "COVID-19 Information for SIGCSE TS 2021"
 permalink: "/covid/"
 ---
