@@ -33,7 +33,7 @@ The full 1-to-2 page proposal is used for the review process only. If the propos
 * **Proposed Activity during BOF**: For each mode of presentation, provide a brief description of the activities you intend to engage in during the BOF.
 * **Special Requirements, if any (face-to-face presentation mode)**: Because of the informal and spontaneous nature of these sessions, A/V equipment is typically not provided. That said, please describe any pressing needs you feel you will have. Although we cannot guarantee that your requested equipment will be available, we will make every effort to let you know this well before the conference.
 
-### BOF Abstract (limited to {{site.data.submissions.bofs.abstract-limits}})
+### BOF Abstract (limited to {{site.data.submissions["birds of a feather"].abstract-limits}})
 
 The abstract is the description of the BOF that will appear on the conference website. The description is limited to and must match verbatim the abstract section of the BOF Proposal. The BOF abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information. (Abstracts of accepted BOFs can be edited in response to reviews.)
 
