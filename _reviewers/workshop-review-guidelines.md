@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 2.0
+order: 1.6
 title: Workshop Review Guidelines
 showTitle: true
 track: Workshops
