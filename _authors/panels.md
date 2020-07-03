@@ -41,7 +41,7 @@ The following modifications and exceptions do apply:
 
 - 	**Summary:** The first section should be titled Summary and should provide an expanded summary of the panel’s goals,  intended audience, and relevance to the SIGCSE community written by the moderator.
 
--	**Panel Structure:** The section following the summary should explain the panel structure and plan for audience participation and provide sufficient time for audience interaction and questions. **NEW for 2021** This section should explicitly describe how a virtual panel would be structured and run and how a hybrid panel would be structured and run.
+-	**Panel Structure:** The section following the summary should explain the panel structure and plan for audience participation and provide sufficient time for audience interaction and questions. **NEW for 2021**, this section should explicitly describe how a virtual panel would be structured and run and how a hybrid panel would be structured and run.
 
 -	**Position Statements:** The subsequent sections should contain the position statements of each panelist and a brief description of their expertise and background as it relates to the panel. Title each section by identifying the panelist.
 
