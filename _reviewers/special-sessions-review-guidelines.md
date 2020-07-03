@@ -16,7 +16,9 @@ For example, a special session might be a tutorial or seminar, a committee repor
 
 Possible topic areas include management of large classes, projects and assignments, teaching computer science in K-12, experiments on collaborative learning, report of an ACM committee addressing issues at two-year colleges, or special issues arising when teaching computing outside of North America.
 
-**Special session proposals are not anonymized.**. Criteria used in reviewing the proposals will include the likely level of interest in the session and the suitability and feasibility of the proposed format to its topic. If the proposal is accepted, all presenters listed in the special session description will be required to register for the conference and to participate in the session.
+Criteria used in reviewing the proposals will include the likely level of interest in the session and the suitability and feasibility of the proposed format to its topic. If the proposal is accepted, all presenters listed in the special session description will be required to register for the conference and to participate in the session.
+
+{% include review-anonymity.html %}
 
 ## Review 
 SIGCSE special session proposals are reviewed using EasyChair. Each proposal is assigned to at least three reviewers.

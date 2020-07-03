@@ -14,7 +14,7 @@ The [ACM Student Research Competition](/authors/src), sponsored by Microsoft Res
 
 Students whose ACM SRC abstracts that are accepted as a result of review, will be invited to make poster presentations at the conference.  The top three to five poster presenters at the undergraduate and graduate levels will be invited to present their work.  The top three will be recognized at the Saturday plenary.
 
-**ACM SRC submissions are not anonymized**, though, reviewers are anonymous to the author(s) and other reviewers.
+{% include review-anonymity.html %}
 
 ## Review Guidelines
 

@@ -12,11 +12,11 @@ track: Workshops
 
 [Workshops](/authors/workshops) provide an in-depth review of, or introduction to, a topic of interest, and should provide participants with materials and/or ideas that are immediately useful. To this end, workshop presenters should provide participants with handouts, online materials, or other tangible documents/ artifacts outlining and/or supporting the workshop material.
 
+{% include review-anonymity.html %}
+
 ### Reviews
 
 SIGCSE Technical Symposium workshop proposals are reviewed within EasyChair. Please ensure that you have followed all of the guidelines in the [General Review Process](/reviewers/general-review-process).
-
-**Workshop proposals are not anonymized**. Each proposal is assigned to at least three reviewers. 
 
 As stated in the general review guidelines, “[r]eviewers provide high-quality reviews for submissions to provide authors with feedback so they may improve their work for presentation or future submission[s].” As such, please ensure that all criticism is phrased in a constructive manner.
 

@@ -50,20 +50,19 @@ Poster presentation submissions to the SIGCSE Technical Symposium will be compet
 If SIGCSE TS 2021 is held in an on-line or hybrid format, we expect  presenters will be able to present their poster via videoconference during a dedicated time slot. We expect this would be similar to how presenters would interact with attendees in person - attendees could visit your presentation and ask questions in real time. In addition to submitting a pdf of your actual poster, we may also allow authors to submit other materials that would be posted ahead of time for attendees to view (e.g. slides, short video). More details about presentation formats and materials will be provided once the format of the conference is known.
 
 ## How Should The Proposal Be Formatted?
-{% include authorguidelines-planning.html %}
 
 New for SIGCSE TS 2021, **submissions must be anonymized for review**.  The goal of the anonymized version is to, as much as possible, allow the author(s) of the submission an unbiased review. The anonymized version should have ALL mentions of the authors removed (including author’s names and affiliation plus identifying information within the body of the submission such as websites or related publications). Self-citations need not be removed if they are worded so that the reviewer doesn’t know if the writer is citing themselves. That is, instead of writing “We reported on our first experiment in 2017 in a previous paper [1]”, the writer might write “In 2017, an initial experiment was done in this area as reported in [1].
 
 The full proposal contains an abstract, an extended abstract, and a description of your poster (as detailed below). The abstract needs to appear in two places: in the PDF proposal and in a text box on the submission page.
 
-The full proposal is used for the review process only. If the proposal is accepted, the abstract will appear on the Symposium website. The first page of your submission will appear in the Symposium proceedings. The format for the proposal is as follows.
+The full proposal is used for the review process only. If the proposal is accepted, the abstract will appear on the Symposium website. The first page of your submission will appear in the Symposium proceedings and in the ACM Digital Library. The format for the proposal is as follows.
 
 
 ### Poster Proposal Format and Contents
 
 The document submitted for review is limited to {{site.data.submissions.posters.limits}}. Proposals are to be provided in PDF format.
 
-Since SIGCSE TS 2020, **the first page of your submission will be published in the proceedings**, while the second page will be for review purposes only. Please see the template provided below for more details. 
+**New** Since SIGCSE TS 2020, **the first page of your submission will be published in the proceedings**, while the second page will be for review purposes only. Please see the template provided below for more details. 
 
 The first page of your submission (that will go into the proceedings) must adhere to ACM’s publication guidelines:
 {% include template-information.html %}
@@ -72,7 +71,7 @@ The fist page extended abstract page should include:
 
 -   **Title**: A title for the poster.
 
--   **Anonymize your submission**: Do not include author names, affiliations etc. anywhere in the submission
+-   Anonymize your submission, **do not** include author names, affiliations etc. anywhere in the submission
 
 -   **Abstract**: Limited to {{site.data.submissions.posters.abstract-limits}}. The abstract should summarize the major aspects and serve as an advertisement for your poster. Some aspects you may want to include are the objective(s) of the work being presented, preliminary results, future work, and intended audience.  The same abstract will also need to be submitted via a text box on the submission page. Please be sure that your description is accurate and that both submitted copies (here in the poster proposal, and in the submission text box) are exactly the same.
 

@@ -12,7 +12,7 @@ track: Birds of a Feather
 
 [Birds-of-a-Feather](/authors/bofs) Sessions provide an environment for colleagues with similar interests to meet for informal discussion. Proposers of BOF sessions should serve as discussion leaders only. BOFs are not intended to be presentations.
 
-**Submissions are not anonymized**, though, reviewers are anonymous to the author(s) and other reviewers.
+{% include review-anonymity.html %}
 
 ### Review Guidelines
 
