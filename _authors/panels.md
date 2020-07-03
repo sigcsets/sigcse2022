@@ -56,8 +56,8 @@ and page limits.
 
 ### Sample Proposal
 
-* [Sample proposal (PDF)](../docs/sigcse-sample-panel.pdf) *
-* [Sample proposal (Word)](../docs/sigcse-sample-panel.docx) *
+* [Sample proposal (PDF)](/docs/sigcse-sample-panel.pdf) *
+* [Sample proposal (Word)](/docs/sigcse-sample-panel.docx) *
 
 \* NOTE: This sample does not include information about a virtual/hybrid format, which is required this year.
 
