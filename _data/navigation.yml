@@ -10,6 +10,10 @@
   url: "/reviewers/"
   side: left
 
+- title: "Committee"
+  url: "/committee/"
+  side: left
+
 - title: "SIGCSE 52nd Computer Science Education Technical Symposium"
   url: "/"
   side: right

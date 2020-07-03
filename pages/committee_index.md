@@ -10,7 +10,7 @@ permalink: "/committee/"
 <a name = "{{comm[0] | remove: " " }}"></a>  <!-- create anchors from committee name with no spaces -->
 <h2>{{comm[0]}}</h2>
 <table width="100%">
-  <caption>Email: {{comm[1].email}}</caption>
+  <caption>Email: <a href="{{comm[1].email}}">{{comm[1].email}}</a></caption>
   <tr><th scope="col">Name</th><th scope="col">Institution</th></tr>
     {% for memb in comm[1].members %}
       <tr>

@@ -89,3 +89,120 @@
       inst: University of Toronto
     - name: Carsten Kleiner
       inst: University of Applied Sciences & Arts Hannover
+
+"Accessibility Liaison":
+  email: accessibility@sigcse2021.org
+  members:
+    - name: Moshen Dorodchi
+      inst: University of North Carolina, Charlotte
+
+"Pre-Symposium and Affiliated Events Team":
+  email: events@sigcse2021.org
+  members:
+    - name: Melanie Williamson
+      inst: Bluegrass Community and Technical College
+    - name: Jeffrey Stone
+      inst: Penn State University
+
+"Registration Team":
+  email: registration@sigcse2021.org
+  members:
+    - name: Cary Laxer
+      inst: Rose-Hulman Institute of Technology
+    - name: Rachelle Kristof Hippler
+      inst: Baldwin Wallace University
+    - name: Sarah Heckman
+      inst: North Carolina State University
+
+"Publications Liaison":
+  email: publications@sigcse2021.org
+  members:
+    - name: Jian Zhang
+      inst: Texas Woman's University
+
+"Web and Data Team":
+  email: webteam@sigcse2021.org
+  members:
+    - name: Adam Blank
+      inst: Cal Tech
+
+"Treasurer":
+  email: treasurer@sigcse2021.org
+  members:
+    - name: Scott McElfresh
+      inst: Christopher Newport University
+
+"Evaluations":
+  email: evaluations@sigcse2021.org
+  members:
+    - name: Leen-Kiat Soh
+      inst: University of Nebraska - Lincoln
+
+"Supporter/Exhibitor Liaisons":
+  email: exhibitor@sigcse2021.org
+  members:
+    - name: Beth Hawthorne
+      inst: Rider University
+    - name: Jodi Tims
+      inst: Northeastern University
+
+"Student Volunteers and Activities Team":
+  email: volunteers@sigcse2021.org
+  members:
+    - name: Sara Melnick
+      inst: Independent
+    - name: Mark Floryan
+      inst: University of Virginia
+    - name: Timothy Yuen
+      inst: University of Texas at San Antonio
+
+"Community College Liaison":
+  email: cc@sigcse2021.org
+  members:
+    - name: Christian Servin
+      inst: El Paso Community College
+
+"K-12 Liaisons":
+  email: k12@sigcse2021.org
+  members:
+    - name: Susan Mengel
+      inst: Texas Tech University
+    - name: Jeff Solin
+      inst: Lane Tech High School
+
+"Global Liaison":
+  email: global@sigcse2021.org
+  members:
+    - name: Brett Becker
+      inst: University College Dublin
+
+"Kids' Camp":
+  email: kidscamp@sigcse2021.org
+  members:
+    - name: Maureen Doyle
+      inst: Northern Kentucky University
+    - name: Victoria Hong
+      inst: St. Joseph's College - New York
+
+"Puzzles, Social, & Board Games":
+  email: boardgames@sigcse2021.org
+  members:
+    - name: Robbie Hott
+      inst: University of Virginia 
+
+"Publicity and Social Media":
+  email: publicity@sigcse2021.org
+  members:
+    - name: Michael Ball
+      inst: University of California, Berkeley
+    - name: Kate Lockwood
+      inst: St. Paul Academy and Summit School
+
+"Local Arrangements (Toronto)":
+  email: local@sigcse2021.org
+  members:
+    - name: Bogdan Simion
+      inst: University of Toronto Mississauga
+    - name: Brian Harrington
+      inst: University of Toronto Scarborough
+
