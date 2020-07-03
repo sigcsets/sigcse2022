@@ -1,12 +1,19 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "SIGCSE Contacts"
+# meta_title: "Contact and use our contact form"
+# subheadline: "Wufoo-powered contact forms"
+# teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+## SIGCSE TS 2021 Contacts
 
- [1]: http://www.wufoo.com/
+For symposium organizational issues:     
+Mark Sherriff and Larry Merkle, Symposium Co-Chairs ([symposium@sigcse2021.org](mailto:symposium@sigcse2021.org))
+
+For program issues:    
+Pam Cutter, Alvaro Monge, and Judy Sheard, Program Co-Chairs ([program@sigcse2021.org](mailto:program@sigcse2021.org))
+
+For exhibitor or sponsor issues:     
+([sigcse@dlplan.com](sigcse@dlplan.com))

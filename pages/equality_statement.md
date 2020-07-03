@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Statement on Inequality"
-meta_title: "Statement on Inequality"
+title: "Statement on Equity"
+meta_title: "Statement on Equity"
 # teaser: "COVID-19 Information for SIGCSE 2021"
-permalink: "/inequality/"
+permalink: "/equity/"
 ---
 To the SIGCSE Community:
 
-The SIGCSE TS 2021 leadership team wants to express support for the movement in the United States and around the world decrying racial inequality. The protests and conversations calling for reform reinforce the need for dramatic change in society.
+The SIGCSE TS 2021 leadership team wants to express support for the movement in the United States and around the world decrying racial inequity. The protests and conversations calling for reform reinforce the need for dramatic change in society.
 
 We also want to acknowledge the conversation within our own SIGCSE community regarding underrepresented minorities in our computing classrooms and in our profession.  The injustices students and faculty face from implicit bias and stereotype threat emphasize that we as educators need to do more to recognize these biases and fight against them as best we can.
 

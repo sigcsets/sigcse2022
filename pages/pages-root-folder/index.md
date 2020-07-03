@@ -18,8 +18,8 @@ widget2:
   text: 'See the Call for Papers for more information on submitting to SIGCSE 2021!'
   image: ribbons-widget.png
 widget3:
-  title: "Statement on Inequality"
-  url: '/inequality'
+  title: "Statement on Equity"
+  url: '/equity'
   image: widget-2021logo.png
   text: 'A statement from the SIGCSE TS 2021 chairs, published in the SIGCSE Bulletin.'
 #
