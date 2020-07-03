@@ -9,18 +9,19 @@ header:
   image_fullwidth: sigcse2021-header.jpg
 widget1:
   title: "COVID-19 Plans"
-  url: 'https://sigcse2021.sigcse.org/covid'
+  url: '/covid'
   image: covid-widget.png
-  text: 'The SIGCSE Board and Leadership Team are considering various options for SIGCSE 2021.  We plan to make an announcement in July.'
+  text: 'The SIGCSE Board and Leadership Team are considering various options for SIGCSE 2021.'
 widget2:
   title: "Submit to SIGCSE!"
   url: 'https://sigcse2021.sigcse.org/SIGCSE2021CFP.pdf'
   text: 'See the Call for Papers for more information on submitting to SIGCSE 2021!'
   image: ribbons-widget.png
 widget3:
-  title: "More Info Soon!"
-  image: widget-github-303x182.jpg
-  text: 'We are currently working on the 2021 website!  Please come back soon for more information about SIGCSE!'
+  title: "Statement on Inequality"
+  url: '/inequality'
+  image: widget-2021logo.png
+  text: 'A statement from the SIGCSE TS 2021 chairs, published in the SIGCSE Bulletin.'
 #
 # Use the call for action to show a button on the frontpage
 #

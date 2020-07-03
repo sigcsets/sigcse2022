@@ -1,16 +1,30 @@
 ---
 layout: page
-title: "COVID-19 Info"
+title: "COVID-19 Information for SIGCSE 2021"
 meta_title: "COVID-19 Information for SIGCSE 2021"
-teaser: "COVID-19 Information for SIGCSE 2021"
-permalink: "covid/"
+# teaser: "COVID-19 Information for SIGCSE 2021"
+permalink: "/covid/"
 ---
-The ICSE 2020 conference has gone virtual due to the current COVID-19 pandemic. However, we would like to remind you that ICSE 2021 is scheduled to be held in Madrid from May 23 to 29, 2021. As there are chances that the world will be dealing with different confinement and mobility restrictions when ICSE 2021 is due to be held, we would like you to know that we are preparing for different potential scenarios:
+Last update: July 3, 2020
 
-    If travel is not possible for some regions, we will be flexible and allow virtual presentations for affected speakers;
-    If travel is possible but some of you prefer not to make the journey, we will be flexible and allow virtual presentations for speakers preferring to stay at home;
-    If the situation is very much as it is today, ICSE 2021 will go virtual.
+As you know, the SIGCSE TS 2021 is currently scheduled for March 17-21, 2021, in Toronto, Canada.  In anticipation of potential travel restrictions due to the COVID-19 pandemic, the 2021 TS chairs and the SIGCSE Board are considering multiple delivery options for the symposium.
 
-We want to reassure everyone that any paper accepted at ICSE 2021 will be published in the proceedings. We will also guarantee valuable interaction on the papers to be presented, as well as effective networking opportunities either in face-to-face or virtual formats or through a mixture of both, depending on needs. There is, therefore, nothing to stop you from submitting to ICSE 2021.
+To help inform our decisions, we ask the community to complete a survey collecting your views for participation in the SIGCSE TS 2021 and possible options for offering the symposium.  It can be found at: [http://sigcse2021.org/participationsurvey](http://sigcse2021.org/participationsurvey)
 
-Our top priority is the safety and well-being of all ICSE 2021 participants. We look forward to meeting you all for ICSE 2021.
+Regardless of how the Technical Symposium is offered next year, we want to ensure that everyone can participate regardless of pandemic-related travel policies.  Therefore, the requirement to present in-person to be included in the proceedings will be relaxed for this year.  More specifics on how this applies to each track will be posted on the symposium website when plans have been finalized.  
+
+Our goal is to make a formal decision before the submission deadline and we will communicate with the SIGCSE community as soon as possible.
+
+As a reminder, the deadlines are:
+
+* Friday, August 21, 2020: Paper Abstracts, Pre-symposium, Affiliated Events 
+* Friday, August 28, 2020: Full Papers, Panels, Special Sessions, Workshops 
+* Friday, October 23, 2020: ACM SRC, BoFs, Demos, Lightning Talks, Nifty Assignments, Posters
+
+Thanks for your patience!
+
+Mark Sherriff and Larry Merkle     
+SIGCSE 2021 Symposium Co-Chairs
+
+Pam Cutter, Alvaro Monge, and Judy Sheard     
+SIGCSE 2021 Program Co-Chairs
