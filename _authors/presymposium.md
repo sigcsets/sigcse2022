@@ -5,8 +5,6 @@ title: "Pre-Symposium Event"
 track: "Pre-Symposium Events"
 ---
 
-{% include submission-details.html %}
-
 ## What is a Pre-Symposium Event?
 
 Pre-Symposium Events are an excellent venue for SIGCSE sub-communities to arrange their own event or meeting on the Wednesday before the SIGCSE Technical Symposium gets started. We encourage submission of events that describe existing and emerging subfields and the plan organizers have to build growth in their communities. We also encourage events that help develop new faculty and leaders in Computer Science Education.
