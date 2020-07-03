@@ -2,7 +2,6 @@
 layout: page
 title: "Statement on Equity"
 meta_title: "Statement on Equity"
-# teaser: "COVID-19 Information for SIGCSE 2021"
 permalink: "/equity/"
 ---
 To the SIGCSE Community:
@@ -16,7 +15,7 @@ We hear the call for justice and recognize that the Technical Symposium has an i
 The theme that the chairs have chosen for SIGCSE TS 2021 is "Expanding Opportunities."  In light of current events, it seems that our call for finding ways to expand computing education to all has found even more meaning - one that we hope you will consider when submitting to the Symposium.  The chairs are working on more ways to showcase work in justice, equity, diversity, and inclusion throughout the 2021 program.  
 
 Mark Sherriff and Larry Merkle     
-SIGCSE 2021 Symposium Co-Chairs
+SIGCSE TS 2021 Symposium Co-Chairs
 
 Pam Cutter, Alvaro Monge, and Judy Sheard     
-SIGCSE 2021 Program Co-Chairs
+SIGCSE TS 2021 Program Co-Chairs

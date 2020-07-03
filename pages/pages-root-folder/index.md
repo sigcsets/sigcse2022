@@ -11,11 +11,11 @@ widget1:
   title: "COVID-19 Plans"
   url: '/covid'
   image: covid-widget.png
-  text: 'The SIGCSE Board and Leadership Team are considering various options for SIGCSE 2021.'
+  text: 'The SIGCSE Board and Leadership Team are considering various options for SIGCSE TS 2021.'
 widget2:
   title: "Submit to SIGCSE!"
   url: 'https://sigcse2021.sigcse.org/SIGCSE2021CFP.pdf'
-  text: 'See the Call for Papers for more information on submitting to SIGCSE 2021!'
+  text: 'See the Call for Papers for more information on submitting to SIGCSE TS 2021!'
   image: ribbons-widget.png
 widget3:
   title: "Statement on Equity"
@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: 
-  text: Submit to SIGCSE 2021 ›
+  text: Submit to SIGCSE TS 2021 ›
   style: alert
 permalink: /index.html
 #

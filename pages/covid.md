@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "COVID-19 Information for SIGCSE 2021"
-meta_title: "COVID-19 Information for SIGCSE 2021"
-# teaser: "COVID-19 Information for SIGCSE 2021"
+title: "COVID-19 Information for SIGCSE TS 2021"
+meta_title: "COVID-19 Information for SIGCSE TS 2021"
+# teaser: "COVID-19 Information for SIGCSE TS 2021"
 permalink: "/covid/"
 ---
 Last update: July 3, 2020
@@ -24,7 +24,7 @@ As a reminder, the deadlines are:
 Thanks for your patience!
 
 Mark Sherriff and Larry Merkle     
-SIGCSE 2021 Symposium Co-Chairs
+SIGCSE TS 2021 Symposium Co-Chairs
 
 Pam Cutter, Alvaro Monge, and Judy Sheard     
-SIGCSE 2021 Program Co-Chairs
+SIGCSE TS 2021 Program Co-Chairs
