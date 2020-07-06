@@ -3,7 +3,7 @@ layout: page
 title: "Symposium Committee"
 meta_title: "Symposium Committee for SIGCSE TS 2021"
 permalink: "/committee/"
-# sidebar: committee
+sidebar: committee
 ---
 
 {% for comm in site.data.committee %}
