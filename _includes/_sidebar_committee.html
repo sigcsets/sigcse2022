@@ -1,0 +1,10 @@
+<aside class="panel radius">
+	<h3>Symposium Committee</h3>
+	<ul>
+        {% for comm in site.data.committee %}
+		<li><a href = "#{{comm[0] | remove: " " }}">{{comm[0]}}</a></li>  <!-- create anchors from committee name with no spaces -->
+		
+    	{% endfor %}
+
+	</ul>
+</aside>
