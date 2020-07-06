@@ -7,4 +7,6 @@ permalink: "/info/"
 header:
     image_fullwidth: "sigcse2021-header.jpg"
 ---
+The Technical Symposium on Computer Science Education is organized by the ACM Special Interest Group on Computer Science Education (SIGCSE) and is the organization’s flagship conference. It has been held annually in February or March in North America since 1970. The SIGCSE organization provides a forum for educators to discuss issues related to the development, implementation, and/or evaluation of computing programs, curricula, and courses, as well as syllabi, laboratories, and other elements of teaching and pedagogy.
+
 For more about the Special Interest Group on Computer Science Education, please go to [https://sigcse.org/sigcse/](https://sigcse.org/sigcse/).
