@@ -7,6 +7,8 @@ track: "Workshops"
 
 {% include submission-details.html %}
 
+{% include covid-guidelines-alert.html %}
+
 ## Author guidelines: Workshops 
 
 Workshops provide an in-depth review of, or introduction to, a topic of interest to the SIGCSE community. A successful workshop should provide participants with materials and/or ideas that are immediately useful to the workshop participants. To this end, workshop presenters should provide participants with resources and experiences participants find valuable.

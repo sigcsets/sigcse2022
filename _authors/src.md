@@ -7,6 +7,8 @@ track: "ACM Student Research Competition"
 
 {% include submission-details.html %}
 
+{% include covid-guidelines-alert.html %}
+
 ## ACM Student Research Competition
 
 The ***ACM Student Research Competition*** held at the 

@@ -7,6 +7,8 @@ track: "Demos"
 
 {% include submission-details.html %}
 
+{% include covid-guidelines-alert.html %}
+
 ## Author Guidelines: Demos
 
 Demos provide a way to showcase an educational tool or project in a live setting. Not designed to be sales pitches, demonstrations are a way for the community to see the relevance, potential, and innovation of the tool and allow time for discussion with its creator. 

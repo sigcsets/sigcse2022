@@ -7,6 +7,8 @@ track: "Lightning Talks"
 
 {% include submission-details.html %}
 
+{% include covid-guidelines-alert.html %}
+
 ## Author Guidelines: Lightning Talks
 
 Lightning Talks describe works in progress, new and untested ideas, or opportunities for collaborative work. The purpose of a Lightning Talk can be to start a discussion, find collaborators, or receive input and critique about an idea. Proposals are limited to 500 words, including the abstract of 250 words, and will be **reviewed with a dual-anonymous process** for acceptance. Lightning Talk presentations will be a maximum of 5 minutes each. Presenters may use slides, but these must be submitted to the Lightning Talks chair a few days before the presentation.

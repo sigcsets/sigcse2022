@@ -7,6 +7,8 @@ track: "Nifty Assignments"
 
 {% include submission-details.html %}
 
+{% include covid-guidelines-alert.html %}
+
 ## Author guidelines: Nifty Assignments
 
 The [Nifty Assignments project](http://nifty.stanford.edu/) gathers great CS assignments to make their ideas and materials freely available for the CSE community.  Do you have a great assignment you would like to share with other educators? We'd love to have you apply to Nifty Assignments!

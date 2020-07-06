@@ -7,6 +7,8 @@ track: "Papers"
 
 {% include submission-details.html %}
 
+{% include covid-guidelines-alert.html %}
+
 ## SIGCSE Technical Symposium Paper Types
 
 Papers describe an educational research project, classroom experience, teaching technique, curricular initiative, or pedagogical tool. All papers should explicitly state their motivating questions, relate to relevant literature, and contain an analysis of the effectiveness of the interventions. An **abstract submission is required for all papers** and it is due a week before the full paper is due.  

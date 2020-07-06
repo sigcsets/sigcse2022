@@ -7,6 +7,8 @@ track: "Special Sessions"
 
 {% include submission-details.html %}
 
+{% include covid-guidelines-alert.html %}
+
 ## Author Guidelines: Special Session
 
 Special sessions are your opportunity to customize and experiment with the SIGCSE Technical Symposium format. Special sessions should NOT replicate existing session formats (i.e., panels, paper presentations, poster sessions, etc.) that are part of the SIGCSE  Technical Symposium. They are scheduled in standard conference spaces. Within these constraints, the form is yours to design.

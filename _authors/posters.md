@@ -7,6 +7,7 @@ track: "Posters"
 
 {% include submission-details.html %}
 
+{% include covid-guidelines-alert.html %}
 
 ## Author Guidelines: Posters
 

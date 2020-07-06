@@ -6,6 +6,8 @@ track: "Birds of a Feather"
 ---
 {% include submission-details.html %}
 
+{% include covid-guidelines-alert.html %}
+
 ## Author Guidelines: Birds-of-a-Feather (BOF)
 
 Birds-of-a-Feather (BOF) Sessions provide an environment for colleagues with similar interests to meet for informal discussion. Proposers of BOF sessions should serve as discussion leaders only. BOFs are not intended to be presentations.
