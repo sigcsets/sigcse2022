@@ -116,7 +116,7 @@ master:
   - time: "23:59 AoE (Anywhere on Earth, UTC-12h)"
     notification: "Friday, October 9, 2020"
     cameraready: "Sunday, December 1, 2020"
-    abstractdue: "Friday, August 23, 2020"
+    abstractdue: "Friday, August 21, 2020"
     round: 1
     types:
       - track: Papers
