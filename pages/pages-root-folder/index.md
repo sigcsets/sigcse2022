@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: https://easychair.org/conferences/?conf=sigcse-ts2021
-  text: Submit to SIGCSE TS 2021! ›
+  text: Login to EasyChair ›
   style: alert
 permalink: /index.html
 #
