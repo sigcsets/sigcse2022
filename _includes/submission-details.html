@@ -42,6 +42,15 @@ time: {{subtime}}
 
 <div class="table-responsive" style="margin-top: 20px;">
   <table class="table">
+      <thead>
+        <tr> <!-- TODO: automate this, currently code must be modified  -->
+          {% if site.data.cfp.submissionopen and subtrack < 2 %}
+            <th colspan="2" style="text-align: center;">Now accepting submissions!</th>
+          {% else %}
+            <th colspan="2" style="text-align: center;">Submissions open in September</th>
+          {% endif %}
+        </tr>
+      </thead>
       <tbody>
         {% if abstractdue %}
         <tr>

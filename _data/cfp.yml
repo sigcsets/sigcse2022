@@ -1,5 +1,5 @@
 
-submissionopen: false
+submissionopen: true
 submissionurl: "https://easychair.org/conferences/?conf=sigcse-ts2021"
 
 camerareadyinstructionsopen: false
@@ -11,6 +11,14 @@ reviewer-signup: http://sigcse2021.org/review
 symposiumchairsemail: symposium@sigcse2021.org
 programchairsemail: program@sigcse2021.org
 
+# Number of topic areas specified in EasyChair
+topics:
+  submission: 
+    min: 3
+    max: 7
+  reviewers:
+    min: 5
+    max: 15
 
 round:
 # Paper Abstract Deadline + Pre-Symposium/Affiliated Events Deadline
