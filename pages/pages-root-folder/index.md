@@ -32,10 +32,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-# callforaction:
-#   url: 
-#   text: Submit to SIGCSE TS 2021 ›
-#   style: alert
+callforaction:
+  url: https://easychair.org/conferences/?conf=sigcse-ts2021
+  text: Submit to SIGCSE TS 2021! ›
+  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
