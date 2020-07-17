@@ -91,7 +91,7 @@ Authors **must submit ONLY an anonymized version of the paper**. The goal of the
 
 If the paper is accepted for the conference and for publication, authors will be asked to complete a camera-ready copy that will include all appropriate author names, citations, and references.
 
-The paper is limited to a maximum of {{site.data.submissions.papers.limits}} and must adhere to ACM's publication guidelines:
+The paper is limited to a **maximum of {{site.data.submissions.papers.limits}}**. The seventh page must only contain references, no other content is accepted. The Program Co-Chairs will *desk reject any submissions that deviate from this or other formatting requirements*. Submissions must adhere to ACM's publication guidelines:
 
 {% include template-information.html %}
 
