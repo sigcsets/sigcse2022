@@ -24,7 +24,7 @@ format: post
 
 				<div itemprop="name">
 					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
-                    {% if page.collection == "authors" %}
+                    {% if page.collection == "authors" and page.track != 'CFP' %}
 					    <h1>{{ page.title }} Submission Information</h1>
                     {% else %}
 					    <h1>{{ page.title }}</h1>
