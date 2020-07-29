@@ -12,7 +12,7 @@ track: Affiliated Events
 
 ## What is an Affiliated Event?
 
-Affiliated Events are an excellent venue for SIGCSE sub-communities or groups to arrange a time to gather and present or discuss topics of interest, typically over a meal or during a reception **during the conference**. We encourage submission of affiliated events that describe existing and emerging subfields, areas and groups of diversity, and bringing together communities of practice.
+Affiliated Events are an excellent venue for SIGCSE TS sub-communities or groups to arrange a time to gather and present or discuss topics of interest, typically over a meal or during a reception **during the conference**. We encourage submission of affiliated events that describe existing and emerging subfields, areas and groups of diversity, and bringing together communities of practice.
 
 We encourage sub-communities to gather in their own affiliated events by submitting an affiliated event proposal that should include a description of the event and its importance and relevance and the proposed format for the event.  **[Please note there is a charge for holding an Affiliated Event to help defray costs. Food & beverage and A/V needs beyond the standard set up will be at the organizers own expense.](#logistics)**
 
@@ -20,7 +20,7 @@ If your affiliated event is accepted, affiliated events organizers invite member
 
 **Proposals undergo review but not anonymous review.**  Affiliated events will be selected based on availability.
 
-**SIGCSE Supporters interested in holding an Affiliated Event should contact sigcse@dlplan.com for more information.**
+**SIGCSE TS Supporters interested in holding an Affiliated Event should contact sigcse@dlplan.com for more information.**
 
 ## How Should The Proposal Be Formatted?
 
@@ -78,4 +78,4 @@ If the event will be held in person, food and beverage must be paid by the Affil
 If the event will be held in person, the standard room setup consists of a screen, projector, and microphone.  There will be a charge for any A/V items that you request beyond the standard A/V set. You will be provided with an online portal to order and pay for those items.
 
 ### Registration
-Registration for the event must be handled by the Affiliated Event organizers and will not be handled by the SIGCSE registration system.
+Registration for the event must be handled by the Affiliated Event organizers and will not be handled by the SIGCSE TS registration system.

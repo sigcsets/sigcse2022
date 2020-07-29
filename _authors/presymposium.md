@@ -11,7 +11,7 @@ track: "Pre-Symposium Events"
 
 ## What is a Pre-Symposium Event?
 
-Pre-Symposium Events are an excellent venue for SIGCSE sub-communities to arrange their own event or meeting on the Wednesday before the SIGCSE Technical Symposium gets started. We encourage submission of events that describe existing and emerging subfields and the plan organizers have to build growth in their communities. We also encourage events that help develop new faculty and leaders in Computer Science Education.
+Pre-Symposium Events are an excellent venue for SIGCSE TS sub-communities to arrange their own event or meeting on the Wednesday before the SIGCSE Technical Symposium gets started. We encourage submission of events that describe existing and emerging subfields and the plan organizers have to build growth in their communities. We also encourage events that help develop new faculty and leaders in Computer Science Education.
 
 The SIGCSE TS 2021 organizers have a vision to encourage sub-communities to organize their own events by submitting a pre-symposium event proposal that should include a description of the event and its importance and relevance, the proposed organizing committee and, if appropriate, the program committee, and the proposed format for the event.  **[Please note there is a charge for holding a Pre-symposium Event to help defray costs. Food & beverage and A/V needs beyond the standard set up will be at the organizers own expense.](#logistics)**
 
@@ -21,7 +21,7 @@ Please note the following:
 
 * Pre-Symposium events participants should also register for the SIGCSE Technical Symposium.
 * Pre-Symposium events must supply their own registration sites.  Registration for your Pre-Symposium event will not be handled through SIGCSE Technical Symposium registration systems. 
-* We will link to your Pre-Symposium event URL provided as part of registration from the SIGCSE webpages.  This should be the URL that will contain information about your event, logistics, and applications/registration.
+* We will link to your Pre-Symposium event URL provided as part of registration from the SIGCSE TS webpages.  This should be the URL that will contain information about your event, logistics, and applications/registration.
 
 **Proposals undergo review but not anonymous review.**  Acceptance is based on availability.
 
@@ -89,6 +89,6 @@ If the event will be held in person, food and beverage must be paid by the Affil
 If the event will be held in person, the standard room setup consists of a screen, projector, and microphone.  There will be a charge for any A/V items that you request beyond the standard A/V set. You will be provided with an online portal to order and pay for those items.
 
 ### Registration
-Registration for the event must be handled by the Affiliated Event organizers and will not be handled by the SIGCSE registration system.
+Registration for the event must be handled by the Affiliated Event organizers and will not be handled by the SIGCSE TS registration system.
 
 
