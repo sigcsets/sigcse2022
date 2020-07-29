@@ -9,8 +9,6 @@ track: "Pre-Symposium Events"
 
 {% include covid-guidelines-alert.html %}
 
-TEST Virtual Push 2 2
-
 ## What is a Pre-Symposium Event?
 
 Pre-Symposium Events are an excellent venue for SIGCSE TS sub-communities to arrange their own event or meeting on the Wednesday before the SIGCSE Technical Symposium gets started. We encourage submission of events that describe existing and emerging subfields and the plan organizers have to build growth in their communities. We also encourage events that help develop new faculty and leaders in Computer Science Education.
@@ -83,12 +81,6 @@ The logistics information for Pre-Symposium Events are detailed below.  Once the
 
 ### Charge
 Pre-Symposium Events will be charged a fee to help defray costs.  The exact costs have not been determined yet due to current COVID-19 related plans.  We will update this page as soon as more information is known.
-  
-### Food and Beverage
-If the event will be held in person, food and beverage must be paid by the Affiliated Event organizers directly to the convention center.
-
-### Audio/Visual
-If the event will be held in person, the standard room setup consists of a screen, projector, and microphone.  There will be a charge for any A/V items that you request beyond the standard A/V set. You will be provided with an online portal to order and pay for those items.
 
 ### Registration
 Registration for the event must be handled by the Affiliated Event organizers and will not be handled by the SIGCSE TS registration system.
