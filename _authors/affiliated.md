@@ -70,12 +70,6 @@ The logistics information for Affiliated Events are detailed below.  Once the Af
 
 ### Charge
 Affiliated Events will be charged a fee to help defray costs.  The exact costs have not been determined yet due to current COVID-19 related plans.  We will update this page as soon as more information is known.
-  
-### Food and Beverage
-If the event will be held in person, food and beverage must be paid by the Affiliated Event organizers directly to the convention center.
-
-### Audio/Visual
-If the event will be held in person, the standard room setup consists of a screen, projector, and microphone.  There will be a charge for any A/V items that you request beyond the standard A/V set. You will be provided with an online portal to order and pay for those items.
 
 ### Registration
 Registration for the event must be handled by the Affiliated Event organizers and will not be handled by the SIGCSE TS registration system.
