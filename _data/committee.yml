@@ -7,7 +7,7 @@
     - name: Larry Merkle
       inst: Air Force Institute of Technology
 
-"Program Chairs":
+"Program Co-Chairs":
   email: program@sigcse2021.org
   members:
     - name: Pam Cutter
@@ -19,190 +19,238 @@
     - name: Judithe Sheard
       inst: Monash University
 
-"Posters Team":
-  email: posters@sigcse2021.org
-  members:
-    - name: Ruth Anderson
-      inst: University of Washington
+"Program Committee":
+  "Posters":
+    email: posters@sigcse2021.org
+    members:
+      - name: Ruth Anderson
+        inst: University of Washington
 
-    - name: Lina Battestilli
-      inst: North Carolina State University
+      - name: Lina Battestilli
+        inst: North Carolina State University
 
-"Birds of a Feather Team":
-  email: bofs@sigcse2021.org
-  members:
-    - name: Meghan Allen
-      inst: University of British Columbia
+  "Birds of a Feather":
+    email: bofs@sigcse2021.org
+    members:
+      - name: Meghan Allen
+        inst: University of British Columbia
 
-    - name: Dale-Marie Wilson
-      inst: University of North Carolina Charlotte
+      - name: Dale-Marie Wilson
+        inst: University of North Carolina Charlotte
 
-"Pre-Symposium and Affiliated Events Team":
-  email: events@sigcse2021.org
-  members:
-    - name: Jeffrey Stone
-      inst: Penn State University
+  "Pre-Symposium and Affiliated Events":
+    email: events@sigcse2021.org
+    members:
+      - name: Jeffrey Stone
+        inst: Penn State University
 
-    - name: Melanie Williamson
-      inst: Bluegrass Community and Technical College
+      - name: Melanie Williamson
+        inst: Bluegrass Community and Technical College
 
-"Panels and Special Sessions Team":
-  email: panels@sigcse2021.org
-  members:
-    - name: Christine Alvarado
-      inst: University of California, San Diego
+  "Panels and Special Sessions":
+    email: panels@sigcse2021.org
+    members:
+      - name: Christine Alvarado
+        inst: University of California, San Diego
 
-    - name: Ben Stephenson
-      inst: University of Calgary
+      - name: Ben Stephenson
+        inst: University of Calgary
 
 
-"ACM Student Research Competition Team":
-  email: src@sigcse2021.org
-  members:
-    - name: Stan Kurkovsky
-      inst: Central Connecticut State University
-    - name: Muztaba Fuad
-      inst: Winston-Salem State University
+  "ACM Student Research Competition":
+    email: src@sigcse2021.org
+    members:
+      - name: Stan Kurkovsky
+        inst: Central Connecticut State University
+      - name: Muztaba Fuad
+        inst: Winston-Salem State University
 
-"Workshops Team":
-  email: workshops@sigcse2021.org
-  members:
-    - name: Dennis Bouvier
-      inst: Southern Illinois University Edwardsville
+  "Workshops":
+    email: workshops@sigcse2021.org
+    members:
+      - name: Dennis Bouvier
+        inst: Southern Illinois University Edwardsville
 
-    - name: S. Monisha Pulimood
-      inst: The College of New Jersey
+      - name: S. Monisha Pulimood
+        inst: The College of New Jersey
 
-"Nifty Assignments Team":
-  email: nifty@sigcse2021.org
-  members:
-    - name: Nick Parlante
-      inst: Stanford University
+  "Nifty Assignments":
+    email: nifty@sigcse2021.org
+    members:
+      - name: Nick Parlante
+        inst: Stanford University
 
-    - name: Julie Zelenski
-      inst: Stanford University
+      - name: Julie Zelenski
+        inst: Stanford University
 
-"Demos and Lightning Talks Team":
-  email: demos@sigcse2021.org
-  members:
-    - name: Jennifer Campbell
-      inst: University of Toronto
-    - name: Carsten Kleiner
-      inst: University of Applied Sciences & Arts Hannover
+  "Demos and Lightning Talks":
+    email: demos@sigcse2021.org
+    members:
+      - name: Jennifer Campbell
+        inst: University of Toronto
+      - name: Carsten Kleiner
+        inst: University of Applied Sciences & Arts Hannover
 
-"Accessibility Liaison":
-  email: accessibility@sigcse2021.org
-  members:
-    - name: Moshen Dorodchi
-      inst: University of North Carolina, Charlotte
 
-"Pre-Symposium and Affiliated Events Team":
-  email: events@sigcse2021.org
-  members:
-    - name: Melanie Williamson
-      inst: Bluegrass Community and Technical College
-    - name: Jeffrey Stone
-      inst: Penn State University
+"Organizing Committee":
+  "Accessibility Liaison":
+    email: accessibility@sigcse2021.org
+    members:
+      - name: Moshen Dorodchi
+        inst: University of North Carolina, Charlotte
 
-"Registration Team":
-  email: registration@sigcse2021.org
-  members:
-    - name: Cary Laxer
-      inst: Rose-Hulman Institute of Technology
-    - name: Rachelle Kristof Hippler
-      inst: Baldwin Wallace University
-    - name: Sarah Heckman
-      inst: North Carolina State University
+  "Pre-Symposium and Affiliated Events":
+    email: events@sigcse2021.org
+    members:
+      - name: Melanie Williamson
+        inst: Bluegrass Community and Technical College
+      - name: Jeffrey Stone
+        inst: Penn State University
 
-"Publications Liaison":
-  email: publications@sigcse2021.org
-  members:
-    - name: Jian Zhang
-      inst: Texas Woman's University
+  "Registration":
+    email: registration@sigcse2021.org
+    members:
+      - name: Cary Laxer
+        inst: Rose-Hulman Institute of Technology
+      - name: Rachelle Kristof Hippler
+        inst: Baldwin Wallace University
+      - name: Sarah Heckman
+        inst: North Carolina State University
 
-"Web and Data Team":
-  email: webteam@sigcse2021.org
-  members:
-    - name: Adam Blank
-      inst: Cal Tech
+  "Publications Liaison":
+    email: publications@sigcse2021.org
+    members:
+      - name: Jian Zhang
+        inst: Texas Woman's University
 
-"Treasurer":
-  email: treasurer@sigcse2021.org
-  members:
-    - name: Scott McElfresh
-      inst: Christopher Newport University
+  "Web and Data":
+    email: webteam@sigcse2021.org
+    members:
+      - name: Adam Blank
+        inst: Cal Tech
 
-"Evaluations":
-  email: evaluations@sigcse2021.org
-  members:
-    - name: Leen-Kiat Soh
-      inst: University of Nebraska - Lincoln
+  "Treasurer":
+    email: treasurer@sigcse2021.org
+    members:
+      - name: Scott McElfresh
+        inst: Christopher Newport University
 
-"Supporter/Exhibitor Liaisons":
-  email: exhibitor@sigcse2021.org
-  members:
-    - name: Beth Hawthorne
-      inst: Rider University
-    - name: Jodi Tims
-      inst: Northeastern University
+  "Evaluations":
+    email: evaluations@sigcse2021.org
+    members:
+      - name: Leen-Kiat Soh
+        inst: University of Nebraska - Lincoln
 
-"Student Volunteers and Activities Team":
-  email: volunteers@sigcse2021.org
-  members:
-    - name: Sara Melnick
-      inst: Independent
-    - name: Mark Floryan
-      inst: University of Virginia
-    - name: Timothy Yuen
-      inst: University of Texas at San Antonio
+  "Supporter/Exhibitor Liaisons":
+    email: exhibitor@sigcse2021.org
+    members:
+      - name: Beth Hawthorne
+        inst: Rider University
+      - name: Jodi Tims
+        inst: Northeastern University
 
-"Community College Liaison":
-  email: cc@sigcse2021.org
-  members:
-    - name: Christian Servin
-      inst: El Paso Community College
+  "Student Volunteers and Activities":
+    email: volunteers@sigcse2021.org
+    members:
+      - name: Sara Melnick
+        inst: Independent
+      - name: Mark Floryan
+        inst: University of Virginia
+      - name: Timothy Yuen
+        inst: University of Texas at San Antonio
 
-"K-12 Liaisons":
-  email: k12@sigcse2021.org
-  members:
-    - name: Susan Mengel
-      inst: Texas Tech University
-    - name: Jeff Solin
-      inst: Lane Tech High School
+  "Community College Liaison":
+    email: cc@sigcse2021.org
+    members:
+      - name: Christian Servin
+        inst: El Paso Community College
 
-"Global Liaison":
-  email: global@sigcse2021.org
-  members:
-    - name: Brett Becker
-      inst: University College Dublin
+  "K-12 Liaisons":
+    email: k12@sigcse2021.org
+    members:
+      - name: Susan Mengel
+        inst: Texas Tech University
+      - name: Jeff Solin
+        inst: Lane Tech High School
 
-"Kids' Camp":
-  email: kidscamp@sigcse2021.org
-  members:
-    - name: Maureen Doyle
-      inst: Northern Kentucky University
-    - name: Victoria Hong
-      inst: St. Joseph's College - New York
+  "Global Liaison":
+    email: global@sigcse2021.org
+    members:
+      - name: Brett Becker
+        inst: University College Dublin
 
-"Puzzles, Social, & Board Games":
-  email: boardgames@sigcse2021.org
-  members:
-    - name: Robbie Hott
-      inst: University of Virginia 
+  "Kids' Camp":
+    email: kidscamp@sigcse2021.org
+    members:
+      - name: Maureen Doyle
+        inst: Northern Kentucky University
+      - name: Victoria Hong
+        inst: St. Joseph's College - New York
 
-"Publicity and Social Media":
-  email: publicity@sigcse2021.org
-  members:
-    - name: Michael Ball
-      inst: University of California, Berkeley
-    - name: Kate Lockwood
-      inst: St. Paul Academy and Summit School
+  "Puzzles, Social, & Board Games":
+    email: boardgames@sigcse2021.org
+    members:
+      - name: Robbie Hott
+        inst: University of Virginia 
 
-"Local Arrangements (Toronto)":
-  email: local@sigcse2021.org
-  members:
-    - name: Bogdan Simion
-      inst: University of Toronto Mississauga
-    - name: Brian Harrington
-      inst: University of Toronto Scarborough
+  "Publicity and Social Media":
+    email: publicity@sigcse2021.org
+    members:
+      - name: Michael Ball
+        inst: University of California, Berkeley
+      - name: Kate Lockwood
+        inst: St. Paul Academy and Summit School
+
+  "Local Arrangements (Toronto)":
+    email: local@sigcse2021.org
+    members:
+      - name: Bogdan Simion
+        inst: University of Toronto Mississauga
+      - name: Brian Harrington
+        inst: University of Toronto Scarborough
+
+  "SIGCSE Board Liaison":
+    members: 
+      - name:	Manuel Pérez-Quiñones
+        inst: University of North Carolina at Charlotte
+
+
+"Global Committee":
+  members: 
+   - name: Roberto Bittencourt
+     inst: State University of Feira de Santana
+   - name: Steven Bradley
+     inst: Durham University
+   - name: Jennifer Campbell
+     inst: University of Toronto
+   - name: Ernesto Cuadros-Vargas
+     inst: UTEC, Peru
+   - name: Paul Denny
+     inst: University of Auckland
+   - name: Rodrigo Duran
+     inst: Aalto University
+   - name: Orit Hazzan
+     inst: Technion, Israel
+   - name: Arto Hellas
+     inst: University of Helsinki
+   - name: Amey Karkare
+     inst: IIT Kanpur
+   - name: Carsten Kleiner
+     inst: University of Applied Sciences & Arts Hannover
+   - name: Viraj Kumar
+     inst: Indian Institute of Science
+   - name: Chao Mbogo
+     inst: Kenya Methodist University
+   - name: Chris McDonald
+     inst: University of Western Australia
+   - name: André Santos
+     inst: Instituto Universitário de Lisboa
+   - name: Lenandlar Singh
+     inst: University of Guyana
+   - name: Hironori Washizaki
+     inst: Waseda University, Japan
+   - name: Gary Wong
+     inst: University of Hong Kong
+   - name: Ming Zhang
+     inst: Peking University
 
