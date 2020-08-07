@@ -34,7 +34,7 @@ table.multibody tbody:hover, tbody:hover th[rowspan], tbody:hover td[rowspan], t
     <tbody>
       <tr><th scope="row" rowspan="{{team_rows}}">{{team[0]}}<br/>
         {% if team[1].email %}
-          Email: <a href="{{team[1].email}}">{{team[1].email}}</a>
+          Email: <a href="mailto:{{team[1].email}}">{{team[1].email}}</a>
         {% endif %}
       </th></tr>
       {% for member in team[1].members %}
@@ -53,7 +53,7 @@ table.multibody tbody:hover, tbody:hover th[rowspan], tbody:hover td[rowspan], t
 {% else %}
 <h2>{{comm[0]}}</h2>
 {% if comm[1].email %}
-<p>Email: <a href="{{comm[1].email}}">{{comm[1].email}}</a></p>
+<p>Email: <a href="mailto:{{comm[1].email}}">{{comm[1].email}}</a></p>
 {% endif %}
   <table width="100%">
     <tr><th scope="col">Name</th><th scope="col">Institution</th></tr>
