@@ -79,7 +79,7 @@ time: {{subtime}}
           </td>
         </tr>
 
-        {% if site.data.cfp.submissionopen %}
+        {% if site.data.cfp.submissionopen and subtrack < 2 %} <!-- TODO: change for Round 2! -->
         <tr>
           <th scope="row">Submission Link</th>
           <td>
