@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: sigcse2021-header.jpg
 widget1:
-  title: "COVID-19 Plans"
-  url: '/covid'
-  image: covid-widget.png
-  text: 'The SIGCSE Board and Leadership Team are considering various options for SIGCSE TS 2021.'
+  title: "Virtual SIGCSE TS 2021!"
+  url: '/virtual_faq'
+  image: widget-1-302x182.jpg
+  text: 'SIGCSE TS 2021 is officially a fully virtual event!  Click here to read more!'
 widget2:
   title: "Submit to SIGCSE TS!"
   url: '/authors'
