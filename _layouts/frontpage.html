@@ -24,8 +24,8 @@ format: frontpage
 		{% include _frontpage-widget.html widget=page.widget2 %}
 	{% endif %}
 
-	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
-		{% include _frontpage-widget.html widget=page.widget3 %}
+	{% if page.aside %}
+		{% include _frontpage-aside-widget.html %}
 	{% endif %}
 </div><!-- /.row -->
 

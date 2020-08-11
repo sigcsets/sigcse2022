@@ -12,12 +12,12 @@ widget1:
   url: '/covid'
   image: covid-widget.png
   text: 'The SIGCSE Board and Leadership Team are considering various options for SIGCSE TS 2021.'
+# widget2:
+#   title: "Submit to SIGCSE TS!"
+#   url: '/authors'
+#   text: 'See the Call for Papers for more information on submitting to SIGCSE TS 2021!'
+#   image: ribbons-widget.png
 widget2:
-  title: "Submit to SIGCSE TS!"
-  url: '/authors'
-  text: 'See the Call for Papers for more information on submitting to SIGCSE TS 2021!'
-  image: ribbons-widget.png
-widget3:
   title: "Statement on Equity"
   url: '/equity'
   image: widget-2021logo.png
@@ -42,13 +42,5 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+aside: true
 ---
-
-<aside class="panel radius">
-	<h3>Important Dates</h3>
-	<ul>
-        <li>Friday, August 21 - Paper Abstracts Due</li>
-        <li>Friday, August 28 - Round 1 Submissions Due</li>
-        <li>Friday, October 23 - Round 2 Submissions Due</li>
-	</ul>
-</aside>
