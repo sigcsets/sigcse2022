@@ -43,3 +43,12 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+<aside class="panel radius">
+	<h3>Important Dates</h3>
+	<ul>
+        <li>Friday, August 21 - Paper Abstracts Due</li>
+        <li>Friday, August 28 - Round 1 Submissions Due</li>
+        <li>Friday, October 23 - Round 2 Submissions Due</li>
+	</ul>
+</aside>
