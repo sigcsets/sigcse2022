@@ -32,7 +32,7 @@ round:
     date: "Friday, October 23, 2020"
 # Pre-Symposium/Affiliated Events
   - timestamp: "None"
-    date: "Rolling Submissions"
+    date: "Rolling submissions"
 
 reviewDates:
 # 0, Paper Reviewing
