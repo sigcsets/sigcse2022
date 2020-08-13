@@ -13,7 +13,7 @@ track: "Pre-Symposium Events"
 
 {% include alert info='Current as of August 13 2020' %}
 
-{% include alert info='We are still establishing new policies for pre-symposium and affiliated events for a virtual Technical Symposium, including cost structure, format, and timing.  If you are interested in holding either a pre-symposium or affiliated event, please contact symposium@sigcse2021.org to discuss your needs.' }
+{% include alert info='We are still establishing new policies for pre-symposium and affiliated events for a virtual Technical Symposium, including cost structure, format, and timing.  If you are interested in holding either a pre-symposium or affiliated event, please contact symposium@sigcse2021.org to discuss your needs.' %}
 
 Pre-Symposium Events are an excellent venue for SIGCSE TS sub-communities to arrange their own event or meeting before the SIGCSE Technical Symposium gets started. We encourage submission of events that describe existing and emerging subfields and the plan organizers have to build growth in their communities. We also encourage events that help develop new faculty and leaders in Computer Science Education.
 

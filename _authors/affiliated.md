@@ -14,7 +14,7 @@ track: Affiliated Events
 
 {% include alert info='Current as of August 13 2020' %}
 
-{% include alert info='We are still establishing new policies for pre-symposium and affiliated events for a virtual Technical Symposium, including cost structure, format, and timing.  If you are interested in holding either a pre-symposium or affiliated event, please contact symposium@sigcse2021.org to discuss your needs.' }
+{% include alert info='We are still establishing new policies for pre-symposium and affiliated events for a virtual Technical Symposium, including cost structure, format, and timing.  If you are interested in holding either a pre-symposium or affiliated event, please contact symposium@sigcse2021.org to discuss your needs.' %}
 
 Affiliated Events are an excellent venue for SIGCSE TS sub-communities or groups to arrange a time to gather and present or discuss topics of interest, typically over a meal or during a reception **during the conference**. We encourage submission of affiliated events that describe existing and emerging subfields, areas and groups of diversity, and bringing together communities of practice.
 
