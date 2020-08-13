@@ -10,8 +10,10 @@ track: "Special Sessions"
 {% include covid-guidelines-alert.html %}
  
 ## Author Guidelines: Special Session
+
+{% include alert info='Current as of August 13 2020' %}
  
-Special sessions are your opportunity to customize and experiment with the SIGCSE Technical Symposium format. Special sessions should NOT replicate existing session formats (i.e., panels, paper presentations, poster sessions, etc.) that are part of the SIGCSE  Technical Symposium. They are scheduled in standard conference spaces. Within these constraints, the form is yours to design, keeping in mind that the 2021 Technical Symposium will be 100% virtual.
+Special sessions are your opportunity to customize and experiment with the SIGCSE Technical Symposium format. Special sessions should NOT replicate existing session formats (i.e., panels, paper presentations, poster sessions, etc.) that are part of the SIGCSE Technical Symposium. They are scheduled in standard conference spaces. Within these constraints, the form is yours to design, keeping in mind that the 2021 Technical Symposium will be 100% virtual.
  
 For example, a special session might be a tutorial or seminar, a committee report, a curricular or accreditation forum, or a hands-on (remote) demo of dance moves proven to improve retention of computing topics.
  

@@ -9,6 +9,7 @@ track: Special Sessions
 {% include reviewdetails.html %}
  
 ## Overview 
+{% include alert info='Current as of August 13 2020' %}
  
 [Special sessions](/authors/specialsessions) provide an opportunity for SIGCSE community members to customize and experiment with the Technical Symposium formats. Special sessions should NOT replicate existing formats (i.e., panels, paper presentations, lightning talks, and poster sessions). They are scheduled in standard conference spaces. Within these constraints, authors may design a format that meets their session's goals.
  
