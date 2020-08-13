@@ -12,27 +12,26 @@ track: "Workshops"
 ## Author guidelines: Workshops 
 {% include alert info='Current as of August 13 2020' %} 
 
-Workshops provide an in-depth review of, or introduction to, a topic of interest to the SIGCSE community. A successful workshop should provide participants with materials and/or ideas that are immediately useful to the workshop participants. 
+Workshops provide an in-depth review of, or introduction to, a topic of interest to the SIGCSE community. A successful workshop provides materials and/or ideas that are immediately useful to the workshop’s participants. 
  
 {% include review-anonymity.html %}
  
  
-## Virtual
+## Virtual Mode
  
 {% include authorguidelines-planning.html %}
  
-This year the Technical Symposium will be a fully virtual conference. Therefore, proposers must be committed to hold the workshop in virtual mode and proposals must include clear plans for running workshops in the virtual mode.
+This year the Technical Symposium will be a fully virtual conference. Therefore, proposers must be committed to hold the workshop in virtual mode and the proposal must include clear plans for running the workshop in virtual mode.
  
-### Virtual Mode
 - Workshops are three hours long 
-- A workshop fee (in addition to conference registration) is required for workshop participants
-- Enrollment limits (maximum enrollment) can be suggested by the proposer
+- A workshop fee (in addition to conference registration) may be required for workshop participants
+- Enrollment limits (maximum enrollment) can be suggested by the proposer, but may be changed as needed
 - It is unknown what platform will be provided for virtual workshops; therefore it is unknown what features will be available in the virtual workshop space.
  
  
 ## Review Criteria and Process
  
-Submissions are **not** anonymous. Proposals are evaluated for relevance, anticipated interest, and quality. Additionally, the Workshop Chairs will consider the variety of topics with the aim of offering a diverse program. Finally, for workshops that have run before, feedback from prior workshops may be taken into account. You may want to review the list of last year’s accepted SIGCSE Technical Symposium workshops prior to submitting a proposal.
+Submissions are **not** anonymous. Proposals are evaluated for relevance, anticipated interest, and quality. Additionally, the Workshop Chairs will consider the variety of topics with the aim of offering a diverse program. Finally, for workshops that have been conducted in a previous SIGCSE Technical Symposium, feedback from prior workshops may be taken into account. You may want to review the list of last year’s accepted SIGCSE Technical Symposium Workshops prior to submitting a proposal.
  
 The proposal has two parts: the full proposal and the EasyChair submission, both of which are discussed in more detail below. 
  
@@ -66,15 +65,15 @@ The required content is as follows.
     - **Equipment Recommended**. Participants are more likely to fully achieve the learning outcomes if they have equipment during the workshop.
     - **Equipment Optional**. Participants may learn more about the topic if they have equipment during the workshop, but having it is not required to achieve the learning outcomes.
     - **Equipment Not Required**. Having equipment during this workshop is not likely to help participants learn more about the topic.
-  - The kind of equipment (hardware and software) participants need (if appropriate) 
+  - The kind of equipment (hardware and software) participants need (if appropriate).
  
-- **Advertisement**: The advertisement is used by attendees to select workshops. It must address these five points: 1) For whom is the workshop intended,  2) What participants should know after the workshop,  3) highlights from the proposed schedule,  4) equipment requirements for participants, 5) other important information about workshop for attendees (e.g., registration will be refunded by the workshop presenter/sponsor). The advertisement can use less formal language and/or include details not appropriate for the abstract. 
+- **Advertisement**: The advertisement is used by attendees to select workshops. It is a short (2 to 3 paragraphs) but comprehensive synopsis of the workshop, and must address these five points: 1) For whom is the workshop intended, 2) What participants should know after the workshop, 3) highlights from the proposed schedule, 4) equipment requirements for participants, 5) other important information about workshop for attendees (e.g., registration will be refunded by the workshop presenter/sponsor). The advertisement can use less formal language and/or include details not appropriate for the abstract. 
  
-- **Enrollment Limit**: What is the maximum number of participants that can be accommodated in the virtual mode? If no limit is specified, we will assume a cap of 30 participants, although if interest is strong, we may seek to raise the limit to 40 or more. 
+- **Enrollment Limit**: What is the maximum number of participants that can be accommodated. If no limit is specified, we will assume a cap of 30 participants, although if interest is strong, we may seek the presenter’s permission to raise the limit to 40, or more. 
  
-- **Scheduling Constraints**: Workshops are typically scheduled before (Wednesday evening), during (Friday evening), and after (Saturday evening) the daily conference program. Please indicate known scheduling constraints.
+- **Scheduling Constraints**: Workshops are typically scheduled before (Wednesday evening), during (Friday evening), and after (Saturday evening) the daily conference program. Please indicate known scheduling constraints. At this time, it is unknown what schedule will be used for Workshop presentations.
  
-- **Other Critical Information**: Include any other notes that will facilitate such assessment.
+- **Other Critical Information**: Include any other notes that will facilitate assessment of the Workshop proposal.
  
 ### Sample Proposal
 {% include alert content='Sample proposals are being generated and will be posted at a later time. Check this page again in a few days.' %}
@@ -88,7 +87,7 @@ The required content is as follows.
  
 Many SIGCSE Technical Symposium workshops are “hands-on,” that is, participants actively use equipment during the workshop. It is normal for participants to use their own equipment in hands-on workshops. Workshop presenters are responsible for distribution of workshop software to participants prior to the Symposium. 
  
-The SIGCSE Technical Symposium Committee recommends that presenters of hands-on workshops provide a URL pointing to all necessary hardware and/or software and instructions for installation to enrollees. (It is unknown if the SIGCSE Technical Symposium can host the material, but there are myriad cloud services available.) The SIGCSE Technical Symposium will provide presenters with mailing lists containing the emails of current enrollees soon after the close of the early registration window and again after the close of the late registration window. We will also collect the software distribution URLs and make them available to on-site registrants. 
+The SIGCSE Technical Symposium Committee recommends that presenters of hands-on workshops provide a URL pointing to all necessary hardware and/or software and instructions for installation to enrollees. (It is unknown if the SIGCSE Technical Symposium can host the material, but there are myriad cloud services available.) The SIGCSE Technical Symposium will provide presenters with lists of emails addresses of current enrollees soon after the close of the early registration window, and again after the close of the late registration window. We will also collect the software distribution URLs and make them available to on-site registrants. 
  
 ## What gets published and where?
  
