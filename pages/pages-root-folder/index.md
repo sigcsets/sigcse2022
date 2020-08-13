@@ -4,6 +4,7 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
+mediaplayer: true
 layout: frontpage
 header:
   image_fullwidth: sigcse2021-header.jpg
@@ -44,3 +45,4 @@ permalink: /index.html
 homepage: true
 aside: true
 ---
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/BAoyHUvSt4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

@@ -15,5 +15,5 @@ When we have more information regarding the platform, we will let everyone know.
 
 ### Q: How will this affect [insert name of track here]?
 
-A: Track chairs are updating the information in the Authors section.  If you have any specific questions, please email the track chairs directly or program@sigcse2021.org.
+A: Track chairs are updating the information in the [Authors section](/authors).  If you have any specific questions, please email the track chairs directly or program@sigcse2021.org.
 
