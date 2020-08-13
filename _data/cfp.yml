@@ -21,7 +21,7 @@ topics:
     max: 15
 
 round:
-# Paper Abstract Deadline + Pre-Symposium/Affiliated Events Deadline
+# Paper Abstract Deadline
   - timestamp: "2020-08-21T00:23:59"
     date: "Friday, August 21, 2020"
 #  Full  Papers,  Panels,  Special  Sessions  &  Workshops
@@ -30,6 +30,9 @@ round:
 # ACM SRC, BoFs,  Demos,  Lightning  Talks,  Nifty, Posters
   - timestamp: "2020-10-23T00:23:59"
     date: "Friday, October 23, 2020"
+# Pre-Symposium/Affiliated Events
+  - timestamp: "None"
+    date: "Rolling Submissions"
 
 reviewDates:
 # 0, Paper Reviewing
@@ -101,9 +104,9 @@ reviewing:
 
 master:
   #Pre-symposium events, Affiliated Events
-  - time: "23:59 AoE (Anywhere on Earth, UTC-12h)"
+  - time: "Rolling submissions"
     notification: "Rolling notification"
-    round: 0
+    round: 3
     types:
       - track: Pre-Symposium Events
         singular: Pre-Symposium Event

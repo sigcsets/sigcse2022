@@ -4,7 +4,7 @@
   {% for type in submission.types %}
     {% if type.track == track %}
       {% assign subtrack = submission.round %}
-      {% if subtrack >= 0 and subtrack <= 2 %}
+      {% if subtrack >= 0 and subtrack <= 3 %}
         {% assign subdate = site.data.cfp.round[subtrack].date %}
       {% else %}
         {% assign subdate = "Oops." %}
