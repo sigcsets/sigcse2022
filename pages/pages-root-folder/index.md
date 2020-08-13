@@ -12,7 +12,7 @@ widget1:
   title: "Virtual SIGCSE TS 2021!"
   url: '/virtual_faq'
   image: widget-1-302x182.jpg
-  text: 'SIGCSE TS 2021 is officially a fully virtual event!  Click here to read more!'
+  text: 'SIGCSE TS 2021 is officially a fully virtual event!'
 # widget2:
 #   title: "Submit to SIGCSE TS!"
 #   url: '/authors'
