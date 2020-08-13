@@ -9,11 +9,15 @@ track: "Pre-Symposium Events"
 
 {% include covid-guidelines-alert.html %}
 
-## What is a Pre-Symposium Event?
+## Author Guidelines: Pre-Symposium Events
 
-Pre-Symposium Events are an excellent venue for SIGCSE TS sub-communities to arrange their own event or meeting on the Wednesday before the SIGCSE Technical Symposium gets started. We encourage submission of events that describe existing and emerging subfields and the plan organizers have to build growth in their communities. We also encourage events that help develop new faculty and leaders in Computer Science Education.
+{% include alert info='Current as of August 13 2020' %}
 
-The SIGCSE TS 2021 organizers have a vision to encourage sub-communities to organize their own events by submitting a pre-symposium event proposal that should include a description of the event and its importance and relevance, the proposed organizing committee and, if appropriate, the program committee, and the proposed format for the event.  **[Please note there is a charge for holding a Pre-symposium Event to help defray costs. Food & beverage and A/V needs beyond the standard set up will be at the organizers own expense.](#logistics)**
+{% include alert info='We are still establishing new policies for pre-symposium and affiliated events for a virtual Technical Symposium, including cost structure, format, and timing.  If you are interested in holding either a pre-symposium or affiliated event, please contact symposium@sigcse2021.org to discuss your needs.' %}
+
+Pre-Symposium Events are an excellent venue for SIGCSE TS sub-communities to arrange their own event or meeting before the SIGCSE Technical Symposium gets started. We encourage submission of events that describe existing and emerging subfields and the plan organizers have to build growth in their communities. We also encourage events that help develop new faculty and leaders in Computer Science Education.
+
+The SIGCSE TS 2021 organizers have a vision to encourage sub-communities to organize their own events by submitting a pre-symposium event proposal that should include a description of the event and its importance and relevance, the proposed organizing committee and, if appropriate, the program committee, and the proposed format for the event.  **[Please note there is typically a charge for holding a Pre-Symposium Event to help defray costs.](#logistics)**
 
 If your pre-symposium event is accepted, you, as event organizers would then release a “Call for Participation” inviting members of your community to submit papers, posters, or apply to your event through **your own event submission site**. Your organizing and program committees would be responsible for handling all event websites, submissions, decisions, notifications, and publication of the event proceedings.
 
@@ -29,7 +33,7 @@ Please note the following:
 
 ## How Should The Proposal Be Formatted?
 
-Pre-sSymposium event proposals are to be provided in PDF format. The full proposal contains an abstract and a body that describes your Event (as detailed below). The abstract needs to appear in two places: in the PDF proposal and in a text box on the submission page.
+Pre-Symposium event proposals are to be provided in PDF format. The full proposal contains an abstract and a body that describes your Event (as detailed below). The abstract needs to appear in two places: in the PDF proposal and in a text box on the submission page.
 
 The full proposal is used for the review process only. If the proposal is accepted, the abstract is the description that appears on the Symposium website. The format for the proposal is as follows.
 
@@ -80,7 +84,7 @@ The abstract is the description of the event that will appear on the conference 
 The logistics information for Pre-Symposium Events are detailed below.  Once the Pre-Symposium Event is accepted, the Pre-Symposium and Affiliated Events Chairs and dLPLAN (the SIGCSE TS Conference Management group) will contact organizers for further details about logistics including invoicing. Please make sure that you enter the correct contact information for those handling event logistics when submitting the event proposal to EasyChair.
 
 ### Charge
-Pre-Symposium Events will be charged a fee to help defray costs.  The exact costs have not been determined yet due to current COVID-19 related plans.  We will update this page as soon as more information is known.
+Pre-Symposium Events will be charged a fee to help defray costs of the
 
 ### Registration
 Registration for the event must be handled by the Affiliated Event organizers and will not be handled by the SIGCSE TS registration system.

@@ -10,11 +10,15 @@ track: Affiliated Events
 
 {% include covid-guidelines-alert.html %}
 
-## What is an Affiliated Event?
+## Author Guidelines: Affiliated Event
+
+{% include alert info='Current as of August 13 2020' %}
+
+{% include alert info='We are still establishing new policies for pre-symposium and affiliated events for a virtual Technical Symposium, including cost structure, format, and timing.  If you are interested in holding either a pre-symposium or affiliated event, please contact symposium@sigcse2021.org to discuss your needs.' %}
 
 Affiliated Events are an excellent venue for SIGCSE TS sub-communities or groups to arrange a time to gather and present or discuss topics of interest, typically over a meal or during a reception **during the conference**. We encourage submission of affiliated events that describe existing and emerging subfields, areas and groups of diversity, and bringing together communities of practice.
 
-We encourage sub-communities to gather in their own affiliated events by submitting an affiliated event proposal that should include a description of the event and its importance and relevance and the proposed format for the event.  **[Please note there is a charge for holding an Affiliated Event to help defray costs. Food & beverage and A/V needs beyond the standard set up will be at the organizers own expense.](#logistics)**
+We encourage sub-communities to gather in their own affiliated events by submitting an affiliated event proposal that should include a description of the event and its importance and relevance and the proposed format for the event.  **[Please note there is a charge for holding an Affiliated Event to help defray costs.](#logistics)**
 
 If your affiliated event is accepted, affiliated events organizers invite members of your community to participate in the event. Your event organizers would be responsible for handling all affiliated event websites and participant organization.  The title, organization, abstract, and date/time for the affiliated event are included in the schedule.
 
