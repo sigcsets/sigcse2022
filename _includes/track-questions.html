@@ -10,10 +10,10 @@
 <h2>Questions</h2>
 
 <p>If you have questions about anything discussed above, please contact: </p>
-	<h3><a href="/committee/#{{team | remove: " " }}">{{team}}</a></h3> 
-	<p>Email: <a href="mailto:{{site.data.committee[team].email}}">{{site.data.committee[team].email}}</a></p>
+	<h3>{{team}} Team</h3> 
+	<p>Email: <a href="mailto:{{site.data.committee['Program Committee'][team].email}}">{{site.data.committee['Program Committee'][team].email}}</a></p>
 	<ul>
-	  {% for member in site.data.committee[team].members %}
+	  {% for member in site.data.committee['Program Committee'][team].members %}
 	    <li style="padding-bottom: 10px;"><b>{{member.name}}</b><br/>
 	      {{member.inst}}
 	    </li>

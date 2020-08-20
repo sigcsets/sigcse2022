@@ -20,8 +20,17 @@ table.multibody tbody:nth-child(even) {
 }
 
 table.multibody tbody:hover, tbody:hover th[rowspan], tbody:hover td[rowspan], tr:hover td {
-   background-color: #F2F2A7; 
+   background-color: #EE9A8C; 
 }
+
+th {
+  text-align: center;
+}
+
+span.team-heading {
+  font-size: 1.1rem;
+}
+
 </style>
 {% for comm in site.data.committee %}
 <a name = "{{comm[0] | remove: " " }}"></a>  <!-- create anchors from committee name with no spaces -->
@@ -32,9 +41,9 @@ table.multibody tbody:hover, tbody:hover th[rowspan], tbody:hover td[rowspan], t
   {% for team in comm[1] %}
     {% assign team_rows = team[1].members.size | plus:1 %}
     <tbody>
-      <tr><th scope="row" rowspan="{{team_rows}}">{{team[0]}}<br/>
+      <tr><th scope="row" rowspan="{{team_rows}}"><span  class="team-heading">{{team[0]}}</span><br/>
         {% if team[1].email %}
-          Email: <a href="{{team[1].email}}">{{team[1].email}}</a>
+          Email: <a href="mailto:{{team[1].email}}">{{team[1].email}}</a>
         {% endif %}
       </th></tr>
       {% for member in team[1].members %}
@@ -53,7 +62,7 @@ table.multibody tbody:hover, tbody:hover th[rowspan], tbody:hover td[rowspan], t
 {% else %}
 <h2>{{comm[0]}}</h2>
 {% if comm[1].email %}
-<p>Email: <a href="{{comm[1].email}}">{{comm[1].email}}</a></p>
+<p>Email: <a href="mailto:{{comm[1].email}}">{{comm[1].email}}</a></p>
 {% endif %}
   <table width="100%">
     <tr><th scope="col">Name</th><th scope="col">Institution</th></tr>

@@ -5,60 +5,60 @@ papers:
     abstract-limits: "250 words"
 
 posters:
-    who: "Posters Team"
+    who: "Posters"
     all-must-attend: false
     limits: "2 pages"
     abstract-limits: "250 words"
 
 birds of a feather:
-    who: "Birds of a Feather Team"
+    who: "Birds of a Feather"
     all-must-attend: true
     limits: "Up to 2 pages"  # for 2021, previously was max of 1 page 
     abstract-limits: "250 words"
 
 affiliated events:
-    who: "Pre-Symposium and Affiliated Events Team"
+    who: "Pre-Symposium and Affiliated Events"
     all-must-attend: false
 
 panels:
-    who: "Panels and Special Sessions Team"
+    who: "Panels and Special Sessions"
     all-must-attend: true
 
 "acm student research competition":
-    who: "ACM Student Research Competition Team"
+    who: "ACM Student Research Competition"
     all-must-attend: false
     limits: "2 pages"
     abstract-limits: "250 words"
 
 workshops:
-    who: "Workshops Team"
+    who: "Workshops"
     all-must-attend: true
     limits: "3 pages"
     abstract-limits: "250 words"
 
 nifty assignments:
-    who: "Nifty Assignments Team"
+    who: "Nifty Assignments"
     all-must-attend: false
     limits: "Relevant materials in a zip"
 
 lightning talks:
-    who: "Demos and Lightning Talks Team"
+    who: "Demos and Lightning Talks"
     all-must-attend: false
     limits: "1 page, 500 words max."
     abstract-limits: "250 words"
 
 demos:
-    who: "Demos and Lightning Talks Team"
+    who: "Demos and Lightning Talks"
     all-must-attend: false
     limits: "2 pages"
     abstract: "250 words"
 
 special sessions:
-    who: "Panels and Special Sessions Team"
+    who: "Panels and Special Sessions"
     all-must-attend: true
     limits: "2 pages"
 
 pre-symposium events:
-    who: "Pre-Symposium and Affiliated Events Team"
+    who: "Pre-Symposium and Affiliated Events"
     all-must-attend: false
     limits: "2 pages (including abstract of 250 words)"

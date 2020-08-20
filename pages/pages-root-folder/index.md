@@ -4,20 +4,21 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
+mediaplayer: true
 layout: frontpage
 header:
   image_fullwidth: sigcse2021-header.jpg
 widget1:
-  title: "COVID-19 Plans"
-  url: '/covid'
-  image: covid-widget.png
-  text: 'The SIGCSE Board and Leadership Team are considering various options for SIGCSE TS 2021.'
+  title: "Virtual SIGCSE TS 2021!"
+  url: '/virtual_faq'
+  image: widget-1-302x182.jpg
+  text: 'SIGCSE TS 2021 is officially a fully virtual event!'
+# widget2:
+#   title: "Submit to SIGCSE TS!"
+#   url: '/authors'
+#   text: 'See the Call for Papers for more information on submitting to SIGCSE TS 2021!'
+#   image: ribbons-widget.png
 widget2:
-  title: "Submit to SIGCSE TS!"
-  url: '/authors'
-  text: 'See the Call for Papers for more information on submitting to SIGCSE TS 2021!'
-  image: ribbons-widget.png
-widget3:
   title: "Statement on Equity"
   url: '/equity'
   image: widget-2021logo.png
@@ -42,4 +43,6 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+aside: true
 ---
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/BAoyHUvSt4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

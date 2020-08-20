@@ -10,11 +10,15 @@ track: Affiliated Events
 
 {% include covid-guidelines-alert.html %}
 
-## What is an Affiliated Event?
+## Author Guidelines: Affiliated Event
+
+{% include alert info='Current as of August 13 2020' %}
+
+{% include alert info='We are still establishing new policies for pre-symposium and affiliated events for a virtual Technical Symposium, including cost structure, format, and timing.  If you are interested in holding either a pre-symposium or affiliated event, please contact symposium@sigcse2021.org to discuss your needs.' %}
 
 Affiliated Events are an excellent venue for SIGCSE TS sub-communities or groups to arrange a time to gather and present or discuss topics of interest, typically over a meal or during a reception **during the conference**. We encourage submission of affiliated events that describe existing and emerging subfields, areas and groups of diversity, and bringing together communities of practice.
 
-We encourage sub-communities to gather in their own affiliated events by submitting an affiliated event proposal that should include a description of the event and its importance and relevance and the proposed format for the event.  **[Please note there is a charge for holding an Affiliated Event to help defray costs. Food & beverage and A/V needs beyond the standard set up will be at the organizers own expense.](#logistics)**
+We encourage sub-communities to gather in their own affiliated events by submitting an affiliated event proposal that should include a description of the event and its importance and relevance and the proposed format for the event.  **[Please note there is typically a charge for holding an Affiliated Event to help defray costs.](#logistics)**
 
 If your affiliated event is accepted, affiliated events organizers invite members of your community to participate in the event. Your event organizers would be responsible for handling all affiliated event websites and participant organization.  The title, organization, abstract, and date/time for the affiliated event are included in the schedule.
 
@@ -70,12 +74,6 @@ The logistics information for Affiliated Events are detailed below.  Once the Af
 
 ### Charge
 Affiliated Events will be charged a fee to help defray costs.  The exact costs have not been determined yet due to current COVID-19 related plans.  We will update this page as soon as more information is known.
-  
-### Food and Beverage
-If the event will be held in person, food and beverage must be paid by the Affiliated Event organizers directly to the convention center.
-
-### Audio/Visual
-If the event will be held in person, the standard room setup consists of a screen, projector, and microphone.  There will be a charge for any A/V items that you request beyond the standard A/V set. You will be provided with an online portal to order and pay for those items.
 
 ### Registration
 Registration for the event must be handled by the Affiliated Event organizers and will not be handled by the SIGCSE TS registration system.
