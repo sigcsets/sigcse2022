@@ -1,19 +1,25 @@
-{% if page.track %}
+{% if page.track and page.track != "Papers" %}
 {% capture track %}{{ page.track | downcase }}{% endcapture %}
+{% capture team %}{{site.data.submissions[track].who}}{% endcapture %}
+{% assign email = site.data.committee['Program Committee'][team].email %}
+{% assign members = site.data.committee['Program Committee'][team].members %}
+{% capture team %}{{team}} Team{% endcapture %}
 {% else %}
 {% assign track = "papers" %} 
+{% assign team = site.data.submissions[track].who %}
+{% assign email = site.data.committee['Program Co-Chairs'].email %}
+{% assign members = site.data.committee['Program Co-Chairs'].members %}
 {% endif %}
 
-{% capture team %}{{site.data.submissions[track].who}}{% endcapture %}
 
 <section>
 <h2>Questions</h2>
 
 <p>If you have questions about anything discussed above, please contact: </p>
-	<h3>{{team}} Team</h3> 
-	<p>Email: <a href="mailto:{{site.data.committee['Program Committee'][team].email}}">{{site.data.committee['Program Committee'][team].email}}</a></p>
+	<h3>{{team}}</h3> 
+	<p>Email: <a href="mailto:{{email}}">{{email}}</a></p>
 	<ul>
-	  {% for member in site.data.committee['Program Committee'][team].members %}
+	  {% for member in members %}
 	    <li style="padding-bottom: 10px;"><b>{{member.name}}</b><br/>
 	      {{member.inst}}
 	    </li>
