@@ -135,14 +135,6 @@
       - name: Victoria Hong
         inst: St. Joseph's College - New York
 
-  "Virtual Arrangements":
-    email: virtual@sigcse2021.org
-    members:
-      - name: Bogdan Simion
-        inst: University of Toronto Mississauga
-      - name: Brian Harrington
-        inst: University of Toronto Scarborough
-
   "Pre-Symposium and Affiliated Events":
     email: events@sigcse2021.org
     members:
@@ -209,6 +201,14 @@
     members:
       - name: Scott McElfresh
         inst: Christopher Newport University
+
+  "Virtual Arrangements":
+    email: virtual@sigcse2021.org
+    members:
+      - name: Bogdan Simion
+        inst: University of Toronto Mississauga
+      - name: Brian Harrington
+        inst: University of Toronto Scarborough
 
   "Web and Data":
     email: webteam@sigcse2021.org
