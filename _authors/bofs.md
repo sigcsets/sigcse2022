@@ -7,6 +7,7 @@ track: "Birds of a Feather"
 {% include submission-details.html %}
 
 {% include covid-guidelines-alert.html %}
+{% include alert info='Current as of August 27 2020' %}
 
 ## Author Guidelines: Birds-of-a-Feather (BOF)
 
@@ -31,9 +32,7 @@ The full 1-to-2 page proposal is used for the review process only. If the propos
 * **Expected Audience**: Briefly describe the nature and size of the expected audience. If you expect a particularly large or small audience, please explain why.  If you have a rough estimate of attendees based on previous years, please include it here. This information can help determine the schedule.
 * **Discussion Leader(s)**: Although correspondence will be with the proposer above, it will be the discussion leader(s) who will be mentioned in Symposium literature. Please list any additional such names (besides the proposer) and affiliations here. Be certain that you have their commitments to attend the Symposium. All discussion leaders must register for the SIGCSE Technical Symposium and be present for the BOF session.
 * **Expertise of Discussion Leader(s)**: Give a summary of the qualifications of the discussion leader(s) as it relates to the BOF topic being proposed.
-* **Presentation Mode**: Indicate whether you prefer to present face-to-face, online or no preference.
-* **Proposed Activity during BOF**: For each mode of presentation, provide a brief description of the activities you intend to engage in during the BOF.
-* **Special Requirements, if any (face-to-face presentation mode)**: Because of the informal and spontaneous nature of these sessions, A/V equipment is typically not provided. That said, please describe any pressing needs you feel you will have. Although we cannot guarantee that your requested equipment will be available, we will make every effort to let you know this well before the conference.
+* **Proposed Activity during BOF**: Provide a brief description of the activities you intend to engage in during the online BOF.
 
 ### BOF Abstract (limited to {{site.data.submissions["birds of a feather"].abstract-limits}})
 
