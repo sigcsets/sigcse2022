@@ -7,7 +7,7 @@
 mediaplayer: true
 layout: frontpage
 header:
-  image_fullwidth: sigcse2021-header.jpg
+  image_fullwidth: sigcse2021-logo-header.png
 widget1:
   title: "Virtual SIGCSE TS 2021!"
   url: '/virtual_faq'
