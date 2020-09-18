@@ -225,7 +225,7 @@
    - name: Steven Bradley
      inst: Durham University, England
    - name: Jennifer Campbell
-     inst: University of Toronto, Canada
+     inst: University of Toronto
    - name: Ernesto Cuadros-Vargas
      inst: Universidad de Ingeniería y Tecnología, Peru
    - name: Paul Denny
@@ -237,23 +237,25 @@
    - name: Arto Hellas
      inst: University of Helsinki, Finland
    - name: Amey Karkare
-     inst: Indian Institute of Technology Kanpur, India
+     inst: Indian Institute of Technology Kanpur
    - name: Carsten Kleiner
      inst: University of Applied Sciences & Arts Hannover, Germany
+   - name: Tobias Kohn
+     inst: University of Cambridge
    - name: Viraj Kumar
-     inst: Indian Institute of Science, India
+     inst: Indian Institute of Science
    - name: Chao Mbogo
-     inst: Kenya Methodist University, Kenya
+     inst: Kenya Methodist University
    - name: Chris McDonald
-     inst: University of Western Australia, Australia
+     inst: University of Western Australia
    - name: André Santos
      inst: Instituto Universitário de Lisboa, Portugal
    - name: Lenandlar Singh
-     inst: University of Guyana, Guyana
+     inst: University of Guyana
    - name: Hironori Washizaki
      inst: Waseda University, Japan
    - name: Gary Wong
-     inst: University of Hong Kong, Hong Kong
+     inst: University of Hong Kong
    - name: Ming Zhang
      inst: Peking University, China
 

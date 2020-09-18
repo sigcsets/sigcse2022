@@ -10,6 +10,7 @@ track: "Posters"
 {% include covid-guidelines-alert.html %}
 
 ## Author Guidelines: Posters
+{% include alert info='Final as of September 17 2020' %}
 
 Posters provide an opportunity for an informal presentation featuring “give and take” with conference attendees. Presenting a poster is also a good way in which to discuss and receive feedback on work in progress that has not been fully developed into a paper.
 
@@ -42,13 +43,9 @@ Any topic relevant to the conference focus areas is suitable for presentation as
 
 Suggestions for poster design are given in [Creating Effective Academic Posters](https://urc.ucdavis.edu/creating-effective-academic-posters) [UC Davis] and [Research Posters 101](http://xrds.acm.org/article.cfm?aid=332138) [ACM Crossroads article]. While both of these references provide suggestions for student researchers, the ideas are also applicable to posters for this conference.
 
-## Poster - Physical Presentation
+## Poster Presentation
 
-Poster presentation submissions to the SIGCSE Technical Symposium will be competitive, and if your proposal is accepted, your poster will be displayed for a 2-hour time period during the conference. You will be expected to “present” your poster at that time. At least one author for each accepted poster must register for and attend the conference. The space available for your poster will be 4 feet high by 8 feet wide, possibly with a small shelf below. Power sources are not available.
-
-## Poster - Virtual Presentation
-
-If SIGCSE TS 2021 is held in an on-line or hybrid format, we expect  presenters will be able to present their poster via videoconference during a dedicated time slot. We expect this would be similar to how presenters would interact with attendees in person - attendees could visit your presentation and ask questions in real time. In addition to submitting a pdf of your actual poster, we may also allow authors to submit other materials that would be posted ahead of time for attendees to view (e.g. slides, short video). More details about presentation formats and materials will be provided once the format of the conference is known.
+SIGCSE TS 2021 will be held on-line and we expect  presenters will be able to present their poster via videoconference during a dedicated time slot. This would be similar to how poster presenters would interact with attendees in person - attendees could visit your presentation and ask questions in real time. In addition to submitting a pdf of your actual poster (what you would normally print out and display at an in-person conference), we may also allow authors to submit other materials that would be posted ahead of time for attendees to view (e.g. a short video). More details about presentation formats and materials will be provided once the virtual format of SIGCSE TS 2021 is finalized.
 
 ## How Should The Proposal Be Formatted?
 
