@@ -13,7 +13,7 @@ track: Demos
 <!-- Opening paragraphs are the same as authors guidelines -->
 [Demos](/authors/demos) provide a way to showcase an educational tool or project in a live setting. Not designed to be sales pitches, demonstrations are a way for the community to see the relevance, potential and innovation of the tool and allow time for discussion with its creator. 
 
-For SIGCSE TS 2021, Demos will be a maximum of 20 minutes each, with at least 10-15 minutes allocated for answering questions. The Demo format is significantly different this year with Demos held in a regular session at a fixed timeslot, rather than during coffee breaks where the longer time slot was used to accommodate audience members arriving at different times. These changes have been introduced to accommodate all possible scenarios for running the symposium (pure virtual or hybrid combination of face-to-face and virtual)  to the best extent possible.
+For SIGCSE TS 2021, Demos will be a maximum of 20 minutes each, with at least 10-15 minutes allocated for answering questions. The Demo format is significantly different this year with Demos held in a regular session at a fixed timeslot, rather than during coffee breaks where the longer time slot was used to accommodate audience members arriving at different times. These changes have been introduced to accommodate the virtual setting of the symposium to the best extent possible.
 
 {% include review-anonymity.html %}
 
