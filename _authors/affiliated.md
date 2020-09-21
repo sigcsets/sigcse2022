@@ -67,6 +67,10 @@ The full proposal is used for the review process only. If the proposal is accept
 
 The abstract is the description of the event that will appear on the conference web pages. The description is limited to and must match verbatim the abstract section of the Event Proposal. The Event abstract must be submitted in plain text. The abstract for an accepted proposal SHOULD contain a URL with more information. (Abstracts of accepted Events can be edited in response to feedback.)
 
+### EasyChair Submission
+
+Please note that the questions in EasyChair were determined before it was decided that SIGCSE TS 2021 would be a virtual event.  We do not wish to change the questions after submissions have opened as it may have unintended consequences with the submission system.  Please answer the questions as best you can, ensuring that your virtual plans are in your PDF submission as that is what we will be working from.  We sincerely apologize for the inconvenience.  If you have any questions regarding your submission, please do not hesitate to contact [symposium@sigcse2021.org](mailto:symposium@sigcse2021.org).
+
 <a name="logistics"></a>
 
 ## Logistics
@@ -76,4 +80,4 @@ The logistics information for Affiliated Events are detailed below.  Once the Af
 Affiliated Events will be charged a fee to help defray costs.  The exact costs have not been determined yet due to current COVID-19 related plans.  We will update this page as soon as more information is known.
 
 ### Registration
-Registration for the event must be handled by the Affiliated Event organizers and will not be handled by the SIGCSE TS registration system.
+Registration for the event must be handled by the Affiliated Event organizers and will not be handled by the SIGCSE TS registration system.   (UPDATE: This is subject to change depending on the virtual platform chosen.  We will update this page as soon as more information is known.)
