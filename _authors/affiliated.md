@@ -42,25 +42,15 @@ The full proposal is used for the review process only. If the proposal is accept
 
 -   **Event URL**: List the anticipated URL for your event website here.  
 
--   **Significance and Relevance of the Event Topic/Purpose**: lease include information about any trends in relation to the subfield and possibly describe (or cite) evidence to that effect. Your objective here is to explain why the event or community served is significant.
+-   **Significance and Relevance of the Event Topic/Purpose**: Please include information about any trends in relation to the subfield and possibly describe (or cite) evidence to that effect. Your objective here is to explain why the event or community served is significant.
 
 -   **Intended Audience**: Briefly describe the nature and size of the intended/expected audience. This information will help gauge the level of interest SIGCSE Technical Symposium attendees will have in the Event.
 
 -   **Expertise of Organizer(s)**: Give a summary of the qualifications of the organizer(s) as it relates to the event being proposed.
 
--   **Virtual/Hybrid Plans**: Give a summary of how your event could potentially run if SIGCSE TS 2021 was a hybrid or fully virtual event.
+-   **Virtual Plans**: Give a summary of how your event would run in a fully virtual format.
 
--   **Audio/Visual and Room Setup Requirements**: Please enter these only on the EasyChair submission form, and not in your proposal upload document.
-
--	**Event Time Preference**: Please enter these only on the EasyChair submission form, unless you select "Other time ideas".  You have the choice between:
-
-	* Breakfast (on Thursday, Friday, or Saturday as scheduled by the Affiliated Events Chairs); 
-	
-	* Lunch (Thursday or Friday, as scheduled by the Affiliated Events Chairs); 
-	
-	* Reception (Friday or Saturday); 
-	
-	* Other time ideas - please specify in the proposal 
+-	**Event Time Preference**: Please describe when you would like to hold your event.  Examples might include the weeks before the Technical Symposium, during the week of the Technical Symposium, after the Technical Symposium, and what time of day in the Eastern time zone.
 
 
 ### Event Proposal Abstract

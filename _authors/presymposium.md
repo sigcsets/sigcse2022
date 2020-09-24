@@ -47,8 +47,7 @@ The full proposal is used for the review process only. If the proposal is accept
 
 -   **Event URL**: List the anticipated URL for your event website here.  
 
--   **Significance and Relevance of the Event Topic/Purpose**: lease include information about any trends in relation to the subfield and possibly describe (or cite) evidence to that effect. Your objective here is to explain why the event or community served is significant.
-
+-   **Significance and Relevance of the Event Topic/Purpose**: Please include information about any trends in relation to the subfield and possibly describe (or cite) evidence to that effect. Your objective here is to explain why the event or community served is significant.
 
 -   **Intended Audience**: Briefly describe the nature and size of the intended/expected audience. This information will help gauge the level of interest SIGCSE Technical Symposium attendees will have in the Event.
 
@@ -56,15 +55,7 @@ The full proposal is used for the review process only. If the proposal is accept
 
 -   **Rough Agenda for the Event**: Timing details would be helpful here. Explain what the attendees can expect. Be sure to budget a realistic amount of time for questions from attendees.
 
--	Proposers of hands-on events should indicate which of the following formats they wish for their event:
-
-	* **Laptop Required**. Participants should bring a laptop to participate.
-	
-	* **Laptop Recommended**. It is recommended, but not required, that participants bring a laptop.
-	
-	* **Laptop Optional**. It is not necessary for participants to bring laptops.
-	
-	* **Laptop Not Required**. Participants do not need a laptop.
+-	**Virtual Plans**: Give a summary of how your event would run in a fully virtual format.
 
 -   **Types of submissions**: If your event will solicit contributions, describe the contributions.
 
@@ -72,7 +63,7 @@ The full proposal is used for the review process only. If the proposal is accept
 
 -   **Program Committee**: If your event will solicit contributions, list the proposed reviewers/PC.
 
--   **Audio/Visual and Room Setup Requirements**: Please enter these only on the EasyChair submission form, and not in your proposal document.
+-	**Event Time Preference**: Please describe when you would like to hold your event.  Examples might include the weeks before the Technical Symposium, during the week of the Technical Symposium, after the Technical Symposium, and what time of day in the Eastern time zone.
 
 ### Event Proposal Abstract
 
