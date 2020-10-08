@@ -9,10 +9,10 @@ layout: frontpage
 header:
   image_fullwidth: sigcse2021-logo-header.png
 widget1:
-  title: "Virtual SIGCSE TS 2021!"
-  url: '/virtual_faq'
-  image: widget-1-302x182.jpg
-  text: 'SIGCSE TS 2021 is officially a fully virtual event!'
+  title: "2021 Schedule is Live!"
+  url: '/schedule'
+  image: schedule-widget.png
+  text: 'See the schedule for the first virtual Technical Symposium along with commentary on how it was created!'
 # widget2:
 #   title: "Submit to SIGCSE TS!"
 #   url: '/authors'
