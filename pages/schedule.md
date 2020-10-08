@@ -86,7 +86,7 @@ caption {
 	line-height: 14px;
 	background: #e4f2f2;
 	border: 1px solid #b5dbdc;
-	color: #009aaf;
+	color: #003aaf;
 	text-decoration: none;
 }
 
@@ -220,7 +220,7 @@ All times Eastern (UTC-04:00)
       <div class="date">15</div>
       <div class="event">
         <div class="event-desc">
-          Opening Keynote
+          Block 1A: Opening Keynote
         </div>
         <div class="event-time">
           1:00pm to 2:45pm
@@ -236,7 +236,7 @@ All times Eastern (UTC-04:00)
       </div>
       <div class="event">
         <div class="event-desc">
-          Birds of a Feather Flock 1
+          Networking Block 1
         </div>
         <div class="event-time">
           4:15pm to 6:45pm
@@ -279,7 +279,7 @@ All times Eastern (UTC-04:00)
       </div>
       <div class="event">
         <div class="event-desc">
-          Birds of a Feather Flock 2
+          Networking Block 2
         </div>
         <div class="event-time">
           4:15pm to 6:45pm
@@ -314,7 +314,7 @@ All times Eastern (UTC-04:00)
       </div>
       <div class="event">
         <div class="event-desc">
-          Birds of a Feather Flock 3
+          Networking Block 3
         </div>
         <div class="event-time">
           4:15pm to 6:45pm
@@ -322,7 +322,7 @@ All times Eastern (UTC-04:00)
       </div>
       <div class="event">
         <div class="event-desc">
-          SIGCSE Lifetime Achievement Award Keynote
+          Block 3B: SIGCSE Lifetime Achievement Award Keynote
         </div>
         <div class="event-time">
           8:00pm to 9:45pm
@@ -349,7 +349,7 @@ All times Eastern (UTC-04:00)
       </div>
       <div class="event">
         <div class="event-desc">
-          Birds of a Feather Flock 4
+          Networking Block 4
         </div>
         <div class="event-time">
           4:15pm to 6:45pm
@@ -384,7 +384,7 @@ All times Eastern (UTC-04:00)
       </div>
       <div class="event">
         <div class="event-desc">
-          Birds of a Feather Flock 5
+          Networking Block 5
         </div>
         <div class="event-time">
           4:15pm to 6:45pm
@@ -403,7 +403,7 @@ All times Eastern (UTC-04:00)
       <div class="date">20</div>
             <div class="event">
         <div class="event-desc">
-          Closing Keynote
+          Block 6A: Closing Keynote
         </div>
         <div class="event-time">
           1:00pm to 2:45pm
@@ -419,7 +419,7 @@ All times Eastern (UTC-04:00)
       </div>
       <div class="event">
         <div class="event-desc">
-          Birds of a Feather Flock 6
+          Networking Block 6
         </div>
         <div class="event-time">
           4:15pm to 6:45pm
