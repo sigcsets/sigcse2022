@@ -456,8 +456,6 @@ __Special Events!__: The Program Committee is still working on a few surprises. 
 
 ### Creating the SIGCSE TS 2021 Schedule
 
-### Creating the SIGCSE TS 2021 Schedule
-
 The Symposium and Program Chairs spent a great deal of time over the past few months attending other virtual conferences, talking with our planning company, and getting input from various parts of our community.  There were many aspects of other virtual conferences that we felt could work well for the Technical Symposium.  ASEE's (American Society for Engineering Education) 2020 Virtual Conference was the first conference that the chairs attended this summer that had authors upload prerecorded videos and then gave the presentation time over to more Q&A.  We felt that this model would provide our community with more of what they wanted - interaction with other attendees.  We plan to make the prerecorded presentations available before the conference at the same time that the papers become available in the ACM Digital Library so that attendees can watch the content when it is convenient for them and then come with questions to the paper sessions.
 
 We also were keenly aware that most (if not all) of our colleagues would most likely still be teaching during the Symposium.  Some schools are still deciding if Spring Break will even happen.  Therefore, we decided that a "normal" Symposium schedule (e.g. 10:00am-4:00pm) probably would not be best for us.  Also, with anticipated lower registration fees and no travel costs, we hope that more of our K-12 and community college colleagues will be able to join us.  
