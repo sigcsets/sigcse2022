@@ -223,7 +223,15 @@ All times Eastern Time Zone (North America)
           Block 1A: Opening Keynote
         </div>
         <div class="event-time">
-          1:00pm to 2:45pm
+          1:00pm to 2:00pm
+        </div>
+      </div>
+      <div class="event">
+        <div class="event-desc">
+          First Timer's Session and Keynote
+        </div>
+        <div class="event-time">
+          2:00pm to 3:00pm
         </div>
       </div>
       <div class="event">
@@ -245,14 +253,6 @@ All times Eastern Time Zone (North America)
       <div class="event">
         <div class="event-desc">
           Block 1B: Technical Sessions
-        </div>
-        <div class="event-time">
-          8:00pm to 9:45pm
-        </div>
-      </div>
-      <div class="event">
-        <div class="event-desc">
-          First Timer's Session and Keynote
         </div>
         <div class="event-time">
           8:00pm to 9:45pm
