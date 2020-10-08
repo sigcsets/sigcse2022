@@ -134,7 +134,7 @@ caption {
 }
 </style>
 Last update: October 7, 2020    
-All times Eastern
+All times Eastern Time Zone (North America)
 
 <table id="calendar">
   <caption>March 2021</caption>
