@@ -134,7 +134,7 @@ caption {
 }
 </style>
 Last update: October 7, 2020    
-All times Eastern (UTC-04:00)
+All times Eastern
 
 <table id="calendar">
   <caption>March 2021</caption>
