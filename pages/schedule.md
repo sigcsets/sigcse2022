@@ -406,7 +406,7 @@ All times Eastern Time Zone (North America)
           Block 6A: Closing Keynote
         </div>
         <div class="event-time">
-          1:00pm to 2:45pm
+          1:00pm to 2:00pm
         </div>
       </div>
       <div class="event">
@@ -442,8 +442,36 @@ All times Eastern Time Zone (North America)
 
 _(This information is subject to change after the virtual platform has been selected.)_
 
-__Technical Sessions__: Each Technical Session block will have eight parallel "rooms" with either paper presentations or panels/special sessions.  
+__Technical Sessions__: Each Technical Session block will have eight parallel "rooms" with either paper presentations or panels/special sessions (e.g. An example block could have five paper sessions, two panels, and one special session.)
 
 __Paper Presentation Sessions__: Authors will be invited to prerecord a 20 minute presentation of their work that will be made available before the Technical Symposium in the virtual platform.  During the paper presentation session itself, each author will be given 20 minutes - 5 minutes for a short recap of their work with a few slides and then 15 minutes of Q&A.  Five authors will present during each paper presentation session.  All paper presentation sessions will be recorded and will be available on-demand through the virtual platform.
 
 __Panels and Special Sessions__: Panels and Special Sessions will have the option of either prerecording their panel discussion and making it available before the Technical Symposium and then only having live Q&A and follow up discussion or doing the entire session live.  All panels and special sessions will be recorded and will be available on-demand through the virtual platform.
+
+__Supporter Sessions__: In between Block A and Block B's technical content, the virtual Exhibit Hall will be open.  SIGCSE sponsors will have sessions at 3:00, 4:15, 5:30, and 6:45.  Sessions at 3:00 and 6:45 will be for Platinum and Gold Level supporters, while Silver Level supporters will have sessions at 4:15 and 5:30.  
+
+__Networking Block__: The Networking Block will be a time for Birds-of-a-Feather sessions, Q&A with Demo, Lightning Talk, and Poster authors, and open discussion forums for the community.  More info on these sessions will be available after the virtual platform has been selected.
+
+__Special Events!__: The Program Committee is still working on a few surprises.  We will announce these as our plans are finalized!
+
+### Creating the SIGCSE TS 2021 Schedule
+
+The Symposium and Program Chairs spent a great deal of time over the past few months attending other virtual conferences, talking with our planning company, and getting input from various parts of our community.  There were many aspects of other virtual conferences that we felt could work well for the Technical Symposium.  ASEE's (American Society for Engineering Education) Virtual Conference was the first conference that the chairs attended this summer that had authors upload prerecorded videos and then gave the presentation time over to more Q&A.  
+
+We also were keely aware that most (if not all) of our colleagues would most likely still be teaching during the Symposium.  Some schools are still deciding if Spring Break will even happen.  Therefore, we decided that a "normal" Symposium schedule (e.g. 10:00am-4:00pm) probably would not be best for us.  Also, with anticipated lower registration fees and no travel costs, we hope that more of our K-12 and community college colleagues will be able to join us.  
+
+The "split band" block schedule was inspired by ICSE (International Conference on Software Engineering).  However, while ICSE utilzed three bands (Atlantic, Pacific, and Indian), we felt a two-band schedule would work better for us, due to the amount of content we would have and the geographic breakdown of most attendees.  We placed Block B later in the evening Eastern Time so that K-12 colleagues from all North American time zones could theoretically attend that block, along with making things a bit nicer for our Australasian colleagues.
+
+We understand that not all blocks are at optimal times for all time zones.  To address this, we will be recording all live sessions to be made available on-demand through the virtual platform.
+
+The large supporter block in between the two technical sessions allows us to highlight the contributions of sponsor organizations to the SIGCSE community appropriately.  We are asking our sponsors and exhibitors to create unique and informative sessions during these slots so that the SIGCSE community can have all the benefits of the exhibit hall we know and love.
+
+Thank you all for your patience as we navigate a whole new way to run the Technical Symposium!  We are very excited for the possibilities that a virtual platform gives us, even if we are still disappointed we cannot all be together in person.
+
+Please let us know if you have any questions or concerns!
+
+Mark Sherriff and Larry Merkle     
+SIGCSE TS 2021 Symposium Co-Chairs
+
+Pam Cutter, Alvaro Monge, and Judy Sheard    
+SIGCSE TS 2021 Program Co-Chairs
