@@ -456,13 +456,15 @@ __Special Events!__: The Program Committee is still working on a few surprises. 
 
 ### Creating the SIGCSE TS 2021 Schedule
 
+### Creating the SIGCSE TS 2021 Schedule
+
 The Symposium and Program Chairs spent a great deal of time over the past few months attending other virtual conferences, talking with our planning company, and getting input from various parts of our community.  There were many aspects of other virtual conferences that we felt could work well for the Technical Symposium.  ASEE's (American Society for Engineering Education) 2020 Virtual Conference was the first conference that the chairs attended this summer that had authors upload prerecorded videos and then gave the presentation time over to more Q&A.  We felt that this model would provide our community with more of what they wanted - interaction with other attendees.  We plan to make the prerecorded presentations available before the conference at the same time that the papers become available in the ACM Digital Library so that attendees can watch the content when it is convenient for them and then come with questions to the paper sessions.
 
-We also were keely aware that most (if not all) of our colleagues would most likely still be teaching during the Symposium.  Some schools are still deciding if Spring Break will even happen.  Therefore, we decided that a "normal" Symposium schedule (e.g. 10:00am-4:00pm) probably would not be best for us.  Also, with anticipated lower registration fees and no travel costs, we hope that more of our K-12 and community college colleagues will be able to join us.  
+We also were keenly aware that most (if not all) of our colleagues would most likely still be teaching during the Symposium.  Some schools are still deciding if Spring Break will even happen.  Therefore, we decided that a "normal" Symposium schedule (e.g. 10:00am-4:00pm) probably would not be best for us.  Also, with anticipated lower registration fees and no travel costs, we hope that more of our K-12 and community college colleagues will be able to join us.  
 
-The "split band" block schedule was inspired by ICSE 2020 (International Conference on Software Engineering).  However, while ICSE utilzed three bands (Atlantic, Pacific, and Indian), we felt a two-band schedule would work better for us, due to the amount of content we would have and the geographic breakdown of most attendees.  We placed Block B later in the evening Eastern Time so that K-12 colleagues from all North American time zones could theoretically attend that block, along with making things a bit nicer for our Australasian colleagues.
+The "split band" block schedule was inspired by ICSE 2020 (International Conference on Software Engineering).  However, while ICSE utilized three bands (Atlantic, Pacific, and Indian), we felt a two-band schedule would work better for us, due to the amount of content we would have and the geographic breakdown of most attendees.  We placed Block B later in the evening Eastern Time so that K-12 colleagues from all North American time zones could theoretically attend that block, along with making things a bit nicer for our Australasian colleagues.
 
-We understand that not all blocks are at optimal times for all time zones.  To address this, we will be recording all live sessions to be made available on-demand through the virtual platform.
+We understand that not all blocks are at optimal times for all time zones.  To address this, our plan is to record all live sessions to be made available on-demand through the virtual platform.
 
 The large supporter block in between the two technical sessions allows us to highlight the contributions of sponsor organizations to the SIGCSE community appropriately.  We are asking our sponsors and exhibitors to create unique and informative sessions during these slots so that the SIGCSE community can have all the benefits of the exhibit hall we know and love.
 
@@ -471,7 +473,9 @@ Thank you all for your patience as we navigate a whole new way to run the Techni
 Please let us know if you have any questions or concerns!
 
 Mark Sherriff and Larry Merkle     
-SIGCSE TS 2021 Symposium Co-Chairs
+SIGCSE TS 2021 Symposium Co-Chairs    
+[symposium@sigcse2021.org](mailto:symposium@sigcse2021.org)
 
 Pam Cutter, Alvaro Monge, and Judy Sheard    
-SIGCSE TS 2021 Program Co-Chairs
+SIGCSE TS 2021 Program Co-Chairs    
+[program@sigcse2021.org](mailto:program@sigcse2021.org)
