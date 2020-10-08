@@ -440,6 +440,8 @@ All times Eastern (UTC-04:00)
 
 ### Session Types
 
+_(This information is subject to change after the virtual platform has been selected.)_
+
 __Technical Sessions__: Each Technical Session block will have eight parallel "rooms" with either paper presentations or panels/special sessions.  
 
 __Paper Presentation Sessions__: Authors will be invited to prerecord a 20 minute presentation of their work that will be made available before the Technical Symposium in the virtual platform.  During the paper presentation session itself, each author will be given 20 minutes - 5 minutes for a short recap of their work with a few slides and then 15 minutes of Q&A.  Five authors will present during each paper presentation session.  All paper presentation sessions will be recorded and will be available on-demand through the virtual platform.
