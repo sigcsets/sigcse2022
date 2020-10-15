@@ -20,7 +20,7 @@ table.multibody tbody:nth-child(even) {
 }
 
 table.multibody tbody:hover, tbody:hover th[rowspan], tbody:hover td[rowspan], tr:hover td {
-   background-color: #EE9A8C; 
+   background-color: #FEFCDD; 
 }
 
 th {
