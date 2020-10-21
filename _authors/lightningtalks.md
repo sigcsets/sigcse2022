@@ -38,11 +38,9 @@ The abstract is the summary of the Lightning talk that will appear on the confer
 
 The abstract for an accepted proposal may contain a link to a website with more information.  However note that if you choose to include supplementary materials in your initial submission, you are **obligated to anonymize the material**, e.g., removing author names, using anonymous content hosting services such as Dropbox, as to respect the dual-anonymous review process.  Furthermore, reviewers are not obligated to read your supplementary materials, so please ensure that your abstract is still self-contained and sufficient.
 
-### Virtual Option
+### Virtual Options
 For virtual presentations, the presenter may either present live via conferencing software or provide a recording of their presentation.  If a recording is provided, the presenter must be available to participate live in Q&A during the session online via conferencing software.
 
-### Face-to-Face Option
-For presenters attending the symposium in person, the presentation will be in a regular conference session and room. Please be aware that some of the attendees might be watching virtually and may also participate in Q&A virtually via conferencing software.
 
 ### Sample Proposal
 
