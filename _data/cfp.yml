@@ -211,7 +211,7 @@ details:
     length: "3.25 hours (first round: poster session) and 1.25 hours (second round: presentation)"
     specialsubmission: true
   Birds of a Feather:
-    limits: "1 page"
+    limits: "2 pages"
     abstract: "250 words"
     connector: "including"
     length: "45 minutes"
