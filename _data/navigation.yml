@@ -10,6 +10,10 @@
   url: "/reviewers/"
   side: left
 
+- title: "For Exhibitors"
+  url: "/exhibitors/"
+  side: left
+
 - title: "Committee"
   url: "/committee/"
   side: left

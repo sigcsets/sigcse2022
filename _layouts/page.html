@@ -85,6 +85,12 @@ format: post
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 
+	{% if page.sidebar == "exhibitors" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_exhibitors.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
     {% if page.collection == "authors" %}
 	<div class="medium-4 columns">
 		{% include _sidebar_authors.html %}
