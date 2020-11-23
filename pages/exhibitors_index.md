@@ -24,4 +24,4 @@ Angelina Streich
 Support/Exhibitor Liaisons    
 [exhibitor@sigcse2021.org](mailto:exhibitor@sigcse2021.org)    
 Beth Hawthorne - Rider University    
-Jodi Tims - Baldwin Wallace University     
+Jodi Tims - Northeaster University     
