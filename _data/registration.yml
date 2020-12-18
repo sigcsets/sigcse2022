@@ -1,0 +1,29 @@
+rates:
+  "SIGCSE Members":
+    early: $150
+    advance: $200
+    late: $250
+  "Non-members":
+    early: $200
+    advance: $250
+    late: $300
+  "Community College Faculty":
+    early: $100
+    advance: $150
+    late: $200
+  "K-12 Teacher":
+    early: $100
+    advance: $150
+    late: $200
+  "Retirees":
+    early: $100
+    advance: $150
+    late: $200
+  "Student":
+    early: $50
+    advance: $50
+    late: $50
+  student_non_member:
+    early: $75
+    advance: $75
+    late: $75
