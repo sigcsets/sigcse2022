@@ -19,11 +19,16 @@ rates:
     early: $100
     advance: $150
     late: $200
-  "Student":
+  "Student SIGCSE Member":
     early: $50
     advance: $50
     late: $50
-  student_non_member:
+  "Student Non-member":
     early: $75
     advance: $75
     late: $75
+
+dates:
+  early: TBD
+  advance: TBD
+  late: TBD
