@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: "For Attendees"
+  url: "/attendees/"
+  side: left
+
 - title: "For Authors"
   url: "/authors/"
   side: left

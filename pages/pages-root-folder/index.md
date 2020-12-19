@@ -9,20 +9,20 @@ layout: frontpage
 header:
   image_fullwidth: sigcse2021-logo-header.png
 widget1:
-  title: "2021 Schedule is Live!"
-  url: '/schedule'
-  image: schedule-widget.png
-  text: 'See the schedule for the first virtual Technical Symposium along with commentary on how it was created!'
+  title: "Registration Rates Available!"
+  url: '/attendees'
+  image: ribbons-widget.png
+  text: 'Registration rates for the Technical Symposium are now available!  Registration will open in early January 2021.'
 # widget2:
 #   title: "Submit to SIGCSE TS!"
 #   url: '/authors'
 #   text: 'See the Call for Papers for more information on submitting to SIGCSE TS 2021!'
 #   image: ribbons-widget.png
 widget2:
-  title: "Statement on Equity"
-  url: '/equity'
-  image: widget-2021logo.png
-  text: 'A statement from the SIGCSE TS 2021 chairs, published in the SIGCSE Bulletin.'
+  title: "2021 Schedule is Live!"
+  url: '/schedule'
+  image: schedule-widget.png
+  text: 'More information regarding presentation recordings is coming soon!'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -45,4 +45,4 @@ permalink: /index.html
 homepage: true
 aside: true
 ---
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/BAoyHUvSt4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<!--<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/BAoyHUvSt4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>-->
