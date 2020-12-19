@@ -1,34 +1,63 @@
 rates:
   "SIGCSE Members":
-    early: $150
-    advance: $200
-    late: $250
-  "Non-members":
-    early: $200
-    advance: $250
-    late: $300
-  "Community College Faculty":
-    early: $100
-    advance: $150
-    late: $200
-  "K-12 Teacher":
-    early: $100
-    advance: $150
-    late: $200
-  "Retirees":
-    early: $100
-    advance: $150
-    late: $200
-  "Student SIGCSE Member":
-    early: $50
-    advance: $50
-    late: $50
-  "Student Non-member":
-    early: $75
-    advance: $75
-    late: $75
-
+    "Regular Rate":
+      early: $150
+      regular: $200
+      day-of: $250
+    "Community College Faculty":
+      early: $100
+      regular: $150
+      day-of: $200
+    "K-12 Teacher":
+      early: $100
+      regular: $150
+      day-of: $200
+    "Student":
+      early: $50
+      regular: $50
+      day-of: $50
+    "Retirees":
+      early: $100
+      regular: $150
+      day-of: $200
+    "Exhibits Only":
+      early: $100
+      regular: $150
+      day-of: $200    
+  "Non-SIGCSE Members":
+    "Regular Rate":
+      early: $200
+      regular: $250
+      day-of: $300
+    "Regular Rate w/ Joining SIGCSE (electronic pubs)":
+      early: $175
+      regular: $225
+      day-of: $275
+    "Regular Rate w/ Joining SIGCSE (paper pubs)":
+      early: $195
+      regular: $245
+      day-of: $295   
+    "Community College Faculty w/ Joining SIGCSE":
+      early: $125
+      regular: $175
+      day-of: $225
+    "K-12 Teacher w/ Joining SIGCSE":
+      early: $125
+      regular: $175
+      day-of: $225
+    "Student":
+      early: $75
+      regular: $75
+      day-of: $75
+    "Retirees":
+      early: $100
+      regular: $150
+      day-of: $200
+    "Exhibits Only":
+      early: $100
+      regular: $150
+      day-of: $200  
 dates:
-  early: TBD
-  advance: TBD
-  late: TBD
+  early: Through Jan 31 (ET)
+  regular: Feb 1 - Mar 12 (ET) 
+  day-of: Mar 13 - Mar 20 (ET)

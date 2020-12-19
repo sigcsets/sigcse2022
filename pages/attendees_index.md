@@ -38,12 +38,15 @@ span.team-heading {
 
 ### Registration Rates
 
-<table width="100%" class="multibody">
-    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.registration.dates.early}}</th><th scope="col">Advance: <br>{{site.data.registration.dates.advance}}</th><th scope="col">Late: <br>{{site.data.registration.dates.late}}</th></tr>
+{% for rate_category in site.data.registration.rates %}
+  <h3>{{ rate_category[0] }}</h3>
+  <table width="100%" class="multibody">
+    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.registration.dates.early}}</th><th scope="col">Advance: <br>{{site.data.registration.dates.regular}}</th><th scope="col">Late: <br>{{site.data.registration.dates.day-of}}</th></tr>
     <tbody>
-    {% for rate_type in site.data.registration.rates %}
-    <tr><td>{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].advance }}</td><td>{{ rate_type[1].late }}</td></tr>
+    {% for rate_type in rate_category[1] %}
+      <tr><td>{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].regular }}</td><td>{{ rate_type[1].day-of }}</td></tr>
     {% endfor %}
-
     </tbody>
-</table>
+  </table>
+  
+{% endfor %}
