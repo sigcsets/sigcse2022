@@ -22,8 +22,8 @@ rates:
       day-of: $200
     "Exhibits Only":
       early: $100
-      regular: $150
-      day-of: $200    
+      regular: $100
+      day-of: $100    
   "Non-SIGCSE Members":
     "Regular Rate":
       early: $200
@@ -55,8 +55,8 @@ rates:
       day-of: $200
     "Exhibits Only":
       early: $100
-      regular: $150
-      day-of: $200  
+      regular: $100
+      day-of: $100  
 dates:
   early: Through Jan 31 (ET)
   regular: Feb 1 - Mar 12 (ET) 
