@@ -59,5 +59,5 @@ rates:
       day-of: $100  
 dates:
   early: Through Jan 31 (ET)
-  regular: Feb 1 - Mar 12 (ET) 
-  day-of: Mar 13 - Mar 20 (ET)
+  regular: Feb 1 - Feb 28 (ET) 
+  day-of: Mar 1 - Mar 20 (ET)
