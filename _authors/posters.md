@@ -7,7 +7,7 @@ track: "Posters"
 
 {% include submission-details.html %}
 
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
 
 ## Author Guidelines: Posters
 {% include alert info='Final as of September 17 2020' %}

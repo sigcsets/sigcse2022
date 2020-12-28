@@ -7,7 +7,7 @@ track: "Workshops"
  
 {% include submission-details.html %}
  
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
  
 ## Author guidelines: Workshops 
 {% include alert info='Current as of August 13 2020' %} 

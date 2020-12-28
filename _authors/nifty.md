@@ -7,7 +7,7 @@ track: "Nifty Assignments"
 
 {% include submission-details.html %}
 
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
 
 ## Author guidelines: Nifty Assignments
 

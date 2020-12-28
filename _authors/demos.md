@@ -7,7 +7,7 @@ track: "Demos"
 
 {% include submission-details.html %}
 
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
 
 ## Author Guidelines: Demos
 

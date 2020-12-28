@@ -7,7 +7,7 @@ track: "Special Sessions"
  
 {% include submission-details.html %}
  
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
  
 ## Author Guidelines: Special Session
 

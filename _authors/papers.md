@@ -7,7 +7,7 @@ track: "Papers"
 
 {% include submission-details.html %}
 
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
 
 ## SIGCSE Technical Symposium Paper Types
 

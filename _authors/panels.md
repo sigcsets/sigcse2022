@@ -7,7 +7,7 @@ track: "Panels"
  
 {% include submission-details.html %}
  
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
  
 ## Author Guidelines: Panel Session
 {% include alert info='Current as of August 13 2020' %}

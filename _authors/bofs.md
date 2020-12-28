@@ -6,7 +6,7 @@ track: "Birds of a Feather"
 ---
 {% include submission-details.html %}
 
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
 
 ## Author Guidelines: Birds-of-a-Feather (BOF)
 {% include alert info='Final as of August 27 2020' %}

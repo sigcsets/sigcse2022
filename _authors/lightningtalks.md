@@ -7,7 +7,7 @@ track: "Lightning Talks"
 
 {% include submission-details.html %}
 
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
 
 ## Author Guidelines: Lightning Talks
 
