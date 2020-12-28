@@ -98,3 +98,13 @@ The paper is limited to a **maximum of {{site.data.submissions.papers.limits}}**
 If your paper is accepted you will have a chance to modify your publication version before it is published.
 
 {% include submission-proposal.html %}
+
+## Presenting at SIGCSE TS 2021
+
+### How will I be presenting my work?
+
+Authors are asked to prerecord a 20 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
+
+The official schedule of presenation time slots will be made available in January.  During your technical session, each author will be given 20 minutes to present -- 5 minutes for a short recap of your work with two or three slides and then 15 minutes of Q&A.  Five authors will present during each technical session.  All technical sessions will be recorded and will be available on-demand through Pathable for a year following the end of the Symposium.
+
+{% include presentation-guidelines.md %}
