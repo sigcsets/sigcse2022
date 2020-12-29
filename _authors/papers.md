@@ -105,7 +105,7 @@ If your paper is accepted you will have a chance to modify your publication vers
 
 * __January 15__ - Submit video presentation through submission form emailed to corresponding authors 
 
-### How will I be presenting my work?
+### How will I be presenting my work? (Paper Tracks)
 
 Authors are asked to prerecord a 20 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
 
@@ -113,18 +113,6 @@ The official schedule of presenation time slots will be made available in Januar
 
 More information regarding the live technical sessions will be available in January.  Pathable uses embedded Zoom windows in the web application for video presentations, so the experience will be familiar to most presenters.  A session chair will moderate the session and we will have technical support available all week to assist as needed.  You will also have the opportunity to upload a copy of your presentation slides, which will be made available with your session in Pathable.
 
-### How do I submit my video presentation?
-
-A link to the submission form will be sent to the corresponding authors identified in EasyChair.
-
-### Why do you need the presentation so early?
-
-Our goal is to make the prerecorded content of the Technical Symposium available a few weeks before the Symposium starts so that attendees can view materials when convenient to them and so they can better build their schedule during the week of the Symposium.  In order to meet that goal, we need to pre-process all the videos as soon as possible, including, but not limited to:
-
-* Closed-captioning for all videos (authors do not need to do this on their own - our production company is providing this service)
-* Checking format to ensure videos can play properly in Pathable
-* Validating the length of videos matches the requirements
+{% include presentation-how-to-submit.md %}
 
 {% include presentation-guidelines.md %}
-
-{% include presentation-best-practices.md %}
