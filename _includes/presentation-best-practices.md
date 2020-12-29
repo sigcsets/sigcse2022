@@ -6,7 +6,7 @@ Here are some best practices to consider as you record your video and prepare fo
 * Make sure you are professionally dressed. 
 * Sit in the center of the camera shot to ensure proper camera framing.
 * Make sure your face is well lit by sitting in a room with plenty of light. If you can’t find a well-lit room, place a small lamp in front of you but out of the camera view.
-* Do not sit in front of a window. This will cause the camera to adjust for the light, making your face look very dark.
+* Do not sit in front of a window. This will cause the camera to adjust for the light, making your face look very dark.  Similarly, avoid other light sources behind you.
 * Adjust the camera to be level with your eyes.  This will produce the best camera angle.  If using a laptop, you may need to put your laptop on an elevated surface in order to get the camera level with your eyes.
 * Always be aware of what is in the camera shot. Make sure there is nothing sitting in the background that you wouldn’t want viewers to see. 
 * Use headphones or earbuds to listen to the audio. This helps with the sound quality and ensures you will always be able to hear clearly.
