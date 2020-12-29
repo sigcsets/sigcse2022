@@ -107,11 +107,13 @@ If your paper is accepted you will have a chance to modify your publication vers
 
 ### How will I be presenting my work? (Paper Tracks)
 
-Authors are asked to prerecord a 20 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
+Technical session presentations for all paper tracks (Computing Education Research, Experience Reports and Tools, and Position and Curriculua Initiatives) will be split into two parts -- a prerecorded video presentation of no more than 20 minutes in length and a 20-minute live discussion and Q&A session during your assigned slot the week of the Technical Symposium.
 
-The official schedule of presenation time slots will be made available in January.  During your technical session, each author will be given 20 minutes to present -- 5 minutes for a short recap of your work with two or three slides and then 15 minutes of Q&A.  Five authors will present during each technical session.  All technical sessions will be recorded and will be available on-demand through Pathable for a year following the end of the Symposium.
+Presenters are asked to prerecord a 20 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
 
-More information regarding the live technical sessions will be available in January.  Pathable uses embedded Zoom windows in the web application for video presentations, so the experience will be familiar to most presenters.  A session chair will moderate the session and we will have technical support available all week to assist as needed.  You will also have the opportunity to upload a copy of your presentation slides, which will be made available with your session in Pathable.
+Five papers will be assigned to each technical session during the Symposium.  Each presenter in a technical session will be given 20 minutes for their work -- 5 minutes for a short recap of your work with two or three slides and then 15 minutes of Q&A.  Pathable uses embedded Zoom windows in the web application for video presentations, so the experience will be familiar to most presenters.  A session chair will moderate the session and we will have technical support available all week to assist as needed.  You will also have the opportunity to upload a copy of your presentation slides, which will be made available with your session in Pathable.  All technical sessions will be recorded and made available on-demand through Pathable for a year following the end of the Symposium.
+
+More information regarding the live technical sessions, including which session each paper is assigned to, will be available in January.  
 
 {% include presentation-how-to-submit.md %}
 

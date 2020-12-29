@@ -72,4 +72,24 @@ and page limits.
  
 {% include submission-proposal.html %}
  
- 
+## Presenting at SIGCSE TS 2021
+
+### Important Dates
+
+* __January 15__ - Submit video presentation through submission form emailed to corresponding authors 
+
+### How will I be presenting my work? (Panels and Special Sessions)
+
+Panels and Special Sessions could be done in several ways:
+
+* Pre-record the session and make that available through Pathable before the Symposium and then use the 
+
+Authors are asked to prerecord a 20 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
+
+The official schedule of presenation time slots will be made available in January.  During your technical session, each author will be given 20 minutes to present -- 5 minutes for a short recap of your work with two or three slides and then 15 minutes of Q&A.  Five authors will present during each technical session.  All technical sessions will be recorded and will be available on-demand through Pathable for a year following the end of the Symposium.
+
+More information regarding the live technical sessions will be available in January.  Pathable uses embedded Zoom windows in the web application for video presentations, so the experience will be familiar to most presenters.  A session chair will moderate the session and we will have technical support available all week to assist as needed.  You will also have the opportunity to upload a copy of your presentation slides, which will be made available with your session in Pathable.
+
+{% include presentation-how-to-submit.md %}
+
+{% include presentation-guidelines.md %}
