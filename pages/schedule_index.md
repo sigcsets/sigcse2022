@@ -28,10 +28,10 @@ caption {
   padding: 10px 0;
 }
 
-#calendar a {
+/* #calendar a {
 	color: #8e352e;
 	text-decoration: none;
-}
+} */
 
 #calendar td, #calendar th {
 	padding: 5px;
@@ -89,6 +89,14 @@ caption {
 	text-decoration: none;
 }
 
+a {
+  color: #003aaf;
+}
+
+#calendar .event:hover {
+  background: #a1e1f5;
+}
+
 #calendar .event-desc {
 	color: #666;
 	margin: 3px 0 7px 0;
@@ -132,7 +140,7 @@ caption {
 	}
 }
 </style>
-Last update: October 7, 2020    
+Last update: December 30, 2020    
 All times Eastern Time Zone (North America)
 
 <table id="calendar">
@@ -170,20 +178,24 @@ All times Eastern Time Zone (North America)
     <td class="day">
       <div class="date">13</div>
       <div class="event">
+      <a href="/schedule/workshops/#block-a">
         <div class="event-desc">
           Workshop Block A
         </div>
         <div class="event-time">
-          1:00pm to 4:00pm
+          9:00am to 12:00pm
         </div>
+      </a>
       </div>
       <div class="event">
+      <a href="/schedule/workshops/#block-b">
         <div class="event-desc">
           Workshop Block B
         </div>
         <div class="event-time">
-          7:00pm to 10:00pm
+          1:00pm to 4:00pm
         </div>
+      </a>
       </div>
     </td>
   </tr>
@@ -191,12 +203,14 @@ All times Eastern Time Zone (North America)
     <td class="day">
       <div class="date">14</div>
       <div class="event">
+      <a href="/schedule/workshops/#block-c">
         <div class="event-desc">
           Workshop Block C
         </div>
         <div class="event-time">
           1:00pm to 4:00pm
         </div>
+      </a>
       </div>
       <div class="event">
         <div class="event-desc">
@@ -437,23 +451,41 @@ All times Eastern Time Zone (North America)
 
 </table>
 
-### Session Types
+## Session Descriptions and Information
 
-_(This information is subject to change after the virtual platform has been selected.)_
+For more information about each session, click on the event in the calendar above, or select from the list below:
 
-__Technical Sessions__: Each Technical Session block will have eight parallel "rooms" with either paper presentations or panels/special sessions (e.g. An example block could have five paper sessions, two panels, and one special session.)
+### Technical Sessions
+
+Each Technical Session block will have eight parallel "rooms" with either paper presentations or panels/special sessions (e.g. An example block could have five paper sessions, two panels, and one special session.)
 
 __Paper Presentation Sessions__: Authors will be invited to prerecord a 20 minute presentation of their work that will be made available before the Technical Symposium through the virtual platform.  During the paper presentation session itself, each author will be given 20 minutes -- 5 minutes for a short recap of their work with a few slides and then 15 minutes of Q&A.  Five authors will present during each paper presentation session.  All paper presentation sessions will be recorded and will be available on-demand through the virtual platform.
 
+* Schedule of paper presentations will be available in January
+* [Presenting Papers at SIGCSE TS 2021](http://localhost:4000/authors/papers/#presenting-at-sigcse-ts-2021)
+
 __Panels and Special Sessions__: Panels and Special Sessions will have the option of either prerecording their panel discussion and making it available before the Technical Symposium and then only having live Q&A and follow up discussion or doing the entire session live.  All panels and special sessions will be recorded and will be available on-demand through the virtual platform.
 
-__Supporter Sessions__: In between Block A and Block B's technical content, the virtual Exhibit Hall will be open.  SIGCSE sponsors will have sessions at 3:00, 4:15, 5:30, and 6:45.  Sessions at 3:00 and 6:45 will be for Platinum and Gold Level supporters, while Silver Level supporters will have sessions at 4:15 and 5:30.  
+* Schedule of panels and special sessions will be available in January
+* [Presenting Panels at SIGCSE TS 2021](http://localhost:4000/authors/panels/#presenting-at-sigcse-ts-2021)
+* [Presenting Special Sessions at SIGCSE TS 2021](http://localhost:4000/authors/specialsessions/#presenting-at-sigcse-ts-2021)
 
-__Networking Block__: The Networking Block will be a time for Birds-of-a-Feather sessions, Q&A with Demo, Lightning Talk, and Poster authors, and open discussion forums for the community.  More info on these sessions will be available after the virtual platform has been selected.
+### Workshops
 
-__Special Events!__: The Program Committee is still working on a few surprises.  We will announce these as our plans are finalized!
+* [Schedule of Workshops](/schedule/workshops)
+* [Presenting Workshops at SIGCSE TS 2021](#)
 
-### Creating the SIGCSE TS 2021 Schedule
+### Affiliated Events
+
+* [Schedule of Affiliated Events](/schedule/affiliated-events)
+* [Presenting Affiliated Events at SIGCSE TS 2021](#)
+
+### Supporter Sessions
+
+In between Block A and Block B's technical content, the virtual Exhibit Hall will be open.  SIGCSE sponsors will have sessions at 3:00, 4:15, 5:30, and 6:45.  Sessions at 3:00 and 6:45 will be for Platinum and Gold Level supporters, while Silver Level supporters will have sessions at 4:15 and 5:30. 
+
+
+## Creating the SIGCSE TS 2021 Schedule
 
 The Symposium and Program Chairs spent a great deal of time over the past few months attending other virtual conferences, talking with our planning company, and getting input from various parts of our community regarding possible formats and schedules for the Technical Symposium.  There were many aspects of other virtual conferences that we felt could work well for the Technical Symposium.  For example, ASEE's (American Society for Engineering Education) 2020 Virtual Conference was the first conference that the chairs attended this summer that had authors upload prerecorded videos and then use the presentation time primarily for Q&A.  We felt that this model would provide our community with more of what we wanted - interaction with other attendees.  We plan to make the prerecorded presentations available before the conference at the same time that the papers become available in the ACM Digital Library so that attendees can watch the content when it is convenient for them and then come with questions to the paper sessions.
 
