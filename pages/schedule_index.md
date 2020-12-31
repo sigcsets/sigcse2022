@@ -178,7 +178,7 @@ All times Eastern Time Zone (North America)
     <td class="day">
       <div class="date">13</div>
       <div class="event">
-      <a href="/schedule/workshops/#block-a">
+      <a href="{{ site.baseurl }}/schedule/workshops/#block-a">
         <div class="event-desc">
           Workshop Block A
         </div>
@@ -188,7 +188,7 @@ All times Eastern Time Zone (North America)
       </a>
       </div>
       <div class="event">
-      <a href="/schedule/workshops/#block-b">
+      <a href="{{ site.baseurl }}/schedule/workshops/#block-b">
         <div class="event-desc">
           Workshop Block B
         </div>
@@ -203,7 +203,7 @@ All times Eastern Time Zone (North America)
     <td class="day">
       <div class="date">14</div>
       <div class="event">
-      <a href="/schedule/workshops/#block-c">
+      <a href="{{ site.baseurl }}/schedule/workshops/#block-c">
         <div class="event-desc">
           Workshop Block C
         </div>
@@ -462,22 +462,22 @@ Each Technical Session block will have eight parallel "rooms" with either paper 
 __Paper Presentation Sessions__: Authors will be invited to prerecord a 20 minute presentation of their work that will be made available before the Technical Symposium through the virtual platform.  During the paper presentation session itself, each author will be given 20 minutes -- 5 minutes for a short recap of their work with a few slides and then 15 minutes of Q&A.  Five authors will present during each paper presentation session.  All paper presentation sessions will be recorded and will be available on-demand through the virtual platform.
 
 * Schedule of paper presentations will be available in January
-* [Presenting Papers at SIGCSE TS 2021](http://localhost:4000/authors/papers/#presenting-at-sigcse-ts-2021)
+* [Presenting Papers at SIGCSE TS 2021]({{ site.baseurl }}/authors/papers/#presenting-at-sigcse-ts-2021)
 
 __Panels and Special Sessions__: Panels and Special Sessions will have the option of either prerecording their panel discussion and making it available before the Technical Symposium and then only having live Q&A and follow up discussion or doing the entire session live.  All panels and special sessions will be recorded and will be available on-demand through the virtual platform.
 
 * Schedule of panels and special sessions will be available in January
-* [Presenting Panels at SIGCSE TS 2021](http://localhost:4000/authors/panels/#presenting-at-sigcse-ts-2021)
-* [Presenting Special Sessions at SIGCSE TS 2021](http://localhost:4000/authors/specialsessions/#presenting-at-sigcse-ts-2021)
+* [Presenting Panels at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
+* [Presenting Special Sessions at SIGCSE TS 2021]({{ site.baseurl }}/authors/specialsessions/#presenting-at-sigcse-ts-2021)
 
 ### Workshops
 
-* [Schedule of Workshops](/schedule/workshops)
+* [Schedule of Workshops]({{ site.baseurl }}/schedule/workshops)
 * [Presenting Workshops at SIGCSE TS 2021](#)
 
 ### Affiliated Events
 
-* [Schedule of Affiliated Events](/schedule/affiliated-events)
+* [Schedule of Affiliated Events]({{ site.baseurl }}/schedule/affiliated-events)
 * [Presenting Affiliated Events at SIGCSE TS 2021](#)
 
 ### Supporter Sessions
