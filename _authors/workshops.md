@@ -95,4 +95,12 @@ If the proposal is accepted, the presenter name(s) and affiliation(s), the works
  
 {% include submission-proposal.html %}
  
- 
+## Presenting at SIGCSE TS 2021
+
+### Important Dates
+
+* TBD 
+
+### How will I be presenting my work? (Workshops)
+
+The Symposium Chairs and Workshops Chairs will be in touch with all events soon.  More information will be posted here as well.   

@@ -109,3 +109,13 @@ For consideration, please check the option **Presenting Author is an Undergradua
 Please note that this award is separate from the [ACM Student Research Competition](/authors/src).  Undergraduate students participating in the ACM Student Research Competition are not eligible for consideration of the CUR award.
 
 {% include submission-proposal.html %}
+
+## Presenting at SIGCSE TS 2021
+
+### Important Dates
+
+* TBD
+
+### How will I be presenting my work? (Posters)
+
+Poasters Track chairs will be in touch with presenters soon regarding information about presenting.

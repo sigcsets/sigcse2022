@@ -79,3 +79,13 @@ Accepted Student Research Competition abstracts (max {{site.data.submissions["ac
 The first-place winners from each category (graduate and undergraduate) will advance to the ACM Grand Finals of the Student Research Competition where the winners of several ACM conferences compete for more prizes and recognition. 
 
 {% include submission-proposal.html %}
+
+## Presenting at SIGCSE TS 2021
+
+### Important Dates
+
+* TBD
+
+### How will I be presenting my work? (Student Research Competition)
+
+SRC Track chairs will be in touch with presenters soon regarding information about presenting.

@@ -71,3 +71,13 @@ Affiliated Events will be charged a fee to help defray costs.  The exact costs h
 
 ### Registration
 Registration for the event must be handled by the Affiliated Event organizers and will not be handled by the SIGCSE TS registration system.   (UPDATE: This is subject to change depending on the virtual platform chosen.  We will update this page as soon as more information is known.)
+
+## Presenting at SIGCSE TS 2021
+
+### Important Dates
+
+* TBD 
+
+### How will I be presenting my work? (Affiliated and Pre-Symposium Events)
+
+The Symposium Chairs and Affiliated Events Chairs will be in touch with all events soon.  More information will be posted here as well.   
