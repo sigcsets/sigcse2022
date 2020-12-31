@@ -1,4 +1,16 @@
-﻿workshops:
+﻿blocks:
+  - block: A
+    day: Saturday, March 13
+    time: 9:00am-12:00pm (ET)
+  - block: B
+    day: Saturday, March 13
+    time: 1:00pm-4:00pm (ET)
+  - block: C
+    day: Sunday, March 14
+    time: 1:00pm-4:00pm (ET)
+
+
+workshops:
   - number : 101
     submission : 711
     block : A
