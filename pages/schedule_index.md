@@ -1,8 +1,7 @@
 ---
 layout: page-fullwidth
-title: "Official Schedule for SIGCSE TS 2021"
-meta_title: "Official Schedule for SIGCSE TS 2021"
-# teaser: "COVID-19 Information for SIGCSE TS 2021"
+title: "Schedule for SIGCSE TS 2021"
+meta_title: "Schedule for SIGCSE TS 2021"
 permalink: "/schedule/"
 ---
 <style>
