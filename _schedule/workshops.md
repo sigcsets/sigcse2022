@@ -1,7 +1,7 @@
 ---
 layout: page
 order: 1
-title: Schedule of Workshops
+title: Workshop Schedule
 sidebar: schedule_workshops
 ---
 

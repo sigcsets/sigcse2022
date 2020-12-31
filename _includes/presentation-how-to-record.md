@@ -23,7 +23,7 @@ If you would like to have more control over the presentation, including, but not
 * Graphic boarders around your camera
 * Sharing multiple windows at the same time
 
-you may want to try the open source Open Broadcaster Software (OBS) at [http://obsproject.com](http://obsproject.com), available for Windows, Mac, and Linux.  OBS does require a lot more configuration and setting up than Zoom, but offers a lot of flexibility and options for free.  (Just remember that OBS records .mkv files by default.  To convert to .mp4, use the "Remux Recordings" option in the File menu.)
+you may want to try the open source Open Broadcaster Software (OBS) at [http://obsproject.com](http://obsproject.com), available for Windows, Mac, and Linux.  OBS does require more configuration and setting up than Zoom, but offers a lot of flexibility and options for free.  Note that OBS records .mkv files by default.  To convert to .mp4, use the "Remux Recordings" option in the File menu.
 
 __Using Powerpoint/Keynote:__
 
@@ -35,4 +35,4 @@ If the tool you use does not natively create a .mp4 file for you, you can transc
 
 __Closed-Captioning:__
 
-Please note that the Technical Symposium is providing a closed-captioning service for all videos (pre-recorded and live) at no cost to you.  We will do all the closed-captioning to ensure a standard experience across all aspects of the Symposium.
+Please note that the Technical Symposium is providing a closed-captioning service for all prerecorded videos and live sessions at no cost to you.  We are doing this to ensure a standard experience across all aspects of the Symposium.

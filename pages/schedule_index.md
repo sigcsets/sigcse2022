@@ -141,7 +141,8 @@ a {
 }
 </style>
 Last update: December 30, 2020    
-All times Eastern Time Zone (North America)
+All times Eastern Time Zone (North America)    
+Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/workshops) | Affiliated Events
 
 <table id="calendar">
   <caption>March 2021</caption>
@@ -453,7 +454,7 @@ All times Eastern Time Zone (North America)
 
 ## Session Descriptions and Information
 
-For more information about each session, click on the event in the calendar above, or select from the list below:
+For more information about each session, click on the event in the calendar above, or select from the list below.  We are continuing to post more information and will update regularly.
 
 ### Technical Sessions
 
@@ -472,18 +473,14 @@ __Panels and Special Sessions__: Panels and Special Sessions will have the optio
 
 ### Workshops
 
-* [Schedule of Workshops]({{ site.url }}{{ site.baseurl }}/schedule/workshops)
-* [Presenting Workshops at SIGCSE TS 2021](#)
+* [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/workshops)
 
 ### Affiliated Events
 
-* [Schedule of Affiliated Events]({{ site.url }}{{ site.baseurl }}/schedule/affiliated-events)
-* [Presenting Affiliated Events at SIGCSE TS 2021](#)
 
 ### Supporter Sessions
 
 In between Block A and Block B's technical content, the virtual Exhibit Hall will be open.  SIGCSE sponsors will have sessions at 3:00, 4:15, 5:30, and 6:45.  Sessions at 3:00 and 6:45 will be for Platinum and Gold Level supporters, while Silver Level supporters will have sessions at 4:15 and 5:30. 
-
 
 ## Creating the SIGCSE TS 2021 Schedule
 
