@@ -142,7 +142,7 @@ a {
 </style>
 Last update: December 30, 2020    
 All times Eastern Time Zone (North America)    
-Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/workshops) | Affiliated Events
+Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/workshops) | [Affiliated Events]({{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents) 
 
 <table id="calendar">
   <caption>March 2021</caption>
@@ -163,18 +163,78 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     </td>
     <td class="day">
       <div class="date">8</div>
+      <div class="event">
+      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-1">
+        <div class="event-desc">
+          Affiliated Events
+        </div>
+        <div class="event-time">
+          1:00pm-5:00pm
+        </div>
+      </a>
+      </div>
     </td>
     <td class="day">
       <div class="date">9</div>
+      <div class="event">
+      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-1">
+        <div class="event-desc">
+          Affiliated Events
+        </div>
+        <div class="event-time">
+          1:00pm-5:00pm
+        </div>
+      </a>
+      </div>
     </td>
     <td class="day">
       <div class="date">10</div>
+      <div class="event">
+      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-2">
+        <div class="event-desc">
+          Affiliated Events
+        </div>
+        <div class="event-time">
+          1:00pm-5:00pm
+        </div>
+      </a>
+      </div>
     </td>
     <td class="day">
       <div class="date">11</div>
+      <div class="event">
+      <a href="{{ site.url }}{{ site.baseurl }}/#">
+        <div class="event-desc">
+          Global Diversity Event
+        </div>
+        <div class="event-time">
+          8:00am and 8:00pm
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-3">
+        <div class="event-desc">
+          Affiliated Events
+        </div>
+        <div class="event-time">
+          1:00pm-5:00pm
+        </div>
+      </a>
+      </div>
     </td>
     <td class="day">
       <div class="date">12</div>
+      <div class="event">
+      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-4">
+        <div class="event-desc">
+          Affiliated Events
+        </div>
+        <div class="event-time">
+          1:00pm
+        </div>
+      </a>
+      </div>
     </td>
     <td class="day">
       <div class="date">13</div>
@@ -233,6 +293,16 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     <td class="day">
       <div class="date">15</div>
       <div class="event">
+      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-5">
+        <div class="event-desc">
+          Affiliated Events
+        </div>
+        <div class="event-time">
+          10:00am-12:30pm
+        </div>
+      </a>
+      </div>
+      <div class="event">
         <div class="event-desc">
           Block 1A: Opening Keynote
         </div>
@@ -275,6 +345,16 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     </td>
     <td class="day">
       <div class="date">16</div>
+      <div class="event">
+      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-5">
+        <div class="event-desc">
+          Affiliated Events
+        </div>
+        <div class="event-time">
+          10:00am-12:30pm
+        </div>
+      </a>
+      </div>
       <div class="event">
         <div class="event-desc">
           Block 2A: Technical Sessions
