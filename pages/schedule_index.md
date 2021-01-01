@@ -179,9 +179,9 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     <td class="day">
       <div class="date">13</div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/schedule/workshops/#block-a">
+      <a href="{{ site.url }}{{ site.baseurl }}/schedule/workshops/#block-1">
         <div class="event-desc">
-          Workshop Block A
+          Workshop Block 1
         </div>
         <div class="event-time">
           9:00am to 12:00pm
@@ -189,9 +189,9 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
       </a>
       </div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/schedule/workshops/#block-b">
+      <a href="{{ site.url }}{{ site.baseurl }}/schedule/workshops/#block-2">
         <div class="event-desc">
-          Workshop Block B
+          Workshop Block 2
         </div>
         <div class="event-time">
           1:00pm to 4:00pm
@@ -204,9 +204,9 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     <td class="day">
       <div class="date">14</div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/schedule/workshops/#block-c">
+      <a href="{{ site.url }}{{ site.baseurl }}/schedule/workshops/#block-3">
         <div class="event-desc">
-          Workshop Block C
+          Workshop Block 3
         </div>
         <div class="event-time">
           1:00pm to 4:00pm
