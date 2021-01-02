@@ -1,0 +1,64 @@
+{% if page.sidebar == "left" %}
+	<div class="medium-4 columns medium-pull-8">
+		{% include _sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+
+	{% if page.sidebar == "right" %}
+	<div class="medium-4 columns">
+		{% include _sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+	{% if page.sidebar == "authors" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_authors.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+	{% if page.sidebar == "reviewers" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_reviewers.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+	{% if page.sidebar == "committee" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_committee.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+	{% if page.sidebar == "exhibitors" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_exhibitors.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+	{% if page.sidebar == "attendees" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_attendees.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+	{% if page.sidebar == "schedule_workshops" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_schedule_workshops.html %}
+	</div><!-- /.medium-4.columns -->
+    {% endif %}
+    
+    {% if page.sidebar == "schedule_affiliatedevents" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_schedule_affiliatedevents.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+    {% if page.collection == "authors" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_authors.html %}
+	</div><!-- /.medium-4.columns -->
+	{% elsif page.collection == "reviewers" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_reviewers.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}

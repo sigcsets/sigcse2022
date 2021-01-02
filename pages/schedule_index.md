@@ -140,8 +140,9 @@ a {
 	}
 }
 </style>
-Last update: December 30, 2020    
-All times Eastern Time Zone (North America)    
+Last update: January 2, 2020    
+All times Eastern Time Zone (North America)     
+Click on the events in the calendar below to see more information about each session    
 Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/workshops) | [Affiliated Events]({{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents) 
 
 <table id="calendar">
