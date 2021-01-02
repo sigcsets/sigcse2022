@@ -167,10 +167,10 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
       <div class="event">
       <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-1">
         <div class="event-desc">
-          Affiliated Events
+          Affiliated Event - Liberal Arts
         </div>
         <div class="event-time">
-          1:00pm-5:00pm
+          1:00pm-4:30pm
         </div>
       </a>
       </div>
@@ -180,10 +180,10 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
       <div class="event">
       <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-1">
         <div class="event-desc">
-          Affiliated Events
+          Affiliated Event - Liberal Arts
         </div>
         <div class="event-time">
-          1:00pm-5:00pm
+          1:00pm-4:30pm
         </div>
       </a>
       </div>
