@@ -167,7 +167,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
       <div class="event">
       <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-1">
         <div class="event-desc">
-          Affiliated Event - Liberal Arts
+          Affiliate - Liberal Arts
         </div>
         <div class="event-time">
           1:00pm-4:30pm
@@ -180,7 +180,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
       <div class="event">
       <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-1">
         <div class="event-desc">
-          Affiliated Event - Liberal Arts
+          Affiliate - Liberal Arts
         </div>
         <div class="event-time">
           1:00pm-4:30pm
@@ -193,7 +193,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
       <div class="event">
       <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-2">
         <div class="event-desc">
-          Affiliated Events
+          Affiliate - Computing for Social Good
         </div>
         <div class="event-time">
           1:00pm-5:00pm
@@ -216,7 +216,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
       <div class="event">
       <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-3">
         <div class="event-desc">
-          Affiliated Events
+          Affiliate - Welcoming Students w/ Disabilities
         </div>
         <div class="event-time">
           1:00pm-5:00pm
@@ -229,7 +229,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
       <div class="event">
       <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-4">
         <div class="event-desc">
-          Affiliated Events
+          Affiliate - Teaching-Track Professional Development
         </div>
         <div class="event-time">
           1:00pm
