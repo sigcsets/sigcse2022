@@ -142,7 +142,7 @@ a {
 </style>
 Last update: January 2, 2020    
 All times Eastern Time Zone (North America)     
-Click on the events in the calendar below to see more information about each session    
+Click on the events in the calendar below-see more information about each session    
 Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affiliated Events]({{ site.baseurl }}/schedule/affiliatedevents) 
 
 <table id="calendar">
@@ -232,7 +232,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Affiliate - Teaching-Track Professional Development
         </div>
         <div class="event-time">
-          1:00pm
+          1:00pm-5:00pm
         </div>
       </a>
       </div>
@@ -245,7 +245,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Workshop Block 1
         </div>
         <div class="event-time">
-          9:00am to 12:00pm
+          9:00am-12:00pm
         </div>
       </a>
       </div>
@@ -255,7 +255,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Workshop Block 2
         </div>
         <div class="event-time">
-          1:00pm to 4:00pm
+          1:00pm-4:00pm
         </div>
       </a>
       </div>
@@ -270,7 +270,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Workshop Block 3
         </div>
         <div class="event-time">
-          1:00pm to 4:00pm
+          1:00pm-4:00pm
         </div>
       </a>
       </div>
@@ -279,7 +279,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Special Event!
         </div>
         <div class="event-time">
-          4:30pm to 7:30pm
+          4:30pm-7:30pm
         </div>
       </div>
       <div class="event">
@@ -287,7 +287,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           SIGCSE TS 2021 Opening Event and Reception
         </div>
         <div class="event-time">
-          8:00pm to 10:00pm
+          8:00pm-10:00pm
         </div>
       </div>
     </td>
@@ -308,7 +308,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Block 1A: Opening Keynote
         </div>
         <div class="event-time">
-          1:00pm to 2:00pm
+          1:00pm-2:00pm
         </div>
       </div>
       <div class="event">
@@ -316,7 +316,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           First Timer's Session and Keynote
         </div>
         <div class="event-time">
-          2:00pm to 3:00pm
+          2:00pm-3:00pm
         </div>
       </div>
       <div class="event">
@@ -324,7 +324,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Exhibit Hall and Supporter Sessions
         </div>
         <div class="event-time">
-          3:00pm to 8:00pm
+          3:00pm-8:00pm
         </div>
       </div>
       <div class="event">
@@ -332,7 +332,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Networking Block 1
         </div>
         <div class="event-time">
-          4:15pm to 6:45pm
+          4:15pm-6:45pm
         </div>
       </div>
       <div class="event">
@@ -340,7 +340,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Block 1B: Technical Sessions
         </div>
         <div class="event-time">
-          8:00pm to 9:45pm
+          8:00pm-9:45pm
         </div>
       </div>
     </td>
@@ -361,7 +361,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Block 2A: Technical Sessions
         </div>
         <div class="event-time">
-          1:00pm to 2:45pm
+          1:00pm-2:45pm
         </div>
       </div>
       <div class="event">
@@ -369,7 +369,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Exhibit Hall and Supporter Sessions
         </div>
         <div class="event-time">
-          3:00pm to 8:00pm
+          3:00pm-8:00pm
         </div>
       </div>
       <div class="event">
@@ -377,7 +377,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Networking Block 2
         </div>
         <div class="event-time">
-          4:15pm to 6:45pm
+          4:15pm-6:45pm
         </div>
       </div>
       <div class="event">
@@ -385,7 +385,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Block 2B: Technical Sessions
         </div>
         <div class="event-time">
-          8:00pm to 9:45pm
+          8:00pm-9:45pm
         </div>
       </div>
     </td>
@@ -396,7 +396,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Block 3A: Technical Sessions
         </div>
         <div class="event-time">
-          1:00pm to 2:45pm
+          1:00pm-2:45pm
         </div>
       </div>
       <div class="event">
@@ -404,7 +404,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Exhibit Hall and Supporter Sessions
         </div>
         <div class="event-time">
-          3:00pm to 8:00pm
+          3:00pm-8:00pm
         </div>
       </div>
       <div class="event">
@@ -412,7 +412,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Networking Block 3
         </div>
         <div class="event-time">
-          4:15pm to 6:45pm
+          4:15pm-6:45pm
         </div>
       </div>
       <div class="event">
@@ -420,7 +420,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Block 3B: SIGCSE Lifetime Achievement Award Keynote
         </div>
         <div class="event-time">
-          8:00pm to 9:45pm
+          8:00pm-9:45pm
         </div>
       </div>
     </td>
@@ -431,7 +431,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Block 4A: Technical Sessions
         </div>
         <div class="event-time">
-          1:00pm to 2:45pm
+          1:00pm-2:45pm
         </div>
       </div>
       <div class="event">
@@ -439,7 +439,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Exhibit Hall and Supporter Sessions
         </div>
         <div class="event-time">
-          3:00pm to 8:00pm
+          3:00pm-8:00pm
         </div>
       </div>
       <div class="event">
@@ -447,7 +447,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Networking Block 4
         </div>
         <div class="event-time">
-          4:15pm to 6:45pm
+          4:15pm-6:45pm
         </div>
       </div>
       <div class="event">
@@ -455,7 +455,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Block 4B: Technical Sessions
         </div>
         <div class="event-time">
-          8:00pm to 9:45pm
+          8:00pm-9:45pm
         </div>
       </div>
     </td>
@@ -466,7 +466,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Block 5A: Technical Sessions
         </div>
         <div class="event-time">
-          1:00pm to 2:45pm
+          1:00pm-2:45pm
         </div>
       </div>
       <div class="event">
@@ -474,7 +474,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Exhibit Hall and Supporter Sessions
         </div>
         <div class="event-time">
-          3:00pm to 8:00pm
+          3:00pm-8:00pm
         </div>
       </div>
       <div class="event">
@@ -482,7 +482,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Networking Block 5
         </div>
         <div class="event-time">
-          4:15pm to 6:45pm
+          4:15pm-6:45pm
         </div>
       </div>
       <div class="event">
@@ -490,7 +490,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Block 5B: Technical Sessions
         </div>
         <div class="event-time">
-          8:00pm to 9:45pm
+          8:00pm-9:45pm
         </div>
       </div>
     </td>
@@ -501,7 +501,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Block 6A: Closing Keynote
         </div>
         <div class="event-time">
-          1:00pm to 2:00pm
+          1:00pm-2:00pm
         </div>
       </div>
       <div class="event">
@@ -509,7 +509,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Exhibit Hall and Supporter Sessions
         </div>
         <div class="event-time">
-          3:00pm to 8:00pm
+          3:00pm-8:00pm
         </div>
       </div>
       <div class="event">
@@ -517,7 +517,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Networking Block 6
         </div>
         <div class="event-time">
-          4:15pm to 6:45pm
+          4:15pm-6:45pm
         </div>
       </div>
       <div class="event">
@@ -525,7 +525,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
           Nifty Block and SIGCSE TS Celebration!
         </div>
         <div class="event-time">
-          8:00pm to 9:45pm
+          8:00pm-9:45pm
         </div>
       </div>
     </td>
@@ -535,13 +535,13 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
 
 ## Session Descriptions and Information
 
-For more information about each session, click on the event in the calendar above, or select from the list below.  We are continuing to post more information and will update regularly.
+For more information about each session, click on the event in the calendar above, or select from the list below.  We are continuing-post more information and will update regularly.
 
 ### Technical Sessions
 
 Each Technical Session block will have eight parallel "rooms" with either paper presentations or panels/special sessions (e.g. An example block could have five paper sessions, two panels, and one special session.)
 
-__Paper Presentation Sessions__: Authors will be invited to prerecord a 20 minute presentation of their work that will be made available before the Technical Symposium through the virtual platform.  During the paper presentation session itself, each author will be given 20 minutes -- 5 minutes for a short recap of their work with a few slides and then 15 minutes of Q&A.  Five authors will present during each paper presentation session.  All paper presentation sessions will be recorded and will be available on-demand through the virtual platform.
+__Paper Presentation Sessions__: Authors will be invited-prerecord a 20 minute presentation of their work that will be made available before the Technical Symposium through the virtual platform.  During the paper presentation session itself, each author will be given 20 minutes -- 5 minutes for a short recap of their work with a few slides and then 15 minutes of Q&A.  Five authors will present during each paper presentation session.  All paper presentation sessions will be recorded and will be available on-demand through the virtual platform.
 
 * Schedule of paper presentations will be available in January
 * [Presenting Papers at SIGCSE TS 2021]({{ site.baseurl }}/authors/papers/#presenting-at-sigcse-ts-2021)
@@ -552,12 +552,39 @@ __Panels and Special Sessions__: Panels and Special Sessions will have the optio
 * [Presenting Panels at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
 * [Presenting Special Sessions at SIGCSE TS 2021]({{ site.baseurl }}/authors/specialsessions/#presenting-at-sigcse-ts-2021)
 
+### Birds-of-a-Feather (BOF)
+
+* Schedule of Birds-of-a-Feather flocks will be available in January
+* [Running Birds-of-a-Feather flocks at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
+
+### Demos
+
+* Schedule of demos will be available in January
+* [Presenting Demos at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
+
+### Lightning Talks
+
+* Schedule of lightning talks will be available in January
+* [Presenting Lightning Talks at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
+
+### Posters
+
+* Information on uploading posters will be available in January
+* [Presenting Posters at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
+
+### Nifty Assignments
+
+* [Prsenting Nifty Assignments at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
+
 ### Workshops
 
 * [Workshop Schedule]({{ site.baseurl }}/schedule/workshops)
+* [Presenting Workshops at SIGCSE TS 2021]({{ site.baseurl }}/authors/workshops/#presenting-at-sigcse-ts-2021)
 
 ### Affiliated Events
 
+* [Affiliated Events]({{ site.baseurl }}/schedule/affiliatedevents)
+* [Presenting Affiliated Events at SIGCSE TS 2021]({{ site.baseurl }}/authors/affiliated/#presenting-at-sigcse-ts-2021)
 
 ### Supporter Sessions
 
@@ -565,17 +592,17 @@ In between Block A and Block B's technical content, the virtual Exhibit Hall wil
 
 ## Creating the SIGCSE TS 2021 Schedule
 
-The Symposium and Program Chairs spent a great deal of time over the past few months attending other virtual conferences, talking with our planning company, and getting input from various parts of our community regarding possible formats and schedules for the Technical Symposium.  There were many aspects of other virtual conferences that we felt could work well for the Technical Symposium.  For example, ASEE's (American Society for Engineering Education) 2020 Virtual Conference was the first conference that the chairs attended this summer that had authors upload prerecorded videos and then use the presentation time primarily for Q&A.  We felt that this model would provide our community with more of what we wanted - interaction with other attendees.  We plan to make the prerecorded presentations available before the conference at the same time that the papers become available in the ACM Digital Library so that attendees can watch the content when it is convenient for them and then come with questions to the paper sessions.
+The Symposium and Program Chairs spent a great deal of time over the past few months attending other virtual conferences, talking with our planning company, and getting input from various parts of our community regarding possible formats and schedules for the Technical Symposium.  There were many aspects of other virtual conferences that we felt could work well for the Technical Symposium.  For example, ASEE's (American Society for Engineering Education) 2020 Virtual Conference was the first conference that the chairs attended this summer that had authors upload prerecorded videos and then use the presentation time primarily for Q&A.  We felt that this model would provide our community with more of what we wanted - interaction with other attendees.  We plan-make the prerecorded presentations available before the conference at the same time that the papers become available in the ACM Digital Library so that attendees can watch the content when it is convenient for them and then come with questions-the paper sessions.
 
-We also were keenly aware that most (if not all) of our colleagues would likely still be teaching during the Symposium.  Some schools are still deciding if Spring Break will even happen.  Also, with anticipated lower registration fees and no travel costs, we hope that more of our K-12 and community college colleagues will be able to join us.  Therefore, we decided that a "normal" Symposium schedule (e.g. 10:00am-4:00pm) probably would not be best for us.
+We also were keenly aware that most (if not all) of our colleagues would likely still be teaching during the Symposium.  Some schools are still deciding if Spring Break will even happen.  Also, with anticipated lower registration fees and no travel costs, we hope that more of our K-12 and community college colleagues will be able-join us.  Therefore, we decided that a "normal" Symposium schedule (e.g. 10:00am-4:00pm) probably would not be best for us.
 
-The "split band" block schedule was inspired by ICSE 2020 (International Conference on Software Engineering).  However, while ICSE utilized three bands (Atlantic, Pacific, and Indian), we felt a two-band schedule would work better for us, due to the amount of content we would have and the geographic breakdown of most attendees.  We placed Block B later in the evening Eastern Time so that K-12 colleagues from all North American time zones could theoretically attend that block, along with making things a bit nicer for our Australasian colleagues.
+The "split band" block schedule was inspired by ICSE 2020 (International Conference on Software Engineering).  However, while ICSE utilized three bands (Atlantic, Pacific, and Indian), we felt a two-band schedule would work better for us, due-the amount of content we would have and the geographic breakdown of most attendees.  We placed Block B later in the evening Eastern Time so that K-12 colleagues from all North American time zones could theoretically attend that block, along with making things a bit nicer for our Australasian colleagues.
 
-We understand that not all blocks are at optimal times for all time zones.  To address this, our plan is to record all live sessions and make them available on-demand through the virtual platform throughout the Symposium and after the conclusion of the event.
+We understand that not all blocks are at optimal times for all time zones. -address this, our plan is-record all live sessions and make them available on-demand through the virtual platform throughout the Symposium and after the conclusion of the event.
 
-The large supporter block in between the two technical sessions allows us to highlight the contributions of sponsor organizations to the SIGCSE community appropriately.  We are asking our sponsors and exhibitors to create unique and informative sessions during these slots so that the SIGCSE community can have all the benefits of the exhibit hall we know and love.
+The large supporter block in between the two technical sessions allows us-highlight the contributions of sponsor organizations-the SIGCSE community appropriately.  We are asking our sponsors and exhibitors-create unique and informative sessions during these slots so that the SIGCSE community can have all the benefits of the exhibit hall we know and love.
 
-Thank you all for your patience as we navigate a whole new way to run the Technical Symposium!  We are very excited for the possibilities that a virtual platform gives us, even if we are still disappointed we cannot all be together in person.
+Thank you all for your patience as we navigate a whole new way-run the Technical Symposium!  We are very excited for the possibilities that a virtual platform gives us, even if we are still disappointed we cannot all be together in person.
 
 Please let us know if you have any questions or concerns!
 
