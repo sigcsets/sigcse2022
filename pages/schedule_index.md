@@ -296,7 +296,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
       <div class="event">
       <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-5">
         <div class="event-desc">
-          Affiliated Events
+          Affiliate - SPLICE
         </div>
         <div class="event-time">
           10:00am-12:30pm
@@ -349,7 +349,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
       <div class="event">
       <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-5">
         <div class="event-desc">
-          Affiliated Events
+          Affiliate - SPLICE
         </div>
         <div class="event-time">
           10:00am-12:30pm
