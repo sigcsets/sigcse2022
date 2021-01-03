@@ -17,7 +17,7 @@ Pathable has been selected as the virtual platform for the 2021 SIGCSE Technical
 <ul>
     {% assign posts = site.authors | sort: 'order' %}
     {% for post in posts %}
-    <li><a href="{{ site.baseurl }}{{ post.url }}#presenting-at-sigcse-ts-2021">{{ post.title }}</a></li>
+    <li><a href="{{ site.url }}{{ post.url }}#presenting-at-sigcse-ts-2021">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
 
@@ -26,6 +26,6 @@ Follow the links below for detailed information about submission guidelines to t
 <ul>
     {% assign posts = site.authors | sort: 'order' %}
     {% for post in posts %}
-    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

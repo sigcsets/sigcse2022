@@ -31,8 +31,9 @@ affiliatedevents:
     time: 1:00pm-5:00pm (ET)
     organizers: Christine Alvarado (University of California San Diego), Susanne Hambrusch (Purdue University), Geoffrey Herman (University of Illinois at Urbana-Champaign), Amy J. Ko (University of Washington), Lori Pollock (University of Delaware)
     description: "Enrollment in CS courses and programs continues to be high. To meet this increased demand, many Ph.D. granting departments have added or are activelyrecruiting teaching faculty (typically with academic rank) to their faculty. The half-day event will focus on the professional development of teaching trackfaculty (professor of practice, instructor, clinical faculty, lecturer, etc.) in Ph.D. granting departments. The event lls a crucial need as many departmentshave limited experience on how to mentor, evaluate, and promote this type of faculty. The sessions will focus on how teaching faculty can strategize theirinvolvement in departmental as well as research activities, different forms of scholarship and leadership activities to pursue, and best practices forsuccess, promotion, and advancement. Academic leaders involved in supervising and evaluating teaching track faculty will provide their perspective andinsights."
-    register: This event is by application only.  Applicants that are accepted will have this event added to their Pathable schedule after they have registered for the Technical Symposium through Cvent.
+    register: This event is by application only.  The application can be found on the event website linked above. Applicants that are accepted will have this event added to their Pathable schedule after they have registered for the Technical Symposium through Cvent.
     contact: cjalvarado@eng.ucsd.edu
+    url: https://cra.org/crae/teaching-track-faculty-at-sigcse-2021/
   - title: "Computing Science Education Infrastructure: From Ideas to Practice - The 7th SPLICE Workshop"
     event: 5
     day: Monday, March 15 and Tuesday, March 16

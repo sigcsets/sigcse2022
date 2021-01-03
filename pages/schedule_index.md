@@ -143,7 +143,7 @@ a {
 Last update: January 2, 2020    
 All times Eastern Time Zone (North America)     
 Click on the events in the calendar below-see more information about each session    
-Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affiliated Events]({{ site.baseurl }}/schedule/affiliatedevents) 
+Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliated Events]({{ site.url }}/schedule/affiliatedevents) 
 
 <table id="calendar">
   <caption>March 2021</caption>
@@ -191,7 +191,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
     <td class="day">
       <div class="date">10</div>
       <div class="event">
-      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-2">
+      <a href="{{ site.url }}/schedule/affiliatedevents/#event-2">
         <div class="event-desc">
           Affiliate - Computing for Social Good
         </div>
@@ -204,7 +204,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
     <td class="day">
       <div class="date">11</div>
       <div class="event">
-      <a href="{{ site.baseurl }}/#">
+      <a href="{{ site.url }}/#">
         <div class="event-desc">
           Global Diversity Event
         </div>
@@ -214,7 +214,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
       </a>
       </div>
       <div class="event">
-      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-3">
+      <a href="{{ site.url }}/schedule/affiliatedevents/#event-3">
         <div class="event-desc">
           Affiliate - Welcoming Students w/ Disabilities
         </div>
@@ -227,7 +227,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
     <td class="day">
       <div class="date">12</div>
       <div class="event">
-      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-4">
+      <a href="{{ site.url }}/schedule/affiliatedevents/#event-4">
         <div class="event-desc">
           Affiliate - Teaching-Track Professional Development
         </div>
@@ -240,7 +240,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
     <td class="day">
       <div class="date">13</div>
       <div class="event">
-      <a href="{{ site.baseurl }}/schedule/workshops/#block-1">
+      <a href="{{ site.url }}/schedule/workshops/#block-1">
         <div class="event-desc">
           Workshop Block 1
         </div>
@@ -250,7 +250,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
       </a>
       </div>
       <div class="event">
-      <a href="{{ site.baseurl }}/schedule/workshops/#block-2">
+      <a href="{{ site.url }}/schedule/workshops/#block-2">
         <div class="event-desc">
           Workshop Block 2
         </div>
@@ -265,7 +265,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
     <td class="day">
       <div class="date">14</div>
       <div class="event">
-      <a href="{{ site.baseurl }}/schedule/workshops/#block-3">
+      <a href="{{ site.url }}/schedule/workshops/#block-3">
         <div class="event-desc">
           Workshop Block 3
         </div>
@@ -294,7 +294,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
     <td class="day">
       <div class="date">15</div>
       <div class="event">
-      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-5">
+      <a href="{{ site.url }}/schedule/affiliatedevents/#event-5">
         <div class="event-desc">
           Affiliate - SPLICE
         </div>
@@ -347,7 +347,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
     <td class="day">
       <div class="date">16</div>
       <div class="event">
-      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-5">
+      <a href="{{ site.url }}/schedule/affiliatedevents/#event-5">
         <div class="event-desc">
           Affiliate - SPLICE
         </div>
@@ -544,53 +544,53 @@ Each Technical Session block will have eight parallel "rooms" with either paper 
 __Paper Presentation Sessions__: Authors are invited-prerecord a 20 minute presentation of their work that will be made available before the Technical Symposium through Pathable.  During the paper presentation session itself, each author will be given 20 minutes -- 5 minutes for a short recap of their work with a few slides and then 15 minutes of Q&A.  Five authors will present during each paper presentation session.  All paper presentation sessions will be recorded and will be available on-demand through Pathable.
 
 * Schedule of paper presentations will be available in January
-* [Presenting Papers at SIGCSE TS 2021]({{ site.baseurl }}/authors/papers/#presenting-at-sigcse-ts-2021)
+* [Presenting Papers at SIGCSE TS 2021]({{ site.url }}/authors/papers/#presenting-at-sigcse-ts-2021)
 
 __Panels and Special Sessions__: Panels and Special Sessions will have the option of either prerecording their panel discussion and making it available before the Technical Symposium and then only having live Q&A and follow up discussion or doing the entire session live.  All panels and special sessions will be recorded and will be available on-demand through Pathable.
 
 * Schedule of panels and special sessions will be available in January
-* [Presenting Panels at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
-* [Presenting Special Sessions at SIGCSE TS 2021]({{ site.baseurl }}/authors/specialsessions/#presenting-at-sigcse-ts-2021)
+* [Presenting Panels at SIGCSE TS 2021]({{ site.url }}/authors/panels/#presenting-at-sigcse-ts-2021)
+* [Presenting Special Sessions at SIGCSE TS 2021]({{ site.url }}/authors/specialsessions/#presenting-at-sigcse-ts-2021)
 
 ### Birds-of-a-Feather (BOF)
 
 Birds-of-a-Feather flocks will each be given a "permanent Zoom room" for the entire week that will be listed in Pathable and available for use for discussion or other activities throughout the Technical Symposium.  Additionally, there will be an officially scheduled meeting time during the one of the Networking Blocks that will be advertised on the schedule for the normal BoF session (as we would normally do in-person).
 
 * Schedule of Birds-of-a-Feather flocks will be available in January
-* [Running Birds-of-a-Feather flocks at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
+* [Running Birds-of-a-Feather flocks at SIGCSE TS 2021]({{ site.url }}/authors/panels/#presenting-at-sigcse-ts-2021)
 
 ### Demos
 
 Presenters are asked to prerecord a 15 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
 
 * Schedule of demos will be available in January
-* [Presenting Demos at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
+* [Presenting Demos at SIGCSE TS 2021]({{ site.url }}/authors/panels/#presenting-at-sigcse-ts-2021)
 
 ### Lightning Talks
 
 Presenters are asked to prerecord a 5 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
 
 * Schedule of lightning talks will be available in January
-* [Presenting Lightning Talks at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
+* [Presenting Lightning Talks at SIGCSE TS 2021]({{ site.url }}/authors/panels/#presenting-at-sigcse-ts-2021)
 
 ### Posters
 
 * Information on uploading posters will be available in January
-* [Presenting Posters at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
+* [Presenting Posters at SIGCSE TS 2021]({{ site.url }}/authors/panels/#presenting-at-sigcse-ts-2021)
 
 ### Nifty Assignments
 
-* [Prsenting Nifty Assignments at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
+* [Prsenting Nifty Assignments at SIGCSE TS 2021]({{ site.url }}/authors/panels/#presenting-at-sigcse-ts-2021)
 
 ### Workshops
 
-* [Workshop Schedule]({{ site.baseurl }}/schedule/workshops)
-* [Presenting Workshops at SIGCSE TS 2021]({{ site.baseurl }}/authors/workshops/#presenting-at-sigcse-ts-2021)
+* [Workshop Schedule]({{ site.url }}/schedule/workshops)
+* [Presenting Workshops at SIGCSE TS 2021]({{ site.url }}/authors/workshops/#presenting-at-sigcse-ts-2021)
 
 ### Affiliated Events
 
-* [Affiliated Events]({{ site.baseurl }}/schedule/affiliatedevents)
-* [Presenting Affiliated Events at SIGCSE TS 2021]({{ site.baseurl }}/authors/affiliated/#presenting-at-sigcse-ts-2021)
+* [Affiliated Events]({{ site.url }}/schedule/affiliatedevents)
+* [Presenting Affiliated Events at SIGCSE TS 2021]({{ site.url }}/authors/affiliated/#presenting-at-sigcse-ts-2021)
 
 ### Supporter Sessions
 
