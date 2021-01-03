@@ -165,7 +165,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
     <td class="day">
       <div class="date">8</div>
       <div class="event">
-      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-1">
+      <a href="{{ site.url }}/schedule/affiliatedevents/#event-1">
         <div class="event-desc">
           Affiliate - Liberal Arts
         </div>
@@ -178,7 +178,7 @@ Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affil
     <td class="day">
       <div class="date">9</div>
       <div class="event">
-      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-1">
+      <a href="{{ site.url }}/schedule/affiliatedevents/#event-1">
         <div class="event-desc">
           Affiliate - Liberal Arts
         </div>
