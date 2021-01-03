@@ -50,3 +50,8 @@ span.team-heading {
   </table>
   
 {% endfor %}
+
+__Workshop Registration Rates:__<br>
+Early: {{site.data.registration.dates.early}} - {{site.data.registration.workshoprates.early}}<br>
+Regular: {{site.data.registration.dates.regular}} - {{site.data.registration.workshoprates.regular}}<br>
+On-site: {{site.data.registration.dates.day-of}} - {{site.data.registration.workshoprates.day-of}}

@@ -61,3 +61,7 @@ dates:
   early: Through Jan 31 (ET)
   regular: Feb 1 - Feb 28 (ET) 
   day-of: Mar 1 - Mar 20 (ET)
+workshoprates:
+  early: $20
+  regular: $25
+  day-of: $30

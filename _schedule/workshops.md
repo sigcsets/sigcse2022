@@ -12,7 +12,7 @@ Workshops will take place duing these time blocks:
 {% endfor %}
 </ul>
 
-<strong>How to register for workshops</strong> : Workshops are a part of the SIGCSE Technical Symposium's main program.  You can add workshops to your Symposium registration when you register through Cvent (open in January).  <em>Symposium registration is required to attend any SIGCSE TS 2021 workshop.</em>
+<strong>How to register for workshops</strong> : Workshops are a part of the SIGCSE Technical Symposium's main program.  You can add workshops to your Symposium registration when you register through Cvent for an additional cost.  <em>Symposium registration is required to attend any SIGCSE TS 2021 workshop.</em>
 
 {% assign block = "X" %}
 {% assign position = -1 %}
