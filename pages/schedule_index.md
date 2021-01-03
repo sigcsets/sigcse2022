@@ -143,7 +143,7 @@ a {
 Last update: January 2, 2020    
 All times Eastern Time Zone (North America)     
 Click on the events in the calendar below to see more information about each session    
-Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/workshops) | [Affiliated Events]({{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents) 
+Quick Links: [Workshop Schedule]({{ site.baseurl }}/schedule/workshops) | [Affiliated Events]({{ site.baseurl }}/schedule/affiliatedevents) 
 
 <table id="calendar">
   <caption>March 2021</caption>
@@ -165,7 +165,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     <td class="day">
       <div class="date">8</div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-1">
+      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-1">
         <div class="event-desc">
           Affiliate - Liberal Arts
         </div>
@@ -178,7 +178,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     <td class="day">
       <div class="date">9</div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-1">
+      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-1">
         <div class="event-desc">
           Affiliate - Liberal Arts
         </div>
@@ -191,7 +191,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     <td class="day">
       <div class="date">10</div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-2">
+      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-2">
         <div class="event-desc">
           Affiliate - Computing for Social Good
         </div>
@@ -204,7 +204,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     <td class="day">
       <div class="date">11</div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/#">
+      <a href="{{ site.baseurl }}/#">
         <div class="event-desc">
           Global Diversity Event
         </div>
@@ -214,7 +214,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
       </a>
       </div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-3">
+      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-3">
         <div class="event-desc">
           Affiliate - Welcoming Students w/ Disabilities
         </div>
@@ -227,7 +227,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     <td class="day">
       <div class="date">12</div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-4">
+      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-4">
         <div class="event-desc">
           Affiliate - Teaching-Track Professional Development
         </div>
@@ -240,7 +240,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     <td class="day">
       <div class="date">13</div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/schedule/workshops/#block-1">
+      <a href="{{ site.baseurl }}/schedule/workshops/#block-1">
         <div class="event-desc">
           Workshop Block 1
         </div>
@@ -250,7 +250,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
       </a>
       </div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/schedule/workshops/#block-2">
+      <a href="{{ site.baseurl }}/schedule/workshops/#block-2">
         <div class="event-desc">
           Workshop Block 2
         </div>
@@ -265,7 +265,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     <td class="day">
       <div class="date">14</div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/schedule/workshops/#block-3">
+      <a href="{{ site.baseurl }}/schedule/workshops/#block-3">
         <div class="event-desc">
           Workshop Block 3
         </div>
@@ -294,7 +294,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     <td class="day">
       <div class="date">15</div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-5">
+      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-5">
         <div class="event-desc">
           Affiliated Events
         </div>
@@ -347,7 +347,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/works
     <td class="day">
       <div class="date">16</div>
       <div class="event">
-      <a href="{{ site.url }}{{ site.baseurl }}/schedule/affiliatedevents/#event-5">
+      <a href="{{ site.baseurl }}/schedule/affiliatedevents/#event-5">
         <div class="event-desc">
           Affiliated Events
         </div>
@@ -544,17 +544,17 @@ Each Technical Session block will have eight parallel "rooms" with either paper 
 __Paper Presentation Sessions__: Authors will be invited to prerecord a 20 minute presentation of their work that will be made available before the Technical Symposium through the virtual platform.  During the paper presentation session itself, each author will be given 20 minutes -- 5 minutes for a short recap of their work with a few slides and then 15 minutes of Q&A.  Five authors will present during each paper presentation session.  All paper presentation sessions will be recorded and will be available on-demand through the virtual platform.
 
 * Schedule of paper presentations will be available in January
-* [Presenting Papers at SIGCSE TS 2021]({{ site.url }}{{ site.baseurl }}/authors/papers/#presenting-at-sigcse-ts-2021)
+* [Presenting Papers at SIGCSE TS 2021]({{ site.baseurl }}/authors/papers/#presenting-at-sigcse-ts-2021)
 
 __Panels and Special Sessions__: Panels and Special Sessions will have the option of either prerecording their panel discussion and making it available before the Technical Symposium and then only having live Q&A and follow up discussion or doing the entire session live.  All panels and special sessions will be recorded and will be available on-demand through the virtual platform.
 
 * Schedule of panels and special sessions will be available in January
-* [Presenting Panels at SIGCSE TS 2021]({{ site.url }}{{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
-* [Presenting Special Sessions at SIGCSE TS 2021]({{ site.url }}{{ site.baseurl }}/authors/specialsessions/#presenting-at-sigcse-ts-2021)
+* [Presenting Panels at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
+* [Presenting Special Sessions at SIGCSE TS 2021]({{ site.baseurl }}/authors/specialsessions/#presenting-at-sigcse-ts-2021)
 
 ### Workshops
 
-* [Workshop Schedule]({{ site.url }}{{ site.baseurl }}/schedule/workshops)
+* [Workshop Schedule]({{ site.baseurl }}/schedule/workshops)
 
 ### Affiliated Events
 

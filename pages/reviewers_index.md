@@ -13,6 +13,6 @@ We have broken out submission guidelines by type. There are many ways to share t
 <ul>
     {% assign posts = site.reviewers | sort: 'order' %}
     {% for post in posts %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
