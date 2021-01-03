@@ -541,12 +541,12 @@ For more information about each session, click on the event in the calendar abov
 
 Each Technical Session block will have eight parallel "rooms" with either paper presentations or panels/special sessions (e.g. An example block could have five paper sessions, two panels, and one special session.)
 
-__Paper Presentation Sessions__: Authors will be invited-prerecord a 20 minute presentation of their work that will be made available before the Technical Symposium through the virtual platform.  During the paper presentation session itself, each author will be given 20 minutes -- 5 minutes for a short recap of their work with a few slides and then 15 minutes of Q&A.  Five authors will present during each paper presentation session.  All paper presentation sessions will be recorded and will be available on-demand through the virtual platform.
+__Paper Presentation Sessions__: Authors are invited-prerecord a 20 minute presentation of their work that will be made available before the Technical Symposium through Pathable.  During the paper presentation session itself, each author will be given 20 minutes -- 5 minutes for a short recap of their work with a few slides and then 15 minutes of Q&A.  Five authors will present during each paper presentation session.  All paper presentation sessions will be recorded and will be available on-demand through Pathable.
 
 * Schedule of paper presentations will be available in January
 * [Presenting Papers at SIGCSE TS 2021]({{ site.baseurl }}/authors/papers/#presenting-at-sigcse-ts-2021)
 
-__Panels and Special Sessions__: Panels and Special Sessions will have the option of either prerecording their panel discussion and making it available before the Technical Symposium and then only having live Q&A and follow up discussion or doing the entire session live.  All panels and special sessions will be recorded and will be available on-demand through the virtual platform.
+__Panels and Special Sessions__: Panels and Special Sessions will have the option of either prerecording their panel discussion and making it available before the Technical Symposium and then only having live Q&A and follow up discussion or doing the entire session live.  All panels and special sessions will be recorded and will be available on-demand through Pathable.
 
 * Schedule of panels and special sessions will be available in January
 * [Presenting Panels at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
@@ -554,15 +554,21 @@ __Panels and Special Sessions__: Panels and Special Sessions will have the optio
 
 ### Birds-of-a-Feather (BOF)
 
+Birds-of-a-Feather flocks will each be given a "permanent Zoom room" for the entire week that will be listed in Pathable and available for use for discussion or other activities throughout the Technical Symposium.  Additionally, there will be an officially scheduled meeting time during the one of the Networking Blocks that will be advertised on the schedule for the normal BoF session (as we would normally do in-person).
+
 * Schedule of Birds-of-a-Feather flocks will be available in January
 * [Running Birds-of-a-Feather flocks at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
 
 ### Demos
 
+Presenters are asked to prerecord a 15 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
+
 * Schedule of demos will be available in January
 * [Presenting Demos at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
 
 ### Lightning Talks
+
+Presenters are asked to prerecord a 5 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
 
 * Schedule of lightning talks will be available in January
 * [Presenting Lightning Talks at SIGCSE TS 2021]({{ site.baseurl }}/authors/panels/#presenting-at-sigcse-ts-2021)
