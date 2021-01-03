@@ -5,4 +5,6 @@ permalink: /robots.txt
 source: "www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449" # www.robotstxt.org
 ---
 User-agent: *
+Crawl-Delay: 20
+Disallow: /branch/
 Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
