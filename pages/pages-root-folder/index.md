@@ -10,7 +10,7 @@ header:
   image_fullwidth: sigcse2021-logo-header.png
 widget1:
   title: Pathable Chosen as Virtual Platform
-  url: '/pathable'
+  url: '/authors'
   image: pathable-logo-widget.png
   text: 'SIGCSE TS 2021 will run on Pathable!  Information for presenters is now available in the For Authors section!'
 # widget2:
