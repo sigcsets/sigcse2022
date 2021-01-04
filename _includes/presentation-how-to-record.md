@@ -16,7 +16,7 @@ The simplest option is to use Zoom, as it will automatically create the proper f
 
 __Using OBS:__
 
-If you would like to have more control over the presentation, including, but not limited to:
+If you would like to have more control over the presentation, including things such as:
 
 * Smoother transitions between your camera full screen and slides
 * Multiple audio/video sources
