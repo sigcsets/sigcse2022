@@ -19,10 +19,6 @@ table.multibody tbody:nth-child(even) {
   background-color: #CCC;
 }
 
-table.multibody tbody:hover, tbody:hover th[rowspan], tbody:hover td[rowspan], tr:hover td {
-   background-color: #FEFCDD; 
-}
-
 th {
   text-align: center;
 }
@@ -32,6 +28,13 @@ span.team-heading {
 }
 
 </style>
+
+<!-- 
+Removed hover attribute from above
+table.multibody tbody:hover, tbody:hover th[rowspan], tbody:hover td[rowspan], tr:hover td {
+   background-color: #FEFCDD; 
+} -->
+
 {% for comm in site.data.committee %}
 <a name = "{{comm[0] | remove: " " }}"></a>  <!-- create anchors from committee name with no spaces -->
 {% if comm[0] == "Program Committee" or comm[0] == "Organizing Committee" %}

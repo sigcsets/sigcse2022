@@ -6,7 +6,7 @@ track: "Birds of a Feather"
 ---
 {% include submission-details.html %}
 
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
 
 ## Author Guidelines: Birds-of-a-Feather (BOF)
 {% include alert info='Final as of August 27 2020' %}
@@ -45,3 +45,19 @@ The abstract is the description of the BOF that will appear on the conference we
 * [Sample proposal (Word)](/docs/sigcse-sample-bof-2021.doc)
 
 {% include submission-proposal.html %}
+
+## Presenting at SIGCSE TS 2021
+
+### Important Dates
+
+* TBD 
+
+### How will I be presenting my work? (Birds-of-a-Feather)
+
+_(This information is currently subject to change as we verify that these plans will work as intended through Pathable.)_
+
+Birds-of-a-Feather flocks will each be given a "permanent Zoom meeting room" that will be listed in Pathable and available for use for discussion or other activities throughout the Technical Symposium.  Additionally, there will be an officially scheduled meeting time during one of the networking blocks that will be advertised on the schedule for the normal BoF session (as we would normally do in-person).
+
+In Pathable, each BoF will also have a persistent chat area and space for hosting files relevant to your BoF.  After seeing the success that the International Computing Education Research (ICER) Conference had using Discord for more in-depth discussions beyond the individual sessions, we hope that the week-long Zoom meeting room and additional chat functionality will work similarly for the Technical Symposium.
+
+More information on how to manage the BoF sessions will be provided as we get closer to the Technical Symposium.  We will also provide several training sessions that organizers can attend to help them become familiar with the platform ahead of their session.

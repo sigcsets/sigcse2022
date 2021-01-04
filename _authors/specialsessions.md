@@ -7,7 +7,7 @@ track: "Special Sessions"
  
 {% include submission-details.html %}
  
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
  
 ## Author Guidelines: Special Session
 
@@ -75,4 +75,28 @@ and page limits.
  
 {% include submission-proposal.html %}
  
- 
+## Presenting at SIGCSE TS 2021
+
+### Important Dates
+
+* __January 15__ - Submit presentation plans (including a video if desired) through submission form emailed to corresponding authors 
+
+### How will I be presenting my work? (Panels and Special Sessions)
+
+Panels and special sessions are different from paper presentations in that the live discussion itself is the primary content, rather than the published work.  To accommodate this, panels and special session presenters have several options to choose from in how they want to run their session:
+
+* Prerecord the session and make that available through Pathable before the Symposium and then use the live session during the Symposium for longer discussion and Q&A (NOTE: Break out groups will not be possible due to using a Zoom webinar rather than a Zoom meeting.  We have to use webinars due to the number of potential attendees.)
+* Provide primer material for potential attendees to view ahead of time (e.g. presentations, PDFs) through Pathable, but do not prerecord any content
+* Do the entire session live during the Technical Symposium with no early material provided
+
+Note that all panels and special sessions will be recorded and made available on-demand through Pathable for a year following the end of the Symposium.
+
+Panels and special sessions are highly encouraged to discuss with all presenters what makes the most sense for their session.  Questions on what might work best can be directed to the Panels and Special Sessions Track Chairs at [panels@sigcse2021.org](panels@sigcse2021.org).
+
+Pathable uses embedded Zoom windows in the web application for video presentations, so the experience will be familiar to most presenters.  A session chair will moderate the session and we will have technical support available all week to assist as needed.
+
+More information regarding the live sessions, including time slot assignments, will be available in January.  
+
+{% include presentation-how-to-submit.md %}
+
+{% include presentation-guidelines.md %}

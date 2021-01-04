@@ -7,7 +7,7 @@ track: "Demos"
 
 {% include submission-details.html %}
 
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
 
 ## Author Guidelines: Demos
 
@@ -70,3 +70,19 @@ Independent of your presentation, you will have to provide a pre-recorded video 
 * [Sample proposal (Word)](/docs/sigcse-sample-demo.docx)
 
 {% include submission-proposal.html %}
+
+## Presenting at SIGCSE TS 2021
+
+### Important Dates
+
+* __January 15__ - Submit video presentation through submission form emailed to corresponding authors
+
+### How will I be presenting my work? (Demos)
+
+Presenters are asked to prerecord "teaser" presentation demo no longer than 5 minutes in length that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
+
+Demo presentations will take place during the Technical Session blocks throughout the week.  More information on scheduling will be made available later in January.
+
+{% include presentation-how-to-submit.md %}
+
+{% include presentation-guidelines.md %}

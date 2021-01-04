@@ -3,7 +3,7 @@
 	<ul>
         {% assign posts = site.authors | sort: 'order' %}
         {% for post in posts %}
-        <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.track }}</a></li>
+        <li><a href="{{ site.url }}{{ post.url }}">{{ post.track }}</a></li>
         {% endfor %}
 	</ul>
 </aside>

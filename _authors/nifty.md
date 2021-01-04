@@ -7,7 +7,7 @@ track: "Nifty Assignments"
 
 {% include submission-details.html %}
 
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
 
 ## Author guidelines: Nifty Assignments
 
@@ -66,3 +66,13 @@ If your assignment is accepted, you will need to:
 * Your materials will be widely distributed for free on the web (although you may retain copyright), so you will need to be comfortable with that.
 
 {% include submission-proposal.html %}
+
+## Presenting at SIGCSE TS 2021
+
+### Important Dates
+
+* TBD
+
+### How will I be presenting my work? (Nifty Assignments)
+
+Nifty Assignments Track chairs will be in touch with presenters soon regarding information about presenting.

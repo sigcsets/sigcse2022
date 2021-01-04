@@ -1,0 +1,46 @@
+affiliatedevents:
+  - title: "Innovations and Opportunities in Liberal Arts Computing Education"
+    event: 1
+    day: Monday, March 8 and Tuesday, March 9
+    time: 1:00pm-4:30pm (ET)
+    organizers: Amanda Holland-Minkley (Washington & Jefferson College), Janet Davis (Whitman College), Mario Nakazawa (Berea College), Andrea Tartaro (Furman University), Jim Teresco (Siena College)
+    contact: amh@washjeff.edu
+    url: https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/
+    description: "Organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges, this affiliated event will let us share and further develop the work being carried out by three working groups of the Committee as well as support networking and collaboration within the liberal arts computing community. Building on priorities identified at our SIGCSE 2020 Pre-Symposium event, this event will cover three major topics. First, we will continue to discuss uniquely liberal arts approaches to computing curricula through the presentation of selected curricula. Next, we will explore models and best practices for “CS+X” courses, considering what the outcomes should be for such courses in order to take both disciplines into balanced consideration. Finally, we will consider a proposed workshop targeted at PhD candidates and postdocs that presents the realities and benefits of teaching computer science at a liberal arts institution. In all cases, participants will have an opportunity to learn about work already taking place within the liberal arts computing community as well as to engage in Q&A and breakout discussions. The event will conclude with a short business meeting where participants will help identify and define opportunities for the Committee to further support the liberal arts computing education community. All interested faculty and students are welcome."
+    register: Select this event during SIGCSE TS 2021 registration through Cvent.  No additional cost and open to all.
+    submissions: Submissions are accepted for this event.  See the event website for more information.
+  - title: "Computing for the Social Good in Education Checkup: A Renewal on Why We Became Educators"
+    event: 2
+    day: Wednesday, March 10
+    time: 1:00pm-5:00pm (ET)
+    organizers: Johanna Blumenthal (Regis University), Richard Blumenthal (Regis University), Lisa Kaczmarczyk (Harvey Mudd College), Mikey Goldweber (Xavier University)
+    contact: jblumenthal@regis.edu
+    description: "Computing for the Social Good in Education (CSG-Ed) focuses on the methods for producing computing graduates who are focused on using their computing education towards the benefit of society. In this year's affiliated, we invite our fellow educators to reflect with us upon why we became educators and engage in a rigorous inquiry designed to assess why computing is perceived as a lucrative career choice, but low on the list of providing a means to improve society, especially among women and underrepresented minorities. If this is the perception, then we must ask, \"What are we educators doing that may becontributing or acquiescing to this perception?\" The event will explore this question, as well as, \"How can we shift computing education to change this perception?\" This session will first entail a facilitated exploration of how we, the computing education field, got to this state. The topics will include: the economic pressures on the education sector, how our curricula have influenced student aspirations, and the tension between the need for a liberally educated citizenry and highly focused professional training. We will then transition to a discussion of what actions each of us can take to successfully align the reality of computing education with our aspirational societal goals. Our goal for this affiliated event is that participants will leave with concrete action items they can immediately put into practice."
+    register: Select this event during SIGCSE TS 2021 registration through Cvent.  No additional cost and open to all.
+  - title: "Welcoming Students with Disabilities in Online Computer Science Education"
+    event: 3
+    day: Thursday, March 11
+    time: 1:00pm-5:00pm (ET)
+    organizers: Sheryl Burgstahler (University of Washington), Terrill Thompson (University of Washington), Brianna Blaser (University of Washington), Richard Ladner (University of Washington)
+    contact: blaser@uw.edu
+    description: "Without explicit consideration to accessibility and universal design, online computer science education is unlikely to be welcoming to students with avariety of disabilities. Join faculty, people with disabilities, and broadening participation experts for a discussion of explicit strategies that faculty and instructors can take in the short-term and in the long-term to increase the accessibility of their computer science courses. This session is sponsored by AccessComputing, an NSF Broadening Participation in Computing Alliance that works to increase the participation of people with disabilities in computing education and careers."
+    register: Select this event during SIGCSE TS 2021 registration through Cvent.  No additional cost and open to all.
+  - title: "Professional Development Pre-Symposium Event for Teaching-Track Faculty"
+    event: 4
+    day: Friday, March 12
+    time: 1:00pm-5:00pm (ET)
+    organizers: Christine Alvarado (University of California San Diego), Susanne Hambrusch (Purdue University), Geoffrey Herman (University of Illinois at Urbana-Champaign), Amy J. Ko (University of Washington), Lori Pollock (University of Delaware)
+    description: "Enrollment in CS courses and programs continues to be high. To meet this increased demand, many Ph.D. granting departments have added or are actively recruiting teaching faculty (typically with academic rank) to their faculty. The half-day event will focus on the professional development of teaching track faculty (professor of practice, instructor, clinical faculty, lecturer, etc.) in Ph.D. granting departments. The event fills a crucial need as many departments have limited experience on how to mentor, evaluate, and promote this type of faculty. The sessions will focus on how teaching faculty can strategize their involvement in departmental as well as research activities, different forms of scholarship and leadership activities to pursue, and best practices for success, promotion, and advancement. Academic leaders involved in supervising and evaluating teaching track faculty will provide their perspective and insights."
+    register: This event is by application only.  The application can be found on the event website linked above. Applicants that are accepted will have this event added to their Pathable schedule after they have registered for the Technical Symposium through Cvent.
+    contact: cjalvarado@eng.ucsd.edu
+    url: https://cra.org/crae/teaching-track-faculty-at-sigcse-2021/
+  - title: "Computing Science Education Infrastructure: From Ideas to Practice - The 7th SPLICE Workshop"
+    event: 5
+    day: Monday, March 15 and Tuesday, March 16
+    time: 10:00am-12:30pm (ET)
+    organizers: Cliff Shaffer (Virginia Tech), Peter Brusilovsky (University of Pittsburgh), Ken Koedinger (Carnegie Mellon University), Steve Edwards (Virginia Tech)
+    description: "Increasingly, the meat of many CS courses is provided by many interactive, auto-assessed exercises, referred to as \"smart content\". These tools engage students, provide valuable feedback, and allow the collection of data for further analysis. While it remains a challenge to connect these tools to learning management systems (LMS), eTextbooks and IDEs, standards like Learning Tools Interoperability (LTI) make it possible. Interoperability is improving year by year. Collecting, distributing, and analyzing the rapidly growing collections of data generated by click streams coming from such tools is still a major challenge. But progress is being made both in improved analysis tools and in standards for collecting data, like student attempts at solving programming problems This NSF-supported workshop is the third in a series of SIGCSE affiliated events in support of the SPLICE project. The goal of SPLICE is to support and better coordinate efforts to build community and capacity among Computer Science Education (CSEd) researchers, data scientists, and learning scientists toward reducing barriers. CSEd infrastructure should support (1) broader re-use of innovative learning content instrumented for rich data collection, (2) formats and tools for analysis of learner data, and (3) development of best practices to make collections of learner data available to researchers. The organizers and presenters will share progress from ongoing projects and collaborations, attempting to build an agenda for the community to strive for in the coming years."
+    url: https://cssplice.github.io/SIGCSE21Workshop.html
+    contact: pbrusilovsky@gmail.com
+    register: Select this event during SIGCSE TS 2021 registration through Cvent.  No additional cost and open to all.
+    submissions: Submissions are accepted for this event.  See the event website for more information.

@@ -1,0 +1,158 @@
+﻿blocks:
+  - block: 1
+    day: Saturday, March 13
+    time: 9:00am-12:00pm (ET)
+  - block: 2
+    day: Saturday, March 13
+    time: 1:00pm-4:00pm (ET)
+  - block: 3
+    day: Sunday, March 14
+    time: 1:00pm-4:00pm (ET)
+
+
+workshops:
+  - number : 101
+    submission : 711
+    block : 1
+    title : "Comparison Activities to Support Students' Self-Regulated Learning in Computing Education"
+    presenters : "Martin Fellenz, Mairead Brady and Michelle Macmahon"
+    ad : "<p>This workshop is designed for educators in third level education who are looking for a teaching strategy to facilitate student self-regulated learning. Following the workshop, participants will have recognised the many opportunities for comparison activities in their teaching practice and have produced a first draft for implementing these. The workshop is broken into seven parts that include three interactive, collaborative activities, each lasting forty minutes. Fifteen minutes are allowed for introducing the three activities, and thirty minutes for workshop introduction and conclusion. The only equipment you will need in the workshop is pen and paper.</p>"
+  - number : 102
+    submission : 712
+    block : 1
+    title : "Efficient, Effective, and Ethical Education Research Data Management and Sustainability"
+    presenters : "Monica McGill, Stacey Sexton, Alan Peterfreund and Maria Praetzellis"
+    ad : "<p>Are you a proposal author, researcher thinking about data sharing, evaluator, or someone who just thinks that open science is neat? Then you’re not going to want to pass up this workshop. Over the course of three hours we’ll explore opportunities and challenges associated with preserving and sharing your data, review what the NSF requires of projects in their Data Management Plans, and explore tools that can help you think about your data sustainability strategy right now. Data sustainability is crucial to our contributions to the broader CS education research community, but also as a potential solution to the problem of needing more high quality datasets available for secondary analyses. There are several challenges associated with maintaining and sharing data, including practical considerations (e.g., sustainable funding, appropriate hosting platforms) and ethical concerns (e.g., confidentiality, appropriate contextualization of data in future usage). It is our responsibility to seriously engage with these difficulties and work towards responsible field-wide solutions. This workshop will 1) facilitate participants’ discussions of a data sustainability framework, with attention to practical and ethical challenges; 2) introduce participants to tools designed to help enable better data management and data management plans; and 3) allow time for participants to reflect on their current projects’ Data Management Plans and brainstorm ways to create the necessary processes for facilitating data sharing and sustainability. We invite you to bring plans you may have to the workshop.<p>"
+  - number : 103
+    submission : 717
+    block : 1
+    title : "Machine Learning on the Move: Teaching ML Kit for Firebase in a Mobile Apps Course"
+    presenters : "Todd Sproull, Doug Shook and Bill Siever"
+    ad : "<p>Are you interested in learning how to integrate machine learning into a mobile app? Come learn about the exciting framework called ML Kit for Firebase. With just a few lines of code, you will be able to integrate many real-world Machine Learning (ML) into your mobile application. You will learn how to use this SDK for both iOS and Android and how to run the ML algorithms on your device or in the cloud. If you have developed apps before and want to learn how to incorporate ML concepts or have ML models that you want to deploy into an app, please attend this workshop.</p>"
+  - number : 104
+    submission : 721
+    block : 1
+    title : "Going Through A Process of Whitening: Student Experiences Within Computer Science Education"
+    presenters : "Earl W. Huff Jr., Francisco Castro, Gayithri Jayathirtha, Yerika Jimenez, Minji Kong, Natalie Melo, Amber Solomon and Jennifer Tsan"
+    ad : "<p>In what ways have we had to assimilate (or, in particular to structural racism, “whiten”) ourselves and our work into dominant ideals and narratives? In this workshop, we’ll take a look at how systems of power–such as structural racism, a system that upholds the ideology of white supremacy–permeate through our everyday lives and un/intentionally into our research. Grounding ourselves in a shared language, we will engage in a critical reflection of the impacts of these systems in our lives and work. We will examine what is considered central or “legitimate” in Computer Science Education (CSEd) research and work to understand how we knowingly and unknowingly perpetuate these systems ourselves. Striving towards a critical consciousness in the field, we invite graduate students and early-career (non-faculty) researchers to deeply engage in these questions as the beginning of envisioning what a CSEd that valued the multiple ways of knowing, doing, and being could look like.</p><p>In an effort to promote a safe space for discussions, this workshop’s audience will primarily focus on graduate students and early-career (non-faculty) researchers working in and across CSEd in some capacity (e.g., CSEd researchers in HCI, Learning Sciences, K-12 education, etc.).  Researchers whose work directly focuses on or intersects CSEd are welcome to attend. To participate, register for the workshop via the usual SIGCSE Technical Symposium registration process. We have a maximum of 40 slots for this workshop. This year, SIGCSE will be fully-online. Participants will need to have a computer with reliable Internet access to participate in the workshop. Further details regarding the workshop platform will be communicated to participants through email.</p>"
+  - number : 105
+    submission : 731
+    block : 1
+    title : "Using and Customizing Free Ebooks for Computer Science Classes on Runestone"
+    presenters : "Barbara Ericson and Bradley Miller"
+    ad : "<p>Come learn about the 20+ free interactive ebooks on the opensource Runestone Interactive platform that can be used in high school (AP CSP and AP CSA) or college computing courses (CS1, CS2, data science, database, and web programming). These ebooks include executable and modifiable code, unit tests (for Python, C++, Java, and SQL), and a wide variety of practice problems. You will learn about the interactive features, how to create a custom course from any of the existing ebooks, how to track your students’ progress, how to create and grade an assignment, and how to set up a spaced practice tool. You will even learn how to generate exams from a set of competencies or pick an exam question randomly from a list of questions. Students enjoy using the free interactive ebooks. They appreciate the immediate feedback and the variety of practice problems. Participants will need a laptop and an internet connection.</p>"
+  - number : 106
+    submission : 734
+    block : 1
+    title : "STARS Ignite: A Program for Supporting Professors in Organizing Student Cohorts for Conferences"
+    presenters : "Amy Isvik, Tiffany Barnes, Jamie Payton, Veronica Catete and Lina Battestilli"
+    ad : "<p>The STARS Ignite Workshop provides faculty interested in broadening participation in computing (BPC) with the tools and knowledge to recruit and lead a student conference cohort in conference attendance and the implementation of a BPC event. Faculty will be provided with opportunities to adapt sample materials (recruitment emails, applications, etc.) to their own needs, assess the BPC needs at their universities, and learn how to determine if their BPC efforts are successful. Interested attendees should be willing to commit to leading a student conference cohort and implementing a BPC event with these students</p>"
+  - number : 107
+    submission : 757
+    block : 1
+    title : "Using CSTA Standards for CS Teachers to Design CS Teacher Pathways"
+    presenters : "Jennifer Rosato, Michelle Friend, Anne Leftwich and Louis Nadelson"
+    ad : "<p>As primary and secondary computer science offerings expand across the United States and other countries, there is a growing demand for educators who can teach CS. One way to meet the demand is to include CS content and instruction in teacher preparation programs, at the inservice (practicing teachers) and/or preservice (becoming a teacher) levels. However, most education faculty do not have a background in computing and most CS faculty lack an understanding of education program components and their complex regulatory requirements. This workshop is designed for higher education faculty from CS and Education departments as well as teachers who support CS education programs and would like to learn more about creating pathways for preparing teachers to teach CS. The workshop will provide rationales for CS teacher preparation programs (including how to develop and sustain the programs), detail what teachers need to know and be able to do to teach CS, review dimensions and examples of existing programs, and share resources to support CS teacher preparation program development. Participants will have an opportunity in the last hour to work on developing a CS program for their institution and writing an action plan of 2-3 short term goals to support program development. This workshop is intended for those who are considering developing or at the early stages of developing programs to prepare computer science teachers. The workshop will address differences in preservice and inservice programs at undergraduate and graduate levels. If possible, participants may want to attend as a team of faculty from both computer science and education departments at their institution. Participants will need a laptop and are recommended to have a webcam and microphone to participate in virtual activities.</p>"
+  - number : 108
+    submission : 762
+    block : 1
+    title : "Effective Video Production for Online and In-Person Courses"
+    presenters : "Michael Ball, Dan Garcia and Eric Arvai"
+    ad : "<p>Ever wondered how some of your colleagues put together such professional-quality video content? Thought they must have had training and broken the bank to purchase the equipment? Join this workshop to learn just how easy it is to make engaging videos from your own home studio. Learn tips and tricks about microphone, camcorder, lights, and green screen selection and placement for all ranges of budgets. Learn best practices for pre-production, production and post-production (and what those words mean!). Completely transform yourself from a dimly-lit, barely-heard, fuzzy one-inch-square in the corner of an hour-long zoom presentation to a captivating speaker, using well-produced short video clips. The workshop is intended for anyone wishing to improve their home studio setup for video production: K-12 and university educators. After the workshop, you will have a palette of options to choose from, depending on your budget, to improve your configuration. No equipment needed, we are happy to welcome folks wishing to dip their toe into the space! However, if you’ve already started down the path, and have technical questions, we’re happy to welcome you as well, and will do our best to help.</p>"
+  - number : 201
+    submission : 18
+    block : 2
+    title : "Adopting, Integrating, and Evaluating Computational Creativity Exercises and an Experience Report"
+    presenters : "Leen-Kiat Soh, Markeya Peteranetz and Olga Glebova"
+    ad : "<p>In this workshop, participants will learn about how to integrate computational thinking and creative thinking activities that have been shown to significantly improve student learning and performance in their classes via rigorous research investigations.  In particular, participants will be familiarized with the suite of Computational Creativity Exercises (CCEs) (which are non-programming-based, group-based, active learning exercises), practice hands-on how to complete such an CCE, learn about how to integrate and adapt them into their courses, and be exposed to the educational research studies behind the development, design, and administration of these CCEs. Participants will also learn how to conduct evidence-based educational research studies.  Workshop sessions will include presentations, panel-based Q&A, an experience report, breakout group discussions, and hands-on activities. Let’s compute, create, and collaborate!</p><p>Workshop registration fees and adoption and implementation stipend of $500 will be covered by an NSF grant for the first 10 participants who submit their own one-page statement of purpose to the organizers and participate fully in the workshop.</p>"
+    url: http://cse.unl.edu/agents/ic2think/CCEWorkshop2021
+  - number : 202
+    submission : 691
+    block : 2
+    title : "How to Gamify Your Computing Classes"
+    presenters : "Darina Dicheva, Keith Irwin and Lillian Cassel"
+    ad : "<p>Are you looking for new ways to better engage your students? Do you want to try making your Computer Science course more attractive? We can help! Come and see what the OneUp course gamification platform offers! In this workshop you will learn how you can gamify your own classes using game design elements such as avatars, points, leaderboards, progress bars, goal-setting, badges, virtual currency, duels, etc., and will get hands-on practice with using OneUp. For each workshop attendee, an OneUp course shell will be created and populated with sample data for individual use. For this virtual workshop, you will need the Chrome web browser installed on your laptop/computer, so that you can connect to OneUp. The workshop registration fees will be refunded by an NSF grant for the first 15 registered participants.</p>"
+  - number : 203
+    submission : 692
+    block : 2
+    title : "Building and Hacking an Exploitable WiFi Environment for Your Classroom – Even for Remote Participants!"
+    presenters : "Ahmed Ibrahim"
+    ad : "<p>In this workshop, you will learn (1) how to build an exploitable WiFi environment for your classroom, (2) how Raspberry Pis can be used to act as the necessary clients for your access points, (3) how to setup a VPN and Raspberry Pis to allow remote access to the environment, and (4) how to hack the access points. You will also have access to all of the Raspberry Pi scripts and access point configuration directions. Then, you will get a chance to hack up to four WEP access points as well as a WPA2 access point. Note: Participants must have a laptop with VirtualBox installed and at least 25GB of disk space available. Before the workshop, you will be provided a link to download and import a tested Kali VM as well as VPN credentials to participate in the hands-on hacking activity.</p>"
+  - number : 204
+    submission : 701
+    block : 2
+    title : "Real-World Data, Interactive Games and Data Structure Visualizations in Early CS Courses Using BRIDGES"
+    presenters : "Kalpathi Subramanian, Jamie Payton and Matthew Mcquaigue"
+    ad : "<p>Are you looking for ways to spice up your CS1, CS2, Data Structures, or Algorithm course? Come to our BRIDGES training workshop at SIGCSE 2021! BRIDGES provides a toolkit that lets you easily bring in interesting real-world data into your course assignments and allow your students to build simple games, create data structure visualizations, and assess algorithm performance. See the examples at http:// bridgesuncc.github.io/ Bring a laptop! Bridges partners will be provided stipends for providing student feedback and experience using BRIDGES.</p>"
+  - number : 205
+    submission : 732
+    block : 2
+    title : "Interactive Programming Environments for Teachers and Students"
+    presenters : "David Malan, Kareem Zidane and Brian Yu"
+    ad : "<p>Hands-on experience with three, free web-based programming environments for quick demos, scaffolded lessons, and programming projects. Learn how to use these environments in your classroom for lessons and assignments in any programming language.</p>"
+  - number : 206
+    submission : 736
+    block : 2
+    title : "Grading for Equity: A Curriculum Development and Grading Process to Enhance Instruction"
+    presenters : "Andrew Berns, J. Philip East and J. Ben Schafer"
+    ad : "<p>“Grading For Equity” (GFE) makes grading equitable, accurate, and motivational. This workshop explains how and gets you started in this instructional practice that will revolutionize your instructional practice and enhance your enjoyment of teaching. The workshop is intended for CS instructors who develop their own course materials or wishes to be able to adapt existing material to their own style. After the workshop, participants should have an understanding of GFE and be able to: 1) develop effective outcomes for their course, 2) develop assessments for the outcomes, 3) develop a plan for assessing outcomes, allowing assessment retakes, and assigning grades based only on outcome assessments. No equipment is required beyond what is needed to attend the conference virtually.</p>"
+  - number : 207
+    submission : 737
+    block : 2
+    title : "CSAwesome: A Free Curriculum and Ebook for Advanced Placement Computer Science A (CS1 in Java)"
+    presenters : "Beryl Hoffman and Barbara Ericson"
+    ad : "<p>This hands-on virtual workshop will introduce high school and college instructors to <a href=\"http://course.csawesome.org\">CSAwesome, a free Java curriculum and ebook</a> for the Advanced Placement (AP) Computer Science (CS) A course. This course is equivalent to a college-level CS1 course in Java. The free ebook on the Runestone platform includes executable Java code examples and problems, mixed-up code (Parsons problems), multiple-choice problems, coding challenges, and support for collaboration. The workshop will be led by the CSAwesome ebook authors. All workshop activities will be online, featuring live demonstrations, participant activities and breakout rooms differentiated depending on the participants’ Java experience. Workshop participants can use a laptop or tablet to access the online curriculum. Participants will also learn how to create a custom course on the Runestone platform and use the instructor’s dashboard to view student progress, create and grade assignments, contribute to the question bank, and use an interleaved spaced practice tool. We will also discuss online and hybrid teaching and engagement strategies.</p>"
+  - number : 208
+    submission : 756
+    block : 2
+    title : "Teaching with the Beauty and Joy of Computing - AP CSP and More!"
+    presenters : "Marnie Hill, Dan Garcia and Tiffany Barnes"
+    ad : "<p>Come work with us to learn how BJC has grown! We will cover the new curriculum updates, new Snap! updates, BJC for middle school, BJC in other languages, and more. If you have been following BJC or if you have an interest in learning about block-based programming and AP CSP, this workshop will be a thought provoking and informative experience. including hands-on experience with Snap! and the BJC teaching materials. The intended audience includes high school CS teachers and administrators. We will focus on AP CSP, however instructors of CS0 courses at universities may find the workshop useful as well. Please bring yourself, your computing device, and an open mind.</p>"
+  - number : 301
+    submission : 702
+    block : 3
+    title : "Labtainers Cyber Exercises: Building and Deploying Fully Provisioned Cyber Labs that Run on a Laptop"
+    presenters : "Michael Thompson and Cynthia Irvine"
+    ad : "<p>The free and open Labtainers framework uses Docker containers to create standalone and multi-component networked systems that all run within a modestly performing student laptop computer. The framework vastly <strong>simplifies administrative set up</strong> for instructors.  It offers <strong>automated assessment</strong> of student lab performance and <strong>individualized lab exercises</strong> to discourage solution sharing. </p> <p>In this workshop, you will learn the basics for creating your own Labtainer-based labs, whether for security, networking, operating systems, or other computer science classes. You will learn about Labtainers' automated assessment features and the benefits of individualized labs.  The workshop will cover methods for deploying new and customized labs, and Labtainers' support for sharing new labs with the Labtainers community.</p> <p>Participants will also learn  about the Labtainer exercises already available. The framework includes over fifty fully provisioned, ready-to-use Linux-based computer science lab exercises. The initial emphasis has been on cybersecurity and lab topics include: software vulnerabilities, network security and traffic analysis, web security, cryptography and cyber-physical systems.</p> <p>Used by dozens of educational institutions around the globe, Labtainers is a stable supported product and was highlighted in <a href=\"https://ieeecs-media.computer.org/assets/pdf/ce-may18-final.pdf\">IEEE ComputingEdge. (May 2018, p. 29)</a> Labtainers is distributed as a single virtual machine for either VirtualBox or VMWare. Workshop participants are expected to have a laptop computer capable of running virtual machines, and should have the Labtainers VM appliance installed. Participants must also have the equipment and connections needed to support teleconferencing.</p> <p>The <a href=\"https://nps.edu/web/c3o/labtainers\">Labtainers homepage</a> provides more information including download and installation.</p>"
+  - number : 302
+    submission : 704
+    block : 3
+    title : "Using CS Materials, A System to Align your Courses with National Standards"
+    presenters : "Erik Saule, Alec Goncharow and Jamie Payton"
+    ad : "<p>Do you ever wonder how your course compares to other courses? Do you want to know whether you are giving your students a good coverage of what they should know? Do you want to find better materials to use in your class? Do you wonder how to distribute that great assignment you have designed across the country? The CS Materials is a system that can help you answer these questions. The workshop will train you on how to enter the materials of your class into the system, and perform relevant material, coverage, and alignment analyses. Come to the workshop with all the materials from one of your classes that are ready to be shared. Attendees will receive a stipend to cover their expenses and can receive another one for continued engagement in the project.</p>"
+  - number : 303
+    submission : 716
+    block : 3
+    title : "Before you write code ... Putting Data and Ethics at the Center of Introductory Computing"
+    presenters : "John Clements, Zoe Wood, Aaron Keen and Zachary Rentz"
+    ad : "<p>We have been teaching introductory computing wrong. Help us fix it!</p><p>Introductory computing courses too often focus on how to write code at the expense of explicitly teaching how to think about computation. And they very rarely focus on the ethical implications of computing. But before writing code to complete a task, we must consider the data that is available and how that data can be used or misused. Before writing code, we must consider how the end product can be used for both the intended task and for unforeseen tasks. Before writing code, we must ask not just ``how do we?'' but also ``should we?''.</p><p>Every student that studies computing must consider the social context of computing. This is particularly important for those students outside of the discipline that will have limited formal instruction on computing, but that will interact with and utilize computing artifacts in every aspect of their personal and professional lives.</p><p>This workshop offers attendees the opportunity to explore the commonality in thinking about computation and about the ethics of computing. Attendees will participate in multiple classroom-oriented ethics and computing discussion exercises and leave with models for leading such discussions.</p>"
+  - number : 304
+    submission : 723
+    block : 3
+    title : "Using Gradescope to Facilitate Tag-Enhanced Student Feedback"
+    presenters : "Jenny Amos, Suneer Angra, Colin Castleberry and Olga Stadie"
+    ad : "<p>In this workshop, you will hear from your peers and Gradescope© Power-Users about the ways they have utilized Gradescope© in their classrooms to conduct course content tagging and tiered assessments for students, faculty, and accreditation competency mapping. Tagging assessment material is a needed step in effectively organizing student performance information, and providing students and instructors with information on each student’s strengths and weaknesses in a course. During the workshop, participants will gain experience developing assignments, grading assignments, tagging assignments, and producing data visuals to create individual feedback on course learning outcomes. These skills will make student advisement simpler, instructor teaching more effective, and compiling data for accreditation a breeze!</p><p>Since this is a virtual workshop, participants will be responsible for providing their own equipment. Required supplies include 1) computer or laptop with working camera, microphone, and speakers 2) internet speeds adequate for streaming video. The Workshop will include code and sample projects so you will be able to come away with something that you can easily implement in your courses.</p>"
+  - number : 305
+    submission : 730
+    block : 3
+    title : "CS50's GitHub-Based Tools for Teaching and Learning"
+    presenters : "David Malan, Chad Sharp, Jelle van Assema, Brian Yu and Kareem Zidane"
+    ad : "<p>An online but hands-on introduction to CS50's free and open-source tools for teaching and learning that you can adopt or adapt for your own classroom, including: help50, which helps students understand error messages; check50, via which teachers (and students) can test the correctness of code; style50, which provides students with feedback on their code's style; submit50, via which students can submit work; and compare50, an open-source and extensible alternative to Moss for comparing submissions for plagiarism.</p>"
+  - number : 306
+    submission : 715
+    block : 3
+    title : "Game On! Inspired CS Education with MakeCode Arcade"
+    presenters : "Bill Siever and Michael Rogers"
+    ad : "<p>This fun-filled workshop will introduce participants to game development using MakeCode Arcade (Arcade), which is well suited for introductory activities in K-12, outreach, and CS0/1. We'll show how Arcade is a great tool to succinctly and engagingly introduce meaningful CS concepts to myriad audiences. We'll work through creation of several small arcade games and show how students can progress from block-based languages to JavaScript and Python. No prior experience is required. All activities will be completed in a web browser, but we'll show examples running on dedicated console machines which are relatively cheap, readily available, and robustly built (see <em>Hardware</em> at the <a href=\"https://arcade.makecode.com\">MakeCode Arcade website</a>).</p><p>Thanks to generous support from GHI Electronics, early registrants will be placed in a drawing for a <a href=\"https://www.brainpad.com\">BrainPad</a>. The BrainPad, which will be demoed briefly during the workshop, is a portable console capable of running programs created with MakeCode.</p>"
+  - number : 307
+    submission : 741
+    block : 3
+    title : "Transform Your Computer Science Course with Specifications Grading"
+    presenters : "David Largent, Christian Roberson and Carlo Sgro"
+    ad : "<p>Are you tired of spending time dealing with students who complain over fractions of points? Do you get frustrated spending most of your marking time on work that is not even remotely close to what was intended? What if there was a better way to do grading that actually measured student learning outcomes, caused less arguments, and took less time? Well, there is, and it’s called specifications grading. This workshop will explain what specifications grading is and give you an opportunity to apply these techniques to the actual computer science courses you teach. Although the presenters come from higher education, the concepts presented in this workshop are applicable to you, whether you are a middle school, high school, or university teacher. Please bring one or more of your current syllabi and/or assignment instructions with you to this interactive workshop. You will leave the workshop with a plan to modify at least one of your courses. You will receive access to examples and resources created by the presenters.</p>"
+  - number : 308
+    submission : 755
+    block : 3
+    title : "Teaching about Heterogeneous Computing"
+    presenters : "David Bunde, Apan Qasem and Philip Schielke"
+    ad : "<p>From smartphones to the largest computers in the world, computing systems are increasingly composed of multiple, heterogeneous processing elements.  How can we reflect this in our courses and prepare our students for programming in an increasingly heterogeneous environment?  Come learn about <a href=\"https://github.com/TeachingUndergradsCHC/modules\">modules designed to incorporate heterogeneous computing into YOUR curriculum.</a>We will present modules suitable for a variety of courses, including CS 1, CS 2, Algorithms, Computer Organization, Systems, and Parallel Programming. The workshop includes time for hands-on exploration of the modules with assistance from the presenters.</p><p>This workshop is designed for college-level instructors.   No special equipment is needed; programming components will use web-based resources.</p>"

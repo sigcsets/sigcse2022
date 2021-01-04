@@ -9,20 +9,20 @@ layout: frontpage
 header:
   image_fullwidth: sigcse2021-logo-header.png
 widget1:
-  title: "Registration Rates Available!"
-  url: '/attendees'
-  image: ribbons-widget.png
-  text: 'Registration rates for the Technical Symposium are now available!  Registration will open in early January 2021.'
+  title: Pathable Chosen as Virtual Platform
+  url: '/schedule'
+  image: pathable-logo-widget.png
+  text: 'SIGCSE TS 2021 will run on Pathable!  Information for presenters is now available in the Schedule section!'
 # widget2:
 #   title: "Submit to SIGCSE TS!"
 #   url: '/authors'
 #   text: 'See the Call for Papers for more information on submitting to SIGCSE TS 2021!'
 #   image: ribbons-widget.png
 widget2:
-  title: "2021 Schedule is Live!"
-  url: '/schedule'
-  image: schedule-widget.png
-  text: 'More information regarding presentation recordings is coming soon!'
+  title: "Registration Rates Available!"
+  url: '/attendees'
+  image: ribbons-widget.png
+  text: 'Registration rates for the Technical Symposium are now available!  Registration will open in early January 2021.'
 #
 # Use the call for action to show a button on the frontpage
 #

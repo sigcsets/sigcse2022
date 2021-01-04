@@ -1,0 +1,17 @@
+<aside class="panel radius">
+	<h3>Workshops</h3>
+	
+        {% assign block = "X" %}
+        {% assign position = -1 %}
+        {% for workshop in site.data.workshops.workshops %}
+            {% if block != workshop.block %}
+                </ul>
+                {% assign block = workshop.block %}
+                {% assign position = position | plus: 1 %}
+                <strong><a href="#block-{{block | downcase}}">Block {{block}} Workshops</a></strong>
+                <ul>
+            {% endif %}
+        <li><a href="#workshop-{{workshop.number}}">Workshop {{workshop.number}} : {{workshop.title}}</a></li>
+        {% endfor %}
+	</ul>
+</aside>

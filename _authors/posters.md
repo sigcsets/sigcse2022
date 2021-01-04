@@ -7,7 +7,7 @@ track: "Posters"
 
 {% include submission-details.html %}
 
-{% include covid-guidelines-alert.html %}
+<!-- {% include covid-guidelines-alert.html %} -->
 
 ## Author Guidelines: Posters
 {% include alert info='Final as of September 17 2020' %}
@@ -17,7 +17,7 @@ Posters provide an opportunity for an informal presentation featuring “give an
 Posters should not be previously published, as a paper or a poster.
 
 Graduate or undergraduate students submitting posters may instead wish
-to submit to the [ACM Student Research Competition (SRC)]({{ site.url }}{{ site.baseurl }}/authors/src) held
+to submit to the [ACM Student Research Competition (SRC)]({{ site.url }}/authors/src) held
 at SIGCSE Technical Symposium. Like normal posters, ACM SRC posters are
 displayed at the conference, but the top poster authors also present
 their work orally, may win prizes and proceed to the international ACM
@@ -109,3 +109,15 @@ For consideration, please check the option **Presenting Author is an Undergradua
 Please note that this award is separate from the [ACM Student Research Competition](/authors/src).  Undergraduate students participating in the ACM Student Research Competition are not eligible for consideration of the CUR award.
 
 {% include submission-proposal.html %}
+
+## Presenting at SIGCSE TS 2021
+
+### Important Dates
+
+* TBD
+
+### How will I be presenting my work? (Posters)
+
+Authors should prepare a poster as usual, a PDF of which will be submitted as part of the presentation and will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
+
+Posters Track chairs will be in touch with presenters soon with more information about presenting.

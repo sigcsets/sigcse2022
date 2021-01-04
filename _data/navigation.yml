@@ -2,30 +2,30 @@
   url: "/"
   side: left
 
+- title: "Schedule"
+  url: /schedule/
+  side: left
+
 - title: "For Attendees"
-  url: "/attendees/"
+  url: /attendees/
   side: left
 
 - title: "For Authors"
-  url: "/authors/"
+  url: /authors/
   side: left
 
 - title: "For Reviewers"
-  url: "/reviewers/"
+  url: /reviewers/
   side: left
 
 - title: "For Exhibitors"
-  url: "/exhibitors/"
+  url: /exhibitors/
   side: left
 
 - title: "Committee"
-  url: "/committee/"
-  side: left
-
-- title: "Schedule"
-  url: "/schedule/"
+  url: /committee/
   side: left
 
 - title: "SIGCSE TS 2021 - March 13-20"
-  url: "/info/"
+  url: /info/
   side: right
