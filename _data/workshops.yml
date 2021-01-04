@@ -85,11 +85,11 @@ workshops:
     presenters : "Kalpathi Subramanian, Jamie Payton and Matthew Mcquaigue"
     ad : "<p>Are you looking for ways to spice up your CS1, CS2, Data Structures, or Algorithm course? Come to our BRIDGES training workshop at SIGCSE 2021! BRIDGES provides a toolkit that lets you easily bring in interesting real-world data into your course assignments and allow your students to build simple games, create data structure visualizations, and assess algorithm performance. See the examples at http:// bridgesuncc.github.io/ Bring a laptop! Bridges partners will be provided stipends for providing student feedback and experience using BRIDGES.</p>"
   - number : 205
-    submission : 715
+    submission : 732
     block : 2
-    title : "Game On! Inspired CS Education with MakeCode Arcade"
-    presenters : "Bill Siever and Michael Rogers"
-    ad : "<p>This fun-filled workshop will introduce participants to game development using MakeCode Arcade (Arcade), which is well suited for introductory activities in K-12, outreach, and CS0/1. We'll show how Arcade is a great tool to succinctly and engagingly introduce meaningful CS concepts to myriad audiences. We'll work through creation of several small arcade games and show how students can progress from block-based languages to JavaScript and Python. No prior experience is required. All activities will be completed in a web browser, but we'll show examples running on dedicated console machines which are relatively cheap, readily available, and robustly built (see <em>Hardware</em> at the <a href=\"https://arcade.makecode.com\">MakeCode Arcade website</a>).</p><p>Thanks to generous support from GHI Electronics, early registrants will be placed in a drawing for a <a href=\"https://www.brainpad.com\">BrainPad</a>. The BrainPad, which will be demoed briefly during the workshop, is a portable console capable of running programs created with MakeCode.</p>"
+    title : "Interactive Programming Environments for Teachers and Students"
+    presenters : "David Malan, Kareem Zidane and Brian Yu"
+    ad : "<p>Hands-on experience with three, free web-based programming environments for quick demos, scaffolded lessons, and programming projects. Learn how to use these environments in your classroom for lessons and assignments in any programming language.</p>"
   - number : 206
     submission : 736
     block : 2
@@ -139,11 +139,11 @@ workshops:
     presenters : "David Malan, Chad Sharp, Jelle van Assema, Brian Yu and Kareem Zidane"
     ad : "<p>An online but hands-on introduction to CS50's free and open-source tools for teaching and learning that you can adopt or adapt for your own classroom, including: help50, which helps students understand error messages; check50, via which teachers (and students) can test the correctness of code; style50, which provides students with feedback on their code's style; submit50, via which students can submit work; and compare50, an open-source and extensible alternative to Moss for comparing submissions for plagiarism.</p>"
   - number : 306
-    submission : 732
+    submission : 715
     block : 3
-    title : "Interactive Programming Environments for Teachers and Students"
-    presenters : "David Malan, Kareem Zidane and Brian Yu"
-    ad : "<p>Hands-on experience with three, free web-based programming environments for quick demos, scaffolded lessons, and programming projects. Learn how to use these environments in your classroom for lessons and assignments in any programming language.</p>"
+    title : "Game On! Inspired CS Education with MakeCode Arcade"
+    presenters : "Bill Siever and Michael Rogers"
+    ad : "<p>This fun-filled workshop will introduce participants to game development using MakeCode Arcade (Arcade), which is well suited for introductory activities in K-12, outreach, and CS0/1. We'll show how Arcade is a great tool to succinctly and engagingly introduce meaningful CS concepts to myriad audiences. We'll work through creation of several small arcade games and show how students can progress from block-based languages to JavaScript and Python. No prior experience is required. All activities will be completed in a web browser, but we'll show examples running on dedicated console machines which are relatively cheap, readily available, and robustly built (see <em>Hardware</em> at the <a href=\"https://arcade.makecode.com\">MakeCode Arcade website</a>).</p><p>Thanks to generous support from GHI Electronics, early registrants will be placed in a drawing for a <a href=\"https://www.brainpad.com\">BrainPad</a>. The BrainPad, which will be demoed briefly during the workshop, is a portable console capable of running programs created with MakeCode.</p>"
   - number : 307
     submission : 741
     block : 3
