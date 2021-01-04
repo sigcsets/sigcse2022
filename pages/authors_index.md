@@ -12,7 +12,7 @@ We have broken out submission guidelines by type. There are many ways to share t
 
 ## SIGCSE TS 2021 Presentation Information
 
-Pathable has been selected as the virtual platform for the 2021 SIGCSE Technical Symposium.  For information on how the different tracks will be run during the Symposium, please follow the links below:
+We are excited to announce that Pathable has been selected as the virtual platform for the 2021 SIGCSE Technical Symposium!  For information on how the different tracks will be run during the Symposium, please follow the links below:
 
 <ul>
     {% assign posts = site.authors | sort: 'order' %}

@@ -533,6 +533,14 @@ Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliate
 
 </table>
 
+## Virtual Platform
+
+We are excited to announce that Pathable has been selected as the virtual platform for the 2021 Technical Symposium!  More information on how to use Pathable for attendees, presenters, and session chairs will be made available in the coming weeks.  We will also be offering free training sessions for presenters and session chairs to help you feel more comfortable before the Technical Symposium starts.
+
+Worried that you won't be able to see all the content you want during the week of the Technical Symposium?  To help folks get the most out of the content both before and after the Symposium, we plan to open Pathable to registered attendees in early March so that you can watch prerecorded sessions, set up meetings, and start to catch up with friends before the event even begins!  Also, all recorded content (both prerecorded and recorded live during the Symposium) will be available to all registered attendees for a year after the Symposium ends!
+
+Make sure to register as soon as you can after registration opens to take advantage of the early content!
+
 ## Session Descriptions and Information
 
 For more information about each session, click on the event in the calendar above, or select from the list below.  We are continuing to post more information and will update regularly.
