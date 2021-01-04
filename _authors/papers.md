@@ -107,7 +107,7 @@ If your paper is accepted you will have a chance to modify your publication vers
 
 ### How will I be presenting my work? (Paper Tracks)
 
-Technical session presentations for all paper tracks (Computing Education Research, Experience Reports and Tools, and Position and Curriculua Initiatives) will be split into two parts -- a prerecorded video presentation of no more than 20 minutes in length and a 20-minute live discussion and Q&A session during your assigned slot the week of the Technical Symposium.
+Technical session presentations for all paper tracks (Computing Education Research, Experience Reports and Tools, and Position and Curricula Initiatives) will be split into two parts -- a prerecorded video presentation of no more than 20 minutes in length and a 20-minute live discussion and Q&A session during your assigned slot the week of the Technical Symposium.
 
 Presenters are asked to prerecord a 20 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
 

@@ -118,4 +118,6 @@ Please note that this award is separate from the [ACM Student Research Competiti
 
 ### How will I be presenting my work? (Posters)
 
-Poasters Track chairs will be in touch with presenters soon regarding information about presenting.
+Authors should prepare a poster as usual, a PDF of which will be submitted as part of the presentation and will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
+
+Posters Track chairs will be in touch with presenters soon with more information about presenting.
