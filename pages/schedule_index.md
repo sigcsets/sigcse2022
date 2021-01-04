@@ -572,7 +572,7 @@ __Lightning Talks__: Presenters are invited (but not required) to submit a 5 min
 
 ### Birds-of-a-Feather (BOF)
 
-Birds-of-a-Feather flocks will each be given their own dedicated Zoom meeting room for the entire week that will be listed in Pathable and available for use for discussion or other activities throughout the Technical Symposium.  Additionally, there will be an officially scheduled meeting time during the one of the networking blocks that will be advertised on the schedule for the normal BoF session (as we would normally do in-person).
+Birds-of-a-Feather flocks will each be given their own dedicated Zoom meeting room for the entire week that will be listed in Pathable and available for use for discussion or other activities throughout the Technical Symposium.  Additionally, there will be an officially scheduled meeting time during the one of the networking blocks that will be advertised on the schedule for the normal BoF session (as we would normally do in-person). BOF organizers will have the ability to record meetings in their Zoom rooms.
 
 * Schedule of Birds-of-a-Feather flocks will be available in January
 * [Running Birds-of-a-Feather flocks at SIGCSE TS 2021]({{ site.url }}/authors/bofs/#presenting-at-sigcse-ts-2021)
