@@ -16,7 +16,7 @@ For program issues:
 Pam Cutter, Alvaro Monge, and Judy Sheard, Program Co-Chairs ([program@sigcse2021.org](mailto:program@sigcse2021.org))
 
 For exhibitor or sponsor issues:     
-([sigcse@dlplan.com](sigcse@dlplan.com))
+([sigcse@dlplan.com](mailto:sigcse@dlplan.com))
 
 
 ## SIGCSE Organization
