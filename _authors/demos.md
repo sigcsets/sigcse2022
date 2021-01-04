@@ -60,6 +60,7 @@ Since the conference will be virtual, each Demo will be presented live via a vir
 
 ### General Requirements
 
+_(NOTE: The information below has been updated in the "Presenting at SIGCSE TS 2021" section at the end of this page.)_
 Independent of your presentation, you will have to provide a pre-recorded video with an overview of the Demo of at most 5 minutes length. The video must be provided before the symposium starts (exact date TBA) and will be referenced from the online program in order to give attendees the chance to get acquainted with the Demo beforehand. It may also widen the potential audience for your Demo. Note that this is an additional requirement in comparison to Demos at previous symposiums due to the addition of virtual offerings at the symposium.
 
 
@@ -81,7 +82,7 @@ Independent of your presentation, you will have to provide a pre-recorded video 
 
 Presenters are asked to prerecord a 15 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
 
-More information regarding demo sessions will be available in January.  
+More information regarding demo live sessions will be available in January.  
 
 {% include presentation-how-to-submit.md %}
 

@@ -70,7 +70,7 @@ For virtual presentations, the presenter may either present live via conferencin
 
 Presenters are asked to prerecord a 5 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
 
-More information regarding demo sessions will be available in January.  
+More information regarding live Lightning Talk sessions will be available in January.  
 
 {% include presentation-how-to-submit.md %}
 
