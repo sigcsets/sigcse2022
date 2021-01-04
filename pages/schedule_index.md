@@ -560,26 +560,22 @@ __Panels and Special Sessions__: Panels and Special Sessions will have the optio
 * [Presenting Panels at SIGCSE TS 2021]({{ site.url }}/authors/panels/#presenting-at-sigcse-ts-2021)
 * [Presenting Special Sessions at SIGCSE TS 2021]({{ site.url }}/authors/specialsessions/#presenting-at-sigcse-ts-2021)
 
+__Demos__: Presenters are asked to prerecord a "teaser" presentation demo no longer than 5 minutes that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
+
+* Schedule of demos will be available in January
+* [Presenting Demos at SIGCSE TS 2021]({{ site.url }}/authors/demos/#presenting-at-sigcse-ts-2021)
+
+__Lightning Talks__: Presenters are invited (but not required) to submit a 5 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.
+
+* Schedule of lightning talks will be available in January
+* [Presenting Lightning Talks at SIGCSE TS 2021]({{ site.url }}/authors/lightningtalks/#presenting-at-sigcse-ts-2021)
+
 ### Birds-of-a-Feather (BOF)
 
 Birds-of-a-Feather flocks will each be given their own dedicated Zoom meeting room for the entire week that will be listed in Pathable and available for use for discussion or other activities throughout the Technical Symposium.  Additionally, there will be an officially scheduled meeting time during the one of the networking blocks that will be advertised on the schedule for the normal BoF session (as we would normally do in-person).
 
 * Schedule of Birds-of-a-Feather flocks will be available in January
 * [Running Birds-of-a-Feather flocks at SIGCSE TS 2021]({{ site.url }}/authors/bofs/#presenting-at-sigcse-ts-2021)
-
-### Demos
-
-Presenters are asked to prerecord "teaser" presentation demo no longer than 5 minutes in length that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
-
-* Schedule of demos will be available in January
-* [Presenting Demos at SIGCSE TS 2021]({{ site.url }}/authors/demos/#presenting-at-sigcse-ts-2021)
-
-### Lightning Talks
-
-Presenters are invited (but not required) to submit a 5 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.
-
-* Schedule of lightning talks will be available in January
-* [Presenting Lightning Talks at SIGCSE TS 2021]({{ site.url }}/authors/lightningtalks/#presenting-at-sigcse-ts-2021)
 
 ### Posters
 
