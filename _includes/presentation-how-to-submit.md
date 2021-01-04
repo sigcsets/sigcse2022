@@ -1,6 +1,6 @@
 ### How do I submit my video presentation?
 
-A link to the submission form will be sent to the corresponding authors identified in EasyChair.  If you did not receive the email or if you have any questions, please email [videosubmission@sigcse2021.org](mailto:videosubmission@sigcse2021.org).
+A link to the submission form will be sent to the corresponding authors identified in EasyChair.  If you did not receive the email by January 8th or if you have any questions, please email [videosubmission@sigcse2021.org](mailto:videosubmission@sigcse2021.org).
 
 ### Why do you need the presentation so soon (January 15)?
 
