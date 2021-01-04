@@ -547,9 +547,9 @@ For more information about each session, click on the event in the calendar abov
 
 ### Technical Sessions
 
-Each Technical Session block will have eight parallel "rooms" with either paper presentations or panels/special sessions (e.g. An example block could have five paper sessions, two panels, and one special session.)
+Each Technical Session block will have eight or nine parallel Zoom webinar rooms in Pathable with paper presentations, panels/special sessions, demos, or lightning talks. (e.g. An example block could have five paper sessions, two panels, and one special session.)
 
-__Paper Presentation Sessions__: Authors are invited to prerecord a 20 minute presentation of their work that will be made available before the Technical Symposium through Pathable.  During the paper presentation session itself, each author will be given 20 minutes -- 5 minutes for a short recap of their work with a few slides and then 15 minutes of Q&A.  Five authors will present during each paper presentation session.  All paper presentation sessions will be recorded and will be available on-demand through Pathable.
+__Paper Presentation Sessions__: Authors are asked to prerecord a 20 minute presentation of their work that will be made available before the Technical Symposium through Pathable.  During the paper presentation session itself, each author will be given 20 minutes -- 5 minutes for a short recap of their work with a few slides and then 15 minutes of Q&A.  Five authors will present during each paper presentation session.  All paper presentation sessions will be recorded and will be available on-demand through Pathable.
 
 * Schedule of paper presentations will be available in January
 * [Presenting Papers at SIGCSE TS 2021]({{ site.url }}/authors/papers/#presenting-at-sigcse-ts-2021)
@@ -562,21 +562,21 @@ __Panels and Special Sessions__: Panels and Special Sessions will have the optio
 
 ### Birds-of-a-Feather (BOF)
 
-Birds-of-a-Feather flocks will each be given a "permanent Zoom room" for the entire week that will be listed in Pathable and available for use for discussion or other activities throughout the Technical Symposium.  Additionally, there will be an officially scheduled meeting time during the one of the Networking Blocks that will be advertised on the schedule for the normal BoF session (as we would normally do in-person).
+Birds-of-a-Feather flocks will each be given their own dedicated Zoom meeting room for the entire week that will be listed in Pathable and available for use for discussion or other activities throughout the Technical Symposium.  Additionally, there will be an officially scheduled meeting time during the one of the networking blocks that will be advertised on the schedule for the normal BoF session (as we would normally do in-person).
 
 * Schedule of Birds-of-a-Feather flocks will be available in January
 * [Running Birds-of-a-Feather flocks at SIGCSE TS 2021]({{ site.url }}/authors/bofs/#presenting-at-sigcse-ts-2021)
 
 ### Demos
 
-Presenters are asked to prerecord a 15 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
+Presenters are asked to prerecord "teaser" presentation demo no longer than 5 minutes in length that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
 
 * Schedule of demos will be available in January
 * [Presenting Demos at SIGCSE TS 2021]({{ site.url }}/authors/demos/#presenting-at-sigcse-ts-2021)
 
 ### Lightning Talks
 
-Presenters are asked to prerecord a 5 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
+Presenters are invited (but not required) to submit a 5 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.
 
 * Schedule of lightning talks will be available in January
 * [Presenting Lightning Talks at SIGCSE TS 2021]({{ site.url }}/authors/lightningtalks/#presenting-at-sigcse-ts-2021)
