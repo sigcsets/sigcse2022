@@ -64,13 +64,13 @@ For virtual presentations, the presenter may either present live via conferencin
 
 ### Important Dates
 
-* __January 15__ - Submit video presentation through submission form emailed to corresponding authors
+* __January 15__ - (OPTIONAL) Submit video presentation through submission form emailed to corresponding authors 
 
 ### How will I be presenting my work? (Lightning Talks)
 
-Presenters are asked to prerecord a 5 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
+Presenters are invited (but not required) to submit a 5 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
 
-More information regarding live Lightning Talk sessions will be available in January.  
+Lightning talk presentations will take place during the Technical Session blocks throughout the week.  More information on scheduling will be made available later in January.
 
 {% include presentation-how-to-submit.md %}
 
