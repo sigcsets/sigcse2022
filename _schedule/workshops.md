@@ -8,7 +8,7 @@ sidebar: schedule_workshops
 Workshops will take place duing these time blocks:
 <ul>
 {% for block in site.data.workshops.blocks %}
-<li><a href="#block-{{block.block | downcase}}">Workshop Block {{block.block}} - {{ block.day }} & {{ block.time }}</a></li>
+<li><a href="#block-{{block.block | downcase}}">Workshop Block {{block.block}} - {{ block.day }} @ {{ block.time }}</a></li>
 {% endfor %}
 </ul>
 
