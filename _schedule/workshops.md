@@ -24,7 +24,7 @@ Workshops will take place duing these time blocks:
    {% endif %}
    <h3 id="workshop-{{workshop.number}}">Workshop {{workshop.number}} : {{workshop.title}}</h3>
    {% if workshop.url %}
-   <p><strong>Workshop website</strong> : <a href="{{workshop.url}}">{{workshop.url}}</a></p>
+   <p><strong>Workshop website</strong> : <a href="{{workshop.url}}" target=_new>{{workshop.url}}</a></p>
    {% endif %} 
    <p><strong>Workshop organizers</strong> : {{workshop.presenters}}</p>
    <p><strong>Block {{workshop.block}}</strong> - {{ site.data.workshops.blocks[position].day }} @ {{ site.data.workshops.blocks[position].time }}</p>

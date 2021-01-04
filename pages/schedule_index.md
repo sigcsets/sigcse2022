@@ -141,8 +141,8 @@ a {
 }
 </style>
 Last update: January 4, 2020    
-All times Eastern Time Zone (North America)     
-Click on the events in the calendar below-see more information about each session    
+All times Eastern Time Zone (North America) _(Note that Daylight Saving Time in the US begins at 2:00 AM on March 14)_     
+Click on the events in the calendar below to see more information about each session    
 Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliated Events]({{ site.url }}/schedule/affiliatedevents) 
 
 <table id="calendar">
