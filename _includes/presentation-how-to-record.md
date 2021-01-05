@@ -20,7 +20,7 @@ If you would like to have more control over the presentation, including things s
 
 * Smoother transitions between your camera full screen and slides
 * Multiple audio/video sources
-* Graphic boarders around your camera
+* Graphic borders around your camera
 * Sharing multiple windows at the same time
 
 you may want to try the open source Open Broadcaster Software (OBS) at [http://obsproject.com](http://obsproject.com), available for Windows, Mac, and Linux.  OBS does require more configuration and setting up than Zoom, but offers a lot of flexibility and options for free.  Note that OBS records .mkv files by default.  To convert to .mp4, use the "Remux Recordings" option in the File menu.

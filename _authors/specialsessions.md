@@ -79,7 +79,7 @@ and page limits.
 
 ### Important Dates
 
-* __January 15__ - Submit presentation plans (including a video if desired) through submission form emailed to corresponding authors 
+* __January 22__ - Submit presentation plans (including a video if desired) through submission form emailed to corresponding authors 
 
 ### How will I be presenting my work? (Panels and Special Sessions)
 

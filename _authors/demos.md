@@ -75,13 +75,15 @@ Independent of your presentation, you will have to provide a pre-recorded video 
 
 ### Important Dates
 
-* __January 15__ - Submit video presentation through submission form emailed to corresponding authors
+* __January 22__ - Submit video presentation through submission form emailed to corresponding authors
 
 ### How will I be presenting my work? (Demos)
 
-Presenters are asked to prerecord "teaser" presentation demo no longer than 5 minutes in length that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
+Presenters are asked to prerecord "teaser" presentation demo no longer than 5 minutes that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
 
-Demo presentations will take place during the Technical Session blocks throughout the week.  More information on scheduling will be made available later in January.
+Demo presentations will take place live during the Technical Session blocks throughout the week. The live demo should not assume prior viewing of the "teaser" video. Depending on the content of the video, presenters should customize the live demo based on feedback from the audience. As usual, presenters need to reserve time for Q&amp;A. 
+
+More information on scheduling will be made available later in January.
 
 {% include presentation-how-to-submit.md %}
 
