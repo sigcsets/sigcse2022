@@ -70,7 +70,7 @@ For virtual presentations, the presenter may either present live via conferencin
 
 Presenters are invited (but not required) to submit a 5 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
 
-Lightning talk presentations will take place during the Technical Session blocks throughout the week.  More information on scheduling will be made available later in January.
+Lightning talk presentations will take place live during the Technical Session blocks throughout the week.  More information on scheduling will be made available later in January.
 
 {% include presentation-how-to-submit.md %}
 
