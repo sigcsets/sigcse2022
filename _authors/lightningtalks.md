@@ -64,7 +64,7 @@ For virtual presentations, the presenter may either present live via conferencin
 
 ### Important Dates
 
-* __January 15__ - (OPTIONAL) Submit video presentation through submission form emailed to corresponding authors 
+* __January 22__ - (OPTIONAL) Submit video presentation through submission form emailed to corresponding authors 
 
 ### How will I be presenting my work? (Lightning Talks)
 

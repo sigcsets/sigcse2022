@@ -75,7 +75,7 @@ Independent of your presentation, you will have to provide a pre-recorded video 
 
 ### Important Dates
 
-* __January 15__ - Submit video presentation through submission form emailed to corresponding authors
+* __January 22__ - Submit video presentation through submission form emailed to corresponding authors
 
 ### How will I be presenting my work? (Demos)
 

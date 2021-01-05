@@ -103,7 +103,7 @@ If your paper is accepted you will have a chance to modify your publication vers
 
 ### Important Dates
 
-* __January 15__ - Submit video presentation through submission form emailed to corresponding authors 
+* __January 22__ - Submit video presentation through submission form emailed to corresponding authors 
 
 ### How will I be presenting my work? (Paper Tracks)
 
