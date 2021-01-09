@@ -100,6 +100,8 @@
     members:
       - name: Moshen Dorodchi
         inst: University of North Carolina, Charlotte
+      - name: 
+        inst: 
 
   "Community College Liaison":
     email: cc@sigcse2021.org
@@ -107,11 +109,14 @@
       - name: Christian Servin
         inst: El Paso Community College
 
+
   "Evaluations":
     email: evaluations@sigcse2021.org
     members:
       - name: Leen-Kiat Soh
         inst: University of Nebraska - Lincoln
+      - name: 
+        inst: 
 
   "Global Liaison":
     email: global@sigcse2021.org
@@ -201,6 +206,8 @@
     members:
       - name: Scott McElfresh
         inst: Christopher Newport University
+      - name: 
+        inst: 
 
   "Virtual Arrangements":
     email: virtual@sigcse2021.org
@@ -215,6 +222,8 @@
     members:
       - name: Adam Blank
         inst: Cal Tech
+      - name: 
+        inst: 
 
 ####################
 
