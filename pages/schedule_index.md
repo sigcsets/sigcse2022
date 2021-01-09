@@ -143,7 +143,7 @@ a {
 Last update: January 4, 2020    
 All times Eastern Time Zone (North America) _(Note that Daylight Saving Time in the US begins at 2:00 AM on March 14)_     
 Click on the events in the calendar below to see more information about each session    
-Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliated Events]({{ site.url }}/schedule/affiliatedevents) 
+Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliated Events]({{ site.url }}/schedule/affiliatedevents) | [Special Events]({{ site.url }}/schedule/specialevents) 
 
 <table id="calendar">
   <caption>March 2021</caption>
@@ -204,7 +204,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliate
     <td class="day">
       <div class="date">11</div>
       <div class="event">
-      <a href="{{ site.url }}/#">
+      <a href="{{ site.url }}//schedule/specialevents/#global">
         <div class="event-desc">
           Global Diversity Event
         </div>
