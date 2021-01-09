@@ -204,7 +204,7 @@ Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliate
     <td class="day">
       <div class="date">11</div>
       <div class="event">
-      <a href="{{ site.url }}//schedule/specialevents#global">
+      <a href="{{ site.url }}//schedule/specialevents/#global">
         <div class="event-desc">
           Global Diversity Event
         </div>
