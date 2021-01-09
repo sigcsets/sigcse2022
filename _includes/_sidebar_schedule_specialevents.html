@@ -1,0 +1,8 @@
+<aside class="panel radius">
+	<h3>Special Events</h3>
+	<ul>
+    {% for specialevent in site.data.specialevents.specialevents %}
+    <li><a href="#{{specialevent.event | downcase}}">{{ specialevent.title }}</a></li>
+    {% endfor %}
+	</ul>
+</aside>
