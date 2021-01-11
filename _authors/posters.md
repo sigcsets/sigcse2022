@@ -124,7 +124,7 @@ Authors should prepare a poster as usual, a PDF of which is required to be submi
 * Use resolution of 2560 by 1440 so that the text and images are readable and not blurry when zoomed in.
 * Test different zoom levels of your PDF to ensure content is accessible
 
-Poster authors have the **option to submit a prerecorded "teaser" presentation 1-2 minutes long** which provides attendees a brief audio/video explanation of the work to be presented in the poster and to be discussed during its live presentation. Authors are encouraged to use this opportunity to concisely highlight their work, seeking to peak the interest of registrants to attend the live poster presentation; authors should focus the video presentation on the work/research presented in the poster.
+Poster authors have the **option to submit a prerecorded "teaser" presentation 1-2 minutes long** which provides attendees a brief audio/video explanation of the work to be presented in the poster and to be discussed during its live presentation. Authors are encouraged to use this opportunity to concisely highlight their work, seeking to pique the interest of registrants to attend the live poster presentation; authors should focus the video presentation on the work/research presented in the poster.
 
 Attendees will have the opportunity to access all available content on Pathable during the weeks leading up to the Technical Symposium and will have access for a year following the end of the Symposium.  
 

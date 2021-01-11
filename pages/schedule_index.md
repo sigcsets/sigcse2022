@@ -579,7 +579,7 @@ Birds-of-a-Feather flocks will each be given their own dedicated Zoom meeting ro
 
 ### Posters
 
-Presenters will submit a PDF of their poster and have the option to submit a 1-2minute "teaser" video to the work/research in their poster to peak the interest of registrants to attend the live presentation. 
+Presenters will submit a PDF of their poster and have the option to submit a 1-2minute "teaser" video to the work/research in their poster to pique the interest of registrants to attend the live presentation. 
 
 * Schedule of Posters will be available in January
 * [Presenting Posters at SIGCSE TS 2021]({{ site.url }}/authors/posters/#presenting-at-sigcse-ts-2021)
