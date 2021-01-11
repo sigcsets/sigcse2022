@@ -10,7 +10,7 @@ sidebar: attendees
 
 ## Registering for SIGCSE TS 2021
 
-Registration for the 2021 SIGCSE Technical Symposium will open in early January 2021.
+Registration for the 2021 SIGCSE Technical Symposium will open in early January 2021 through Cvent.
 
 <style>
 table tbody tr.odd, table tbody tr.alt, table tbody tr:nth-of-type(odd) {
@@ -35,11 +35,6 @@ span.team-heading {
 
 </style>
 
-
-### Registration Rates
-
-_All registration rates are in USD._
-
 {% for rate_category in site.data.registration.rates %}
   <h3>{{ rate_category[0] }}</h3>
   <table width="100%" class="multibody">
@@ -53,13 +48,38 @@ _All registration rates are in USD._
   
 {% endfor %}
 
+_All registration rates are in US$._    
 _Student registration rates are for full-time students only._
+
+### Registering for Other Symposium Events through Cvent
+
+#### Workshops
+
+Workshops provide an in-depth review of, or introduction to, a topic of interest. A successful workshop should provide participants with materials and/or ideas that are immediately useful in the classroom.
+
+All workshops will take place the Saturday and Sunday before the Technical Symposium starts as a part of "Workshop Weekend."  Like the Symposium itself, workshops will take place in Zoom meeting rooms through Pathable and will appear on the Pathable schedule of registrants.  
+
+Each workshop will be three hours long.  A workshop fee is required and can be paid when you register for the Technical Symposium or can be added afterward if you choose to modify your registration.  _Symposium registration is required to attend any SIGCSE TS 2021 workshop._
 
 __Workshop Registration Rates:__<br>
 Early: {{site.data.registration.dates.early}} - {{site.data.registration.workshoprates.early}}<br>
 Regular: {{site.data.registration.dates.regular}} - {{site.data.registration.workshoprates.regular}}<br>
 On-site: {{site.data.registration.dates.day-of}} - {{site.data.registration.workshoprates.day-of}}<br>
 <a href="{{ site.url }}/{{ site.baseurl }}/schedule/workshops">List of Available Workshops</a><br>
+
+#### Affiliated Events
+
+Affiliated Events are an excellent venue for SIGCSE TS sub-communities or groups to arrange a time to gather and present or discuss topics of interest. This year's slate of affiliated events highlight existing and emerging subfields, engage groups of diversity, and bring together communities of practice.
+
+Affiliated events will take place in Pathable as the virtual platform. _Symposium registration is required to attend any SIGCSE TS 2021 affilated event._ See each individual affiliated event for information on registering. Some events require prior application or submission. For any questions related to affiliated events, please contact the organizers directly.
+
+<a href="{{ site.url }}/{{ site.baseurl }}/schedule/affiliatedevents">List of Affiliated Events</a>
+
+#### Special Events
+
+Special events are sessions that take place outside the regular SIGCSE TS program and have been invited by the Symposium Chairs and/or the SIGCSE Board. These special events provide another way to engage with others at the Technical Symposium. _Symposium registration is required to attend any SIGCSE TS 2021 special event._ See each individual affiliated event for information on registering. For any questions related to affiliated events, please contact the organizers directly.
+
+<a href="{{ site.url }}/{{ site.baseurl }}/schedule/specialevents">List of Special Events</a>
 
 ### Cancellation Policy
 
