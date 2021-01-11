@@ -114,10 +114,18 @@ Please note that this award is separate from the [ACM Student Research Competiti
 
 ### Important Dates
 
-* TBD
+* __January 29 2021 AOE__ - Submit PDF of your poster through the submission form emailed to corresponding authors 
+* __February 12 2021 AOE__ - (OPTIONAL) Submit 1-2min teaser video through the submission form emailed to corresponding authors 
 
 ### How will I be presenting my work? (Posters)
 
-Authors should prepare a poster as usual, a PDF of which will be submitted as part of the presentation and will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
+Authors should prepare a poster as usual, a PDF of which is required to be submitted by January 29th and will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable. Prepare the Poster keeping in mind the following:
+* Use landscape orientation using a 16:9 widescreen aspect ratio, you can achieve this by setting the size of the poster to be 64" wide by 36" high.
+* Use resolution of 2560 by 1440 so that the text and images are readable and not blurry when zoomed in.
+* Test different zoom levels of your PDF to ensure content is accessible
+
+Poster authors have the **option to submit a prerecorded "teaser" presentation 1-2 minutes long** which provides attendees a brief audio/video explanation of the work to be presented in the poster and to be discussed during its live presentation. Authors are encouraged to use this opportunity to concisely highlight their work, seeking to peak the interest of registrants to attend the live poster presentation; authors should focus the video presentation on the work/research presented in the poster.
+
+Attendees will have the opportunity to access all available content on Pathable during the weeks leading up to the Technical Symposium and will have access for a year following the end of the Symposium.  
 
 Posters Track chairs will be in touch with presenters soon with more information about presenting.
