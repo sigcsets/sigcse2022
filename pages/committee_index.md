@@ -51,9 +51,9 @@ table.multibody tbody:hover, tbody:hover th[rowspan], tbody:hover td[rowspan], t
       </th></tr>
       {% for member in team[1].members %}
         <tr>
-          <td>{{member.name}}</td>
+          <td style="vertical-align:center">{{member.name}}</td>
           {% if member.inst %}
-            <td>{{member.inst}}</td>
+            <td style="vertical-align:center">{{member.inst}}</td>
           {% else %}
             <td>&nbsp;</td>
           {% endif %}
@@ -82,4 +82,3 @@ table.multibody tbody:hover, tbody:hover th[rowspan], tbody:hover td[rowspan], t
   </table>
 {% endif %}
 {% endfor %}
-
