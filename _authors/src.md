@@ -57,20 +57,10 @@ A travel grant covering expenses for travel to the SIGCSE Technical Symposium, i
 
 Judges will include professional computer scientists attending the conference activities. Students’ research will be evaluated on the quality and significance of the work, and the quality and clarity of both an oral and visual presentation.
 
-At the SIGCSE Technical Symposium, the first round of the competition evaluates the research during a poster presentation. Those students who are selected by the judges to advance to the second round will continue in the competition by giving a formal, short, conference presentation of their research (10 minute presentation with 5 minutes for Q&A). The top three winners in the undergraduate and graduate categories as determined by the judges’ evaluation of the conference presentations will receive the prizes of $500, $300, and $200, respectively. 
+At the SIGCSE Technical Symposium, the first round of the competition evaluates the research during a poster presentation. Those students who are selected by the judges to advance to the second round will continue in the competition by giving a formal, short, conference presentation of their research (10 minute presentation). The top three winners in the undergraduate and graduate categories as determined by the judges’ evaluation of the conference presentations will receive the prizes of $500, $300, and $200, respectively. 
 
 Additional competition details, including information about past winners, can be found on the [ACM Student Research Competition website](https://src.acm.org/).
 
-<!--  TODO: more information once more is known about how the conference will be done???
-
-### Round 1: Poster Presentation
-
-Your poster will be displayed for a 4-hour time period Thursday afternoon. You will be expected to “present” your poster at that time and be available during judging. The space available for your poster will be 4 feet high by 8 feet wide, possibly with a small shelf below. Power sources are not available.
-
-### Round 2: Presentation
-
-Students selected to participate in the Round 2 portion of the ACM SRC will have 15 minutes to present their work during one of the Friday afternoon sessions. Additional details about expectations will be provided prior to the conference.
--->
 
 ## After the Conference
 
@@ -84,8 +74,26 @@ The first-place winners from each category (graduate and undergraduate) will adv
 
 ### Important Dates
 
-* TBD
+* __January 29 2021 AOE__ - Submit PDF of your poster through the submission form emailed to corresponding authors 
+* __February 12 2021 AOE__ - (OPTIONAL) Submit 1-2min teaser video through the submission form emailed to corresponding authors 
 
 ### How will I be presenting my work? (Student Research Competition)
 
-SRC Track chairs will be in touch with presenters soon regarding information about presenting.
+Authors should prepare a poster as usual, a PDF of which is required to be submitted by January 29th and will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable. Prepare the Poster keeping in mind the following:
+* Use landscape orientation using a 16:9 widescreen aspect ratio, you can achieve this by setting the size of the poster to be 64" wide by 36" high.
+* Use resolution of 2560 by 1440 so that the text and images are readable and not blurry when zoomed in.
+* Test different zoom levels of your PDF to ensure content is accessible
+
+Poster authors have the **option to submit a prerecorded "teaser" presentation 1-2 minutes long** which provides attendees a brief audio/video explanation of the work to be presented in the poster and to be discussed during its live presentation. Authors are encouraged to use this opportunity to concisely highlight their work, seeking to pique the interest of registrants to attend the live poster presentation; authors should focus the video presentation on the work/research presented in the poster.
+
+Attendees will have the opportunity to access all available content on Pathable during the weeks leading up to the Technical Symposium and will have access for a year following the end of the Symposium.  
+
+### Round 1: Poster Presentation
+
+Your poster will be scheduled for presentation on Tuesday March 16 from 4 to 6:45pm ET. You will be expected to “present” your poster at that time and be available during judging. 
+
+### Round 2: Presentation
+
+Students selected to participate in the Round 2 portion of the ACM SRC will have 10 minutes to present their work on Friday March 19 from 4 to 6:45pm ET.
+
+Additional details about expectations will be provided prior to the conference. 
