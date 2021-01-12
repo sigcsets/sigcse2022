@@ -108,5 +108,47 @@ format: frontpage
     </div><!-- /.row -->
 {% endunless %}
 
+<div class="row"><!-- start supporters -->
+    {% for category in site.data.supporters %}
+      <div class="row">
+          <h2 class="text-center" style="border-bottom: 1px solid #ccc;">{{category[0]}} Supporters</h2>
+      </div>
+      {% assign mod = 0 %}
+      {% assign modulus = 3 %}
+      {% capture span %}{{ 12 | divided_by: modulus }}{% endcapture %}
+      {% capture subone %}{{modulus | minus: 1}}{% endcapture %}
+      <!-- SPAN: {{span}} SUBONE: {{subone}} -->
 
+      {% for supporter in category[1]  %}
+        {% capture mod %}{{ forloop.index0 | mod: modulus }}{% endcapture %}
+        {% if mod == '0' or forloop.first %}
+          <div class="row">
+        {% endif %}
 
+        <!-- SPONSOR: {{mod}} -->
+        <div class="medium-{{span}} columns" >
+      	  <div class="thumbnail text-center" style="border: 0px; padding-top: 40px;">
+            <div class="text-center" style="margin-top: -25px; color: black; font-size: large; font-weight: bold;">{{supporter.name}}</div>
+            <a href="{{supporter.link}}">
+      		    <img alt="{{supporter.name}}"
+                   src="images/supporter_logos/frontpage/{{supporter.image}}"
+                   />
+            </a>
+      	  </div>
+        </div>
+
+        {% if mod == subone or forloop.last %}
+        </div><!-- end row -->
+        {% endif %}
+
+      {% endfor %}
+    {% endfor %}
+  </div><!-- end supporters -->
+
+  <div class="row t60 b60">
+    <div class="small-12 text-center columns">
+        <a href="http://sigcse.org" target="_blank"><img alt="SIGCSE"
+            src="images/SIGCSE-logo-300.png"
+            /></a>
+    </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
