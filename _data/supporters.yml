@@ -1,0 +1,25 @@
+Platinum:
+   - name: "Google, Inc."
+     image: google-200.png
+     link: "https://edu.google.com/code-with-google/"
+   - name: "Microsoft"
+     image: microsoft-200.png
+     link: "https://www.microsoft.com/en-us/"
+    
+Gold:
+   - name: "Codio"
+     image: codio-200.png
+     link: "https://codio.com/"
+
+Silver:
+  - name: AWS Educate
+    link: "https://aws.amazon.com/education/awseducate/"
+    image: awseducate-200.png
+  - name: Zybooks
+    image: zybooks-200.png
+    link: "https://www.zybooks.com/why-zybooks/"
+    
+Bronze:
+  - name: AnitaB.org
+    image: anitaborg-200.png
+    link: "https://anitab.org/"
