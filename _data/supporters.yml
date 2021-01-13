@@ -1,15 +1,18 @@
 Platinum:
-   - name: "Google, Inc."
-     image: google-200.png
-     link: "https://edu.google.com/code-with-google/"
-   - name: "Microsoft"
-     image: microsoft-200.png
-     link: "https://www.microsoft.com/en-us/"
-    
+  - name: "GitHub Education"
+    image: github-200.png
+    link: "https://education.github.com/"
+  - name: "Google, Inc."
+    image: google-200.png
+    link: "https://edu.google.com/code-with-google/"
+  - name: "Microsoft"
+    image: microsoft-200.png
+    link: "https://www.microsoft.com/en-us/"
+
 Gold:
-   - name: "Codio"
-     image: codio-200.png
-     link: "https://codio.com/"
+  - name: "Codio"
+    image: codio-200.png
+    link: "https://codio.com/"
 
 Silver:
   - name: AWS Educate
