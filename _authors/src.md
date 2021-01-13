@@ -74,12 +74,12 @@ The first-place winners from each category (graduate and undergraduate) will adv
 
 ### Important Dates
 
-* __January 29 2021 AOE__ - Submit PDF of your poster through the submission form emailed to corresponding authors 
-* __February 12 2021 AOE__ - (OPTIONAL) Submit 1-2min teaser video through the submission form emailed to corresponding authors 
+* __January 29 2021 AOE__ - (OPTIONAL) Submit 1-2min teaser video through the submission form emailed to corresponding authors 
+* __February 12 2021 AOE__ - Submit PDF of your poster through the submission form emailed to corresponding authors 
 
 ### How will I be presenting my work? (Student Research Competition)
 
-Authors should prepare a poster as usual, a PDF of which is required to be submitted by January 29th and will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable. Prepare the Poster keeping in mind the following:
+Authors should prepare a poster as usual, a PDF of which is required to be submitted by February 12th and will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable. Prepare the Poster keeping in mind the following:
 * Use landscape orientation using a 16:9 widescreen aspect ratio, you can achieve this by setting the size of the poster to be 64" wide by 36" high.
 * Use resolution of 2560 by 1440 so that the text and images are readable and not blurry when zoomed in.
 * Test different zoom levels of your PDF to ensure content is accessible
