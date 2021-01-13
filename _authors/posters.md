@@ -114,8 +114,8 @@ Please note that this award is separate from the [ACM Student Research Competiti
 
 ### Important Dates
 
-* __January 29 2021 AOE__ - Submit PDF of your poster through the submission form emailed to corresponding authors 
-* __February 12 2021 AOE__ - (OPTIONAL) Submit 1-2min teaser video through the submission form emailed to corresponding authors 
+* __February 12 2021 AOE__ - Submit PDF of your poster through the submission form emailed to corresponding authors 
+* __January 29 2021 AOE__ - (OPTIONAL) Submit 1-2min teaser video through the submission form emailed to corresponding authors 
 
 ### How will I be presenting my work? (Posters)
 
