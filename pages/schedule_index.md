@@ -417,7 +417,8 @@ Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliate
       </div>
       <div class="event">
         <div class="event-desc">
-          Block 3B: SIGCSE Lifetime Achievement Award Keynote
+          Block 3B: SIGCSE Award for Outstanding
+Contributions to Computer Science Education Keynote
         </div>
         <div class="event-time">
           8:00pm-9:45pm
