@@ -27,17 +27,13 @@ format: frontpage
 	{% if page.aside %}
 		{% include _frontpage-aside-widget.html %}
 	{% endif %}
-</div><!-- /.row -->
+</div>
 
 {% comment %}
 *
 * Finally, if there is content, spit it out.
 *
 {% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
 
 
 {% comment %}
