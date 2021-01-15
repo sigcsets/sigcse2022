@@ -10,7 +10,7 @@ sidebar: attendees
 
 ## Registering for SIGCSE TS 2021
 
-Registration for the 2021 SIGCSE Technical Symposium will open in early January 2021 through Cvent.
+<a class="button large radius {{ site.data.registration.registration_button.style }}" href="{{ url }}{{ site.data.registration.registration_button.url }}"{% if site.data.registration.registration_button.url contains 'http' %} target="_blank" {% endif %}>{{ site.data.registration.registration_button.text }}</a>
 
 <style>
 table tbody tr.odd, table tbody tr.alt, table tbody tr:nth-of-type(odd) {

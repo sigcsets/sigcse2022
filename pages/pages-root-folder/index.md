@@ -34,9 +34,10 @@ widget2:
 # To change colors see sass/_01_settings_colors.scss
 #
 # callforaction:
-#   url: https://easychair.org/conferences/?conf=sigcse-ts2021
-#   text: Login to EasyChair ›
+#   url: https://cvent.me/lVegdP
+#   text: Register for SIGCSE TS 2021
 #   style: alert
+
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
