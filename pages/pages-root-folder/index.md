@@ -19,10 +19,10 @@ widget1:
 #   text: 'See the Call for Papers for more information on submitting to SIGCSE TS 2021!'
 #   image: ribbons-widget.png
 widget2:
-  title: "Registration Rates Available!"
+  title: "Registration Is Now Open!"
   url: '/attendees'
   image: ribbons-widget.png
-  text: 'Registration rates for the Technical Symposium are now available!  Registration will open in early January 2021.'
+  text: "Registration for the 2021 Technical Symposium is now open!  See 'For Attendees' for information and rates!"
 #
 # Use the call for action to show a button on the frontpage
 #
