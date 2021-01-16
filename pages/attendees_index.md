@@ -86,16 +86,19 @@ Special events are sessions that take place outside the regular SIGCSE TS progra
 If your institution requires an address for reimbursement or approval purposes, you can use:
 
 _Host:_ Association for Computing Machinery (ACM) / Special Interest Group on Computer Science Education (SIGCSE)    
-_Address:_ 1601 Broadway, 10th Floor    
-New York, NY 10019-7434
+_Address:_ 1601 Broadway, 10th Floor, New York, NY 10019-7434
 
 _NOTE:_ This address cannot be used to send physical payments for registering for the Techncial Symposium.  For questions about how to register, please email [registration@sigcse2021.org](mailto:registration@sigcse2021.org).
+
+As the Technical Symposium is being hosted in the United States (even if it is virtual), we have no VAT number that we can provide.
+
+We also cannot provide VISA letters at this time.
 
 ### Questions?
 
 For general questions about registration or help with Cvent, please email [registration@sigcse2021.org](mailto:registration@sigcse2021.org).
 
-For help with special circumstances, such as proof of participation, please email [support@sigcse2021.org](mailto:support@sigcse2021.org)
+For help with special circumstances, such as proof of participation, please email [support@sigcse2021.org](mailto:support@sigcse2021.org).
 
 Authors or presenters with questions regarding their participation in the Technical Symposium should email [program@sigcse2021.org](mailto:program@sigcse2021.org) or [symposium@sigcse2021.org](mailto:symposium@sigcse2021.org) as appropriate.
 
