@@ -81,6 +81,24 @@ Special events are sessions that take place outside the regular SIGCSE TS progra
 
 <a href="{{ site.url }}/{{ site.baseurl }}/schedule/specialevents">List of Special Events</a>
 
+### Host Information
+
+If your institution requires an address for reimbursement or approval purposes, you can use:
+
+_Host:_ Association for Computing Machinery (ACM) / Special Interest Group on Computer Science Education (SIGCSE)    
+_Address:_ 1601 Broadway, 10th Floor    
+New York, NY 10019-7434
+
+_NOTE:_ This address cannot be used to send physical payments for registering for the Techncial Symposium.  For questions about how to register, please email [registration@sigcse2021.org](mailto:registration@sigcse2021.org).
+
+### Questions?
+
+For general questions about registration or help with Cvent, please email [registration@sigcse2021.org](mailto:registration@sigcse2021.org).
+
+For help with special circumstances, such as proof of participation, please email [support@sigcse2021.org](mailto:support@sigcse2021.org)
+
+Authors or presenters with questions regarding their participation in the Technical Symposium should email [program@sigcse2021.org](mailto:program@sigcse2021.org) or [symposium@sigcse2021.org](mailto:symposium@sigcse2021.org) as appropriate.
+
 ### Cancellation Policy
 
 <p><strong>Cancellation requests must be made by March 1, 2021 at 11:59 PM Eastern Time.</strong> A processing fee of US$100 will be assessed for full rate registrations. A processing fee of US$25 will be assessed for reduced rate registrations. Regrettably, cancellations received after that date cannot be honored. The conference committee recognizes that sometimes last-minute cancellations can't be avoided<!-- For 2021, include only as HTML comment: due to weather, travel disruptions, and/or health issues -->. However, the conference incurs expenses for which it is liable based on registration counts. Registrants <!-- For 2021, include only as HTML comment: are strongly advised to purchase travel insurance to cover their non-refundable expenses. Also, registrants -->who find themselves unable to attend should be aware that registrations are transferable, but in general the conference committee cannot assist in finding an appropriate recipient.</p>
