@@ -236,6 +236,16 @@ Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliate
         </div>
       </a>
       </div>
+      <div class="event">
+      <a href="{{ site.url }}//schedule/specialevents/#roundtable">
+        <div class="event-desc">
+          Department Chairs' Roundtable
+        </div>
+        <div class="event-time">
+          1:00pm-4:00pm
+        </div>
+      </a>
+      </div>
     </td>
     <td class="day">
       <div class="date">13</div>
@@ -253,6 +263,16 @@ Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliate
       <a href="{{ site.url }}/schedule/workshops/#block-2">
         <div class="event-desc">
           Workshop Block 2
+        </div>
+        <div class="event-time">
+          1:00pm-4:00pm
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}//schedule/specialevents/#roundtable">
+        <div class="event-desc">
+          Department Chairs' Roundtable
         </div>
         <div class="event-time">
           1:00pm-4:00pm
