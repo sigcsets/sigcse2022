@@ -2,6 +2,10 @@
 
 A link to the submission form will be sent to the corresponding authors identified in EasyChair.  If you did not receive the email by January 8th or if you have any questions, please email [videosubmission@sigcse2021.org](mailto:videosubmission@sigcse2021.org).
 
+### What rights do I keep to my video?
+
+We are not asking for any rights release on your videos.  They remain your work to do with as you please.  We only ask, as a courtesy, that you do not post them publicly until one week after the end of the Technical Symposium (March 27, 2021).   
+
 ### Why do you need the presentation so soon (January 22)?
 
 Our goal is to make the prerecorded content of the Technical Symposium available a few weeks before the Symposium starts so that attendees can view materials when convenient to them and so they can better build their schedule for the week of the Symposium.  In order to meet that goal, we need to preprocess all the videos as soon as possible to ensure they are ready for the Symposium for reasons including, but not limited to:
