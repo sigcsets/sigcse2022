@@ -43,12 +43,20 @@ for line in content:
             f.write('  session_type: "Paper Session"\n')
         elif entry[1].startswith('pss') or entry[1].startswith('nifty'):
             f.write('  session_type: "Panel / Special Session"\n')
-        elif entry[1].startswith('d'):
+        elif entry[2].startswith('Demo'):
             f.write('  session_type: "Demonstration"\n')
+        elif entry[2].startswith('ACM S'):
+            f.write('  session_type: "ACM SRC"\n')
         elif entry[6].startswith('Special Ev'):
             f.write('  session_type: "Special Event"\n')
         elif entry[6].startswith('Key'):
             f.write('  session_type: "Keynote"\n')
+        elif entry[6].startswith('Poster'):
+            f.write('  session_type: "Poster"\n')
+        elif entry[6].startswith('Lightning'):
+            f.write('  session_type: "Lightning Talk"\n')
+        elif entry[1].startswith('bof'):
+            f.write('  session_type: "Birds of a Feather"\n')
     else:
         if first_submission:
             first_submission = False

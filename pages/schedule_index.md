@@ -143,7 +143,7 @@ a {
 Last update: January 4, 2020    
 All times Eastern Time Zone (North America) _(Note that Daylight Saving Time in the US begins at 2:00 AM on March 14)_     
 Click on the events in the calendar below to see more information about each session    
-Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliated Events]({{ site.url }}/schedule/affiliatedevents) | [Special Events]({{ site.url }}/schedule/specialevents) 
+Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Posters]({{ site.url }}/schedule/posters) | [Demos]({{ site.url }}/schedule/demos) | [BoFs]({{ site.url }}/schedule/bofs) | [ACM SRC]({{ site.url }}/schedule/src) | [Workshops]({{ site.url }}/schedule/workshops) | [Affiliated Events]({{ site.url }}/schedule/affiliatedevents) | [Special Events]({{ site.url }}/schedule/specialevents) 
 
 <table id="calendar">
   <caption>March 2021</caption>
@@ -402,12 +402,14 @@ Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliate
     <td class="day">
       <div class="date">17</div>
             <div class="event">
+        <a href="{{ site.url }}/schedule/program/#Wednesday-1">
         <div class="event-desc">
-          Block 3A: Technical Sessions
+          Technical Sessions (Wed-1:00)
         </div>
         <div class="event-time">
           1:00pm-2:45pm
         </div>
+        </a>
       </div>
       <div class="event">
         <div class="event-desc">
@@ -426,24 +428,28 @@ Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliate
         </div>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/program/#Wednesday-8">
         <div class="event-desc">
-          Block 3B: SIGCSE Award for Outstanding
+          SIGCSE Award for Outstanding
 Contributions to Computer Science Education Keynote
         </div>
         <div class="event-time">
           8:00pm-9:45pm
         </div>
+        </a>
       </div>
     </td>
     <td class="day">
       <div class="date">18</div>
             <div class="event">
+            <a href="{{ site.url }}/schedule/program/#Thursday-1">
         <div class="event-desc">
-          Block 4A: Technical Sessions
+          Technical Sessions (Thu-1:00)
         </div>
         <div class="event-time">
           1:00pm-2:45pm
         </div>
+        </a>
       </div>
       <div class="event">
         <div class="event-desc">
@@ -462,23 +468,27 @@ Contributions to Computer Science Education Keynote
         </div>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/program/#Thursday-8">
         <div class="event-desc">
-          Block 4B: Technical Sessions
+          Technical Sessions (Thu-8:00)
         </div>
         <div class="event-time">
           8:00pm-9:45pm
         </div>
+        </a>
       </div>
     </td>
     <td class="day">
       <div class="date">19</div>
             <div class="event">
+            <a href="{{ site.url }}/schedule/program/#Friday-1">
         <div class="event-desc">
-          Block 5A: Technical Sessions
+          Technical Sessions (Fri-1:00)
         </div>
         <div class="event-time">
           1:00pm-2:45pm
         </div>
+        </a>
       </div>
       <div class="event">
         <div class="event-desc">
@@ -497,23 +507,27 @@ Contributions to Computer Science Education Keynote
         </div>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/program/#Friday-8">
         <div class="event-desc">
-          Block 5B: Technical Sessions
+          Technical Sessions (Fri-8:00)
         </div>
         <div class="event-time">
           8:00pm-9:45pm
         </div>
+        </a>
       </div>
     </td>
     <td class="day">
       <div class="date">20</div>
             <div class="event">
+            <a href="{{ site.url }}/schedule/program/#Saturday-1">
         <div class="event-desc">
-          Block 6A: Closing Keynote
+          Closing Keynote
         </div>
         <div class="event-time">
           1:00pm-2:00pm
         </div>
+        </a>
       </div>
       <div class="event">
         <div class="event-desc">
@@ -532,12 +546,14 @@ Contributions to Computer Science Education Keynote
         </div>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/program/#Saturday-8">
         <div class="event-desc">
           Nifty Block and SIGCSE TS Celebration!
         </div>
         <div class="event-time">
           8:00pm-9:45pm
         </div>
+        </a>
       </div>
     </td>
   </tr>
