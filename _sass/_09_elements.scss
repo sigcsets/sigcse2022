@@ -88,7 +88,7 @@
     border-color: scale-color($grey-2, $lightness: -14%);
     color: $grey-12;
   }
-  .alert-box.keynote { @include alert-style(#f2cd5d); }
+  .alert-box.keynote { @include alert-style(#dea54b); }
   .alert-box.panel { @include alert-style(#3a1772); }
   .alert-box.specialevent { @include alert-style(#dea54b); }
 
