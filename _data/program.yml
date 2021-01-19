@@ -554,6 +554,7 @@
   day: "Wednesday, March 17"
   start_time: "08:00 PM (ET)"
   end_time: "09:45 PM (ET)"
+  session_type: "Keynote"
   submissions:
     - id: "kn002"
       title: "Automated Feedback, the Next Generation: Designing Learning Experiences"
@@ -591,7 +592,7 @@
       title: "Regulation of Learning Interventions in Programming Education: A Systematic Literature Review and Guideline Proposition"
       authors: "Leonardo Silva (University of Coimbra); António Mendes (University of Coimbra); Anabela Gomes (Coimbra Polytechnic - ISEC); Gabriel Macedo (Universidad Alberto Hurtado)"
     - id: "cer131"
-      title: "Computer Science Student Selection â€” A Scoping Review and a National Entrance Examination Reform"
+      title: "Computer Science Student Selection - A Scoping Review and a National Entrance Examination Reform"
       authors: "Outi T. Virkki (Haaga-Helia University of Applied Sciences)"
     - id: "cer205"
       title: "Reduced Learning Time with Maintained Learning Outcomes"

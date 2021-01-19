@@ -304,20 +304,24 @@ Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliate
       </a>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/program/#Monday-1">
         <div class="event-desc">
-          Block 1A: Opening Keynote
+          Opening Keynote
         </div>
         <div class="event-time">
           1:00pm-2:00pm
         </div>
+      </a>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/program/#Monday-2">
         <div class="event-desc">
           First Timer's Session and Keynote
         </div>
         <div class="event-time">
           2:00pm-3:00pm
         </div>
+      </a>
       </div>
       <div class="event">
         <div class="event-desc">
@@ -336,12 +340,14 @@ Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliate
         </div>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/program/#Monday-8">
         <div class="event-desc">
-          Block 1B: Technical Sessions
+          Technical Sessions (Mon-8:00)
         </div>
         <div class="event-time">
           8:00pm-9:45pm
         </div>
+      </a>
       </div>
     </td>
     <td class="day">

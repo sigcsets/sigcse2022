@@ -5,8 +5,20 @@ title: SIGCSE TS 2021 Program Schedule
 sidebar: schedule_program
 ---
 
+{% assign current_day = "TODAY" %}
+{% assign current_block = "BLOCK1" %}
+
 {% for session in site.data.program %}
   {% if session.session_type == "Paper Session" or session.session_type == "Keynote" or session.session_type == "Panel / Special Session" %}
+  {% if session.day != current_day %}
+    {% assign current_day = session.day %}
+    {% assign day_split = current_day | split: ", " %}
+  {% endif %}
+  {% if session.start_time != current_block %}
+    {% assign current_block = session.start_time %}
+    {% assign day_split = current_day | split: ", " %}
+<h2 id="{{ day_split[0] }}-{{current_block | slice: 1}}">{{current_day}} - {{ current_block }}</h2>
+    {% endif %}
 <div class="card">
   <div class="container">
     <h3 id="{{session.session_id | downcase}}">{{ session.session_title }}</h3>
