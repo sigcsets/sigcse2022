@@ -45,10 +45,10 @@ rates:
       early: $125
       regular: $175
       day-of: $225
-    "Student":
-      early: $75
-      regular: $75
-      day-of: $75
+    "Student w/ Joining SIGCSE":
+      early: $62
+      regular: $62
+      day-of: $62
     "Retirees":
       early: $100
       regular: $150
