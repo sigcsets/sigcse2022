@@ -1,5 +1,5 @@
 1	ts2020redux	SIGCSE TS 2020 Redux		3-14-2021 16:30	3-14-2021 19:30	Special	Webinar				
-2	opening-ceremony	SIGCSE TS 2021 Opening Ceremony		3-14-2021 20:00	3-14-2021 22:00	Special Event	Webinar				
+2	opening-ceremony	SIGCSE TS 2021 Opening Ceremony		3-14-2021 20:00	3-14-2021 22:00	Special	Webinar				
 3	opening-keynote	Opening Keynote		3-15-2021 13:00	3-15-2021 14:00	Keynote	Webinar				
 4	kn001	Expanding Opportunities through Research for Societal Impacts	opening-keynote	3-15-2021 13:00	3-15-2021 14:00	Keynote	Webinar	kn001	Expanding Opportunities through Research for Societal Impacts	Juan E. Gilbert (University of Florida)	juan@ufl.edu
 5	first-timers-session	First Timer's Session and Keynote		3-15-2021 14:00	3-15-2021 15:00	Keynote	Webinar				

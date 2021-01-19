@@ -33,7 +33,7 @@ sidebar: schedule_program
     {% endif %}
     {% for submission in session.submissions %}
         <strong>{{submission.title}}</strong><br>
-        <em>{{submission.authors}}</em><br><br>
+        {{submission.authors}}<br><br>
     {% endfor %}
   </div>
 </div> 

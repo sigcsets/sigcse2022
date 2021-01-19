@@ -8,6 +8,7 @@
   day: "Sunday, March 14"
   start_time: "08:00 PM (ET)"
   end_time: "10:00 PM (ET)"
+  session_type: "Special Event"
 - session_id: "opening-keynote"
   session_title: "Opening Keynote"
   day: "Monday, March 15"
