@@ -363,12 +363,14 @@ Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliate
       </a>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/program/#Tuesday-1">
         <div class="event-desc">
-          Block 2A: Technical Sessions
+          Technical Sessions (Tue-1:00)
         </div>
         <div class="event-time">
           1:00pm-2:45pm
         </div>
+      </a>
       </div>
       <div class="event">
         <div class="event-desc">
@@ -387,12 +389,14 @@ Quick Links: [Workshop Schedule]({{ site.url }}/schedule/workshops) | [Affiliate
         </div>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/program/#Tuesday-8">
         <div class="event-desc">
-          Block 2B: Technical Sessions
+          Technical Sessions (Tue-8:00)
         </div>
         <div class="event-time">
           8:00pm-9:45pm
         </div>
+      </a>
       </div>
     </td>
     <td class="day">
