@@ -9,7 +9,7 @@ sidebar: schedule_program
 {% assign current_block = "BLOCK1" %}
 
 {% for session in site.data.program %}
-  {% if session.session_type == "Paper Session" or session.session_type == "Keynote" or session.session_type == "Panel / Special Session" %}
+  {% if session.session_type == "Paper Session" or session.session_type == "Keynote" or session.session_type == "Panel / Special Session" or session.session_type == "Special Event"%}
   {% if session.day != current_day %}
     {% assign current_day = session.day %}
     {% assign day_split = current_day | split: ", " %}
@@ -17,17 +17,19 @@ sidebar: schedule_program
   {% if session.start_time != current_block %}
     {% assign current_block = session.start_time %}
     {% assign day_split = current_day | split: ", " %}
-<h2 id="{{ day_split[0] }}-{{current_block | slice: 1}}">{{current_day}} - {{ current_block }}</h2>
+<div class="block_header" id="{{ day_split[0] }}-{{current_block | slice: 1}}">{{current_day}} - {{ current_block }}</div>
     {% endif %}
 <div class="card">
   <div class="container">
     <h3 id="{{session.session_id | downcase}}">{{ session.session_title }}</h3>
     {% if session.session_type == "Paper Session" %}
-    <span class="alert-box">{{session.day}} at {{session.start_time}}</span>
+    <span class="alert-box papersession">{{session.day}} at {{session.start_time}}</span>
     {% elsif session.session_type == "Keynote" %}
     <span class="alert-box keynote">{{session.day}} at {{session.start_time}}</span>
     {% elsif session.session_type == "Panel / Special Session" %}
     <span class="alert-box panel">{{session.day}} at {{session.start_time}}</span>
+    {% elsif session.session_type == "Special Event" %}
+    <span class="alert-box specialevent">{{session.day}} at {{session.start_time}}</span>
     {% endif %}
     {% for submission in session.submissions %}
         <strong>{{submission.title}}</strong><br>

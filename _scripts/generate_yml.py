@@ -41,7 +41,7 @@ for line in content:
             f.write('  session_type: "Keynote"\n')
         elif entry[1].startswith('paper'):
             f.write('  session_type: "Paper Session"\n')
-        elif entry[1].startswith('pss'):
+        elif entry[1].startswith('pss') or entry[1].startswith('nifty'):
             f.write('  session_type: "Panel / Special Session"\n')
         elif entry[1].startswith('d'):
             f.write('  session_type: "Demonstration"\n')

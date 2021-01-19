@@ -88,9 +88,10 @@
     border-color: scale-color($grey-2, $lightness: -14%);
     color: $grey-12;
   }
-  .alert-box.keynote { @include alert-style(#dea54b); }
+  .alert-box.keynote { @include alert-style(#dea54b); color: black;}
   .alert-box.panel { @include alert-style(#3a1772); }
-  .alert-box.specialevent { @include alert-style(#dea54b); }
+  .alert-box.specialevent { @include alert-style(#000985); }
+  .alert-box.papersession { @include alert-style(#275F62); }
 
 /* Button
 ------------------------------------------------------------------- */
