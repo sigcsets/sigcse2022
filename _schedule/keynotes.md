@@ -2,7 +2,7 @@
 layout: page
 order: 1
 title: SIGCSE TS 2021 Keynotes
-sidebar: schedule_keynotes
+sidebar: schedule_program
 ---
 
 <button onclick="topFunction()" id="toTopButton" title="Go to top">Back to Top</button> 
@@ -10,6 +10,7 @@ sidebar: schedule_keynotes
 The 52nd ACM Technical Symposium on Computer Science Education is honored to have an amazing group of keynote speakers this year!
 
 {% for keynote in site.data.keynotes.keynotes %}
+<div id="{{ keynote.id }}"></div>
 <div class="card">
 <div class="row t30">
 <div class="large-6 columns" style="text-align: center"> <!-- Start first column -->
