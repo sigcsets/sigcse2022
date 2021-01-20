@@ -5,6 +5,8 @@ title: SIGCSE TS 2021 Program Schedule
 sidebar: schedule_program
 ---
 
+<button onclick="topFunction()" id="toTopButton" title="Go to top">Back to Top</button> 
+
 {% assign current_day = "TODAY" %}
 {% assign current_block = "BLOCK1" %}
 

@@ -316,7 +316,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Posters]({{ 
       <div class="event">
       <a href="{{ site.url }}/schedule/program/#Monday-2">
         <div class="event-desc">
-          First Timer's Session and Keynote
+          First Timer's Session and SIGCSE Lifetime Service Award Keynote
         </div>
         <div class="event-time">
           2:00pm-3:00pm

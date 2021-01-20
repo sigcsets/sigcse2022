@@ -70,7 +70,7 @@ sitemap:
   color: white;
   margin-top: 15px;
   margin-bottom: 15px;
-  font-size: $font-size-h2;
+  font-size: $font-size-h3;
   font-family: $header-font-family;
 }
 
@@ -98,4 +98,24 @@ sitemap:
 .label small {
   text-transform: capitalize;
   color: #676767;
+}
+
+#toTopButton {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  left: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #4a9bb4; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#toTopButton:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
 }
