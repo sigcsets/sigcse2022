@@ -140,7 +140,7 @@ a {
 	}
 }
 </style>
-Last update: January 4, 2020    
+Last update: January 20, 2020    
 All times Eastern Time Zone (North America) _(Note that Daylight Saving Time in the US begins at 2:00 AM on March 14)_     
 Click on the events in the calendar below to see more information about each session    
 Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Posters]({{ site.url }}/schedule/posters) | [Demos]({{ site.url }}/schedule/demos) | [BoFs]({{ site.url }}/schedule/bofs) | [ACM SRC]({{ site.url }}/schedule/src) | [Workshops]({{ site.url }}/schedule/workshops) | [Affiliated Events]({{ site.url }}/schedule/affiliatedevents) | [Special Events]({{ site.url }}/schedule/specialevents) 
