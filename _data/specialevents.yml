@@ -15,3 +15,11 @@ specialevents:
     contact: hadas@cs.hmc.edu
     description: "The Chairs Roundtable will feature a diverse group of experienced Department Chairs to lead a series of discussions on topics and challenges associated with being a chair. The workshop will address three major themes: Administration, visioning, and maintaining the well-being of the chair and their faculty. The session will comprise a combination of short talks by experienced chairs, small group discussions, and further discussion by the entire group. The intended audience is new Department Chairs in Computer Science Departments or related departments."
     register: Limited to department chairs in Computer Science (or related) departments.  US$25 registration fee must be paid after selecting this event during SIGCSE TS 2021 registration through Cvent.  This event can be added on later by editing your registration through Cvent.
+  - title: "Surprise Special Event!"
+    event: redux
+    day: Sunday, March 14
+    time: 4:30 PM-7:30 PM (ET) 
+    organizers: Yet to be revealed!
+    contact: symposium@sigcse2021.org
+    description: "We have a big surprise that we will be announcing soon!"
+    register: This event will appear as an open and free event in Pathable.  SIGCSE TS 2021 registration required, but no seperate registration required.

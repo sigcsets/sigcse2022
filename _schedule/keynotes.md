@@ -21,7 +21,7 @@ The 52nd ACM Technical Symposium on Computer Science Education is honored to hav
 </div>
 </div> <!-- End Row -->
 <div class="container">
-<span class="alert-box keynote">{{ keynote.session }} - {{ keynote.day}} at {{ keynote.time }}</span>
+<span class="alert-box keynote">{{ keynote.session }} - {{ keynote.day}} / {{ keynote.time }}</span>
 <h2 id="{{id}}">{{ keynote.title }}</h2>
 <p>{{ keynote.description }}</p>
 </div>

@@ -9,6 +9,10 @@
   start_time: "08:00 PM (ET)"
   end_time: "10:00 PM (ET)"
   session_type: "Special Event"
+  submissions:
+    - id: "opening1"
+      title: "SIGCSE TS 2021 Opening Ceremony"
+      authors: "Mark Sherriff (University of Virginia); Laurence D. Merkle (Air Force Institute of Technology); Pamela Cutter (Kalamazoo College); Alvaro Monge (California State University Long Beach); Judithe Sheard (Monash University)"
 - session_id: "opening-keynote"
   session_title: "Opening Keynote"
   day: "Monday, March 15"
@@ -1148,6 +1152,7 @@
   submissions:
     - id: "closing01"
       title: "SIGCSE TS 2021 Closing Celebration"
+      authors: "Mark Sherriff (University of Virginia); Laurence D. Merkle (Air Force Institute of Technology); Pamela Cutter (Kalamazoo College); Alvaro Monge (California State University Long Beach); Judithe Sheard (Monash University)"
 - session_id: "poster-session-Mo"
   session_title: "Poster Session 1"
   day: "Monday, March 15"

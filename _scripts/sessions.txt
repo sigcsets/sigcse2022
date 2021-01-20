@@ -1,5 +1,6 @@
 1	ts2020redux	SIGCSE TS 2020 Redux		3-14-2021 16:30	3-14-2021 19:30	Special	Webinar				
 2	opening-ceremony	SIGCSE TS 2021 Opening Ceremony		3-14-2021 20:00	3-14-2021 22:00	Special Event	Webinar				
+2.5	opening1	SIGCSE TS 2021 Opening Ceremony	opening-ceremony	3-14-2021 20:00	3-14-2021 22:00	Special Event	Webinar	opening1	SIGCSE TS 2021 Opening Ceremony	Mark Sherriff (University of Virginia); Laurence D. Merkle (Air Force Institute of Technology); Pamela Cutter (Kalamazoo College); Alvaro Monge (California State University Long Beach); Judithe Sheard (Monash University)	laxer@rose-hulman.edu
 3	opening-keynote	Opening Keynote		3-15-2021 13:00	3-15-2021 14:00	Keynote	Webinar				
 4	kn001	Expanding Opportunities through Research for Societal Impacts	opening-keynote	3-15-2021 13:00	3-15-2021 14:00	Keynote	Webinar	kn001	Expanding Opportunities through Research for Societal Impacts	Juan E. Gilbert (University of Florida)	juan@ufl.edu
 5	first-timers-session	First Timer's Session and SIGCSE Lifetime Service Award Keynote		3-15-2021 14:00	3-15-2021 15:00	Keynote	Webinar				
@@ -286,7 +287,7 @@
 272	nifty	Nifty Assignments		3-20-2021 20:00	3-20-2021 21:00	Special Session	Webinar				
 273	nifty01	Nifty Assignments	nifty	3-20-2021 20:00	3-20-2021 21:00	Special Session	Webinar				
 272	closing	SIGCSE TS 2021 Closing Celebration		3-20-2021 21:00	3-20-2021 22:00	Special Event	Webinar				
-273	closing01	SIGCSE TS 2021 Closing Celebration	closing	3-20-2021 21:00	3-20-2021 22:00	Special Event	Webinar			
+273	closing01	SIGCSE TS 2021 Closing Celebration	closing	3-20-2021 21:00	3-20-2021 22:00	Special Event	Webinar	opening1	SIGCSE TS 2021 Opening Ceremony	Mark Sherriff (University of Virginia); Laurence D. Merkle (Air Force Institute of Technology); Pamela Cutter (Kalamazoo College); Alvaro Monge (California State University Long Beach); Judithe Sheard (Monash University)	laxer@rose-hulman.edu
 274	poster-session-Mo	Poster Session 1		3-15-2021 16:15	3-15-2021 18:45	Poster	Meeting				
 275	p0794	The Stack: Unplugged Activities for Teaching Computer Science	poster-session-Mo	3-15-2021 16:15	3-15-2021 18:45	Poster	Meeting	p0794	The Stack: Unplugged Activities for Teaching Computer Science	Valdemar Švábenský (Masaryk University); Martin Ukrop (Masaryk University)	svabensky@ics.muni.cz,mukrop@mail.muni.cz
 276	p0986	Remote Proctoring: Expanding Reliability and Trust	poster-session-Mo	3-15-2021 16:15	3-15-2021 18:45	Poster	Meeting	p0986	Remote Proctoring: Expanding Reliability and Trust	Patriel Stapleton (University of Florida); Jeremiah Blanchard (University of Florida)	pstapleton@ufl.edu,jjb@eng.ufl.edu

@@ -17,7 +17,7 @@ Most affiliated events will take place the week before the Technical Symposium.
 <div class="card">
 <div class="container">
 <h2 id="event-{{affiliatedevent.event | downcase}}">{{ affiliatedevent.title }}</h2>
-<span class="alert-box papersession">{{ affiliatedevent.day }} @ {{ affiliatedevent.time }}</span>
+<span class="alert-box papersession">{{ affiliatedevent.day }} / {{ affiliatedevent.time }}</span>
 {% if affiliatedevent.url %}
 <p><strong>Event website</strong> : <a href="{{affiliatedevent.url}}" target=_new>{{affiliatedevent.url}}</a></p>
 {% endif %}

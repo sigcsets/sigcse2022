@@ -13,7 +13,7 @@ sidebar: schedule_specialevents
 <div class="card">
     <div class="container">
 <h2 id="{{specialevent.event | downcase}}">{{ specialevent.title }}</h2>
-<span class="alert-box info">{{ specialevent.day }} @ {{ specialevent.time }}</span>
+<span class="alert-box info">{{ specialevent.day }} / {{ specialevent.time }}</span>
 {% if specialevent.url %}
 <p><strong>Event website</strong> : <a href="{{specialevent.url}}" target=_new>{{specialevent.url}}</a></p>
 {% endif %}

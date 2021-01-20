@@ -170,7 +170,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Affiliate - Liberal Arts
         </div>
         <div class="event-time">
-          1:00pm-4:30pm
+          1:00 PM-4:30 PM
         </div>
       </a>
       </div>
@@ -183,7 +183,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Affiliate - Liberal Arts
         </div>
         <div class="event-time">
-          1:00pm-4:30pm
+          1:00 PM-4:30 PM
         </div>
       </a>
       </div>
@@ -196,7 +196,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Affiliate - Computing for Social Good
         </div>
         <div class="event-time">
-          1:00pm-5:00pm
+          1:00 PM-5:00 PM
         </div>
       </a>
       </div>
@@ -209,7 +209,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Global Diversity Event
         </div>
         <div class="event-time">
-          8:00am and 8:00pm
+          8:00 AM and 8:00 PM
         </div>
       </a>
       </div>
@@ -219,7 +219,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Affiliate - Welcoming Students w/ Disabilities
         </div>
         <div class="event-time">
-          1:00pm-5:00pm
+          1:00 PM-5:00 PM
         </div>
       </a>
       </div>
@@ -232,7 +232,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Affiliate - Teaching-Track Professional Development
         </div>
         <div class="event-time">
-          1:00pm-5:00pm
+          1:00 PM-5:00 PM
         </div>
       </a>
       </div>
@@ -245,7 +245,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Workshop Block 1
         </div>
         <div class="event-time">
-          9:00am-12:00pm
+          9:00 AM-12:00 PM
         </div>
       </a>
       </div>
@@ -255,7 +255,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Workshop Block 2
         </div>
         <div class="event-time">
-          1:00pm-4:00pm
+          1:00 PM-4:00 PM
         </div>
       </a>
       </div>
@@ -270,25 +270,29 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Workshop Block 3
         </div>
         <div class="event-time">
-          1:00pm-4:00pm
+          1:00 PM-4:00 PM
         </div>
       </a>
       </div>
       <div class="event">
+      <a href="{{ site.url }}//schedule/specialevents/#redux">
         <div class="event-desc">
           Special Event!
         </div>
         <div class="event-time">
-          4:30pm-7:30pm
+          4:30 PM-7:30 PM
         </div>
+      </a>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/program/#Sunday-8">
         <div class="event-desc">
-          SIGCSE TS 2021 Opening Event and Reception
+          SIGCSE TS 2021 Opening Ceremony
         </div>
         <div class="event-time">
-          8:00pm-10:00pm
+          8:00 PM-9:00 PM
         </div>
+      </a>
       </div>
     </td>
     <td class="day">
@@ -299,7 +303,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Affiliate - SPLICE
         </div>
         <div class="event-time">
-          10:00am-12:30pm
+          10:00 AM-12:30 PM
         </div>
       </a>
       </div>
@@ -309,7 +313,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Opening Keynote
         </div>
         <div class="event-time">
-          1:00pm-2:00pm
+          1:00 PM-2:00 PM
         </div>
       </a>
       </div>
@@ -319,7 +323,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           First Timer's Session and SIGCSE Lifetime Service Award Keynote
         </div>
         <div class="event-time">
-          2:00pm-3:00pm
+          2:00 PM-3:00 PM
         </div>
       </a>
       </div>
@@ -328,16 +332,48 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Exhibit Hall and Supporter Sessions
         </div>
         <div class="event-time">
-          3:00pm-8:00pm
+          3:00 PM-8:00 PM
         </div>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/src/">
         <div class="event-desc">
-          Networking Block 1
+          ACM SRC Round 1
         </div>
         <div class="event-time">
-          4:15pm-6:45pm
+          4:00 PM-5:15 PM
         </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/bofs/#Monday-4">
+        <div class="event-desc">
+          Birds of a Feather 1A
+        </div>
+        <div class="event-time">
+          4:00 PM-5:15 PM
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/posters/#Monday-4">
+        <div class="event-desc">
+          Poster Session 1
+        </div>
+        <div class="event-time">
+          4:15 PM-6:45 PM
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/bofs/#Monday-5">
+        <div class="event-desc">
+          Birds of a Feather 1B
+        </div>
+        <div class="event-time">
+          5:60 PM-6:45 PM
+        </div>
+      </a>
       </div>
       <div class="event">
       <a href="{{ site.url }}/schedule/program/#Monday-8">
@@ -345,7 +381,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Technical Sessions (Mon-8:00)
         </div>
         <div class="event-time">
-          8:00pm-9:45pm
+          8:00 PM-9:45 PM
         </div>
       </a>
       </div>
@@ -358,7 +394,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Affiliate - SPLICE
         </div>
         <div class="event-time">
-          10:00am-12:30pm
+          10:00 AM-12:30 PM
         </div>
       </a>
       </div>
@@ -368,7 +404,17 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Technical Sessions (Tue-1:00)
         </div>
         <div class="event-time">
-          1:00pm-2:45pm
+          1:00 PM-2:45 PM
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/demos/#Tuesday-1">
+        <div class="event-desc">
+          Demonstrations: Tuesday
+        </div>
+        <div class="event-time">
+          1:00 PM-2:45 PM
         </div>
       </a>
       </div>
@@ -377,16 +423,38 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Exhibit Hall and Supporter Sessions
         </div>
         <div class="event-time">
-          3:00pm-8:00pm
+          3:00 PM-8:00 PM
         </div>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/bofs/#Tuesday-4">
         <div class="event-desc">
-          Networking Block 2
+          Birds of a Feather 2A
         </div>
         <div class="event-time">
-          4:15pm-6:45pm
+          4:00 PM-5:15 PM
         </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/posters/#Tuesday-4">
+        <div class="event-desc">
+          Poster Session 2
+        </div>
+        <div class="event-time">
+          4:15 PM-6:45 PM
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/bofs/#Tuesday-5">
+        <div class="event-desc">
+          Birds of a Feather 2B
+        </div>
+        <div class="event-time">
+          5:60 PM-6:45 PM
+        </div>
+      </a>
       </div>
       <div class="event">
       <a href="{{ site.url }}/schedule/program/#Tuesday-8">
@@ -394,7 +462,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Technical Sessions (Tue-8:00)
         </div>
         <div class="event-time">
-          8:00pm-9:45pm
+          8:00 PM-9:45 PM
         </div>
       </a>
       </div>
@@ -407,25 +475,57 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Technical Sessions (Wed-1:00)
         </div>
         <div class="event-time">
-          1:00pm-2:45pm
+          1:00 PM-2:45 PM
         </div>
         </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/demos/#Wednesday-1">
+        <div class="event-desc">
+          Demonstrations: Wednesday
+        </div>
+        <div class="event-time">
+          1:00 PM-2:45 PM
+        </div>
+      </a>
       </div>
       <div class="event">
         <div class="event-desc">
           Exhibit Hall and Supporter Sessions
         </div>
         <div class="event-time">
-          3:00pm-8:00pm
+          3:00 PM-8:00 PM
         </div>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/bofs/#Wednesday-4">
         <div class="event-desc">
-          Networking Block 3
+          Birds of a Feather 3A
         </div>
         <div class="event-time">
-          4:15pm-6:45pm
+          4:00 PM-5:15 PM
         </div>
+      </a>
+      </div>
+      <div class="event">
+        <a href="{{ site.url }}/schedule/posters/#Wednesday-4">
+        <div class="event-desc">
+          Poster Session 3
+        </div>
+        <div class="event-time">
+          4:15 PM-6:45 PM
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/bofs/#Wednesday-5">
+        <div class="event-desc">
+          Birds of a Feather 3B
+        </div>
+        <div class="event-time">
+          5:60 PM-6:45 PM
+        </div>
+      </a>
       </div>
       <div class="event">
       <a href="{{ site.url }}/schedule/keynotes/#edwards">
@@ -434,7 +534,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
 Contributions to Computer Science Education Keynote
         </div>
         <div class="event-time">
-          8:00pm-9:45pm
+          8:00 PM-9:45 PM
         </div>
         </a>
       </div>
@@ -447,25 +547,37 @@ Contributions to Computer Science Education Keynote
           Technical Sessions (Thu-1:00)
         </div>
         <div class="event-time">
-          1:00pm-2:45pm
+          1:00 PM-2:45 PM
         </div>
         </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/demos/#Thursday-1">
+        <div class="event-desc">
+          Demonstrations: Thursday
+        </div>
+        <div class="event-time">
+          1:00 PM-2:45 PM
+        </div>
+      </a>
       </div>
       <div class="event">
         <div class="event-desc">
           Exhibit Hall and Supporter Sessions
         </div>
         <div class="event-time">
-          3:00pm-8:00pm
+          3:00 PM-8:00 PM
         </div>
       </div>
       <div class="event">
+        <a href="{{ site.url }}/schedule/posters/#Thursday-4">
         <div class="event-desc">
-          Networking Block 4
+          Poster Session 4
         </div>
         <div class="event-time">
-          4:15pm-6:45pm
+          4:15 PM-6:45 PM
         </div>
+      </a>
       </div>
       <div class="event">
       <a href="{{ site.url }}/schedule/program/#Thursday-8">
@@ -473,7 +585,7 @@ Contributions to Computer Science Education Keynote
           Technical Sessions (Thu-8:00)
         </div>
         <div class="event-time">
-          8:00pm-9:45pm
+          8:00 PM-9:45 PM
         </div>
         </a>
       </div>
@@ -486,7 +598,7 @@ Contributions to Computer Science Education Keynote
           Technical Sessions (Fri-1:00)
         </div>
         <div class="event-time">
-          1:00pm-2:45pm
+          1:00 PM-2:45 PM
         </div>
         </a>
       </div>
@@ -495,16 +607,18 @@ Contributions to Computer Science Education Keynote
           Exhibit Hall and Supporter Sessions
         </div>
         <div class="event-time">
-          3:00pm-8:00pm
+          3:00 PM-8:00 PM
         </div>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/posters/#Friday-4">
         <div class="event-desc">
-          Networking Block 5
+          Poster Session 5
         </div>
         <div class="event-time">
-          4:15pm-6:45pm
+          4:15 PM-6:45 PM
         </div>
+      </a>
       </div>
       <div class="event">
       <a href="{{ site.url }}/schedule/program/#Friday-8">
@@ -512,7 +626,7 @@ Contributions to Computer Science Education Keynote
           Technical Sessions (Fri-8:00)
         </div>
         <div class="event-time">
-          8:00pm-9:45pm
+          8:00 PM-9:45 PM
         </div>
         </a>
       </div>
@@ -525,7 +639,7 @@ Contributions to Computer Science Education Keynote
           Closing Keynote
         </div>
         <div class="event-time">
-          1:00pm-2:00pm
+          1:00 PM-2:00 PM
         </div>
         </a>
       </div>
@@ -534,24 +648,36 @@ Contributions to Computer Science Education Keynote
           Exhibit Hall and Supporter Sessions
         </div>
         <div class="event-time">
-          3:00pm-8:00pm
+          3:00 PM-8:00 PM
         </div>
       </div>
       <div class="event">
+        <a href="{{ site.url }}/schedule/posters/#Saturday-4">
         <div class="event-desc">
-          Networking Block 6
+          Poster Session 6
         </div>
         <div class="event-time">
-          4:15pm-6:45pm
+          4:15 PM-6:45 PM
         </div>
+      </a>
       </div>
       <div class="event">
       <a href="{{ site.url }}/schedule/program/#Saturday-8">
         <div class="event-desc">
-          Nifty Block and SIGCSE TS Celebration!
+          Nifty Assignments
         </div>
         <div class="event-time">
-          8:00pm-9:45pm
+          8:00 PM-9:00 PM
+        </div>
+        </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/program/#Saturday-8">
+        <div class="event-desc">
+          SIGCSE TS 2021 Closing Celebration!
+        </div>
+        <div class="event-time">
+          9:00 PM-10:00 PM
         </div>
         </a>
       </div>
@@ -562,7 +688,7 @@ Contributions to Computer Science Education Keynote
 
 ## Virtual Platform
 
-We are excited to announce that Pathable has been selected as the virtual platform for the 2021 Technical Symposium!  More information on how to use Pathable for attendees, presenters, and session chairs will be made available in the coming weeks.  We will also be offering free training sessions for presenters and session chairs to help you feel more comfortable before the Technical Symposium starts.
+<img src="{{site.url}}/images/pathable-logo-widget.png" alt="Pathable Logo" style="float: left; padding: 10px" /> We are excited to announce that Pathable has been selected as the virtual platform for the 2021 Technical Symposium!  More information on how to use Pathable for attendees, presenters, and session chairs will be made available in the coming weeks.  We will also be offering free training sessions for presenters and session chairs to help you feel more comfortable before the Technical Symposium starts.
 
 Worried that you won't be able to see all the content you want during the week of the Technical Symposium?  To help folks get the most out of the content both before and after the Symposium, we plan to open Pathable to registered attendees in early March so that you can watch prerecorded sessions, set up meetings, and start to catch up with friends before the event even begins!  Also, all recorded content (both prerecorded and recorded live during the Symposium) will be available to all registered attendees for a year after the Symposium ends!
 
@@ -633,7 +759,7 @@ In between Block A and Block B's technical content, the virtual Exhibit Hall wil
 
 The Symposium and Program Chairs spent a great deal of time over the past few months attending other virtual conferences, talking with our planning company, and getting input from various parts of our community regarding possible formats and schedules for the Technical Symposium.  There were many aspects of other virtual conferences that we felt could work well for the Technical Symposium.  For example, ASEE's (American Society for Engineering Education) 2020 Virtual Conference was the first conference that the chairs attended this summer that had authors upload prerecorded videos and then use the presentation time primarily for Q&A.  We felt that this model would provide our community with more of what we wanted - interaction with other attendees.  We plan to make the prerecorded presentations available before the conference, at the same time that the papers become available in the ACM Digital Library so that attendees can watch the content when it is convenient for them and then come with questions to the paper sessions.
 
-We also were keenly aware that most (if not all) of our colleagues would likely still be teaching during the Symposium.  Some schools are still deciding if Spring Break will even happen.  Also, with anticipated lower registration fees and no travel costs, we hope that more of our K-12 and community college colleagues will be able to join us.  Therefore, we decided that a "normal" Symposium schedule (e.g. 10:00am-4:00pm) probably would not be best for us.
+We also were keenly aware that most (if not all) of our colleagues would likely still be teaching during the Symposium.  Some schools are still deciding if Spring Break will even happen.  Also, with anticipated lower registration fees and no travel costs, we hope that more of our K-12 and community college colleagues will be able to join us.  Therefore, we decided that a "normal" Symposium schedule (e.g. 10:00 AM-4:00 PM) probably would not be best for us.
 
 The "split band" block schedule was inspired by ICSE 2020 (International Conference on Software Engineering).  However, while ICSE utilized three bands (Atlantic, Pacific, and Indian), we felt a two-band schedule would work better for us, due to the amount of content we would have and the geographic breakdown of most attendees.  We placed Block B later in the evening Eastern Time so that K-12 colleagues from all North American time zones could theoretically attend that block, along with making things a bit nicer for our Australasian colleagues.
 
