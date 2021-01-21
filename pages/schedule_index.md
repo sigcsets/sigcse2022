@@ -340,7 +340,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
       <div class="event">
       <a href="{{ site.url }}/schedule/keynotes/#laxer">
         <div class="event-desc">
-          First Timer's Session and SIGCSE Lifetime Service Award Keynote
+          First Timer's Session and SIGCSE Award for Lifetime Service to the Computer Science Education Community Keynote
         </div>
         <div class="event-time">
           2:00 PM-3:00 PM
