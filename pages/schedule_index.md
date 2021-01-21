@@ -572,16 +572,6 @@ Contributions to Computer Science Education Keynote
         </a>
       </div>
       <div class="event">
-      <a href="{{ site.url }}/schedule/demos/#Thursday-1">
-        <div class="event-desc">
-          Demonstrations: Thursday
-        </div>
-        <div class="event-time">
-          1:00 PM-2:45 PM
-        </div>
-      </a>
-      </div>
-      <div class="event">
         <div class="event-desc">
           Exhibit Hall and Supporter Sessions
         </div>
@@ -608,6 +598,16 @@ Contributions to Computer Science Education Keynote
           8:00 PM-9:45 PM
         </div>
         </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/demos/#Thursday-1">
+        <div class="event-desc">
+          Demonstrations: Thursday
+        </div>
+        <div class="event-time">
+          8:00 PM-9:45 PM
+        </div>
+      </a>
       </div>
     </td>
     <td class="day">
