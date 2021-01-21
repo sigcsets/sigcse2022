@@ -47,3 +47,75 @@ sitemap:
 {% endif %}
 
 @import "11_syntax-highlighting.scss";
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+/* .card:hover {*/
+  /*box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); */
+/* }*/
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+
+.block_header {
+  padding: 15px;
+  background-color: #4a9bb4; 
+  color: white;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: $font-size-h3;
+  font-family: $header-font-family;
+}
+
+.label {
+  font-size: 0.875rem;
+  color: #4d4d4d;
+  cursor: pointer;
+  display: block;
+  font-weight: normal;
+  line-height: 1.5;
+  margin-bottom: 0;
+  /* Styles for required inputs */
+}
+
+.label.right {
+  float: none !important;
+  text-align: right;
+}
+
+.label.inline {
+  margin: 0 0 1rem 0;
+  padding: 0.5625rem 0;
+}
+
+.label small {
+  text-transform: capitalize;
+  color: #676767;
+}
+
+#toTopButton {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  left: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #4a9bb4; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#toTopButton:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}

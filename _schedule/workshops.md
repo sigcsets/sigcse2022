@@ -5,6 +5,8 @@ title: Workshop Schedule
 sidebar: schedule_workshops
 ---
 
+<button onclick="topFunction()" id="toTopButton" title="Go to top">Back to Top</button> 
+
 Workshops will take place duing these time blocks:
 <ul>
 {% for block in site.data.workshops.blocks %}
@@ -17,16 +19,21 @@ Workshops will take place duing these time blocks:
 {% assign block = "X" %}
 {% assign position = -1 %}
 {% for workshop in site.data.workshops.workshops %}
-   {% if block != workshop.block %}
-   {% assign block = workshop.block %}
-   {% assign position = position | plus: 1 %}
-   <h2 id="block-{{block | downcase}}">Block {{block}} Workshops</h2>
-   {% endif %}
-   <h3 id="workshop-{{workshop.number}}">Workshop {{workshop.number}} : {{workshop.title}}</h3>
-   {% if workshop.url %}
-   <p><strong>Workshop website</strong> : <a href="{{workshop.url}}" target=_new>{{workshop.url}}</a></p>
-   {% endif %} 
-   <p><strong>Workshop organizers</strong> : {{workshop.presenters}}</p>
-   <p><strong>Block {{workshop.block}}</strong> - {{ site.data.workshops.blocks[position].day }} @ {{ site.data.workshops.blocks[position].time }}</p>
-   {{workshop.ad}}
+{% if block != workshop.block %}
+{% assign block = workshop.block %}
+{% assign position = position | plus: 1 %}
+<h2 class = "block_header" id="block-{{block | downcase}}">Block {{block}} Workshops</h2>
+{% endif %}
+<div class="card">
+<div class="container">
+<h3 id="workshop-{{workshop.number}}">Workshop {{workshop.number}} : {{workshop.title}}</h3>
+<span class="alert-box papersession"><strong>Block {{workshop.block}}</strong> - {{ site.data.workshops.blocks[position].day }} / {{ site.data.workshops.blocks[position].time }}</span>
+{% if workshop.url %}
+<p><strong>Workshop website</strong> : <a href="{{workshop.url}}" target=_new>{{workshop.url}}</a></p>
+{% endif %} 
+<p><strong>Workshop organizers</strong> : {{workshop.presenters}}</p>
+<p><strong>Block {{workshop.block}}</strong> - {{ site.data.workshops.blocks[position].day }} @ {{ site.data.workshops.blocks[position].time }}</p>
+<p>{{workshop.ad}}</p>
+</div>
+</div>
 {% endfor %}
