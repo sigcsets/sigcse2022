@@ -1814,8 +1814,8 @@
 - session_id: "Ses Order 86"
   session_title: "Demonstrations: Thursday"
   day: "Thursday, March 18"
-  start_time: "01:00 PM (ET)"
-  end_time: "02:45 PM (ET)"
+  start_time: "08:00 PM (ET)"
+  end_time: "09:45 PM (ET)"
   session_type: "Demonstration"
   submissions:
     - id: "d821"
