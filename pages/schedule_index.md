@@ -356,7 +356,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
         </div>
       </div>
       <div class="event">
-      <a href="{{ site.url }}/schedule/src/">
+      <a href="{{ site.url }}/schedule/src/#Monday-4">
         <div class="event-desc">
           ACM SRC Round 1
         </div>
@@ -381,7 +381,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Poster Session 1
         </div>
         <div class="event-time">
-          4:15 PM-6:45 PM
+          4:00 PM-6:45 PM
         </div>
       </a>
       </div>
@@ -462,7 +462,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Poster Session 2
         </div>
         <div class="event-time">
-          4:15 PM-6:45 PM
+          4:00 PM-6:45 PM
         </div>
       </a>
       </div>
@@ -533,7 +533,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Poster Session 3
         </div>
         <div class="event-time">
-          4:15 PM-6:45 PM
+          4:00 PM-6:45 PM
         </div>
       </a>
       </div>
@@ -585,7 +585,17 @@ Contributions to Computer Science Education Keynote
           Poster Session 4
         </div>
         <div class="event-time">
-          4:15 PM-6:45 PM
+          4:00 PM-6:45 PM
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/src/#Thursday-4">
+        <div class="event-desc">
+          ACM SRC Round 2
+        </div>
+        <div class="event-time">
+          4:00 PM-5:15 PM
         </div>
       </a>
       </div>
@@ -636,7 +646,7 @@ Contributions to Computer Science Education Keynote
           Poster Session 5
         </div>
         <div class="event-time">
-          4:15 PM-6:45 PM
+          4:00 PM-6:45 PM
         </div>
       </a>
       </div>
@@ -677,7 +687,7 @@ Contributions to Computer Science Education Keynote
           Poster Session 6
         </div>
         <div class="event-time">
-          4:15 PM-6:45 PM
+          4:00 PM-6:45 PM
         </div>
       </a>
       </div>
