@@ -391,7 +391,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Birds of a Feather 1B
         </div>
         <div class="event-time">
-          5:60 PM-6:45 PM
+          5:30 PM-6:45 PM
         </div>
       </a>
       </div>
@@ -472,7 +472,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Birds of a Feather 2B
         </div>
         <div class="event-time">
-          5:60 PM-6:45 PM
+          5:30 PM-6:45 PM
         </div>
       </a>
       </div>
@@ -543,7 +543,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           Birds of a Feather 3B
         </div>
         <div class="event-time">
-          5:60 PM-6:45 PM
+          5:30 PM-6:45 PM
         </div>
       </a>
       </div>
