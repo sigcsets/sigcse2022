@@ -191,13 +191,13 @@ details:
   #Round 1
   Papers:
     limits: "6 pages + 1 page for references"
-    length: "25 minutes"
+    length: "20-minute video + 20-minute live time slot"
   Panels:
     limits: "2 pages"
-    length: "75 minutes"
+    length: "<s>75</s> now up to 105 minutes"
   Special Sessions:
     limits: "2 pages"
-    length: "75 minutes"
+    length: "<s>75</s> now up to 105 minutes"
   Workshops:
     limits: "3 pages"
     connector: "including"
@@ -208,18 +208,18 @@ details:
     limits: "2 pages"
     connector: "including"
     abstract: "250 words"
-    length: "3.25 hours (first round: poster session) and 1.25 hours (second round: presentation)"
+    length: "<s>3.25</s> 2.75 hours (first round: poster session) and <s>1.25</s> 2.75 hours (second round: presentation)"
     specialsubmission: true
   Birds of a Feather:
     limits: "2 pages"
     abstract: "250 words"
     connector: "including"
-    length: "45 minutes"
+    length: "<s>45</s> now up to 75 minutes"
   Demos:
     limits: "2 pages"
     connector: "including"
     abstract: "250 words"
-    length: "20 minutes" # for 2021, prior (on the ground): "45 minutes (during breaks)"
+    length: "<s>20</s> now 17 minutes" # for 2021, prior (on the ground): "45 minutes (during breaks)"
   Lightning Talks:
     limits: "1 page, 500 words max."
     connector: "including"
@@ -227,11 +227,11 @@ details:
     length: "5 minutes"
   Nifty Assignments:
     limits: "Relevant materials in a zip"
-    length: "5-10 minutes in the Nifty Assignments session"
+    length: "<s>5-10</s> now up to 15 minutes in the Nifty Assignments session"
   Posters:
     limits: "2 pages"
     abstract: "1 page"
     connector: "including extended"
-    length: "2 hours (poster session), <em>tentative</em>"  # tentative for 2021
+    length: "<s>2</s> 2.75 hours (poster session)"  # tentative for 2021
 
 lastupdate: "July 1, 2020"
