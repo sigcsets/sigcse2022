@@ -1173,7 +1173,7 @@
       title: "Nifty Assignment: Covid Simulation"
       authors: "Steven Bitner (The University of West Florida)"
     - id: "nifty04"
-      title: "Nifty Assignment: Sankey Diagram"
+      title: "Nifty Assignment: Rocket Landing Simulator (with Genetic Algorithm Tuning)"
       authors: "Adrian de Freitas (United States Air Force Academy); Troy Weingart (United States Air Force Academy); David Caswell (United States Air Force Academy); Barry Fagin (United States Air Force Academy); David Merritt (United States Air Force Academy); Paul Wilkinson (United States Air Force Academy); Steven Fulton (United States Air Force Academy); Kelly Hughes (United States Air Force Academy)"
 - session_id: "closing"
   session_title: "SIGCSE TS 2021 Closing Celebration"
