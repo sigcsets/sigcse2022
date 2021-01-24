@@ -361,17 +361,7 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
           ACM SRC Round 1
         </div>
         <div class="event-time">
-          4:00 PM-5:15 PM
-        </div>
-      </a>
-      </div>
-      <div class="event">
-      <a href="{{ site.url }}/schedule/bofs/#Monday-4">
-        <div class="event-desc">
-          Birds of a Feather 1A
-        </div>
-        <div class="event-time">
-          4:00 PM-5:15 PM
+          4:00 PM-6:45 PM
         </div>
       </a>
       </div>
@@ -382,6 +372,16 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
         </div>
         <div class="event-time">
           4:00 PM-6:45 PM
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/bofs/#Monday-4">
+        <div class="event-desc">
+          Birds of a Feather 1A
+        </div>
+        <div class="event-time">
+          4:00 PM-5:15 PM
         </div>
       </a>
       </div>
@@ -447,22 +447,22 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
         </div>
       </div>
       <div class="event">
-      <a href="{{ site.url }}/schedule/bofs/#Tuesday-4">
-        <div class="event-desc">
-          Birds of a Feather 2A
-        </div>
-        <div class="event-time">
-          4:00 PM-5:15 PM
-        </div>
-      </a>
-      </div>
-      <div class="event">
       <a href="{{ site.url }}/schedule/posters/#Tuesday-4">
         <div class="event-desc">
           Poster Session 2
         </div>
         <div class="event-time">
           4:00 PM-6:45 PM
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/bofs/#Tuesday-4">
+        <div class="event-desc">
+          Birds of a Feather 2A
+        </div>
+        <div class="event-time">
+          4:00 PM-5:15 PM
         </div>
       </a>
       </div>
@@ -518,16 +518,6 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
         </div>
       </div>
       <div class="event">
-      <a href="{{ site.url }}/schedule/bofs/#Wednesday-4">
-        <div class="event-desc">
-          Birds of a Feather 3A
-        </div>
-        <div class="event-time">
-          4:00 PM-5:15 PM
-        </div>
-      </a>
-      </div>
-      <div class="event">
         <a href="{{ site.url }}/schedule/posters/#Wednesday-4">
         <div class="event-desc">
           Poster Session 3
@@ -538,6 +528,16 @@ Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Spea
       </a>
       </div>
       <div class="event">
+      <a href="{{ site.url }}/schedule/bofs/#Wednesday-4">
+        <div class="event-desc">
+          Birds of a Feather 3A
+        </div>
+        <div class="event-time">
+          4:00 PM-5:15 PM
+        </div>
+      </a>
+      </div>
+     <div class="event">
       <a href="{{ site.url }}/schedule/bofs/#Wednesday-5">
         <div class="event-desc">
           Birds of a Feather 3B
@@ -580,9 +580,9 @@ Contributions to Computer Science Education Keynote
         </div>
       </div>
       <div class="event">
-        <a href="{{ site.url }}/schedule/posters/#Thursday-4">
+      <a href="{{ site.url }}/schedule/src/#Thursday-4">
         <div class="event-desc">
-          Poster Session 4
+          ACM SRC Round 2
         </div>
         <div class="event-time">
           4:00 PM-6:45 PM
@@ -590,12 +590,12 @@ Contributions to Computer Science Education Keynote
       </a>
       </div>
       <div class="event">
-      <a href="{{ site.url }}/schedule/src/#Thursday-4">
+        <a href="{{ site.url }}/schedule/posters/#Thursday-4">
         <div class="event-desc">
-          ACM SRC Round 2
+          Poster Session 4
         </div>
         <div class="event-time">
-          4:00 PM-5:15 PM
+          4:00 PM-6:45 PM
         </div>
       </a>
       </div>
