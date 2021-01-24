@@ -553,7 +553,7 @@
   submissions:
     - id: "pnl720"
       title: "Integrating Computing and Computational Thinking into K-12 STEM Learning"
-      authors: "Shuchi Grover (STanford University);  Kathi Fisler (Brown University);  Irene Lee (MIT STEP Lab);  Aman Yadav (Michigan State University)"
+      authors: "Shuchi Grover (Stanford University);  Kathi Fisler (Brown University);  Irene Lee (MIT STEP Lab);  Aman Yadav (Michigan State University)"
 - session_id: "contributions-keynote"
   session_title: "Keynote: SIGCSE Award for Outstanding Contributions to Computer Science Education"
   day: "Wednesday, March 17"
