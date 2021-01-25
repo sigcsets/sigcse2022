@@ -13,8 +13,11 @@ except Exception as e:
     print('File could not be opened.', e)
     sys.exit(3)
 
-f = open("_data/pathable_authors.csv", "w", encoding='utf8')
+f = open("_scripts/pathable_authors.csv", "w", encoding='utf8')
 
 for line in content:
     entry = line.strip().split("\t")
-    print(entry)
+    names = entry[0].split(";")
+    emails = entry[1]
+
+    print(names)
