@@ -143,7 +143,7 @@ a {
 Last update: January 20, 2020    
 All times Eastern Time Zone (North America) _(Note that Daylight Saving Time in the US begins at 2:00 AM on March 14)_     
 Click on the events in the calendar below to see more information about each session    
-Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Speakers]({{ site.url }}/schedule/keynotes) | [Posters]({{ site.url }}/schedule/posters) | [Demos]({{ site.url }}/schedule/demos) | [BoFs]({{ site.url }}/schedule/bofs) | [ACM SRC]({{ site.url }}/schedule/src) | [Workshops]({{ site.url }}/schedule/workshops) | [Affiliated Events]({{ site.url }}/schedule/affiliatedevents) | [Special Events]({{ site.url }}/schedule/specialevents) 
+Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Speakers]({{ site.url }}/schedule/keynotes) | [Posters]({{ site.url }}/schedule/posters) | [Demos]({{ site.url }}/schedule/demos) | [BoFs]({{ site.url }}/schedule/bofs) | [ACM SRC]({{ site.url }}/schedule/src) | [Workshops]({{ site.url }}/schedule/workshops) | [Affiliated Events]({{ site.url }}/schedule/affiliatedevents) | [Special Events]({{ site.url }}/schedule/specialevents) | [Supporter Sessions]({{ site.url }}/schedule/supportersessions) 
 
 <table id="calendar">
   <caption>March 2021</caption>

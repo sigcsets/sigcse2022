@@ -65,6 +65,12 @@
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 
+	{% if page.sidebar == "schedule_supportersessions" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_schedule_supportersessions.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
     {% if page.collection == "authors" %}
 	<div class="medium-4 columns">
 		{% include _sidebar_authors.html %}
