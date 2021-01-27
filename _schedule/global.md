@@ -6,7 +6,7 @@ sidebar: schedule_program
 ---
 
 <button onclick="topFunction()" id="toTopButton" title="Go to top">Back to Top</button> 
-The following sessions and events my be of interest to non-US attendees or anyone interested in Geographic Diversity. Sessions and events below are: specifically about geographical diversity (marked *), set in global contexts, and/or are authored by global authors, organized by global organizers, etc. These are listed below in the following order:
+The following sessions and events may be of interest to non-US attendees or anyone interested in Geographic Diversity. Sessions and events below are: specifically about geographical diversity (marked *), set in global contexts, and/or are authored by global authors, organized by global organizers, etc. These are listed below in the following order:
 
 - Pre-Symposium Events
 - Papers
