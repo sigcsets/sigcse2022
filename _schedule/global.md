@@ -18,11 +18,11 @@ The following sessions and events may be of interest to non-US attendees or anyo
 
 There are many other aspects of diversity that are not included here but may be of interest - again, all of these we feel may be particularly interesting for attendees coming from outside the United States. If you notice something missing or have questions, feel free to contact Brett Becker, the SIGCSE Technical Symposium Global Liaison [global@sigcse2021.org](global@sigcse2021.org).
 
-All Symposium First-timers are encouraged to attend the **First Timer's Session and SIGCSE Award for Lifetime Service to the Computer Science Education Community Keynote** "A Lifetime of Learning, A Lifetime of Educating", Cary Laxer (Rose-Hulman Institute of Technology) on Monday, March 15 / 02:00 PM (ET) - 03:00 PM (ET). Registration (during Symposium registration) required.  
+All Symposium First-timers are encouraged to attend the **First Timer's Session and SIGCSE Award for Lifetime Service to the Computer Science Education Community Keynote** "A Lifetime of Learning, A Lifetime of Educating," Cary Laxer (Rose-Hulman Institute of Technology) on Monday, March 15 / 02:00 PM (ET) - 03:00 PM (ET). 
 ## *Pre-Symposium Special Event [Improving Geographic Diversity at the SIGCSE Technical Symposium](http://sigcse2021.sigcse.org/schedule/specialevents/#global)
 - Event organizers : Brett Becker (University College Dublin), Amber Settle (DePaul University), Rodrigo Duran (Federal Institute of Mato Grosso do Sul)
 - Thursday, March 11 / 8:00 AM-12:00 PM (ET) and 8:00 PM-12:00 AM (ET)
-- Registration free with Symposium registration. If you didn't register during registration you can modify your registration using the link in your registration comfirmation email. 
+- Registration free with Symposium registration. If you didn't register during registration you can modify your registration using the link in your registration confirmation email. 
 
 ## [Papers](http://sigcse2021.sigcse.org/schedule/program/), Monday March 15
 
