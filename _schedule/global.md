@@ -16,7 +16,7 @@ The following sessions and events may be of interest to non-US attendees or anyo
 - Student Research Competition (SRC)
 - Workshops
 
-There are many other aspects of diversity that are not included here but may be of interest - again, all of these we feel may be particularly interesting for attendees coming from outside the United States. If you notice something missing or have questions, feel free to contact Brett Becker, the SIGCSE Technical Symposium Global Liaison (global@sigcse2021.org).
+There are many other aspects of diversity that are not included here but may be of interest - again, all of these we feel may be particularly interesting for attendees coming from outside the United States. If you notice something missing or have questions, feel free to contact Brett Becker, the SIGCSE Technical Symposium Global Liaison [global@sigcse2021.org](global@sigcse2021.org).
 
 All Symposium First-timers are encouraged to attend the **First Timer's Session and SIGCSE Award for Lifetime Service to the Computer Science Education Community Keynote** "A Lifetime of Learning, A Lifetime of Educating", Cary Laxer (Rose-Hulman Institute of Technology) on Monday, March 15 / 02:00 PM (ET) - 03:00 PM (ET). Registration (during Symposium registration) required.  
 ## *Pre-Symposium Special Event [Improving Geographic Diversity at the SIGCSE Technical Symposium](http://sigcse2021.sigcse.org/schedule/specialevents/#global)
