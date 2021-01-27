@@ -1,0 +1,43 @@
+supportersessions:
+  - title: "How Google Supports and Uses CS Education Research"
+    supporter: Google
+    day: TBD
+    time: TBD
+    presenters: Chris Stephenson (Google); Stephanie Marken (Gallup); Sloan Davis (Google); Sepi Moghadam (Google); Kyle Jennings (Google)
+    description: "Over the last few years, much work has been done by the CS education community to support and conduct rigorous education research that enables a greater understanding of how CS is best taught and learned. Given that post-secondary CS programs are operating significantly beyond capacity, and that many states are mandating CS for all K–12 students, our relatively small body of rigorous research is impinging on our capacity to best serve an increasing number of students.  This session focuses on how Google is supporting the growth of the CS research community and applying new standards and practices to its own programs. Attendees will learn about several programs that provide funding to encourage and support research and grow the future research pipeline as well as how Google conducts and uses education research to evaluate and improve its programs."
+    image: google-200.png
+  - title: "Faculty Experiences Teaching Cloud Computing"
+    supporter: Google
+    day: TBD
+    time: TBD
+    presenters: Erik Fredericks (Grand Valley State University); Mark Hills (East Carolina University); Mary Beth Moore (Potomac State College); Alex 'Casper' Cline (Ada National College for Digital Skills); Wu-chang Feng (Portland State University); Moderator - Laurie White (Mercer University)
+    description: "Come hear a group of faculty who have been teaching with Google Cloud discuss their successes, challenges, and how they've integrated cloud computing into their existing classes and created new courses with the cloud."
+    image: google-200.png
+  - title: "Help Students Master Git & GitHub in 3 Lessons"
+    supporter: GitHub Education
+    day: TBD
+    time: TBD
+    presenters: Jeff Olson (Director of Curriculum & Instruction, GitHub)
+    description: "Jeff has used Git & GitHub with students in both introductory and advanced high school courses, fine-tuning strategies for introducing Git in low-stakes and non-threatening ways and building to greater comfort & fluency over time. His strategies emphasize Git as a tool for project collaboration and personal organization, allowing Git to be integrated into your own projects & tasks no matter the programming language or IDE. Participants will see a lesson progression for developing understanding with Git & GitHub, including several Unplugged lesson ideas that can be done without computers. He'll also share his own journey through introducing Git to students, including pitfalls and strategies to avoid. Ultimately, even though Git is an industry standard tool for developers, Jeff doesn't think this should be the only reason for students to learn it; his goal is to describe strategies & resources that can motivate all students to see GitHub as a useful tool in their own journey through computer science, even if this doesn't lead directly into a career in software development."
+    image: github-200.png
+  - title: "Using GitHub for multi-college collaborative undergraduate research"
+    supporter: GitHub Education
+    day: TBD
+    time: TBD
+    presenters: Amos Johnson (Morehouse College)
+    description: "Virginia Tech and Morehouse College are currently in the second semester of a Vertically Integrated Project (VIP). This experiential learning effort involves creating a long-term, multi-college, and multidisciplinary undergraduate research project in the technical area of deep learning applied to wireless communications. Due to COVID-19, the project has morphed into a completely online experience, with GitHub as the communications focal point. This change in structure has provided unique challenges in ensuring continued student engagement, collaboration, and research output—along with some unintended benefits. In this presentation, you’ll get an overview of the program, goals and motivations, and current status. In addition, the speakers will provide a unique look at how COVID-19 has led to necessary improvements in collaboration as a beneficial long term side-effect. You’ll come away with best practices for engaging students from diverse colleges, disciplines, and backgrounds effectively while maximizing student engagement and outcomes, especially in pure, or hybrid, online settings."
+    image: github-200.png
+  - title: "Pedagogical Practices in U.S. Colleges and Universities"
+    supporter: Codio
+    day: TBD
+    time: TBD
+    presenters: Elise Deitrick, PhD (VP of Product at Codio )
+    description: ""
+    image: codio-200.png
+  - title: "Autograding with ease, transitioning from manual to automatic grading in programming courses"
+    supporter: CodeGrade
+    day: TBD
+    time: TBD
+    presenters: Youri Voet (CodeGrade)
+    description: "In this session, Youri Voet, CEO and co-founder of CodeGrade, will guide you through converting a fully manually graded programming course step by step to a powerful (semi) automated course.<br><br>First, we will simply start by using some powerful manual feedback tools offered in CodeGrade, such as inline comments and snippets. Then, we will add a rubric to give the students clear objectives and make grading explainable and consistent. Once we have an efficient manual environment set up, we will start adding basic automated tests to provide instant feedback to students and improve quality of code. Once comfortable with this, we will start increasing the complexity of the tests to further automate the grading process. Reducing the time spent marking allows the grader to focus on the important aspects of giving feedback to learners. Lastly, we will show you how to check for code plagiarism and analyze your assignment.<br><br>This session will show you from end to end how you would set up and convert an assignment to a powerful graded CodeGrade assignment."
+    image: codegrade-200.png
