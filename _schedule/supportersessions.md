@@ -18,9 +18,9 @@ sidebar: schedule_supportersessions
 {% endif %}
 <p><strong>Presenters</strong> : {{supportersession.presenters}}</p>
 <p>{{supportersession.description}}</p>
-<img alt="{{supportersession.supporter}}"
+<p><img alt="{{supportersession.supporter}}"
                    src="{{site.url}}/images/supporter_logos/frontpage/{{supportersession.image}}"
-                   />
+                   /></p>
 </div>
 </div>
 {% endfor %}
