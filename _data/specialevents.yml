@@ -15,11 +15,12 @@ specialevents:
     contact: hadas@cs.hmc.edu
     description: "The Chairs Roundtable will feature a diverse group of experienced Department Chairs to lead a series of discussions on topics and challenges associated with being a chair. The workshop will address three major themes: Administration, visioning, and maintaining the well-being of the chair and their faculty. The session will comprise a combination of short talks by experienced chairs, small group discussions, and further discussion by the entire group. The intended audience is new Department Chairs in Computer Science Departments or related departments."
     register: Limited to department chairs in Computer Science (or related) departments.  US$25 registration fee must be paid after selecting this event during SIGCSE TS 2021 registration through Cvent.  This event can be added on later by editing your registration through Cvent.
-  - title: "Surprise Special Event!"
-    event: redux
+  - title: "SIGCSE TS 2020 Rewind"
+    event: 2020rewind
     day: Sunday, March 14
     time: 4:30 PM-7:30 PM (ET) 
-    organizers: Yet to be revealed!
+    url: "{{ site.url }}/schedule/sigcsets2020rewind"
+    organizers: Sarah Heckman (North Carolina State University) and Jian Zhang (Texas Woman's University)
     contact: symposium@sigcse2021.org
-    description: "We have a big surprise that we will be announcing soon!"
+    description: Join us for a special Technical Symposium event where we rewind… to SIGCSE TS 2020 (also known as the conference that wasn’t)!<br><br>The SIGCSE TS 2020 Rewind will feature presentations from some of our best papers, the most downloaded papers (showcasing community interest over the last year), and lightning talks. With the Rewind, we can recognize the work and community effort that went into SIGCSE TS 2020!"
     register: This event will appear as an open and free event in Pathable.  SIGCSE TS 2021 registration required, but no seperate registration required.
