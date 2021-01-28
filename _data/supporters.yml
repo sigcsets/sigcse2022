@@ -12,7 +12,11 @@ Platinum:
 Gold:
   - name: "Codio"
     image: codio-200.png
-    link: "https://codio.com/"
+    link: "https://codio.com/"  
+  - name: "NSF"
+    image: nsf-200.png
+    link: "https://nsf.gov/"
+  
 
 Silver:
   - name: AWS Educate
@@ -33,3 +37,6 @@ Bronze:
   - name: AnitaB.org
     image: anitaborg-200.png
     link: "https://anitab.org/"
+  - name: "Pearson"
+    image: pearson-200.png
+    link: "https://pearson.com/"
