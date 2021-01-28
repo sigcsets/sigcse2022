@@ -19,7 +19,7 @@ specialevents:
     event: 2020rewind
     day: Sunday, March 14
     time: 4:30 PM-7:30 PM (ET) 
-    url: "{{ site.url }}/schedule/sigcsets2020rewind"
+    url: "https://sigcse2021.sigcse.org/schedule/sigcsets2020rewind"
     organizers: Sarah Heckman (North Carolina State University) and Jian Zhang (Texas Woman's University)
     contact: symposium@sigcse2021.org
     description: Join us for a special Technical Symposium event where we rewind… to SIGCSE TS 2020 (also known as the conference that wasn’t)!<br><br>The SIGCSE TS 2020 Rewind will feature presentations from some of our best papers, the most downloaded papers (showcasing community interest over the last year), and lightning talks. With the Rewind, we can recognize the work and community effort that went into SIGCSE TS 2020!"
