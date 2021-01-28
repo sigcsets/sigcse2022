@@ -1,5 +1,12 @@
-# SIGCSE 2021 - Global Attendee Roadmap
-The following sessions and events my be of interest to non-US attendees or anyone interested in Geographic Diversity. Sessions and events below are: specifically about geographical diversity (marked *), set in global contexts, and/or are authored by global authors, organized by global organizers, etc. These are listed below in the following order:
+---
+layout: page
+order: 1
+title: SIGCSE TS 2021 Global Attendee Roadmap
+sidebar: schedule_program
+---
+
+<button onclick="topFunction()" id="toTopButton" title="Go to top">Back to Top</button> 
+The sessions and events shown below may be of interest to non-US attendees or anyone interested in Geographic Diversity. Each falls into one or more of the following categories: specifically about geographic diversity (marked *), set in global contexts, authored by global authors, organized by global organizers, etc. They are organized in the following order:
 
 - Pre-Symposium Events
 - Papers
@@ -9,13 +16,13 @@ The following sessions and events my be of interest to non-US attendees or anyon
 - Student Research Competition (SRC)
 - Workshops
 
-There are many other aspects of diversity that are not included here but may be of interest - again, all of these we feel may be particularly interesting for attendees coming from outside the United States. If you notice something missing or have questions, feel free to contact Brett Becker, the SIGCSE Technical Symposium Global Liaison (global@sigcse2021.org).
+There are many other aspects of diversity that are not included here but may be of interest — again, all of these we feel may be particularly interesting for attendees coming from outside the United States. If you notice something missing or have questions, feel free to contact Brett Becker, the SIGCSE Technical Symposium Global Liaison [global@sigcse2021.org](global@sigcse2021.org).
 
-All Symposium First-timers are encouraged to attend the **First Timer's Session and SIGCSE Award for Lifetime Service to the Computer Science Education Community Keynote** "A Lifetime of Learning, A Lifetime of Educating", Cary Laxer (Rose-Hulman Institute of Technology) on Monday, March 15 / 02:00 PM (ET) - 03:00 PM (ET). Registration (during Symposium registration) required.  
+All Symposium First-timers are encouraged to attend the **First Timer's Session and SIGCSE Award for Lifetime Service to the Computer Science Education Community Keynote** "A Lifetime of Learning, A Lifetime of Educating," Cary Laxer (Rose-Hulman Institute of Technology) on Monday, March 15 / 02:00 PM (ET) - 03:00 PM (ET). 
 ## *Pre-Symposium Special Event [Improving Geographic Diversity at the SIGCSE Technical Symposium](http://sigcse2021.sigcse.org/schedule/specialevents/#global)
 - Event organizers : Brett Becker (University College Dublin), Amber Settle (DePaul University), Rodrigo Duran (Federal Institute of Mato Grosso do Sul)
 - Thursday, March 11 / 8:00 AM-12:00 PM (ET) and 8:00 PM-12:00 AM (ET)
-- Registration free with Symposium registration. If you didn't register during registration you can modify your registration using the link in your registration comfirmation email. 
+- Registration is required for this event, but free with Symposium registration. If you didn't register for this event while registering for the Symposium, you can modify your Symposium registration using the link in your confirmation email. 
 
 ## [Papers](http://sigcse2021.sigcse.org/schedule/program/), Monday March 15
 
