@@ -296,9 +296,9 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global)
       </a>
       </div>
       <div class="event">
-      <a href="{{ site.url }}//schedule/specialevents/#redux">
+      <a href="{{ site.url }}/schedule/sigcsets2020rewind">
         <div class="event-desc">
-          Special Event!
+          SIGCSE TS 2020 Rewind
         </div>
         <div class="event-time">
           4:30 PM-7:30 PM
@@ -306,7 +306,7 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global)
       </a>
       </div>
       <div class="event">
-      <a href="{{ site.url }}/schedule/program/#Sunday-8">
+      <a href="{{ site.url }}/schedule/program/#sunday-8">
         <div class="event-desc">
           SIGCSE TS 2021 Opening Ceremony
         </div>
