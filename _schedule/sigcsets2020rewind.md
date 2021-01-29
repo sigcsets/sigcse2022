@@ -36,7 +36,10 @@ sidebar: schedule_program
     {% endif %}
     {% for submission in session.submissions %}
         <strong>{{submission.title}}</strong><br>
-        {{submission.authors}}<br><br>
+        {{submission.authors}}<br>
+        {% if submission.url %}
+<em>SIGCSE TS 2020 Video</em> : <a href="{{submission.url}}" target=_new>{{submission.url}}</a><br>
+{% endif %} <br>
     {% endfor %}
   </div>
 </div> 
