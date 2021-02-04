@@ -302,8 +302,8 @@
 - session_id: "paper-session8Tu1"
   session_title: "Paper Session: Code Analysis"
   day: "Tuesday, March 16"
-  start_time: "01:00 PM (ET)"
-  end_time: "02:45 PM (ET)"
+  start_time: "08:00 PM (ET)"
+  end_time: "09:45 PM (ET)"
   session_type: "Paper Session"
   submissions:
     - id: "cer230"
