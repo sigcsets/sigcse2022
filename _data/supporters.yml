@@ -34,6 +34,9 @@ Silver:
 
     
 Bronze:
+  - name: AdaCore
+    image: adacore-200.png
+    link: "http://www.adacore.com"
   - name: AnitaB.org
     image: anitaborg-200.png
     link: "https://anitab.org/"
