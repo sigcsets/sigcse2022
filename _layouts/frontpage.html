@@ -113,10 +113,12 @@ format: frontpage
       {% assign modulus = 3 %}
       {% capture span %}{{ 12 | divided_by: modulus }}{% endcapture %}
       {% capture subone %}{{modulus | minus: 1}}{% endcapture %}
+
       <!-- SPAN: {{span}} SUBONE: {{subone}} -->
 
       {% for supporter in category[1]  %}
-        {% capture mod %}{{ forloop.index0 | mod: modulus }}{% endcapture %}
+        {% capture mod %}{{ forloop.index0 | modulo: modulus }}{% endcapture %}
+        <!-- mod: {{mod}} / forloop.index0: {{forloop.index0}} / modulus: {{modulus}}-->
         {% if mod == '0' or forloop.first %}
           <div class="row">
         {% endif %}
