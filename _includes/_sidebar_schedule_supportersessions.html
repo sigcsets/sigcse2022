@@ -4,9 +4,14 @@
         <li><a href="{{ site.url }}/schedule/">SIGCSE TS 2021 Calendar</a></li>
     </ul>
 	<h3>Supporter Sessions</h3>
-	<ul>
-    {% for supportersession in site.data.supportersessions.supportersessions %}
-    <li><a href="#event-{{supportersession.event | downcase}}">{{ supportersession.supporter }} : {{ supportersession.title }}</a></li>
+    {% for category in site.data.supporters %}
+    <h4>{{category[0]}} Supporters</h4>
+    <ul>
+    {% for supporter in category[1]  %}
+    {% if supporter.sessions %}
+    <li><a href="#supporter-{{supporter.name | downcase}}">{{ supporter.name }}</a></li>
+    {% endif %}
     {% endfor %}
 	</ul>
+    {% endfor %}
 </aside>
