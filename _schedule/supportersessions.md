@@ -13,7 +13,7 @@ sidebar: schedule_supportersessions
 {% for supporter in category[1]  %}
 {% if supporter.sessions %}
 <div class="row">
-    <h2 class="text-center" style="border-top: 1px solid #ccc; background-color:#4a9bb4; font-family: Lato, Helvetica Neue, Helvetica, Arial, sans-serif; font-weight: bold; color: white;">{{category[0]}} Supporter</h2>
+    <h2 id="supporter-{{supporter.name | downcase}}"class="text-center" style="border-top: 1px solid #ccc; background-color:#4a9bb4; font-family: Lato, Helvetica Neue, Helvetica, Arial, sans-serif; font-weight: bold; color: white;">{{category[0]}} Supporter</h2>
 </div>
 <p>
 <table style="border: 0px; width: 100%;">
