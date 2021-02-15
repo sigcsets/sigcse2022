@@ -3,16 +3,16 @@ Platinum:
     image: github-200.png
     link: "https://education.github.com/"
     sessions:
-    - title: "Help Students Master Git & GitHub in 3 Lessons"
-      day: Thursday, March 18
-      time: 3:00 PM (ET) - 4:15 PM (ET)
-      presenters: Jeff Olson (Director of Curriculum & Instruction, GitHub)
-      description: "Jeff has used Git & GitHub with students in both introductory and advanced high school courses, fine-tuning strategies for introducing Git in low-stakes and non-threatening ways and building to greater comfort & fluency over time. His strategies emphasize Git as a tool for project collaboration and personal organization, allowing Git to be integrated into your own projects & tasks no matter the programming language or IDE. Participants will see a lesson progression for developing understanding with Git & GitHub, including several Unplugged lesson ideas that can be done without computers. He'll also share his own journey through introducing Git to students, including pitfalls and strategies to avoid. Ultimately, even though Git is an industry standard tool for developers, Jeff doesn't think this should be the only reason for students to learn it; his goal is to describe strategies & resources that can motivate all students to see GitHub as a useful tool in their own journey through computer science, even if this doesn't lead directly into a career in software development."
     - title: "Using GitHub for Multi-College Collaborative Undergraduate Research"
       day: Tuesday, March 16
       time: 3:00 PM (ET) - 4:15 PM (ET)
       presenters: Amos Johnson (Morehouse College)
       description: "Virginia Tech and Morehouse College are currently in the second semester of a Vertically Integrated Project (VIP). This experiential learning effort involves creating a long-term, multi-college, and multidisciplinary undergraduate research project in the technical area of deep learning applied to wireless communications. Due to COVID-19, the project has morphed into a completely online experience, with GitHub as the communications focal point. This change in structure has provided unique challenges in ensuring continued student engagement, collaboration, and research output—along with some unintended benefits. In this presentation, you’ll get an overview of the program, goals and motivations, and current status. In addition, the speakers will provide a unique look at how COVID-19 has led to necessary improvements in collaboration as a beneficial long term side-effect. You’ll come away with best practices for engaging students from diverse colleges, disciplines, and backgrounds effectively while maximizing student engagement and outcomes, especially in pure, or hybrid, online settings."
+    - title: "Help Students Master Git & GitHub in 3 Lessons"
+      day: Thursday, March 18
+      time: 3:00 PM (ET) - 4:15 PM (ET)
+      presenters: Jeff Olson (Director of Curriculum & Instruction, GitHub)
+      description: "Jeff has used Git & GitHub with students in both introductory and advanced high school courses, fine-tuning strategies for introducing Git in low-stakes and non-threatening ways and building to greater comfort & fluency over time. His strategies emphasize Git as a tool for project collaboration and personal organization, allowing Git to be integrated into your own projects & tasks no matter the programming language or IDE. Participants will see a lesson progression for developing understanding with Git & GitHub, including several Unplugged lesson ideas that can be done without computers. He'll also share his own journey through introducing Git to students, including pitfalls and strategies to avoid. Ultimately, even though Git is an industry standard tool for developers, Jeff doesn't think this should be the only reason for students to learn it; his goal is to describe strategies & resources that can motivate all students to see GitHub as a useful tool in their own journey through computer science, even if this doesn't lead directly into a career in software development."
   - name: "Google, Inc."
     image: google-200.png
     link: "https://edu.google.com/code-with-google/"

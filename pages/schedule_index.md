@@ -188,6 +188,16 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global)
         </div>
       </a>
       </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/supportersessions/#event-practical_quantum_computing_education:_an_overview">
+        <div class="event-desc">
+          Supporter - Practical Quantum Computing Education: An Overview (Microsoft)
+        </div>
+        <div class="event-time">
+          3:00 PM
+        </div>
+      </a>
+      </div>
     </td>
     <td class="day">
       <div class="date">10</div>
@@ -205,12 +215,12 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global)
     <td class="day">
       <div class="date">11</div>
       <div class="event">
-      <a href="{{ site.url }}//schedule/specialevents/#global">
+      <a href="{{ site.url }}/schedule/specialevents/#global">
         <div class="event-desc">
           Global Diversity Event
         </div>
         <div class="event-time">
-          8:00 AM and 8:00 PM
+          8:00 AM
         </div>
       </a>
       </div>
@@ -221,6 +231,26 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global)
         </div>
         <div class="event-time">
           1:00 PM-5:00 PM
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/supportersessions/#event-speed_dating_with_google_cloud">
+        <div class="event-desc">
+          Supporter - Speed Dating with Google Cloud
+        </div>
+        <div class="event-time">
+          3:00 PM
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/specialevents/#global">
+        <div class="event-desc">
+          Global Diversity Event
+        </div>
+        <div class="event-time">
+          8:00 PM
         </div>
       </a>
       </div>
@@ -244,6 +274,16 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global)
         </div>
         <div class="event-time">
           1:00pm-4:00pm
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/supportersessions/#event-makecode_arcade_game_development_workshop">
+        <div class="event-desc">
+          Supporter - MakeCode Arcade Game Development Workshop (Microsoft)
+        </div>
+        <div class="event-time">
+          3:00 PM
         </div>
       </a>
       </div>
@@ -308,7 +348,17 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global)
       <div class="event">
       <a href="{{ site.url }}/schedule/program/#sunday-8">
         <div class="event-desc">
-          SIGCSE TS 2021 Opening Ceremony
+          SIGCSE TS 2021 Opening Ceremony (Supported by Google)
+        </div>
+        <div class="event-time">
+          8:00 PM
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/supportersessions/#event-artificial_intelligence_and_real_justice">
+        <div class="event-desc">
+          Supporter - Artificial Intelligence and Real Justice (Google Panel hosted by Kamau Bobb)
         </div>
         <div class="event-time">
           8:00 PM-9:00 PM

@@ -27,7 +27,7 @@ sidebar: schedule_supportersessions
 {% for supportersession in supporter.sessions %}
 <div class="card">
     <div class="container">
-        <h3 id="event-{{supportersession.event | downcase}}">{{ supportersession.title }}</h3>
+        <h3 id="event-{{supportersession.title | downcase | replace: " ", "_" }}">{{ supportersession.title }}</h3>
         <span class="alert-box papersession">{{ supportersession.day }} / {{ supportersession.time }}</span>
 
 {% if supportersession.url %}
