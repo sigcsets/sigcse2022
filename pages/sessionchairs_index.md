@@ -6,7 +6,7 @@ permalink: "/sessionchairs/"
 sidebar: sessionchairs
 ---
 
-We are actively recruiting volunteers to be session chairs for the 2021 Technical Symposium!  If you are interested, please fill out your availability here: [TBD](#)
+We are actively recruiting volunteers to be session chairs for the 2021 Technical Symposium!  If you are interested, please fill out your availability here: [http://sigcse2021.org/sessionchair](http://sigcse2021.org/sessionchair)
 
 ## General Session Chair Responsibilities
 
