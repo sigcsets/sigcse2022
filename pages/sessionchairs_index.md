@@ -28,6 +28,16 @@ These general guidelines apply regardless of the track of the session you are ch
 
 Many of these items are from [Emery Berger's blog post "A Guide for Session Chairs"](https://emeryblogger.com/2016/06/08/a-guide-for-session-chairs/), which provides more details about useful session chair information.
 
+## Being a Session Chair in Pathable/Zoom
+
+In a lot of ways, being a session chair in a virtual environment is very similar to being a session chair in person as far as your role!  You will be starting the session, introducing speakers, keeping time, and moderating the Q&A.  However, _how_ some of this happens is obviously a little different, but we are here to help!
+
+Here are some key points for being a session chair in Pathable using Zoom:
+
+* We will be providing training for all session chairs in early March, so you will get a chance to see exactly how things work and ask questions of our production team!
+* Pathable has a guide on how to be a session chair / speaker in their system, which has a lot of good information - [https://support.pathable.com/hc/en-us/categories/360004922371-Speaker-User-Guides](https://support.pathable.com/hc/en-us/categories/360004922371-Speaker-User-Guides)
+* Pathable embeds the Zoom window for webinars (which is most of our technical sessions) in the browser window of the user.  Thus, normal Zoom features for users (such as chat and Q&A) will not be available in Zoom.  However, every session in Pathable has its own chat and Q&A area, along with a place for all the pre-recorded videos for that session.
+
 ## Making Your Session Inclusive
 
 SIGCSE conferences are becoming increasingly diverse, with attendees from all over the world who represent varied gender, racial, ethnic, disability, and other identities. As a session chair, there are steps you can take to ensure that the session for which you are responsible is as inclusive as possible for attendees. The following guidelines complement [Emory Berger’s Guide for Session Chairs](https://emeryblogger.com/2016/06/08/a-guide-for-session-chairs/) towards promoting increased knowledge sharing and engagement of all our community members. These guidelines are derived in part from the [Accessible Conference Guide](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide-version-1-0/#conference).
@@ -43,7 +53,7 @@ If you have any questions about accessibility, please feel free to reach out to 
 
 ## Track-Specific Details
 
-Being a session chair in a virtual environment is similar to being a session chair in person as far as your role, but obviously the way you manage a session will be a bit different.  Here are some track-specific guidelines.
+Each track will operate slightly differetly from each other.  For more information on each track, see the [SIGCSE TS 2021 Presenter Information](https://sigcse2021.sigcse.org/authors) for a given track.
 
 ### Technical Sessions (Papers)
 
