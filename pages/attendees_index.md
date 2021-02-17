@@ -50,6 +50,7 @@ span.team-heading {
 
 _All registration rates are in US$._    
 _Student registration rates are for full-time students only._
+_Exhibits Only grants access to the Exhibit Hall, Supporter Sessions, and select Affiliated Events ONLY.  You will not have access to any other content from the Technical Symposium with this type of registration, including keynotes, technical sessions, workshops, Birds-of-a-Feather, and others.  Authors/presenters cannot choose this category as you will not have access to your session in Pathable._
 
 ### Registering for Other Symposium Events through Cvent
 
