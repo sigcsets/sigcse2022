@@ -27,15 +27,7 @@ sidebar: schedule_program
 <div class="card">
   <div class="container">
     <h3 id="{{session.session_id | downcase}}">{{ session.session_title }}</h3>
-    {% if session.session_type == "Poster" %}
-    <span class="alert-box papersession">{{session.day}} / {{session.start_time}} - {{session.end_time}}</span>
-    {% elsif session.session_type == "Keynote" %}
-    <span class="alert-box keynote">{{session.day}} / {{session.start_time}} - {{session.end_time}}</span>
-    {% elsif session.session_type == "Panel / Special Session" %}
-    <span class="alert-box panel">{{session.day}} / {{session.start_time}} - {{session.end_time}}</span>
-    {% elsif session.session_type == "Special Event" %}
-    <span class="alert-box specialevent">{{session.day}} / {{session.start_time}} - {{session.end_time}}</span>
-    {% endif %}
+    <span class="alert-box poster">{{session.day}} / {{session.start_time}} - {{session.end_time}}</span>
     {% for submission in session.submissions %}
         <strong>{{submission.title}}</strong><br>
         {{submission.authors}}<br><br>
