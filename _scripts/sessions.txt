@@ -288,12 +288,12 @@
 267	ss346	Terms to Know and Videos to Help: Gender-identity, Sex, Sexual Orientation, Pronouns, Race, Intersectionality, Privilege, & Bias	pss-8Fr2	3-19-2021 20:00	3-19-2021 21:45	Special Session	Webinar	ss346	Terms to Know and Videos to Help: Gender-identity, Sex, Sexual Orientation, Pronouns, Race, Intersectionality, Privilege, & Bias	Beth Quinn (University of Colorado Boulder); Colleen M. Lewis (University of Illinois at Urbana-Champaign); Gretchen Achenbach (University of Colorado Boulder); Cynthia Lee (Stanford University); Kyla McMullen (University of Florida); Vidushi Ojha (University of Illinois at Urbana-Champaign)	beth.quinn@colorado.edu,ColleenL@illinois.edu,gretchen.achenbach@ncwit.org,cbl@stanford.edu,drkyla@ufl.edu,vojha3@illinois.edu
 268	pss-8Fr3	Special Session : Nifty Web Apps		3-19-2021 20:00	3-19-2021 21:45	Special Session	Webinar				
 269	ss017	Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment	pss-8Fr3	3-19-2021 20:00	3-19-2021 21:45	Special Session	Webinar	ss017	Nifty Web Apps: Build a Web App for Any Text-Based Programming Assignment	Kevin Lin (University of Washington); Sumant Guha (University of Washington); Joe Spaniac (University of Washington); Andy Zheng (University of Washington)	kevinl@cs.uw.edu,guhas2@uw.edu,jspaniac@uw.edu,succion@uw.edu
-510	sister-session8Fr EngageCSEdu: A Collection of Engaging Assignments   3/19/2021 20:00:00	3/19/2021 21:45:00	Sister Session
-511	engage-1	Air Quality Index Calculator	sister-session8Fr				Mark Gondree (Sonoma State University)
-512	engage-2	Coffee Barista	sister-session8Fr				Rita Garcia (The University of Adelaide)
-513	engage-3	POGIL Labs	sister-session8Fr				Chris Mayfield (James Madison University);Helen Hu (Westminster College)
-514	engage-4	Analyzing AirBnB Data	sister-session8Fr				Tzu-Yi Chen (Pomona College)
-515	engage-5	Reuniting Families	sister-session8Fr				Mikey Goldweber (Xavier University)
+510	engage-session8Fr	Sister Session : EngageCSEdu: A Collection of Engaging Assignments		3-19-2021 20:00	3-19-2021 21:45	Paper	Webinar			
+511	engage-1	Air Quality Index Calculator	sister-session8Fr							Mark Gondree (Sonoma State University)
+512	engage-2	Coffee Barista	sister-session8Fr							Rita Garcia (The University of Adelaide)
+513	engage-3	POGIL Labs	sister-session8Fr							Chris Mayfield (James Madison University);Helen Hu (Westminster College)
+514	engage-4	Analyzing AirBnB Data	sister-session8Fr							Tzu-Yi Chen (Pomona College)
+515	engage-5	Reuniting Families	sister-session8Fr							Mikey Goldweber (Xavier University)
 516	engage-6	CS2 Graphical Photo Library Project	sister-session8Fr				Robbit Hott (University of Virginia)
 270	closing-keynote	Closing Keynote		3-20-2021 13:00	3-20-2021 14:00	Keynote	Webinar				
 271	kn004	Increasing Diversity in Computing Education: Lesson Learned	closing-keynote	3-20-2021 13:00	3-20-2021 14:00	Keynote	Webinar	kn004	Increasing Diversity in Computing Education: Lesson Learned	Valerie E. Taylor (CMD-IT)	taylor@cmd-it.org
