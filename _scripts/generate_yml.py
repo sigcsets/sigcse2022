@@ -39,7 +39,7 @@ for line in content:
             f.write('  end_time: "' + end_time.strftime("%I:%M %p") + ' (ET)"\n')
         if entry[1].startswith('kn'):
             f.write('  session_type: "Keynote"\n')
-        elif entry[1].startswith('paper') or entry[1].startswith('toce'):
+        elif entry[1].startswith('paper') or entry[1].startswith('toce') or entry[1].startswith('engage'):
             f.write('  session_type: "Paper Session"\n')
         elif entry[1].startswith('pss') or entry[1].startswith('nifty'):
             f.write('  session_type: "Panel / Special Session"\n')
