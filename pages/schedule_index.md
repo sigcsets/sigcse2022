@@ -605,7 +605,7 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global)
 Contributions to Computer Science Education Keynote
         </div>
         <div class="event-time">
-          8:00 PM-9:45 PM
+          8:00 PM-9:00 PM
         </div>
         </a>
       </div>
