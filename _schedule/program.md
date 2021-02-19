@@ -19,7 +19,7 @@ sidebar: schedule_program
   {% if session.start_time != current_block %}
     {% assign current_block = session.start_time %}
     {% assign day_split = current_day | split: ", " %}
-<div id="{{ day_split[0] }}-{{current_block | slice: 1}}"></div>
+<div id="{{ day_split[0] }}-{{current_block | slice: 0}}"></div>
 <div class="block_header">{{current_day}} - {{ current_block }}</div>
     {% endif %}
 <div class="card">
