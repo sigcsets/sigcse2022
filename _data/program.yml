@@ -161,9 +161,9 @@
       authors: "Adam Cannon (Columbia University);  Crystal Furman (College Board);  Elizabeth Johnson (Xavier University);  Paul Tymann (Rochester Institute of Technology)"
 - session_id: "paper-session1Tu1"
   session_title: "Paper Session: Accessibility"
-  day: "Monday, March 15"
-  start_time: "8:00 PM (ET)"
-  end_time: "9:45 PM (ET)"
+  day: "Tuesday, March 16"
+  start_time: "1:00 PM (ET)"
+  end_time: "2:45 PM (ET)"
   session_type: "Paper Session"
   submissions:
     - id: "ert236"

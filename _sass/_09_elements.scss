@@ -92,6 +92,11 @@
   .alert-box.panel { @include alert-style(#3a1772); }
   .alert-box.specialevent { @include alert-style(#000985); }
   .alert-box.papersession { @include alert-style(#275F62); }
+  .alert-box.poster { @include alert-style(#c1c967); color: black;}
+  .alert-box.bof { @include alert-style(#9f5df1); color: black;}
+  .alert-box.workshop { @include alert-style(#036c03); }
+  .alert-box.src { @include alert-style(#640202); }
+  .alert-box.demo { @include alert-style(#888686); color: black;}
 
 /* Button
 ------------------------------------------------------------------- */

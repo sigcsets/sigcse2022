@@ -27,7 +27,7 @@ Workshops will take place duing these time blocks:
 <div class="card">
 <div class="container">
 <h3 id="workshop-{{workshop.number}}">Workshop {{workshop.number}} : {{workshop.title}}</h3>
-<span class="alert-box papersession"><strong>Block {{workshop.block}}</strong> - {{ site.data.workshops.blocks[position].day }} / {{ site.data.workshops.blocks[position].time }}</span>
+<span class="alert-box workshop"><strong>Block {{workshop.block}}</strong> - {{ site.data.workshops.blocks[position].day }} / {{ site.data.workshops.blocks[position].time }}</span>
 {% if workshop.url %}
 <p><strong>Workshop website</strong> : <a href="{{workshop.url}}" target=_new>{{workshop.url}}</a></p>
 {% endif %} 
