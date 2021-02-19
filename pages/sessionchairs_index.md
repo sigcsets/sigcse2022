@@ -21,8 +21,8 @@ These general guidelines apply regardless of the track of the session you are ch
 * Start the session on time by introducing yourself and the entire session. 
 * Introduce each speaker using their proper name. Ensure that introductions are consistent for all speakers in the sessions using common titles and language.
 * Keep time and provide appropriate warnings before the start of the question and answer period.
-* When the speakers is done, say "Let's thank our speaker" and applaud.
-* If you need to cut of a questioner or discussion, suggest that the discussion resumes after the session is over.
+* When the speaker is done, say "Let's thank our speaker" and applaud.
+* If you need to cut of a question or discussion, suggest that the discussion resumes after the session is over.
 * Cut off any questions that are belligerent or insulting.  Please let the Program or Symposium Chairs know about the issue.
 * Come prepared with a question for each speaker! You can discuss this with your speakers.
 
