@@ -18,6 +18,7 @@ These general guidelines apply regardless of the track of the session you are ch
    * speaker's title(s)
    * speaker's pronouns
    * if the speaker is a student who will be graduating soon
+* Arrive at your session 15-20 minutes ahead of the start time to meet all the speakers and touch base on how the session will run.
 * Start the session on time by introducing yourself and the entire session. 
 * Introduce each speaker using their proper name. Ensure that introductions are consistent for all speakers in the sessions using common titles and language.
 * Keep time and provide appropriate warnings before the start of the question and answer period.
