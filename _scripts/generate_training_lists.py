@@ -44,7 +44,7 @@ for line in content:
             except:
                 print("FAILURE - ", entry[1])
     elif entry[1].startswith('b') or entry[1].startswith('src') or entry[1].startswith('d') or entry[1].startswith('p'):
-        print("w - ", entry[1], len(entry))
+        print("m - ", entry[1], len(entry))
         if len(entry) == 12:
             try:
                 name_list = entry[10].strip().split(';')
