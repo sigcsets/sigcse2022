@@ -1,84 +1,84 @@
-Martin Fellenz (Trinity College Dublin),mfellenz@tcd.ie
-Mairead Brady (Trinity College Dublin),Mairead.Brady@tcd.ie
-Michelle MacMahon (Trinity College Dublin),macmahmi@tcd.ie
-Jonathan Dukes (Trinity College Dublin),jdukes@tcd.ie
-Monica M. McGill (CSEdResearch.org & Knox College),monica@csedresearch.org
-Stacey Sexton (SageFox Consulting Group),ssexton@sagefoxgroup.com
-Alan Peterfreund (SageFox Consulting Group),apeterfreund@sagefoxgroup.com
-Maria Praetzellis (University of California),maria.praetzellis@ucop.edu
-Todd Sproull (Washington University in St. Louis),todd@wustl.edu
-Doug Shook (Washington University in St. Louis),dshook@wustl.edu
-Bill Siever (Washington University in St. Louis),bsiever@wustl.edu
-Earl W. Huff (Clemson University),earlh@clemson.edu
-Francisco Castro (University of Massachusetts Amherst),fcastro@cs.umass.edu
-Gayithri Jayathirtha (University of Pennsylvania),gayithri@upenn.edu
-Yerika Jimenez (University of Florida),jimenyer@ufl.edu
-Minji Kong (University of Delaware),mkong@udel.edu
-Natalie Araujo Melo (Northwestern University),melon@u.northwestern.edu
-Amber Solomon (Georgia Institute of Technology),asolomon30@gatech.edu
-Jennifer Tsan (North Carolina State University),jtsan@ncsu.edu
-Barbara Ericson (University of Michigan),barbarer@umich.edu
-Bradley Miller (Luther College and Founder Runestone Interactive),runestoneinteractive@gmail.com
-Amy Isvik (North Carolina State University),aaisvik@ncsu.edu
-Tiffany Barnes (North Carolina State University),tiffany.barnes@gmail.com
-Jamie Payton (Temple University),payton@temple.edu
-Veronica Catete (North Carolina State University),vmcatete@ncsu.edu
-Lina Battestilli (North Carolina State University),tbdimitr@ncsu.edu
-Jennifer Rosato (College of St. Scholastica),jrosato@css.edu
-Anne Leftwich (Indiana University),aleftwic@indiana.edu
-Louis Nadelson (University of Central Arkansas),lnadelson1@uca.edu
-Michelle Friend (University of Nebraska),mefriend@unomaha.edu
-Michael Ball (University of California, Berkeley),ball@berkeley.edu
-Dan Garcia  (University of California, Berkeley),ddgarcia@berkeley.edu
-Eric Arvai (University of California, Berkeley),earvai@berkeley.edu
-Leen-Kiat Soh (University of Nebraska-Lincoln),lksoh@cse.unl.edu
-Markeya S. Peteranetz (University of Nebraska-Lincoln),peteranetz@unl.edu
-Olga Glebova (Georgia State University),glebova@cs.gsu.edu
-Darina Dicheva (Winston-Salem State University),dichevad@wssu.edu
-Keith Irwin (Winston-Salem State University),irwinke@wssu.edu
-Lillian Cassel (Villanova University),cassel@acm.org
-Ahmed Ibrahim (University of Pittsburgh),aibrahim@pitt.edu
-Kalpathi Subramanian (The University of North Carolina),krs@uncc.edu
-Jamie Payton (Temple University),payton@temple.edu
-Matthew Mcquaigue (The University of North Carolina),mmcquaig@uncc.edu
-David J. Malan (Harvard University),malan@harvard.edu
-Kareem Zidane (Harvard University),kzidane@cs50.harvard.edu
-Brian Yu (Harvard University),brian@cs.harvard.edu
-Andrew Berns (University of Northern Iowa),adberns@cs.uni.edu
-J. Philip East (University of Northern Iowa),east@cs.uni.edu
-J. Ben Schafer (University of Northern Iowa),schafer@cs.uni.edu
-Beryl Hoffman (Elms College),hoffmanb@elms.edu
-Barbara Ericson (University of Michigan),barbarer@umich.edu
-Marnie Hill (NC State University),mehill6@ncsu.edu
-Dan Garcia (University of California, Berkeley),ddgarcia@berkeley.edu
-Tiffany Barnes (North Carolina State University),tiffany.barnes@gmail.com
-Lauren Mock (University of California, Berkeley),lmock@berkeley.edu
-Michael Ball (University of California, Berkeley),ball@berkeley.edu
-Amy Isvik (North Carolina State University),aaisvik@ncsu.edu
-Dave Bell (North Carolina State University),dbell5@ncsu.edu
-Michael Thompson (Naval Postgraduate School),mfthomps@nps.edu
-Cynthia Irvine (Naval Postgraduate School),irvine@nps.edu
-Erik Saule (University of North Carolina at Charlotte),esaule@uncc.edu
-Alec Goncharow (University of North Carolina at Charlotte),agoncharow@uncc.edu
-Jamie Payton (Temple University),payton@temple.edu
-Zach Rentz (California Polytechnic State University),zrentz@calpoly.edu
-John Clements (California Polytechnic State University),clements@calpoly.edu
-Zoë Wood (California Polytechnic State University),zwood@calpoly.edu
-Aaron Keen (California Polytechnic State University),akeen@calpoly.edu
-Jennifer R. Amos (University of Illinois at Urbana-Champaign ),jamos@illinois.edu
-Suneer Angra (University of Illinois at Urbana-Champaign),angra2@illinois.edu
-Colin Castelberry (University of Illinois at Urbana-Champaign),castleb1@illinois.edu
-Olga Stadie (Turnitin),ostadie@turnitin.com
-David J. Malan (Harvard University),malan@harvard.edu
-Chad Sharp (University of Michigan),cmlsharp@umich.edu
-Jelle van Assema (University of Amsterdam),j.vanassema@uva.nl
-Brian Yu (Harvard University),brian@cs.harvard.edu
-Kareem Zidane (Harvard University),kzidane@cs50.harvard.edu
-Bill Siever (Washington University in St. Louis),bsiever@gmail.com
-Michael P Rogers (University of Wisconsin Oshkosh),mprogers@mac.com
-David L. Largent (Ball State University),dllargent@bsu.edu
-Christian Roberson (Florida Southern College),croberson@flsouthern.edu
-Carlo Sgro (Conestoga College),csgro@conestogac.on.ca
-David P. Bunde (Knox College),dbunde@knox.edu
-Apan Qasem (Texas State University),apan@txstate.edu
-Philip Schielke (Concordia University Texas),Philip.Schielke@concordia.edu
+Martin Fellenz,mfellenz@tcd.ie
+Mairead Brady,Mairead.Brady@tcd.ie
+Michelle MacMahon,macmahmi@tcd.ie
+Jonathan Dukes,jdukes@tcd.ie
+Monica M. McGill,monica@csedresearch.org
+Stacey Sexton,ssexton@sagefoxgroup.com
+Alan Peterfreund,apeterfreund@sagefoxgroup.com
+Maria Praetzellis,maria.praetzellis@ucop.edu
+Todd Sproull,todd@wustl.edu
+Doug Shook,dshook@wustl.edu
+Bill Siever,bsiever@wustl.edu
+Earl W. Huff,earlh@clemson.edu
+Francisco Castro,fcastro@cs.umass.edu
+Gayithri Jayathirtha,gayithri@upenn.edu
+Yerika Jimenez,jimenyer@ufl.edu
+Minji Kong,mkong@udel.edu
+Natalie Araujo Melo,melon@u.northwestern.edu
+Amber Solomon,asolomon30@gatech.edu
+Jennifer Tsan,jtsan@ncsu.edu
+Barbara Ericson,barbarer@umich.edu
+Bradley Miller,runestoneinteractive@gmail.com
+Amy Isvik,aaisvik@ncsu.edu
+Tiffany Barnes,tiffany.barnes@gmail.com
+Jamie Payton,payton@temple.edu
+Veronica Catete,vmcatete@ncsu.edu
+Lina Battestilli,tbdimitr@ncsu.edu
+Jennifer Rosato,jrosato@css.edu
+Anne Leftwich,aleftwic@indiana.edu
+Louis Nadelson,lnadelson1@uca.edu
+Michelle Friend,mefriend@unomaha.edu
+Michael Ball,ball@berkeley.edu
+Dan Garcia,ddgarcia@berkeley.edu
+Eric Arvai,earvai@berkeley.edu
+Leen-Kiat Soh,lksoh@cse.unl.edu
+Markeya S. Peteranetz,peteranetz@unl.edu
+Olga Glebova,glebova@cs.gsu.edu
+Darina Dicheva,dichevad@wssu.edu
+Keith Irwin,irwinke@wssu.edu
+Lillian Cassel,cassel@acm.org
+Ahmed Ibrahim,aibrahim@pitt.edu
+Kalpathi Subramanian,krs@uncc.edu
+Jamie Payton,payton@temple.edu
+Matthew Mcquaigue,mmcquaig@uncc.edu
+David J. Malan,malan@harvard.edu
+Kareem Zidane,kzidane@cs50.harvard.edu
+Brian Yu,brian@cs.harvard.edu
+Andrew Berns,adberns@cs.uni.edu
+J. Philip East,east@cs.uni.edu
+J. Ben Schafer,schafer@cs.uni.edu
+Beryl Hoffman,hoffmanb@elms.edu
+Barbara Ericson,barbarer@umich.edu
+Marnie Hill,mehill6@ncsu.edu
+Dan Garcia,ddgarcia@berkeley.edu
+Tiffany Barnes,tiffany.barnes@gmail.com
+Lauren Mock,lmock@berkeley.edu
+Michael Ball,ball@berkeley.edu
+Amy Isvik,aaisvik@ncsu.edu
+Dave Bell,dbell5@ncsu.edu
+Michael Thompson,mfthomps@nps.edu
+Cynthia Irvine,irvine@nps.edu
+Erik Saule,esaule@uncc.edu
+Alec Goncharow,agoncharow@uncc.edu
+Jamie Payton,payton@temple.edu
+Zach Rentz,zrentz@calpoly.edu
+John Clements,clements@calpoly.edu
+Zoë Wood,zwood@calpoly.edu
+Aaron Keen,akeen@calpoly.edu
+Jennifer R. Amos,jamos@illinois.edu
+Suneer Angra,angra2@illinois.edu
+Colin Castelberry,castleb1@illinois.edu
+Olga Stadie,ostadie@turnitin.com
+David J. Malan,malan@harvard.edu
+Chad Sharp,cmlsharp@umich.edu
+Jelle van Assema,j.vanassema@uva.nl
+Brian Yu,brian@cs.harvard.edu
+Kareem Zidane,kzidane@cs50.harvard.edu
+Bill Siever,bsiever@gmail.com
+Michael P Rogers,mprogers@mac.com
+David L. Largent,dllargent@bsu.edu
+Christian Roberson,croberson@flsouthern.edu
+Carlo Sgro,csgro@conestogac.on.ca
+David P. Bunde,dbunde@knox.edu
+Apan Qasem,apan@txstate.edu
+Philip Schielke,Philip.Schielke@concordia.edu

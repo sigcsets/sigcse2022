@@ -1,4 +1,5 @@
 import sys
+import re
 import datetime
 import calendar
 
@@ -13,7 +14,7 @@ except Exception as e:
     print('File could not be opened.', e)
     sys.exit(3)
 
-TRAINING_SPEAKER_LIST = open("_scripts/training_speaker_list.txt", "w", encoding='utf8')
+TRAINING_WEBINAR_LIST = open("_scripts/training_webinar_list.txt", "w", encoding='utf8')
 TRAINING_WORKSHOP_LIST = open("_scripts/training_workshops_affiliates_list.txt", "w", encoding='utf8')
 TRAINING_MEETINGS_LIST = open("_scripts/training_meetings_list.txt", "w", encoding='utf8')
 
@@ -31,7 +32,7 @@ for line in content:
                 email_list = entry[11].strip().split(',')
                 for i in range(len(name_list)):
                     if (name_list[i] != '' and name_list[i] != '#N-A'):
-                        TRAINING_SPEAKER_LIST.write(name_list[i].strip() + "," + email_list[i].strip() + "\n")
+                        TRAINING_WEBINAR_LIST.write(name_list[i].split('(')[0].strip() + "," + email_list[i].strip() + "\n")
             except:
                 print("FAILURE - ", entry[1])
     elif entry[1].startswith('w'):
@@ -42,7 +43,7 @@ for line in content:
                 email_list = entry[11].strip().split(',')
                 for i in range(len(name_list)):
                     if (name_list[i] != '' and name_list[i] != '#N-A'):
-                        TRAINING_WORKSHOP_LIST.write(name_list[i].strip() + "," + email_list[i].strip() + "\n")
+                        TRAINING_WORKSHOP_LIST.write(name_list[i].split('(')[0].strip() + "," + email_list[i].strip() + "\n")
             except:
                 print("FAILURE - ", entry[1])
     elif entry[1].startswith('b') or entry[1].startswith('src') or entry[1].startswith('d') or entry[1].startswith('p') or entry[1].startswith('pnl') or entry[1].startswith('ss'):
@@ -53,7 +54,7 @@ for line in content:
                 email_list = entry[11].strip().split(',')
                 for i in range(len(name_list)):
                     if (name_list[i] != '' and name_list[i] != '#N-A'):
-                        TRAINING_MEETINGS_LIST.write(name_list[i].strip() + "," + email_list[i].strip() + "\n")
+                        TRAINING_MEETINGS_LIST.write(name_list[i].split('(')[0].strip() + "," + email_list[i].strip() + "\n")
             except:
                 print("FAILURE - ", entry[1])
 
