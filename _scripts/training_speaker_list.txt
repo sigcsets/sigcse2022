@@ -1,0 +1,681 @@
+Max Fowler (University of Illinois at Urbana-Champaign),mfowler5@illinois.edu
+Craig Zilles (University of Illinois at Urbana-Champaign),zilles@illinois.edu
+Miranda C. Parker (University of California, Irvine),miranda.parker@uci.edu
+Yvonne S. Kao (WestEd),ykao@wested.org
+Dana Saito-Stehberger (University of California, Irvine),dsaitost@uci.edu
+Diana Franklin (University of Chicago),dmfranklin@uchicago.edu
+Susan Krause (University of Chicago),sgkrause@uchicago.edu
+Debra Richardson (University of California, Irvine),djr@uci.edu
+Mark Warschauer (University of California, Irvine),markw@uci.edu
+Larry Yueli Zhang (University of Toronto Mississauga),ylzhang@cs.toronto.edu
+Andrew Petersen (University of Toronto Mississauga),andrew.petersen@utoronto.ca
+Michael Liut (University of Toronto Mississauga),michael.liut@utoronto.ca
+Bogdan Simion (University of Toronto Mississauga),bogdan@cs.toronto.edu
+Furkan Alaca (Queen's University),furkan.alaca@queensu.ca
+Kathryn Bridson (University of Memphis),kbridson@memphis.edu
+Scott D. Fleming (University of Memphis),Scott.Fleming@memphis.edu
+Shuchi Grover (Looking Glass Ventures & Stanford University),shuchig@cs.stanford.edu
+Merijke Coenraad (University of Maryland, College Park),mcoenraa@umd.edu
+Jen Palmer (University of Chicago),jenpalmer@uchicago.edu
+David Weintrop (University of Maryland, College Park),weintrop@umd.edu
+Donna Eatinger (University of Chicago),dmeatinger@uchicago.edu
+Zachary Crenshaw (University of Chicago),zcrenshaw@uchicago.edu
+Hoang Pham (University of Chicago),hoangsp@uchicago.edu
+Diana Franklin (University of Chicago),dmfranklin@uchicago.edu
+Vighnesh Iyer (University of Illinois at Urbana-Champaign),vniyer2@illinois.edu
+Craig Zilles (University of Illinois at Urbana-Champaign),zilles@illinois.edu
+Joseph B. Wiggins (University of Florida),jbwiggi3@ufl.edu
+Fahmid M. Fahid (North Carolina State University),ffahid@ncsu.edu
+Andrew Emerson (North Carolina State University),ajemerso@ncsu.edu
+Madeline Hinckle (North Carolina State University),mthinckl@ncsu.edu
+Andy Smith (North Carolina State University),pmsmith4@ncsu.edu
+Kristy Elizabeth Boyer (University of Florida),keboyer@ufl.edu
+Bradford Mott (North Carolina State University),bwmott@ncsu.edu
+Eric Wiebe (North Carolina State University),wiebe@ncsu.edu
+James Lester (North Carolina State University),lester@ncsu.edu
+Kathi Fisler (Brown University & Bootstrap),kathryn_fisler@brown.edu
+Emmanuel Schanzer (Bootstrap & Brown University),schanzer@bootstrapworld.org
+Steve Weimar (21PSTEM),sweimar@21pstem.org
+Annie Fetter (21PSTEM),afetter@21pstem.org
+K. Ann Renninger (Swarthmore College),krennin1@swarthmore.edu
+Shriram Krishnamurthi (Brown University & Bootstrap),sk@cs.brown.edu
+Joe Gibbs Politz (University of California, San Diego),jpolitz@eng.ucsd.edu
+Benjamin Lerner (Northeastern University),blerner@ccs.neu.edu
+Jennifer Poole (Bootstrap & Brown University),jen@bootstrapworld.org
+Christine Koerner (Oklahoma Department of Education),christine.koerner@sde.ok.gov
+Gabriel SantClair (Federal University of Rio de Janeiro),gsantclair@gmail.com
+Julia Godinho (Federal University of Rio de Janeiro),juliagodinho08@gmail.com
+Janaína Gomide (Federal University of Rio de Janeiro),janainagomide@gmail.com
+Jacqueline Whalley (Auckland University of Technology),jwhalley@aut.ac.nz
+Amber Settle (DePaul University),Novice Reflections on Debugging
+Andrew Luxton-Reilly (University of Auckland),a.luxton-reilly@auckland.ac.nz
+Yasuhiro Noguchi (Shizuoka Univeristy),noguchi@inf.shizuoka.ac.jp
+Shun Nishihata (Shizuoka University),cs16070@s.inf.shizuoka.ac.jp
+Satoru Kogure (Shizuoka University),kogure@inf.shizuoka.ac.jp
+Koichi Yamashita (Tokoha University),yamasita@hm.tokoha-u.ac.jp
+Makoto Kondo (Shizuoka University),mkondo@inf.shizuoka.ac.jp
+Tatsuhiro Konishi (Shizuoka University),konishi@inf.shizuoka.ac.jp
+Lucas Cordova (Western Oregon University),cordoval@wou.edu
+Jeffrey Carver (University of Alabama),carver@cs.ua.edu
+Noah Gershmel (University of Alabama),nggershmel@crimson.ua.edu
+Gursimran Walia (Georgia Southern University),gwalia@georgiasouthern.edu
+Filipe Dwan Pereira (Federal University of Roraima),filipedwan@gmail.com
+Francisco Pires (Federal University of Roraima),junior-pires.rr@hotmail.com
+Samuel C. Fonseca (Federal University of Amazonas),scf@icomp.ufam.edu.br
+Elaine H. T. Oliveira (Federal University of Amazonas),elaine@icomp.ufam.edu.br
+Leandro S. G. Carvalho (Federal University of Amazonas),galvao@icomp.ufam.edu.br
+David B. F. Oliveira (Federal University of Amazonas),david@icomp.ufam.edu.br
+Alexandra I. Cristea (Durham University),alexandra.i.cristea@durham.ac.uk
+Haden Hooyeon Lee (University of San Francisco),hlee84@usfca.edu
+Christopher Hundhausen (Washington State University),hundhaus@wsu.edu
+Adam Carter (Humboldt State University),adam.carter@humboldt.edu
+Phillip Conrad (University of California Santa Barbara),phtcon@ucsb.edu
+Ahsun Tariq (Washington State University),ahsun.tariq@wsu.edu
+Olusola Adesope (Washington State University),olusola.adesope@wsu.edu
+Bhuvana Gopal (University of Nebraska-Lincoln),bhuvana.gopal@unl.edu
+Stephen Cooper (University of Nebraska-Lincoln),stephen.cooper@unl.edu
+Paul W. McBurney (University of Virginia),pm8fc@virginia.edu
+Christian Murphy (Bryn Mawr College),cmurphy1@brynmawr.edu
+Madalene Spezialetti (Trinity College),madalene.spezialetti@trincoll.edu
+Andrew Begel (Microsoft Research),andrew.begel@microsoft.com
+James Dominic (Clemson University),domini4@clemson.edu
+Conner Phillis (KeyMark, Inc.),conner.phillis@keymarkinc.com
+Thomas Beeson (Clemson University),tbeeson@clemson.edu
+Paige Rodeghero (Clemson University),prodegh@clemson.edu
+Audrey Rorrer (University of North Carolina at Charlotte),audrey.rorrer@uncc.edu
+Breauna Spencer (University of California, Irvine),bspencer@uci.edu
+Sloan Davis (Google),sloandavis@google.com
+Sepi Hejazi Moghadam (Google),shmoghadam@google.com
+Deborah Holmes (University of North Carolina at Charlotte),daholmes@uncc.edu
+Cori Grainger (Google),corigrainger@google.com
+Earl W. Huff (Clemson University),earlh@clemson.edu
+Kwajo Boateng (Clemson University),kwajob@clemson.edu
+Makayla Moster (Clemson University),mmoster@clemson.edu
+Paige Rodeghero (Clemson University),prodegh@clemson.edu
+Julian Brinkley (Clemson University),julianbrinkley@clemson.edu
+Brian Kelly (Rochester Institute of Technology),bk7031@rit.edu
+Yasmine El-Glaly (Western Washington University),elglaly@wwu.edu
+Julian Brinkley (Clemson University),julianbrinkley@clemson.edu
+Earl W. Huff (Clemson University),earlh@clemson.edu
+Kwajo Boateng (Clemson University),kwajob@clemson.edu
+Juan David Rodríguez-García (Instituto Nacional de Tecnologías Educativas y Formación del Profesorado),juanda@juandarodriguez.es
+Jesús Moreno-León (Programamos),jesus.moreno@programamos.es
+Marcos Román-González (Universidad Nacional de Educación a Distancia),mroman@edu.uned.es
+Gregorio Robles (Universidad Rey Juan Carlos),grex@gsyc.urjc.es
+Luiz Rodrigues (University of São Paulo),lalrodrigues@usp.br
+Armando M. Toda (University of São Paulo),armando.toda@usp.br
+Wilk Oliveira (University of São Paulo),wilk.oliveira@usp.br
+Paula T. Palomino (University of São Paulo),paulatpalomino@usp.br
+Anderson Paulo Avila-Santos (University of São Paulo),anderson.avila@usp.br
+Seiji Isotani (University of São Paulo),sisotani@icmc.usp.br
+Irene Lee (Massachusetts Institute of Technology),ialee@mit.edu
+Safinah Ali (Massachusetts Institute of Technology),safinah@mit.edu
+Helen Zhang (Boston College),zhangzm@bc.edu
+Daniella DiPaola (Massachusetts Institute of Technology),dipaola@mit.edu
+Cynthia Breazeal (Massachusetts Institute of Technology),cynthiab@media.mit.edu
+Adrian A. de Freitas (United States Air Force Academy),adrian.defreitas@afacademy.af.edu
+Troy B. Weingart (United States Air Force Academy),troy.weingart@afacademy.af.edu
+En-Shiun Annie Lee (York University),ealee@yorku.ca
+Karthik Kuber (York University),kkuber@yorku.ca
+Hashmat Rohian (York University),hashmatr@yorku.ca
+Sean Woodhead (York University),woodhead@yorku.ca
+Xinyue Lin (University of Virginia),xl9yr@virginia.edu
+James Connors (University of Virginia),jjc9bb@virginia.edu
+Chang Lim (University of Virginia),charleslim@virginia.edu
+John R. Hott (University of Virginia),jrhott@virginia.edu
+Lasang Jimba Tamang (University of Memphis),ljtamang@memphis.edu
+Zeyad Alshaikh (University of Memphis),zlshaikh@memphis.edu
+Nisrine Ait Khayi (University of Memphis),ntkhynyn@memphis.edu
+Priti Oli (University of Memphis),poli@memphis.edu
+Vasile Rus (University of Memphis),vrus@memphis.edu
+Fatemeh Mardi (University of Missouri, St. Louis),Mardi@umsl.edu
+Keith Miller (University of Missouri, St. Louis),millerkei@umsl.edu
+Phyllis Balcerzak (University of Missouri, St. Louis),balcerzakph@umsl.edu
+Alexandra Milliken (North Carolina State University),aamillik@ncsu.edu
+Wengran Wang (North Carolina State University ),wwang33@ncsu.edu
+Veronica Cateté (North Carolina State University),vmcatete@ncsu.edu
+Sarah Martin (North Carolina State University),srmarti6@ncsu.edu
+Neeloy Gomes (North Carolina State University),ntgomes@ncsu.edu
+Yihuan Dong (North Carolina State University),ydong2@ncsu.edu
+Rachel Harred (North Carolina State University),rlharred@ncsu.edu
+Amy Isvik (North Carolina State University),aaisvik@ncsu.edu
+Tiffany Barnes (North Carolina State University),tmbarnes@ncsu.edu
+Thomas Price (North Carolina State University),twprice@ncsu.edu
+Chris Martens (North Carolina State University),crmarten@ncsu.edu
+Vreda Pieterse (Open University of the Netherlands),vreda.pieterse@tuks.co.za
+Sylvia Stuurman (Open University of the Netherlands),sylvia.stuurman@ou.nl
+Marko C.J.D. van Eekelen (Open University of the Netherlands),marko.vaneekelen@ou.nl
+Jean Salac (University of Chicago),salac@uchicago.edu
+Cathy Thomas (Texas State University),thomascat@txstate.edu
+Chloe Butler (Texas State University),cbb64@txstate.edu
+Diana Franklin (University of Chicago),dmfranklin@uchicago.edu
+Heather Sherwood (Education Development Center),HSherwood@edc.org
+Wei Yan (University of Florida),wei1993yan@ufl.edu
+Ruohan Liu (University of Florida),liuruohan1990@ufl.edu
+Wendy Martin (Education Development Center),wmartin@edc.org
+Alexandra Adair (Education Development Center),aadair@edc.org
+Cheri Fancsali (Research Alliance for NYC Schools),cheri.fancsali@nyu.edu
+Edgar Rivera-Cash (Research Alliance for NYC Schools),ERC343@NYU.edu
+Melissa Pierce (Columbia University),MPierce0717@gmail.com
+Maya Israel (University of Florida),misrael@coe.ufl.edu
+Jocelyn Simmonds (University of Chile),jsimmond@dcc.uchile.cl
+Francisco J. Gutierrez (University of Chile),frgutier@dcc.uchile.cl
+Federico Meza (Universidad Técnica Federico Santa María),fmeza@inf.utfsm.cl
+Catalina Torrent (Ministerio de Educación de Chile),catalina.torrent@mineduc.cl
+Jaime Villalobos (Ministerio de Educación de Chile),jaime.villalobos@mineduc.cl
+Alexander Repenning (Northwestern Switzerland (PH FHNW)),alexander.repenning@fhnw.ch
+Ashok Basawapatna (SUNY Old Westbury),basawapatnaa@oldwestbury.edu
+Alexander Repenning (PH FHNW),alexander.repenning@fhnw.ch
+Anna Lamprou (PH FHNW),Anna.lamprou@fhnw.ch
+Ashok Basawapatna (SUNY Old Westbury),basawapatnaa@oldwestbury.edu
+Brett A. Becker (University College Dublin),brett.becker@ucd.ie
+Amber Settle (DePaul University),asettle@cdm.depaul.edu
+Andrew Luxton-Reilly (University of Auckland),a.luxton-reilly@auckland.ac.nz
+Briana B. Morrison (University of Nebraska Omaha),bbmorrison@unomaha.edu
+Cary Laxer (Rose-Hulman Institute of Technology),laxer@rose-hulman.edu
+Stephanie Lunn (Florida International University),slunn002@fiu.edu
+Maíra Marques Samary (Boston College),mairasamary@gmail.com
+Alan Peterfreund (SageFox Consulting Group),apeterfreund@sagefoxgroup.com
+Alec Goncharow (University of North Carolina at Charlotte),agoncha1@uncc.edu
+Matthew Mcquaigue (University of North Carolina at Charlotte),mmcquaig@uncc.edu
+Erik Saule (University of North Carolina at Charlotte),esaule@uncc.edu
+Kalpathi Subramanian (University of North Carolina at Charlotte),krs@uncc.edu
+Jamie Payton (Temple University),payton@temple.edu
+Paula Goolkasian (University of North Carolina at Charlotte),pagoolka@uncc.edu
+Aman Yadav (Michigan State University),ayadav@msu.edu
+Alex Lishinski (University of Tennessee),alishins@utk.edu
+Phil Sands (Michigan State University),phil@msu.edu
+Monique Ross (Florida International University),moross@fiu.edu
+Elizabeth Litzler (University of Washington),elitlzer@uw.edu
+Jake Lopez (Florida International University),jlope590@fiu.edu
+Madeline Endres (University of Michigan),endremad@umich.edu
+Westley Weimer (University of Michigan),weimerw@umich.edu
+Amir Kamil (University of Michigan),akamil@umich.edu
+Pierre Weill-Tessier (King's College London),pierre.weill-tessier@kcl.ac.uk
+Alexandra Lucia Costache (King's College London),alexandra-lucia.costache@kcl.ac.uk
+Neil C. C. Brown (King's College London),neil.c.c.brown@kcl.ac.uk
+Oscar Karnalim (University of Newcastle & Maranatha Christian University),oscar.karnalim@uon.edu.au
+Simple Simon (University of Newcastle),simon@newcastle.edu.au
+Ge Gao (North Carolina State University),ggao5@ncsu.edu
+Samiha Marwan (North Carolina State University),samarwan@ncsu.edu
+Thomas W. Price (North Carolina State University),twprice@ncsu.edu
+Joe Michael Allen (University of California, Riverside),jalle010@ucr.edu
+Frank Vahid (University of California, Riverside & zyBooks),vahid@cs.ucr.edu
+Cruz Izu (The University of Adelaide),cruz.izu@adelaide.edu.au
+Yeajin Ham (University of Iowa),yeajin-ham@uiowa.edu
+Brandon Myers (University of Iowa),brandon-d-myers@uiowa.edu
+Sangho Suh (University of Waterloo),sangho.suh@uwaterloo.ca
+Celine Latulipe (University of Manitoba),celine.latulipe@umanitoba.ca
+Ken Jen Lee (University of Waterloo),kenjen.lee@uwaterloo.ca
+Bernadette Cheng (University of Waterloo),bhcheng@uwaterloo.ca
+Edith Law (University of Waterloo),edith.law@uwaterloo.ca
+John K. Estell (Ohio Northern University),j-estell@onu.edu
+Stephany Coffman-Wolph (Ohio Northern University),s-coffman-wolph@onu.edu
+Jessica Sieg (Ohio Northern University),j-sieg@onu.edu
+Michelle Musser (Ohio Northern University),m-musser@onu.edu
+Colleen M. Lewis (University of Illinois at Urbana-Champaign),ColleenL@illinois.edu
+Wendy Huang (National Institute of Education, Nanyang Technological University),wendy.huang@nie.edu.sg
+Shiau Wei Chan (National Institute of Education, Nanyang Technological University),shiauwei.chan@nie.edu.sg
+Chee Kit Looi (National Institute of Education, Nanyang Technological University),cheekit.looi@nie.edu.sg
+Douglas Lusa Krug (Virginia Commonwealth University & Instituto Federal do Paraná - IFPR),krugdl@vcu.edu
+Edtwuan Bowman (Virginia Commonwealth University),bowmanel2@vcu.edu
+Taylor Barnett (Virginia Commonwealth University),barnettt@vcu.edu
+Lori Pollock (University of Delaware),pollock@udel.edu
+David Shepherd (Virginia Commonwealth University),shepherdd@vcu.edu
+Merijke Coenraad (University of Maryland),mcoenraa@umd.edu
+Bih Janet Fofang (University of Maryland),bihjane@umd.edu
+David Weintrop (University of Maryland),weintrop@umd.edu
+André Branco (Federal University of Rio de Janeiro),abrancomrafaels@gmail.com
+Claudia Dutra (Federal University of Rio de Janeiro),dutraclaudia.03@gmail.com
+Débora Zumpichiatti (Federal University of Rio de Janeiro),deborazumpichiatti16@gmail.com
+Francisco Augusto Campos (Federal University of Rio de Janeiro),franciscoa.16@hotmail.com
+Gabriel SantClair (Federal University of Rio de Janeiro),gsantclair@gmail.com
+Jhulian Mello (Federal University of Rio de Janeiro),jhulianjhulian@gmail.com
+João Victor Moreira (Federal University of Rio de Janeiro),jvmoreira97@gmail.com
+Julia Godinho (Federal University of Rio de Janeiro),juliagodinho08@gmail.com
+Julia Marotti (Federal University of Rio de Janeiro),juliamarotti@hotmail.com
+Janaina Gomide (Federal University of Rio de Janeiro),janainagomide@gmail.com
+Andrew McDonald (Michigan State University),mcdon499@msu.edu
+Laura K. Dillon (Michigan State University),ldillon@msu.edu
+Aleata Hubbard Cheuoua (WestEd),ahubbar@wested.org
+Priscilla Lee (Princeton University),palee@alumni.princeton.edu
+Soohyun Nam Liao (Princeton University),soohyunl@cs.princeton.edu
+Adrian Thinnyun (University of Virginia),att4wp@virginia.edu
+Ryan Lenfant (University of Virginia),rpl8af@virginia.edu
+Raymond Pettit (University of Virginia),rp6zr@virginia.edu
+John R. Hott (University of Virginia),jrhott@virginia.edu
+Sukanya Kannan Moudgalya (Michigan State University),moudgal1@msu.edu
+Chris Mayfield (James Madison University),mayfiecs@jmu.edu
+Aman Yadav (Michigan State University),ayadav@msu.edu
+Helen H. Hu (Westminster College),hhu@westminstercollege.edu
+Clif Kussmaul (Green Mango Associates, LLC),clif@kussmaul.org
+Jacqueline Smith (University of Toronto),jsmith@cs.toronto.edu
+Jennifer Campbell (University of Toronto),campbell@cs.toronto.edu
+Jennifer Evans (University of Toronto),j.evans@utoronto.ca
+Chenyu Zhang (University of Toronto),charliezcy.zhang@mail.utoronto.ca
+Kai Arakawa (Western Washington University),hicksk5@wwu.edu
+Qiang Hao (Western Washington University),qiang.hao@wwu.edu
+Tyler Greer (Western Washington University),greert2@wwu.edu
+Lu Ding (Eastern Illinois University),lding@eiu.edu
+Christopher D. Hundhausen (Washington State University),hundhaus@wsu.edu
+Abigayle Peterson (Western Washington University),peter390@wwu.edu
+Shannon Duvall (Elon University),sduvall2@elon.edu
+Scott Spurlock (Elon University),sspurlock@elon.edu
+Dugald Ralph Hutchings (Elon University),dhutchings@elon.edu
+Robert C Duvall (Duke University),rcd@cs.duke.edu
+Jeremiah Blanchard (University of Florida),jjb@eng.ufl.edu
+Christina Gardner-McCune (University of Florida),gmccune@ufl.edu
+Lisa Anthony (University of Florida),lanthony@cise.ufl.edu
+Brian O'Neill (Western New England University),brian.oneill@wne.edu
+Lisa Hansen (Western New England University),lisa.hansen@wne.edu
+Elena Lyulina (JetBrains Research),elena.lyulina@jetbrains.com
+Anastasiia Birillo (JetBrains Research),anastasia.birillo@jetbrains.com
+Vladimir Kovalenko (JetBrains Research),vladimir.kovalenko@jetbrains.com
+Timofey Bryksin (JetBrains Research, Saint Petersburg State University),timofey.bryksin@jetbrains.com
+Julia M. Markel (UC San Diego),jmarkel@ucsd.edu
+Philip J. Guo (UC San Diego),pg@ucsd.edu
+Mariam Salloum (University of California, Riverside),msall001@ucr.edu
+Daniel Jeske (University of California, Riverside),daniel.jeske@ucr.edu
+Wenxiu Ma (University of California, Riverside),wenxiu.ma@ucr.edu
+Vagelis Papalexakis (University of California, Riverside),epapalex@ucr.edu
+Christian Shelton (University of California, Riverside),cshelton@ucr.edu
+Vassilis Tsotras (University of California, Riverside),vtsotras@ucr.edu
+Shuheng Zhou (University of California, Riverside),simone.zhou@ucr.edu
+Genevera I. Allen (Rice University),gallen@rice.edu
+Suraj Rampure (University of California, Berkeley),suraj.rampure@berkeley.edu
+Allen Shen (University of California, Berkeley),allenshen5@berkeley.edu
+Josh Hug (University of California, Berkeley),hug@cs.berkeley.edu
+Ismail Bile Hassan (Metropolitan State University),ismail.bilehassan@metrostate.edu
+Thanaa Ghanem (Metropolitan State University),thanaa.ghanem@metrostate.edu
+David Jacobson (Metropolitan State University),david.jacobson@metrostate.edu
+Simon Jin (Metropolitan State University),simon.jin@metrostate.edu
+Katherine Johnson (Metropolitan State University),katherine.johnson@metrostate.edu
+Dalia Sulieman (Metropolitan State University),dalia.sulieman@metrostate.edu
+Wei Wei (Metropolitan State University),wei.wei@metrostate.edu
+Jean R. S. Blair (United States Military Academy),jean.blair@westpoint.edu
+Lawrence Jones (ABET, Inc.),lawrence.g.jones@ieee.org
+Paul Leidig (Grand Valley State University),leidigp@gvsu.edu
+Scott Murray (HCA Healthcare, Inc.),rsmurray1@gmail.com
+Rajendra K. Raj (Rochester institute of Technology),rkr@cs.rit.edu
+Carol J. Romanowski (Rochester institute of Technology),cjr@cs.rit.edu
+Marion Neumann (Washington University in St. Louis),m.neumann@wustl.edu
+Robin Linzmayer (Washington University in St. Louis),rlinzmay@gmail.com
+Bhuvaneswari Gopal (University of Nebraska-Lincoln),bhuvana.gopal@unl.edu
+Stephen Cooper (University of Nebraska-Lincoln),stephen.cooper@unl.edu
+Jesse Harden (Virginia Polytechnic Institute and State University),jessemh@vt.edu
+Luke Gusukuma (Virginia Polytechnic Institute and State University),lukesg08@vt.edu
+Austin Cory Bart (University of Delaware),acbart@udel.edu
+Dennis Kafura (Virginia Polytechnic Institute and State University),kafura@cs.vt.edu
+Hieke Keuning (Open University of the Netherlands & Utrecht University),h.w.keuning@uu.nl
+Bastiaan Heeren (Open University of the Netherlands),bastiaan.heeren@ou.nl
+Johan Jeuring (Open University of the Netherlands & Utrecht University),j.t.jeuring@uu.nl
+Mostafa Mohammed (Virginia Polytechnic Institute and State University & Assiut University),profmdn@vt.edu
+Clifford A. Shaffer (Virginia Polytechnic Institute and State University),shaffer@vt.edu
+Susan H. Rodger (Duke University),rodger@cs.duke.edu
+Julien Romero (Max Planck Institute For Informatics),romerojulien34@gmail.com
+Piotr Milczarski (University of Lodz),piotr.milczarski@uni.lodz.pl
+Krzysztof Podlaski (University of Lodz),podlaski@uni.lodz.pl
+Artur Hłobaż (University of Lodz),artur.hlobaz@uni.lodz.pl
+Shane Dowdall (Dundalk Institute of Technology),shane.dowdall@dkit.ie
+Zofia Stawska (University of Lodz),zofia.stawska@uni.lodz.pl
+Derek O'Reilly (Dundalk Institute of Technology),derek.oreilly@dkit.ie
+Wensheng Wu (University of Southern California),wenshenw@usc.edu
+Monica M. McGill (CSEdResearch.org & Knox College),monica@csedresearch.org
+Sarah B. Lee (University of Southern Mississippi),Sarah.B.Lee@usm.edu
+Litany Lineberry (Mississippi State University),ll1178@msstate.edu
+John Sands (Moraine Valley Community College),sands@morainevalley.edu
+Leigh Ann DeLyser (CSforALL),leighann@csforall.org
+Catherine Mooney (University College Dublin),catherine.mooney@ucd.ie
+Brett A. Becker (University College Dublin),brett.becker@ucd.ie
+Jayce R. Warner (University of Texas at Austin),jwarner@tacc.utexas.edu
+Joshua Childs (University of Texas at Austin),joshuachilds@austin.utexas.edu
+Carol L. Fletcher (University of Texas at Austin),cfletcher@tacc.utexas.edu
+Nicole D. Martin (University of Texas at Austin),ndmartin@tacc.utexas.edu
+Michelle Kennedy (University of Texas at Austin),michelle.kennedy@utexas.edu
+Phillip A. Boda (The Learning Partnership),paboda@lponline.net
+Steven McGee (The Learning Partnership),mcgee@lponline.net
+Carmen Nayeli Guzman (University of California, San Diego),cnguzman@ucsd.edu
+Anne Xu (University of California, San Diego),anxu@ucsd.edu
+Adalbert Gerald Soosai Raj (University of California, San Diego),gerald@eng.ucsd.edu
+Takeria Blunt (Georgia Institute of Technology),tblunt3@gatech.edu
+Tamara Pearson (Spelman College),tamarapearson@spelman.edu
+Leonardo Silva (University of Coimbra),lses@dei.uc.pt
+António Mendes (University of Coimbra),toze@dei.uc.pt
+Anabela Gomes (Coimbra Polytechnic - ISEC),anabela@isec.pt
+Gabriel Macedo (Universidad Alberto Hurtado),gfortes@uahurtado.cl
+Outi T. Virkki (Haaga-Helia University of Applied Sciences),outi.virkki@haaga-helia.fi
+Olle Bälter (KTH Royal Institute of Technology),ob1@kth.se
+Richard Glassey (KTH Royal Institute of Technology),glassey@kth.se
+Mattias Wiggberg (KTH Royal Institute of Technology),wiggberg@kth.se
+Mihaela Sabin (University of New Hampshire),mihaela.sabin@unh.edu
+Karen H. Jin (University of New Hampshire),karen.jin@unh.edu
+Adrienne Smith (Cynosure Consulting),adrienne.ann.smith@gmail.com
+Christopher Nitta (University of California, Davis),cjnitta@ucdavis.edu
+Kurt Eiselt (University of California, Davis),eiselt@ucdavis.edu
+Kristin Stephens-Martinez (Duke University),ksm@cs.duke.edu
+Khalia M. Braswell (Temple University),khalia@temple.edu
+Jasmine Johnson (Clark Atlanta University),jasmine.johnson@students.cau.edu
+Brie'anna Brown (University of North Carolina at Charlotte),bbrow128@uncc.edu
+Jamie Payton (Temple University),payton@temple.edu
+Rose K. Pozos (Stanford University),rkpozos@stanford.edu
+Michelle Friend (University of Nebraska Omaha),mefriend@unomaha.edu
+Kimberly Michelle Ying (University of Florida),kimying@ufl.edu
+Fernando J. Rodriiguez (University of Florida),fjrodriguez@ufl.edu
+Alexandra Lauren Dibble (University of Florida),a.dibble@ufl.edu
+Alexia Charis Martin (University of Florida),a.martin1@ufl.edu
+Kristy Elizabeth Boyer (University of Florida),keboyer@ufl.edu
+Sanethia V. Thomas (University of Florida),sanethiat@ufl.edu
+Juan E. Gilbert (University of Florida),juan@ufl.edu
+Martha Escobar (Oakland University),marthaescobar@oakland.edu
+Jeff Gray (University of Alabama),gray@cs.ua.edu
+Kathy Haynie (Haynie Research and Evaluation),kchaynie@stanfordalumni.org
+Mohammed A. Qazi (Tuskegee University),mqazi@tuskegee.edu
+Yasmeen Rawajfih (Tuskegee University),yrawajfih@tuskegee.edu
+Pamela McClendon (Hoover City Schools),pmcclendon@hoover.k12.al.us
+Donnita Tucker (Francis Marion High School),Donnita Tucker
+Wendy Johnson (Chambers County Career Tech Ctr. ),johnsonwg@chambersk12.org
+Kathryn Hill (Research Alliance for New York City Schools),kbh255@nyu.edu
+Cheri Fancsali (Research Alliance for New York City Schools),cf94@nyu.edu
+Rachel Perelman (Ministry of Education),rachelperlmann@gmail.com
+Hagit Cohen (Ministry of Education),hagitc999@gmail.com
+Orit Hazzan (Technion),oritha@technion.ac.il
+Eva Skuratowicz (Southern Oregon University),skuratoe@sou.edu
+Maggie Vanderberg (Southern Oregon University),vanderbem@sou.edu
+Eping E. Hung (Michigan State University),epinghung@gmail.com
+Gladys Krause (William & Mary),ghkrause@wm.edu
+Dominique Bradley (American Institutes for Research),dbradley@air.org
+Joseph P. Wilson (American Institutes for Research),jwilson@air.org
+Lijun Ni (University at Albany, State University of New York),lni@albany.edu
+Fred Martin (University of Massachusetts Lowell ),Fred_Martin@uml.edu
+Gillian Bausch (University at Albany, State University of New York),gyu@albany.edu
+Rebecca Benjamin (University at Albany, State University of New York),rbenjamin@albany.edu
+Hsien-Yuan Hsu (University of Massachusetts Lowell),HsienYuan_Hsu@uml.edu
+Bernardo Feliciano (University of Massachusetts Lowell),Bernardo_Feliciano@uml.edu
+Audrey Rorrer (University of North Carolina at Charlotte),audrey.rorrer@uncc.edu
+David Pugalee (University of North Carolina at Charlotte),david.pugalee@uncc.edu
+Callie Edwards (North Carolina State University),Callie_edwards@ncsu.edu
+Danielle Boulden (North Carolina State University),dmboulden@ncsu.edu
+Mary Lou Maher (University of North Carolina at Charlotte),m.maher@uncc.edu
+Lijuan Cao (University of North Carolina at Charlotte),lcao2@uncc.edu
+Mohsen Dorodchi (University of North Carolina at Charlotte),mohsen.dorodchi@uncc.edu
+Veronica Catete (North Carolina State University),vmcatete@ncsu.edu
+David Frye (North Carolina State University),dafrye@ncsu.edu
+Tiffany Barnes (North Carolina State University),tmbarnes@ncsu.edu
+Eric Wiebe (North Carolina State University),wiebe@ncsu.edu
+Ninger Zhou (University of California Irvine),znenancy@gmail.com
+Remy Dou (Florida International University),redou@fiu.edu
+Baek-Young Choi (University of Missouri, Kansas City),choiby@missouri.edu
+Mia Minnes (University of California San Diego),minnes@eng.ucsd.edu
+Caroline Hardin (Western Washington University),hardinc3@wwu.edu
+Colin Moore (North Carolina State University),camoore7@ncsu.edu
+Lina Battestilli (North Carolina State University),lbattestilli@ncsu.edu
+Ignacio X. Domínguez (North Carolina State University),ignacioxd@ncsu.edu
+Aman Yadav (Michigan State University),ayadav@msu.edu
+Chris Mayfield (James Madison University),mayfiecs@jmu.edu
+Sukanya Kannan Moudgalya (Michigan State University),moudgal1@msu.edu
+Clif Kussmaul (Green Mango Associates, LLC),clif@kussmaul.org
+Helen H Hu (Westminster College),hhu@westminstercollege.edu
+Shelsey Sullivan (Utah State University),shelseyb@gmail.com
+Hillary Swanson (Utah State University),hillary.swanson@usu.edu
+John Edwards (Utah State University),john.edwards@usu.edu
+Jaemarie Solyst (Carnegie Mellon University),jsolyst@andrew.cmu.edu
+Trisha Thakur (University of Toronto),trisha.thakur@mail.utoronto.ca
+Madhurima Dutta (University of Toronto),madhurima.dutta@mail.utoronto.ca
+Yuya Asano (University of Toronto),yuya.asano@mail.utoronto.ca
+Andrew Petersen (University of Toronto Mississauga),andrew.petersen@utoronto.ca
+Joseph Jay Williams (University of Toronto),williams@cs.toronto.edu
+Zachary Dodds (Harvey Mudd College),dodds@hmc.edu
+Malia Morgan (Harvey Mudd College),mgmorgan@hmc.edu
+Lindsay Popowski (Harvey Mudd College),lpopowski@hmc.edu
+Henry Coxe (Harvey Mudd College),hmcoxe@gmail.com
+Caroline Coxe (Harvey Mudd College),carolinecoxe@gmail.com
+Kewei Zhou (Harvey Mudd College),kzhou@hmc.edu
+Eliot Bush (Harvey Mudd College),bush@hmc.edu
+Ran Libeskind-Hadas (Harvey Mudd College),hadas@cs.hmc.edu
+Yolanda A. Rankin (Florida State University),yrankin@gmail.com
+Jakita O. Thomas (Auburn University),jnt0020@auburn.edu
+Sheena Erete (DePaul University),serete@cdm.depaul.edu
+Kathleen J. Lehman (University of California, Los Angeles),kate.j.lehman@gmail.com
+Julia Rose Karpicz (University of California, Los Angeles),jkarpicz@ucla.edu
+Veronika Rozhenkova (University of California Irvine),vrozhenk@uci.edu
+Jamelia Harris (University of California, Los Angeles),jamelia94@g.ucla.edu
+Tomoko M. Nakajima (University of California, Los Angeles),tnak493@gmail.com
+Audra Lane (Harvey Mudd College),alane@hmc.edu
+Ruth Mekonnen (Harvey Mudd College),rmekonnen@hmc.edu
+Catherine Jang (Harvey Mudd College),cjang@hmc.edu
+Phoebe Chen (Harvey Mudd College),phchen@hmc.edu
+Colleen M. Lewis (University of Illinois at Urbana-Champaign),ColleenL@illinois.edu
+Brianna Dym (University of Colorado Boulder),brianna.dym@colorado.edu
+Namita Pasupuleti (University of Colorado Boulder),namita.pasupuleti@colorado.edu
+Cole Rockwood (University of Colorado Boulder),cole.rockwood@colorado.edu
+Casey Fiesler (University of Colorado Boulder),casey.fiesler@colorado.edu
+Tracy Camp (Colorado School of Mines),tcamp@mines.edu
+Christine Liebe (Colorado School of Mines),cliebe@mines.edu
+Heather Thiry (Golden Evaluation & Policy Research),heather.thiry@colorado.edu
+Dustin Palea (University of California, Santa Cruz),dpalea@ucsc.edu
+David T. Lee (University of California, Santa Cruz),dlee105@ucsc.edu
+Janet Davis (Whitman College),davisj@whitman.edu
+Andrea Tartaro (Furman University),andrea.tartaro@furman.edu
+Tammy VanDeGrift (University of Portland),vandegri@up.edu
+Seth Freeman (Capital Community College),sfreeman@capitalcc.edu
+Dan Kaiser (Southwest Minnesota State University),dan.kaiser@smsu.edu
+Ryan Lindsay (Northeast Range School),rlindsay@isd2142.k12.mn.us
+James Veseskis (Hartford Trinity Magnet College Academy),jveseskis@hartfordschools.org
+Lena Cohen (Brown University),lena_cohen1@brown.edu
+Heila Precel (Brown University),heila.precel@gmail.com
+Harold Triedman (Brown University),harold_triedman@brown.edu
+Kathi Fisler (Brown University),kathryn_fisler@brown.edu
+Alan Fekete (University of Sydney),alan.fekete@sydney.edu.au
+Judy Kay (University of Sydney),judy.kay@sydney.edu.au
+Uwe Roehm (University of Sydney),uwe.roehm@sydney.edu.au
+Thomas Suselo (University of Auckland & Universitas Atma Jaya Yogyakarta),tsus609@aucklanduni.ac.nz
+Burkhard C. Wünsche (University of Auckland),burkhard@cs.auckland.ac.nz
+Andrew Luxton-Reilly (University of Auckland),andrew@cs.auckland.ac.nz
+Lukas McIntosh (Western Washington University),mcintol@wwu.edu
+Caroline D. Hardin (Western Washington University),caroline.hardin@wwu.edu
+Jake Renzella (Deakin University),jake.renzella@deakin.edu.au
+Andrew Cain (Deakin University),andrew.cain@deakin.edu.au
+Jean-Guy Schneider (Deakin University),jeanguy.schneider@deakin.edu.au
+Sohail Alhazmi (RMIT University ),s3513690@student.rmit.edu.au
+Charles Thevathayan (RMIT University ),charles.thevathayan@rmit.edu.au
+Margaret Hamilton (RMIT University ),margaret.hamilton@rmit.edu.au
+Maxwell Bigman (Stanford University),mbigman@stanford.edu
+Ethan Roy (Stanford University),ethanroy@stanford.edu
+Jorge Garcia (Stanford University),jorgeedu@stanford.edu
+Miroslav Suzara (Stanford University),msuzara@stanford.edu
+Kaili Wang (Stanford University),kkwang22@stanford.edu
+Chris Piech (Stanford University),piech@cs.stanford.edu
+Clifford A. Shaffer (Virginia Tech),shaffer@vt.edu
+Ayaan M. Kazerouni (California Polytechnic State University),ayaank@calpoly.edu
+David H. Smith (University of Illinois at Urbana-Champaign),dhsmith2@illinois.edu
+Qiang Hao (Washington State University),qiang.hao@wwu.edu
+Christopher D. Hundhausen (Washington State University),hundhaus@wsu.edu
+Filip Jagodzinski (Western Washington University),jagodzf@wwu.edu
+Josh Myers-Dean (Western Washington University),myersdj@wwu.edu
+Kira Jaeger (Western Washington University),jaegerk2@wwu.edu
+Angela Zavaleta Bernuy (University of Toronto),angelazb@cs.toronto.edu
+Qi Yin Zheng (University of Toronto),qiyin.zheng@mail.utoronto.ca
+Hammad Shaikh (University of Toronto),hammy.shaikh@mail.utoronto.ca
+Andrew Petersen (University of Toronto),andrew.petersen@utoronto.ca
+Joseph Jay Williams (University of Toronto),williams@cs.toronto.edu
+Tom McKlin (The Findings Group),tom@thefindingsgroup.org
+Lauren McCall (Georgia Institute of Technology),lmccall7@gatech.edu
+Taneisha Lee (The Findings Group),taneisha@thefindingsgroup.org
+Brian Magerko (Georgia Institute of Technology),magerko@gatech.edu
+Michael Horn (Northwestern University),michael-horn@northwestern.edu
+Jason Freeman (Georgia Institute of Technology),jason.freeman@gatech.edu
+Scott T. Leutenegger (University of Denver),leut@du.edu
+Christina H. Paguyo (University of  Denver),christina.paguyo@du.edu
+Christine Alvarado (University of California, San Diego),cjalvarado@eng.ucsd.edu
+Alistair Gray (University of California, San Diego),ajgray@ucsd.edu
+Diba Mirza (University of California, Santa Barbara),dimirza@cs.ucsb.edu
+Madeline Tjoa (University of California, San Diego),mjtjoa@ucsd.edu
+Rafael del Vado Vírseda (Universidad Complutense de Madrid),rdelvado@mat.ucm.es
+Jason King (North Carolina State University),jtking@ncsu.edu
+Saquib Razak (Carnegie Mellon University in Qatar),srazak@andrew.cmu.edu
+Salar Khan (Carnegie Mellon University in Qatar),Salark@andrew.cmu.edu
+Nehal Hussein (Carnegie Mellon University in Qatar),nmahmoud@andrew.cmu.edu
+Hanan Alshikhabobakr (Carnegie Mellon University in Qatar),halshikh@andrew.cmu.edu
+Huda Gedawy (Carnegie Mellon University in Qatar),hgedawy@cmu.edu.au
+Abdul Wahab Yousaf (Carnegie Mellon University in Qatar),abdulwaz@andrew.cmu.edu
+Chris Piech (Stanford University),piech@cs.stanford.edu
+Ali Malik (Stanford University),malikali@cs.stanford.edu
+Kylie Jue (Stanford University),kyliej@stanford.edu
+Mehran Sahami (Stanford University),sahami@cs.stanford.edu
+Nikolas Gordon (Trent University),nikolasgordon@trentu.ca
+Omar Alam (Trent University),omaralam@trentu.ca
+Heather Thiry (University of Colorado),heather.thiry@colorado.edu
+Sarah T. Hug (Colorado Evaluation & Research Consulting ),hug@colorado.edu
+Carol L. Fletcher (The University of Texas at Austin),cfletcher@tacc.utexas.edu
+Sarah T. Dunton (MGHPCC),sdunton@mghpcc.org
+Ryan Torbey (University of Texas at Austin),rtorbey@tacc.utexas.edu
+John Goodhue (MGHPCC),jgoodhue@mghpcc.org
+Maureen Biggers (Indiana University),biggersm@indiana.edu
+Joshua Childs (University of Texas at Austin),joshuachilds@austin.utexas.edu
+Leigh Ann DeLyser (CSforAll Consortium),leighann@csforall.org
+Anne Leftwich (Indiana University),aleftwic@indiana.edu
+Debra Richardson (University of California, Irvine),djr@ics.uci.edu
+Lynn Goldsmith (Education Development Center, Inc.),Lgoldsmith@edc.org
+Jim Stanton (Education Development Center, Inc.),jstanton@edc.org
+Danielle Cummings (Department of Defense),Daniellencummings@gmail.com
+Marcus Anthony (Rutgers University),marcus.anthony@rutgers.edu
+Crystal Watson (W.E.B. Du Bois Scholars Institute),crystalchwatson@gmail.com
+Ahmad Watson (Rutgers University),Ahmad.watson@rutgers.edu
+Sherle Boone (W.E.B. Du Bois Scholars Institute),boones@wpunj.edu
+Diandra Prioleau (University of Florida),dprioleau@ufl.edu
+Brianna Richardson (University of Florida),richardsonb@ufl.edu
+Emma Drobina (University of Florida),edrobina@ufl.edu
+Rua Williams (Purdue University),rmwilliams@purdue.edu
+Joshua Martin (University of Florida),joshua.martin@ufl.edu
+Juan E. Gilbert (University of Florida),juan@ufl.edu
+Beleicia B. Bullock (University of Illinois),bbb4@illiois.edu
+Fernando L. Nascimento (Bowdoin College),fnascime@bowdoin.edu
+Stacy A. Doore (Colby College),sadoore@colby.edu
+Casey Fiesler (University of Colorado Boulder),casey.fiesler@colorado.edu
+Mikhaila Friske (University of Colorado Boulder),mikhaila.friske@colorado.edu
+Natalie Garrett (University of Colorado Boulder),natalie.garrett@colorado.edu
+Felix Muzny (Northeastern University),f.muzny@northeastern.edu
+Jessie J. Smith (University of Colorado Boulder),Jessie.Smith-1@colorado.edu
+Jason Zietz (University of Colorado Boulder),jason.zietz@colorado.ed
+Ben Rydal Shapiro (Georgia State University),bshapiro@gsu.edu
+Emma Lovegall (Georgia Institute of Technology),emma.logevall@gmail.com
+Amanda Meng (Georgia Institute of Technology),amandahmeng@gmail.com
+Jason Borenstein (Georgia Institute of Technology),borenstein@gatech.edu
+Ellen Zegura (Georgia Institute of Technology),ewz@cc.gatech.edu
+Rodrigo Ferreira (Rice University),rf29@rice.edu
+Moshe Y. Vardi (Rice University),vardi@cs.rice.edu
+Craig S. Miller (DePaul University),cmiller@cdm.depaul.edu
+Amber Settle (DePaul University),asettle@cdm.depaul.edu
+Benjamin Simon Clegg (University of Sheffield),bsclegg1@sheffield.ac.uk
+Phil McMinn (University of Sheffield),p.mcminn@sheffield.ac.uk
+Gordon Fraser (University of Passau),gordon.fraser@uni-passau.de
+Elisa Baniassad (University of British Columbia),ebani@cs.ubc.ca
+Lucas Zamprogno (University of British Columbia),lucasaz@cs.ubc.ca
+Braxton Hall (University of British Columbia),braxtonh@cs.ubc.ca
+Reid Holmes (University of British Columbia),rtholmes@cs.ubc.ca
+Ben Stephenson (University of Calgary),ben.stephenson@ucalgary.ca
+Guransh Mangat (University of Calgary),guransh.mangat1@ucalgary.ca
+David J. Malan (Harvard University),malan@harvard.edu
+Cristina L. Abad (Escuela Superior Politecnica del Litoral, ESPOL),cabad@fiec.espol.edu.ec
+Eduardo Ortiz-Holguin (Escuela Superior Politecnica del Litoral, ESPOL),leortiz@espol.edu.ec
+Edwin F. Boza (Escuela Superior Politecnica del Litoral, ESPOL),eboza@fiec.espol.edu.ec
+Suleman Mahmood (University of Illinois at Urbana-Champaign),msm6@illinois.edu
+Geoffrey L Herman (University of Illinois at Urbana-Champaign),glherman@illinois.edu
+Stephen A. Zekany (University of Michigan),szekany@umich.edu
+Jielun Tan (University of Michigan),jieltan@umich.edu
+James A. Connelly (University of Michigan),conjam@umich.edu
+Ronald G. Dreslinski (University of Michigan),rdreslin@umich.edu
+Marc Pfeifer (University of Freiburg),pfeiferm@informatik.uni-freiburg.de
+Benjamin Völker (University of Freiburg),voelkerb@informatik.uni-freiburg.de
+Sebastian Böttcher (University of Siegen),sebastian.boettcher@uniklinik-freiburg.de
+Sven Köhler (University of Freiburg),koehlers@informatik.uni-freiburg.de
+Philipp M. Scholl (University of Freiburg),pscholl@informatik.uni-freiburg.de
+Suzanne J. Matthews (United States Military Academy),suzanne.matthews@westpoint.edu
+Tia Newhall (Swarthmore College),newhall@cs.swarthmore.edu
+Kevin C. Webb (Swarthmore College),kwebb@cs.swarthmore.edu
+Mitchell Rogers (University of Auckland),mrog173@aucklanduni.ac.nz
+Wendy Yao (University of Auckland),wyao332@aucklanduni.ac.nz
+Andrew Luxton-Reilly (University of Auckland),a.luxton-reilly@auckland.ac.nz
+Juho Leinonen (University of Helsinki),juho.leinonen@helsinki.fi
+Danielle Lottridge (University of Auckland),d.lottridge@auckland.ac.nz
+Paul Denny (University of Auckland),paul@cs.auckland.ac.nz
+Simon Su (University of Auckland),zsu801@aucklanduni.ac.nz
+Edward Zhang (University of Auckland),ezha210@aucklanduni.ac.nz
+Paul Denny (University of Auckland),paul@cs.auckland.ac.nz
+Nasser Giacaman (University of Auckland),n.giacaman@auckland.ac.nz
+Mac Malone (University of North Carolina at Chapel Hill),tydeu@cs.unc.edu
+Yicheng Wang (University of North Carolina at Chapel Hill),yicheng@cs.unc.edu
+Kedrian James (University of North Carolina at Chapel Hill),kedjames@cs.unc.edu
+Murray Anderegg (University of North Carolina at Chapel Hill),anderegg@cs.unc.edu
+Jan Werner (University of North Carolina at Chapel Hill),jjwerner@cs.unc.edu
+Fabian Monrose (University of North Carolina at Chapel Hill),fabian@cs.unc.edu
+Matt J. Davidson (University of Washington),mattjd@uw.edu
+Brett Wortzman (University of Washington),brettwo@cs.washington.edu
+Amy J. Ko (University of Washington),ajko@uw.edu
+Min Li (University of Washington),minli@uw.edu
+Carla Strickland (University of Chicago),castrickland@uchicago.edu
+Kathryn M. Rich (University of Chicago),kmrich@uchicago.edu
+Donna Eatinger (University of Chicago),dmeatinger@uchicago.edu
+Todd Lash (University of Illinois Urbana-Champaign),toddlash.edu@gmail.com
+Andy Isaacs (University of Chicago),aisaacs@uchicago.edu
+Maya Israel (University of Florida),misrael@coe.ufl.edu
+Diana Franklin (University of Chicago),dmfranklin@uchicago.edu
+Yanhong A. Liu (Stony Brook University),liu@cs.stonybrook.edu
+Matthew Castellana (Stony Brook University),matcastellan@cs.stonybrook.edu
+Max Fowler (University of Illinois),mfowler5@illinois.edu
+Binglin Chen (University of Illinois),chen386@illinois.edu
+Sushmita Azad (University of Illinois),sazad2@illinois.edu
+Matthew West (University of Illinois),mwest@illinois.edu
+Craig Zilles (University of Illinois),zilles@illinois.edu
+Gili Rusak (Stanford University),gili@stanford.edu
+Lisa Yan (Stanford University),yanlisa@stanford.edu
+Will Crichton (Stanford University),wcrichto@cs.stanford.edu
+Georgia Gabriela Sampaio (Stanford University),gsamp@stanford.edu
+Pat Hanrahan (Stanford University),hanrahan@cs.stanford.edu
+Jennifer Tsan (North Carolina State University),jtsan@ncsu.edu
+Jessica Vandenberg (North Carolina State University),jvanden2@ncsu.edu
+Zarifa Zakaria (North Carolina State University),zzakari@ncsu.edu
+Danielle C. Boulden (North Carolina State University),dmboulde@ncsu.edu
+Collin Lynch (North Carolina State University),cflynch@ncsu.edu
+Eric Wiebe (North Carolina State University),wiebe@ncsu.edu
+Kristy Elizabeth Boyer (University of Florida),keboyer@ufl.edu
+Debarati Basu (University of North Carolina at Charlotte),dbasu1@uncc.edu
+Sarah Heckman (North Carolina State University),sarah_heckman@ncsu.edu
+Mary Lou Maher (University of North Carolina at Charlotte),M.Maher@uncc.edu
+Robin Jocius (University of Texas at Arlington),robin.jocius@uta.edu
+Deepti Joshi (The Citadel),djoshi@citadel.edu
+Jennifer Albert (The Citadel),jalbert@citadel.edu
+Tiffany Barnes (North Carolina State University),tmbarnes@ncsu.edu
+Richard Robinson (The Citadel),rjmr@citadel.edu
+Veronica Cateté (North Carolina State University),vmcatete@ncsu.edu
+Yihuan Dong (North Carolina State University),ydong2@ncsu.edu
+Melanie Blanton (The Citadel),mblanto1@citadel.edu
+Ian O'Byrne (College of Charleston),wiobyrne@gmail.com
+Ashley Andrews (The Citadel),aandrew1@citadel.edu
+Raymond W. Blaine (U.S Military Academy),raymond.blaine@westpoint.edu
+Jean R. S. Blair (U.S Military Academy),jean.blair@westpoint.edu
+Christa M. Chewar (U.S Military Academy),christa.chewar@westpoint.edu
+Rob Harrison (U.S Military Academy),rob.harrison@westpoint.edu
+James J. Raftery (U.S Military Academy),james.raftery@westpoint.edu
+Edward Sobiesk (U.S Military Academy),edward.sobiesk@westpoint.edu
+Majed Almansoori (University of Wisconsin-Madison),malmansoori2@wisc.edu
+Jessica Lam (University of California, San Diego),jplam@ucsd.edu
+Elias Fang (University of California, San Diego),efang@ucsd.edu
+Adalbert Gerald Soosai Raj (University of California, San Diego),gerald@eng.ucsd.edu
+Rahul Chatterjee (University of Wisconsin-Madison),rahul.chatterjee@wisc.edu
+Thoshitha Gamage (Southern Illinois University Edwardsville),tgamage@siue.edu
+Tim York (Southern Illinois University Edwardsville),tyork@siue.edu
+Joseph Ditton (Utah State University),joseph.ditton@usu.edu
+Hillary Swanson (Utah State University),hillary.swanson@usu.edu
+John Edwards (Utah State University),john.edwards@usu.edu
+Ben Stephenson (University of Calgary),ben.stephenson@ucalgary.ca
+Adrian de Freitas (United States Air Force Academy),adrian.defreitas@gmail.com
+Troy Weingart (United States Air Force Academy),troy.weingart@afacademy.af.edu
+David Caswell (United States Air Force Academy),david.caswell@afacademy.af.edu
+Barry Fagin (United States Air Force Academy),barry.fagin@afacademy.af.edu
+David Merritt (United States Air Force Academy),david.merritt@afacademy.af.edu
+Paul Wilkinson (United States Air Force Academy),paul.wilkinson@afacademy.af.edu
+Steven Fulton (United States Air Force Academy),steven.fulton@afacademy.af.edu
+Kelly Hughes (United States Air Force Academy),kelly.hughes@afacademy.af.edu
+Steven Bitner (The University of West Florida),sbitner@uwf.edu
+Keith Schwarz (Stanford University),htiek@cs.stanford.edu
