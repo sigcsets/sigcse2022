@@ -1,0 +1,84 @@
+Martin Fellenz,mfellenz@tcd.ie
+Mairead Brady,Mairead.Brady@tcd.ie
+Michelle MacMahon,macmahmi@tcd.ie
+Jonathan Dukes,jdukes@tcd.ie
+Monica M. McGill,monica@csedresearch.org
+Stacey Sexton,ssexton@sagefoxgroup.com
+Alan Peterfreund,apeterfreund@sagefoxgroup.com
+Maria Praetzellis,maria.praetzellis@ucop.edu
+Todd Sproull,todd@wustl.edu
+Doug Shook,dshook@wustl.edu
+Bill Siever,bsiever@wustl.edu
+Earl W. Huff,earlh@clemson.edu
+Francisco Castro,fcastro@cs.umass.edu
+Gayithri Jayathirtha,gayithri@upenn.edu
+Yerika Jimenez,jimenyer@ufl.edu
+Minji Kong,mkong@udel.edu
+Natalie Araujo Melo,melon@u.northwestern.edu
+Amber Solomon,asolomon30@gatech.edu
+Jennifer Tsan,jtsan@ncsu.edu
+Barbara Ericson,barbarer@umich.edu
+Bradley Miller,runestoneinteractive@gmail.com
+Amy Isvik,aaisvik@ncsu.edu
+Tiffany Barnes,tiffany.barnes@gmail.com
+Jamie Payton,payton@temple.edu
+Veronica Catete,vmcatete@ncsu.edu
+Lina Battestilli,tbdimitr@ncsu.edu
+Jennifer Rosato,jrosato@css.edu
+Anne Leftwich,aleftwic@indiana.edu
+Louis Nadelson,lnadelson1@uca.edu
+Michelle Friend,mefriend@unomaha.edu
+Michael Ball,ball@berkeley.edu
+Dan Garcia,ddgarcia@berkeley.edu
+Eric Arvai,earvai@berkeley.edu
+Leen-Kiat Soh,lksoh@cse.unl.edu
+Markeya S. Peteranetz,peteranetz@unl.edu
+Olga Glebova,glebova@cs.gsu.edu
+Darina Dicheva,dichevad@wssu.edu
+Keith Irwin,irwinke@wssu.edu
+Lillian Cassel,cassel@acm.org
+Ahmed Ibrahim,aibrahim@pitt.edu
+Kalpathi Subramanian,krs@uncc.edu
+Jamie Payton,payton@temple.edu
+Matthew Mcquaigue,mmcquaig@uncc.edu
+David J. Malan,malan@harvard.edu
+Kareem Zidane,kzidane@cs50.harvard.edu
+Brian Yu,brian@cs.harvard.edu
+Andrew Berns,adberns@cs.uni.edu
+J. Philip East,east@cs.uni.edu
+J. Ben Schafer,schafer@cs.uni.edu
+Beryl Hoffman,hoffmanb@elms.edu
+Barbara Ericson,barbarer@umich.edu
+Marnie Hill,mehill6@ncsu.edu
+Dan Garcia,ddgarcia@berkeley.edu
+Tiffany Barnes,tiffany.barnes@gmail.com
+Lauren Mock,lmock@berkeley.edu
+Michael Ball,ball@berkeley.edu
+Amy Isvik,aaisvik@ncsu.edu
+Dave Bell,dbell5@ncsu.edu
+Michael Thompson,mfthomps@nps.edu
+Cynthia Irvine,irvine@nps.edu
+Erik Saule,esaule@uncc.edu
+Alec Goncharow,agoncharow@uncc.edu
+Jamie Payton,payton@temple.edu
+Zach Rentz,zrentz@calpoly.edu
+John Clements,clements@calpoly.edu
+Zoë Wood,zwood@calpoly.edu
+Aaron Keen,akeen@calpoly.edu
+Jennifer R. Amos,jamos@illinois.edu
+Suneer Angra,angra2@illinois.edu
+Colin Castelberry,castleb1@illinois.edu
+Olga Stadie,ostadie@turnitin.com
+David J. Malan,malan@harvard.edu
+Chad Sharp,cmlsharp@umich.edu
+Jelle van Assema,j.vanassema@uva.nl
+Brian Yu,brian@cs.harvard.edu
+Kareem Zidane,kzidane@cs50.harvard.edu
+Bill Siever,bsiever@gmail.com
+Michael P Rogers,mprogers@mac.com
+David L. Largent,dllargent@bsu.edu
+Christian Roberson,croberson@flsouthern.edu
+Carlo Sgro,csgro@conestogac.on.ca
+David P. Bunde,dbunde@knox.edu
+Apan Qasem,apan@txstate.edu
+Philip Schielke,Philip.Schielke@concordia.edu

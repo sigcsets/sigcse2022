@@ -104,26 +104,20 @@ Silver:
     link: "http://gradescope.com"
     image: gradescope-200.png
     sessions:
-    - title: "Supporter Session presented by Gradescope"
+    - title: "Gradescope: One Platform for Paper, Online, and Programming Assignments"
       day: Wednesday, March 17
       time: 4:15 PM (ET) - 5:30 PM (ET)
-      presenters: TBA
-  - name: IBM
-    image: ibm-200.png
-    link: "https://ibm.com/"
-    sessions:
-    - title: "Supporter Session presented by IBM"
-      day: Wednesday, March 17
-      time: 5:30 PM (ET) - 6:45 PM (ET)
-      presenters: TBA
+      presenters: Dibyo Majumdar (Product & Engineering, Gradescope by Turnitin); Joanna Klukowska (Clinical Associate Professor, Department of Computer Science, New York University); Dave Doty (Assistant Professor of Computer Science, University of California-Davis); Dr. Mohammad Ammar Alsalka (University of Leeds)
+      description: "Gradescope is a single place for grading paper-based exams, programming projects, and online assignments. Join this session to hear from current computer science users about their experience and see for yourself what Gradescope looks like in action.<br><br>Don’t miss your opportunity to: <ul><li>Learn how Gradescope’s rubric-based grading interface can help you grade your exams and homework, faster, without compromising on quality.</li><li>See how to review your programming projects, in any language, with our autograder platform, review for similarity, and distribute results.</li><li>Hear from a panel of SIGCSE peers and current Gradescope users about how Gradescope has made an impact.</li></ul>Whether you’re grading 20, 200, or 2,000 students, Gradescope can help. Attend this session to find out more."
   - name: repl.it
     image: replit-200.png
     link: "https://repl.it/teams-for-education"
     sessions:
-    - title: "Supporter Session presented by Repl.it"
+    - title: "Zero Setup Online Pair Coding on Any Device with Replit"
       day: Wednesday, March 17
       time: 4:15 PM (ET) - 5:30 PM (ET)
-      presenters: TBA
+      presenters: Derrick McMillen; Patrick Coleman
+      description: "During extended periods of at-home learning, the equity gap of computing education access has been exacerbated further. Varying ability levels, home computer access, and internet access introduce new challenges for CS instructors to reach all students.  Instructors are also placed in the precarious position of needing to address industry demands for students trained with pair programming skills.  Hybrid learning that deliberately fosters a sense of comradery and intentional collaboration promises to improve student persistence and course outcomes.<br><br>Replit Teams for Education presents an opportunity for instructors from all backgrounds to spend more time engaged in teaching rather than troubleshooting student environments and tediously sharing code. Attendees will experience first-hand how students can work together through Replt’s collaborative coding environment and how to leverage Replit’s unique technologies in their teaching practice."
   - name: Zybooks
     image: zybooks-200.png
     link: "https://www.zybooks.com/why-zybooks/"
@@ -147,11 +141,11 @@ Bronze:
   - name: AnitaB.org
     image: anitaborg-200.png
     link: "https://anitab.org/"
-  - name: Intel OpenVino
+  - name: Intel OpenVINO
     image: intel-200.png
-    link: "https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html"
+    link: "https://software.intel.com/content/www/us/en/develop/tools/devcloud/edge.html"
     sessions:
-    - title: "Supporter Session presented by Intel OpenVino"
+    - title: "Supporter Session presented by Intel OpenVINO"
       day: Thursday, March 18
       time: 5:30 PM (ET) - 6:45 PM (ET)
       presenters: TBA
@@ -168,3 +162,8 @@ Bronze:
   - name: "Turing's Craft"
     image: turingscraft-200.png
     link: "https://www.turingscraft.com/"
+    sessions:
+    - title: "Supporter Session presented by Turing's Craft"
+      day: Thursday, March 18
+      time: 4:15 PM (ET) - 5:30 PM (ET)
+      presenters: TBA
