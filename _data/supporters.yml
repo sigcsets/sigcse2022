@@ -141,11 +141,11 @@ Bronze:
   - name: AnitaB.org
     image: anitaborg-200.png
     link: "https://anitab.org/"
-  - name: Intel OpenVino
+  - name: Intel OpenVINO
     image: intel-200.png
-    link: "https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html"
+    link: "https://software.intel.com/content/www/us/en/develop/tools/devcloud/edge.html"
     sessions:
-    - title: "Supporter Session presented by Intel OpenVino"
+    - title: "Supporter Session presented by Intel OpenVINO"
       day: Thursday, March 18
       time: 5:30 PM (ET) - 6:45 PM (ET)
       presenters: TBA
