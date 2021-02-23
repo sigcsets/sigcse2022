@@ -109,6 +109,9 @@ Silver:
       time: 4:15 PM (ET) - 5:30 PM (ET)
       presenters: Dibyo Majumdar (Product & Engineering, Gradescope by Turnitin); Joanna Klukowska (Clinical Associate Professor, Department of Computer Science, New York University); Dave Doty (Assistant Professor of Computer Science, University of California-Davis); Dr. Mohammad Ammar Alsalka (University of Leeds)
       description: "Gradescope is a single place for grading paper-based exams, programming projects, and online assignments. Join this session to hear from current computer science users about their experience and see for yourself what Gradescope looks like in action.<br><br>Don’t miss your opportunity to: <ul><li>Learn how Gradescope’s rubric-based grading interface can help you grade your exams and homework, faster, without compromising on quality.</li><li>See how to review your programming projects, in any language, with our autograder platform, review for similarity, and distribute results.</li><li>Hear from a panel of SIGCSE peers and current Gradescope users about how Gradescope has made an impact.</li></ul>Whether you’re grading 20, 200, or 2,000 students, Gradescope can help. Attend this session to find out more."
+  - name: IBM
+    image: ibm-200.png
+    link: "https://ibm.com/"
   - name: repl.it
     image: replit-200.png
     link: "https://repl.it/teams-for-education"
