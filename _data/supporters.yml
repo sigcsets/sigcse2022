@@ -137,10 +137,11 @@ Bronze:
     image: adacore-200.png
     link: "http://www.adacore.com"
     sessions: 
-    - title: "Supporter Session presented by AdaCore"
+    - title: "Learning systems programming, hard real-time programming and formal methods with good language support"
       day: Thursday, March 18
       time: 4:15 PM (ET) - 5:30 PM (ET)
-      presenters: TBA
+      presenters: "Patrick Rogers, PhD"
+      description: "This meeting will provide an interactive discussion and demonstration revolving around a programming language and tools for teaching systems programming, real-time programming, and practical, teachable formal methods."
   - name: AnitaB.org
     image: anitaborg-200.png
     link: "https://anitab.org/"
