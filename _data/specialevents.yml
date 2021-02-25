@@ -32,3 +32,11 @@ specialevents:
     contact: symposium@sigcse2021.org
     description: "Join us for a special Technical Symposium event where we rewind… to SIGCSE TS 2020 (also known as the conference that wasn’t)!<br><br>The SIGCSE TS 2020 Rewind will feature presentations from some of our best papers, the most downloaded papers (showcasing community interest over the last year), and lightning talks. With the Rewind, we can recognize the work and community effort that went into SIGCSE TS 2020!"
     register: This event will appear as an open and free event in Pathable.  SIGCSE TS 2021 registration required, but no seperate registration required.
+  - title: "SIGCSE Business Meeting"
+    event: businessmeeting
+    day: Tuesday, March 23 at 6:00 PM (ET) 
+    time: Wednesday, March 24 at 12:30 PM (ET)
+    organizers: Adreinne Decker (SIGCSE Board Chair)
+    contact: adrienne@buffalo.edu
+    description: "The SIGCSE Organization is required to hold a business meeting each year. Normally this meeting is held during the Technical Symposium. Due to the virtual nature of the symposium this year and the challenges in scheduling in this new format, the board felt it best to hold the annual business meeting immediately following the conference.<br><br>As with the online business meeting last year, we are providing two opportunities for the SIGCSE membership to attend the meeting. Both meetings will present the same content, but are at different times to try to accommodate as much of our global audience as possible.<br><br>These meetings will be recorded and posted to the SIGCSE website. If you have questions you would like to submit to the board before the meetings, please use this Google form: <a href='https://forms.gle/29D96uyavhwyQd1Y8'>https://forms.gle/29D96uyavhwyQd1Y8</a>"
+    register: "Registration is required for the events. Please use the following links to register for the appropirate session:<ul><li>Registration for Tuesday March 23 6pm EST (GMT-4): <a href='https://acm-org.zoom.us/webinar/register/WN_QWlXv1biT3ulurVE3W194w'>https://acm-org.zoom.us/webinar/register/WN_QWlXv1biT3ulurVE3W194w</a></li><li>Registration for Wednesday March 24 12:30pm EST (GMT-4): <a href='https://acm-org.zoom.us/webinar/register/WN_FhTzjt6wTJ-eFgZVm8u8Cg'>https://acm-org.zoom.us/webinar/register/WN_FhTzjt6wTJ-eFgZVm8u8Cg</a></li></ul>"
