@@ -852,6 +852,28 @@ Contributions to Computer Science Education Keynote
         </div>
         </a>
       </div>
+      <div class="date">23</div>
+       <div class="event">
+      <a href="{{ site.url }}/schedule/specialevents/#businessmeeting">
+        <div class="event-desc">
+          SIGCSE Business Meeting
+        </div>
+        <div class="event-time">
+          6:00 PM
+        </div>
+      </a>
+      </div>
+      <div class="date">24</div>
+       <div class="event">
+      <a href="{{ site.url }}/schedule/specialevents/#businessmeeting">
+        <div class="event-desc">
+          SIGCSE Business Meeting
+        </div>
+        <div class="event-time">
+          12:30 PM
+        </div>
+      </a>
+      </div>
     </td>
   </tr>
 
