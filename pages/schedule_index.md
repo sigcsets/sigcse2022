@@ -140,7 +140,7 @@ a {
 	}
 }
 </style>
-Last update: {{ "now" | date: "%A, %B %d, %Y %H:%M ET" }}    
+Last update: {{ "now" | date: "%A, %B %d, %Y" }}    
 All times Eastern Time Zone (North America) _(Note that Daylight Saving Time in the US begins at 2:00 AM on March 14)_     
 Click on the events in the calendar below to see more information about each session    
 Quick Links: [Program Schedule]({{ site.url }}/schedule/program) | [Keynote Speakers]({{ site.url }}/schedule/keynotes) | [Posters]({{ site.url }}/schedule/posters) | [Demos]({{ site.url }}/schedule/demos) | [BoFs]({{ site.url }}/schedule/bofs) | [ACM SRC]({{ site.url }}/schedule/src) | [Workshops]({{ site.url }}/schedule/workshops) | [Affiliated Events]({{ site.url }}/schedule/affiliatedevents) | [Special Events]({{ site.url }}/schedule/specialevents) | [Supporter Sessions]({{ site.url }}/schedule/supportersessions)     
@@ -208,6 +208,16 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global) |
         </div>
         <div class="event-time">
           1:00 PM-5:00 PM
+        </div>
+      </a>
+      </div>
+      <div class="event">
+      <a href="{{ site.url }}/schedule/supportersessions/#event-pre-symposium_session_presented_by_github">
+        <div class="event-desc">
+          Supporter - GitHub Education
+        </div>
+        <div class="event-time">
+          3:00 PM-4:15 PM
         </div>
       </a>
       </div>
@@ -336,6 +346,16 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global) |
     <td class="day">
       <div class="date">14</div>
       <div class="event">
+      <a href="{{ site.url }}/morningcoffee">
+        <div class="event-desc">
+          SIGCSE Morning Coffee
+        </div>
+        <div class="event-time">
+          10:00 AM-10:30 AM
+        </div>
+      </a>
+      </div>
+      <div class="event">
       <a href="{{ site.url }}/schedule/workshops/#block-3">
         <div class="event-desc">
           Workshop Block 3
@@ -378,6 +398,16 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global) |
     </td>
     <td class="day">
       <div class="date">15</div>
+       <div class="event">
+      <a href="{{ site.url }}/morningcoffee">
+        <div class="event-desc">
+          SIGCSE Morning Coffee
+        </div>
+        <div class="event-time">
+          10:00 AM-10:30 AM
+        </div>
+      </a>
+      </div>
       <div class="event">
       <a href="{{ site.url }}/schedule/affiliatedevents/#event-5">
         <div class="event-desc">
@@ -469,6 +499,16 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global) |
     </td>
     <td class="day">
       <div class="date">16</div>
+       <div class="event">
+      <a href="{{ site.url }}/morningcoffee">
+        <div class="event-desc">
+          SIGCSE Morning Coffee
+        </div>
+        <div class="event-time">
+          10:00 AM-10:30 AM
+        </div>
+      </a>
+      </div>
       <div class="event">
       <a href="{{ site.url }}/schedule/affiliatedevents/#event-5">
         <div class="event-desc">
@@ -550,6 +590,16 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global) |
     </td>
     <td class="day">
       <div class="date">17</div>
+       <div class="event">
+      <a href="{{ site.url }}/morningcoffee">
+        <div class="event-desc">
+          SIGCSE Morning Coffee
+        </div>
+        <div class="event-time">
+          10:00 AM-10:30 AM
+        </div>
+      </a>
+      </div>
             <div class="event">
         <a href="{{ site.url }}/schedule/program/#Wednesday-1">
         <div class="event-desc">
@@ -622,6 +672,16 @@ Contributions to Computer Science Education Keynote
     </td>
     <td class="day">
       <div class="date">18</div>
+       <div class="event">
+      <a href="{{ site.url }}/morningcoffee">
+        <div class="event-desc">
+          SIGCSE Morning Coffee
+        </div>
+        <div class="event-time">
+          10:00 AM-10:30 AM
+        </div>
+      </a>
+      </div>
             <div class="event">
             <a href="{{ site.url }}/schedule/program/#Thursday-1">
         <div class="event-desc">
@@ -683,6 +743,16 @@ Contributions to Computer Science Education Keynote
     </td>
     <td class="day">
       <div class="date">19</div>
+       <div class="event">
+      <a href="{{ site.url }}/morningcoffee">
+        <div class="event-desc">
+          SIGCSE Morning Coffee
+        </div>
+        <div class="event-time">
+          10:00 AM-10:30 AM
+        </div>
+      </a>
+      </div>
             <div class="event">
             <a href="{{ site.url }}/schedule/program/#Friday-1">
         <div class="event-desc">
@@ -724,6 +794,16 @@ Contributions to Computer Science Education Keynote
     </td>
     <td class="day">
       <div class="date">20</div>
+       <div class="event">
+      <a href="{{ site.url }}/morningcoffee">
+        <div class="event-desc">
+          SIGCSE Morning Coffee
+        </div>
+        <div class="event-time">
+          10:00 AM-10:30 AM
+        </div>
+      </a>
+      </div>
             <div class="event">
             <a href="{{ site.url }}/schedule/keynotes/#taylor">
         <div class="event-desc">
