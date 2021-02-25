@@ -3,6 +3,10 @@ Platinum:
     image: github-200.png
     link: "https://education.github.com/"
     sessions:
+    - title: "Pre-Symposium Session presented by GitHub"
+      day: Wednesday, March 10
+      time: 3:00 PM (ET) - 4:15 PM (ET)
+      presenters: TBA
     - title: "Using GitHub for Multi-College Collaborative Undergraduate Research"
       day: Tuesday, March 16
       time: 3:00 PM (ET) - 4:15 PM (ET)
@@ -25,7 +29,7 @@ Platinum:
     - title: "Artificial Intelligence and Real Justice"
       day: Sunday, March 14
       time: 8:00 PM (ET)
-      presenters: Kamau Bobb (Moderator - Google); Panelists TBA
+      presenters: "Kamau Bobb (Moderator - Google); Panelists: Ayanna Howard & Safiya Noble"
       description: "As we near the end of the first quarter of the 21st century, artificial intelligence and machine learning are quietly sitting right at the intersection of the technical and social frontier. Facing 20th century biases being transformed into 21st century realities through these new technologies, AI and ML are an especially complex duo right at the nexus of science, ethics and justice. Fundamental questions arise here - what do students need to know to be effective guardians of fairness and justice in these fields? what are the fields that ought to be engaged beyond computation itself? how are communities armed to even understand the implications and embedded nature of these systems into our daily lives? This session brings together thought leaders who are grappling with this dilemma with the goal of moving the discussion beyond whether AI and ML are biased and whose fault it may be, to understanding how we engage at this new frontier as both educators and citizens."
     - title: "How Google Supports and Uses CS Education Research"
       day: Monday, March 15
@@ -41,10 +45,20 @@ Platinum:
     image: microsoft-200.png
     link: "https://www.microsoft.com/en-us/"
     sessions:
+    - title: "Introduction to Microsoft Azure Cloud (On-Demand Video)"
+      day: Monday, March 8
+      time: 3:30 PM (ET)
+      presenters: "Dmitry Soshnikov"
+      description: "This video introduces the concept of a cloud, and explains how Microsoft Azure can be used to abstract the way we run our code: from Virtual Machines and IaaS to Platform Services. It shows how you can quickly benefit from using Azure, and gives overview of most important services.<br><br><em>Interested in live Q&A? Please visit our eBooth Monday, March 15 and Tuesday, March 16 from 3:00pm-4:00pm ET.</em>"
+    - title: "Introduction to Azure Machine Learning (On-Demand Video)"
+      day: Monday, March 8
+      time: 5:30 PM (ET)
+      presenters: "Dmitry Soshnikov"
+      description: "Azure includes a complete solution for all your Machine Learning needs, called Azure Machine Learning. It can be used both by beginners (in low-code/no-code scenarios) and by experienced Data Scientists to perform tasks such as hyperparameter optimization. This video introduces different ways to use Azure ML in your projects.<br><br><em>Interested in live Q&A? Please visit our eBooth Monday, March 15 and Tuesday, March 16 from 3:00pm-4:00pm ET.</em>"
     - title: "Practical Quantum Computing Education: An Overview"
       day: Tuesday, March 9
       time: 3:00 PM (ET)
-      presenters: ""
+      presenters: "Mariia Mykhailova"
       description: "In this talk we will present a brief overview of the current state of practical quantum computing education and existing initiatives directed towards supporting it. After that we will discuss the work done by Microsoft Quantum in the domain of quantum computing education, aimed both at self-paced learners and at bringing quantum programming into quantum computing curricula."
     - title: "MakeCode Arcade Game Development Workshop"
       day: Friday, March 12
@@ -61,6 +75,11 @@ Platinum:
       time: 3:00 PM (ET) - 4:15 PM (ET)
       presenters: "Jacqueline Russell (Program Manager - Microsoft MakeCode); Katie Henry (North America Lead, Micro:bit Educational Foundation)"
       description: "The micro:bit is a tiny educational computing device that has taken the world by storm with more than 25 million children learning to code with the micro:bit in over 60 countries.  The latest version of the micro:bit recently released, opens up new creative possibilities with an on-board speaker and microphone.  Join us to learn more about this new device and follow along to build some sample projects like a sound emotion badge in Microsoft MakeCode.  We'll also cover some best practices for physical computing in remote learning environments and review free classroom resources."
+    - title: "Demystifying Apache Spark"
+      day: Wednesday, March 17
+      time: 6:45 PM (ET) - 8:00 PM (ET)
+      presenters: "Adi Polak"
+      description: "Spark is the leading Big Data analytics framework. However, it also has excellent features for Stream processing and machine learning development. Big Data systems are a new reality. Whether we're creating microservices-based solutions or machine learning-based products, we work with data, most often, big data. Apache Spark is your friend if you want to position yourself on the road for success as a Big Data Developer, Data Engineer, or Data Science with hands-on production experience. Come to this session to learn the basics of Apache Spark and how YOU can get started with it."
 
 
 Gold:
@@ -77,14 +96,16 @@ Gold:
     image: nsf-200.png
     link: "https://nsf.gov/"
     sessions:
-    - title: "Overview of NSF Programs"
+    - title: "NSF Merit Review System and Grant Writing"
       day: Monday, March 15
       time: 5:30 PM (ET) - 6:45 PM (ET)
-      presenters: "TBA"
-    - title: "Grant Writing"
+      presenters: "Li Wang (Program Director EHR/DGE); Nigamanth Sridhar (Program Director, EHR/DGE); Paul Tymann (Program Director, EHR/DU)"
+      description: "What is the NSF merit review process and what does it take to ensure that reviewers find merit in your NSF proposal? Join us for an inside look as we analyze the NSF proposal process from solicitation to award or decline. Learn to identify key components and address intellectual merit and broader impact. This interactive session leads participants through each component by introducing related issues, engaging participants in group exercises designed to explore and share their understanding of the issues and providing guidance on these issues. Approaches for volunteering to review and the elements of a good review are covered, along with resources, Helpful Hints and Fatal Flaws."
+    - title: "NSF Funding Opportunities"
       day: Tuesday, March 16
       time: 4:15 PM (ET) - 5:30 PM (ET)
-      presenters: "TBA"
+      presenters: "Li Wang (Program Director EHR/DGE); Nigamanth Sridhar (Program Director, EHR/DGE); Jeff Forbes (Program Director, CISE/CNS); Paul Tymann (Program Director, EHR/DU)"
+      description: "As computing becomes more integrated into all aspects of society, research questions to address key areas of interest need likewise to become more interdisciplinary. NSF has several programs to support these cross-cutting research questions in computing and computer science education. This session will introduce participants to some of the NSF’s cross-cutting research and education programs. Some of the program that will be discussed will include: Improving Undergraduate STEM Education: Computing in Undergraduate Education (IUSE), Advanced Technological Education (ATE), Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM), Harnessing the Data Revolution: Data Science Corps (HDR), Computer Science for All (CSforAll: Research and RPPs), Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (INCLUDES), CyberCorps(R) Scholarship for Service, Secure and Trustworthy Cyberspace (SaTC)’s education designation, and NSF Research Traineeship (NRT) program."
   
 
 Silver:
@@ -121,7 +142,7 @@ Silver:
       time: 4:15 PM (ET) - 5:30 PM (ET)
       presenters: Derrick McMillen; Patrick Coleman
       description: "During extended periods of at-home learning, the equity gap of computing education access has been exacerbated further. Varying ability levels, home computer access, and internet access introduce new challenges for CS instructors to reach all students.  Instructors are also placed in the precarious position of needing to address industry demands for students trained with pair programming skills.  Hybrid learning that deliberately fosters a sense of comradery and intentional collaboration promises to improve student persistence and course outcomes.<br><br>Replit Teams for Education presents an opportunity for instructors from all backgrounds to spend more time engaged in teaching rather than troubleshooting student environments and tediously sharing code. Attendees will experience first-hand how students can work together through Replt’s collaborative coding environment and how to leverage Replit’s unique technologies in their teaching practice."
-  - name: Zybooks
+  - name: zyBooks
     image: zybooks-200.png
     link: "https://www.zybooks.com/why-zybooks/"
     sessions:
@@ -129,8 +150,7 @@ Silver:
       day: Wednesday, March 17
       time: 5:30 PM (ET) - 6:45 PM (ET)
       presenters: Frank Vahid (University of California, Riverside); Roman Lysecky (University of Arizona); Aubrey Lawson (zyBooks, A Wiley Brand CS/CE Content Developer)
-      description: "Nearly 80% of instructors who use zyLabs auto-grader switched from grading programming assignments by hand. They saved an average of 9 hours per week, with some reporting up to 20 hours saved. In recent years, computer science educators have increasingly shifted how they grade programming assignments, from grading manually or using batch scripts, to using auto-graders with immediate score feedback to students. zyBooks has been a pioneer by developing the zyLabs auto-grader, that is easy to use and integrated with our state of the art e-learning platform. This shift illustrates a future with a much different classroom dynamic, in which students view instructors less as evaluators and more as hands-on educators.  To support educators in this new role, zyLabs also provides support across a wide range of activities by providing a library of high-quality pre-written programming assignments, an intuitive interface for customizing content, and tools to promote student integrity. In this session, we'll talk about the growth and benefits of zyLabs auto-grading, demonstrate our library of programming assignments, and illustrate how zyLabs features promote academic honesty. 
-"
+      description: "Nearly 80% of instructors who use zyLabs auto-grader switched from grading programming assignments by hand. They saved an average of 9 hours per week, with some reporting up to 20 hours saved. In recent years, computer science educators have increasingly shifted how they grade programming assignments, from grading manually or using batch scripts, to using auto-graders with immediate score feedback to students. zyBooks has been a pioneer by developing the zyLabs auto-grader, that is easy to use and integrated with our state of the art e-learning platform. This shift illustrates a future with a much different classroom dynamic, in which students view instructors less as evaluators and more as hands-on educators.  To support educators in this new role, zyLabs also provides support across a wide range of activities by providing a library of high-quality pre-written programming assignments, an intuitive interface for customizing content, and tools to promote student integrity. In this session, we'll talk about the growth and benefits of zyLabs auto-grading, demonstrate our library of programming assignments, and illustrate how zyLabs features promote academic honesty."
 
 Bronze:
   - name: AdaCore
@@ -170,4 +190,12 @@ Bronze:
     - title: "Supporter Session presented by Turing's Craft"
       day: Thursday, March 18
       time: 4:15 PM (ET) - 5:30 PM (ET)
+      presenters: TBA
+  - name: "Twilio"
+    image: twilio-200.png
+    link: "https://www.twilio.com"
+    sessions:
+    - title: "Supporter Session presented by Twilio"
+      day: Wednesday, March 17
+      time: 5:30 PM (ET) - 6:45 PM (ET)
       presenters: TBA
