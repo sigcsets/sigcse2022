@@ -287,6 +287,16 @@ Suggested Session Roadmaps: [Global Attendees]({{ site.url }}/schedule/global) |
         </div>
       </a>
       </div>
+       <div class="event">
+      <a href="{{ site.url }}//schedule/specialevents/#diversity">
+        <div class="event-desc">
+          DEI Challenges in SIGCSE
+        </div>
+        <div class="event-time">
+          5:00pm-6:00pm
+        </div>
+      </a>
+      </div>
     </td>
     <td class="day">
       <div class="date">13</div>
