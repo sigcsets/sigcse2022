@@ -35,6 +35,14 @@ span.team-heading {
 
 </style>
 
+The 52nd ACM Technical Symposium on Computer Science Education     
+Virtual Event hosted on Pathable at [http://pathable.sigcse2021.org](http://pathable.sigcse2021.org)
+
+* Pre-Symposium Events: March 8-13
+* Workshops: March 13-14
+* Technical Symposium: March 14-20
+* Pathable Virtual Platform Opens: March 1
+
 {% for rate_category in site.data.registration.rates %}
   <h3>{{ rate_category[0] }}</h3>
   <table width="100%" class="multibody">
