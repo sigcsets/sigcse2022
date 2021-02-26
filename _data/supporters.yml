@@ -169,10 +169,11 @@ Bronze:
     image: intel-200.png
     link: "https://software.intel.com/content/www/us/en/develop/tools/devcloud/edge.html"
     sessions:
-    - title: "Supporter Session presented by Intel OpenVINO"
+    - title: " AI Tools and Compute Resources for Faculty and Students"
       day: Thursday, March 18
       time: 5:30 PM (ET) - 6:45 PM (ET)
-      presenters: TBA
+      presenters: Jay Burris (Academic Program Manager)
+      description: "Did you know the #1 job per LinkedIn in 2019 was AI Specialist? And that 97M new automation jobs are expected to be created by 2025. Join us for a 75-minute tech talk packed with topics on the Intel® DevCloud which is instrumented with valuable tutorials to train students how to use and deploy AI in IoT use cases. With the Intel DevCloud, academic institutions and faculty don’t have to fund lab equipment or maintain it any of it. The Intel® DevCloud provides compute resources available to faculty and students, available 24/7, from anywhere in the world, and is kept up to date with Intel’s latest AI inference software toolkit OpenVINO™ releases and newest compute platforms. Students can develop projects, and faculty can develop exercises to enhance their classroom learning experiences giving students an edge in the growing and competitive AI job market."
   - name: "Pearson"
     image: pearson-200.png
     link: "https://pearson.com/"
@@ -187,15 +188,17 @@ Bronze:
     image: turingscraft-200.png
     link: "https://www.turingscraft.com/"
     sessions:
-    - title: "Supporter Session presented by Turing's Craft"
+    - title: "Securing The Basics: CodeLab as a Learning Tool"
       day: Thursday, March 18
       time: 4:15 PM (ET) - 5:30 PM (ET)
-      presenters: TBA
+      presenters: Gerald Weiss (Turing's Craft, CUNY - Brooklyn College)
+      description: "Whether integrated in an LMS like Canvas or Blackboard, or as a standalone web client, CodeLab continues its role as a venue where students can work independently and without supervision to gain mastery over the syntax, semantics and common usage of the programming language elements of Java, Python, C++, etc. that are taught to CS1 students. Along with hosting instructor-created programming assignments, CodeLab offers hundreds of short programming exercises with high quality, immediate feedback that are focused on distinct language constructs or programming ideas. Each topic contains a sequence of incrementally increasingly complex exercises thus reducing the learning curve, so we believe that CodeLab is a must-have learning tool for introductory programming students. In this meeting, we will go over the essence of the core CodeLab service and then discuss strategies for faculty who wish to get the most out of the service for their students. We'll be talking about deadlines, customization, exercise creation, plagiarism, auto-grading and more."
   - name: "Twilio"
     image: twilio-200.png
     link: "https://www.twilio.com"
     sessions:
-    - title: "Supporter Session presented by Twilio"
+    - title: "Teach Through Adventure: The Power of Story and Exploration"
       day: Wednesday, March 17
       time: 5:30 PM (ET) - 6:45 PM (ET)
-      presenters: TBA
+      presenters: Kevin Whinnery (Creator & Lead Developer of TwilioQuest)
+      description: "In this session, you will learn how the team behind the TwilioQuest educational PC game discovered the power of narrative and exploring 2D space in teaching technical concepts. Using historical data from TwilioQuest players as a case study, we will see the impact of design and content choices on the progress of learners through difficult technical concepts. After digging into the data, we will show teachers how they can become game designers. We will look at how to design and structure content as an adventure, using physical space to create both structure and freedom."
