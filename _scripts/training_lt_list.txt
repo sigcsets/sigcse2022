@@ -1,0 +1,26 @@
+Fatima Abu Deeb,deebf@ksau-hs.edu.sa
+Timothy Hickey,tjhickey@brandeis.edu
+Melissa Dark,melissa.dark@teachcyber.org
+Shannon Beck,shannon.beck@teachcyber.org
+Jenny Daugherty,jenny.daugherty@teachcyber.org
+Mark Loepker,mloepker@cryptologicfoundation.org
+Rachel Dark,Rachel.dark@teachcyber.org
+Koby Mike,kobymike@gmail.com
+Rinat B. Rosenberg-Kima,rinatros@technion.ac.il
+Nicole Ronald,nronald@swin.edu.au
+Amit Palti,amit.palti@campus.technion.ac.il
+Rinat Rosenberg-Kima,rinatros@technion.ac.il
+Francesca Vera,fvera@alumni.stanford.edu
+Micah Gideon Modell,micah.modell@gmail.com
+Brian O'Neill,brian.oneill@wne.edu
+Elizabeth McBride,beth@ai-4-all.org
+Emmanuel Sean Peters,sean@ai-4-all.org
+Sarah Judd,sarah@ai-4-all.org
+Kathryn Perry,kperry@bhbl.org
+Kalpathi Subramanian,krs@uncc.edu
+Erik Saule,esaule@uncc.edu
+Dan Garcia,ddgarcia@cs.berkeley.edu
+Marcin Niemiec,niemiec@agh.edu.pl
+Andrea Russo,anruss@microsoft.com
+Emilie Barnard,emilie@tealsk12.org
+Gustavo Arriago,gustavo.arriaga@microsoft.com

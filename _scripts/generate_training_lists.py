@@ -17,6 +17,7 @@ except Exception as e:
 TRAINING_WEBINAR_LIST = open("_scripts/training_webinar_list.txt", "w", encoding='utf8')
 TRAINING_WORKSHOP_LIST = open("_scripts/training_workshops_affiliates_list.txt", "w", encoding='utf8')
 TRAINING_MEETINGS_LIST = open("_scripts/training_meetings_list.txt", "w", encoding='utf8')
+TRAINING_LT_LIST = open("_scripts/training_lt_list.txt", "w", encoding='utf8')
 
 current_session_id = 'XXXX'
 current_session_title = 'YYYY'
@@ -55,6 +56,17 @@ for line in content:
                 for i in range(len(name_list)):
                     if (name_list[i] != '' and name_list[i] != '#N-A'):
                         TRAINING_MEETINGS_LIST.write(name_list[i].split('(')[0].strip() + "," + email_list[i].strip() + "\n")
+            except:
+                print("FAILURE - ", entry[1])
+    elif entry[1].startswith('lt'):
+        print("lt - ", entry[1], len(entry))
+        if len(entry) == 12:
+            try:
+                name_list = entry[10].strip().split(';')
+                email_list = entry[11].strip().split(',')
+                for i in range(len(name_list)):
+                    if (name_list[i] != '' and name_list[i] != '#N-A'):
+                        TRAINING_LT_LIST.write(name_list[i].split('(')[0].strip() + "," + email_list[i].strip() + "\n")
             except:
                 print("FAILURE - ", entry[1])
 
