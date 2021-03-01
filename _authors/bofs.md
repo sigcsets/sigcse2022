@@ -54,6 +54,10 @@ The abstract is the description of the BOF that will appear on the conference we
 
 ### How will I be presenting my work? (Birds-of-a-Feather)
 
+__UPDATE:__ Unfortunately, as we have gotten into Pathable and learned more about how Zoom sessions are allocated, the original plan of allocating each BoF a “permanent Zoom room” will not work exactly as originally thought.  Pathable dynamically allocates Zoom meeting room IDs (i.e. the XXX-YYY-ZZZ numbers we have become very familiar with over the past year) at the start of a given session.  Thus, we cannot assign a "permanent" Zoom meeting to a given BoF as these numbers will change constantly.  
+
+What we can do in its place is schedule a second time for a BoF to have a follow up meeting not during regular conference hours.  To do this, we will have to add another agenda item to the Pathable schedule and a person from the BoF will need to serve as host for the meeting to manage the Zoom controls.  Unfortunately, we will not be able to offer extended technical support during these sessions.  If your BoF is interested in this, please email symposium@sigcse2021.org and bof@sigcse2021.org with your request.
+
 _(This information is currently subject to change as we verify that these plans will work as intended through Pathable.)_
 
 Birds-of-a-Feather flocks will each be given a "permanent Zoom meeting room" that will be listed in Pathable and available for use for discussion or other activities throughout the Technical Symposium.  Additionally, there will be an officially scheduled meeting time during one of the networking blocks that will be advertised on the schedule for the normal BoF session (as we would normally do in-person).

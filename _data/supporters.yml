@@ -3,10 +3,11 @@ Platinum:
     image: github-200.png
     link: "https://education.github.com/"
     sessions:
-    - title: "Pre-Symposium Session presented by GitHub"
+    - title: "GitHub Education Teacher PD Preview"
       day: Wednesday, March 10
       time: 3:00 PM (ET) - 4:15 PM (ET)
-      presenters: TBA
+      presenters: Arelia Jones
+      description: "Participants will preview our teacher professional development course. In this preview, experience an introduction to Git and GitHub including creating repositories, branches and pull requests, and learn simple ways to introduce GitHub to your classroom."
     - title: "Using GitHub for Multi-College Collaborative Undergraduate Research"
       day: Tuesday, March 16
       time: 3:00 PM (ET) - 4:15 PM (ET)
