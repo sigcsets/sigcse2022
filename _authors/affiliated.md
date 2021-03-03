@@ -74,10 +74,6 @@ Registration for the event must be handled by the Affiliated Event organizers an
 
 ## Presenting at SIGCSE TS 2021
 
-### Important Dates
-
-* TBD 
-
 ### How will I be presenting my work? (Affiliated and Pre-Symposium Events)
 
-The Symposium Chairs and Affiliated Events Chairs will be in touch with all events soon.  More information will be posted here as well.   
+Affiliated Events will be run as Zoom meetings through the Pathable interface.  Organizers can find more details about how to launch their event here: [https://support.pathable.com/hc/en-us/sections/360011558411-Using-the-Pathable-Platform-for-Speakers](https://support.pathable.com/hc/en-us/sections/360011558411-Using-the-Pathable-Platform-for-Speakers).  Training for affiliate organizers will be listed on your Pathable agenda.  Please email [support@sigcse2021.org](mailto:support@sigcse2021.org) if you do not see either your event or your training on your agenda in Pathable.
