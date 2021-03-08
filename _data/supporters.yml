@@ -175,6 +175,9 @@ Bronze:
       time: 5:30 PM (ET) - 6:45 PM (ET)
       presenters: Jay Burris (Academic Program Manager)
       description: "Did you know the #1 job per LinkedIn in 2019 was AI Specialist? And that 97M new automation jobs are expected to be created by 2025. Join us for a 75-minute tech talk packed with topics on the Intel® DevCloud which is instrumented with valuable tutorials to train students how to use and deploy AI in IoT use cases. With the Intel DevCloud, academic institutions and faculty don’t have to fund lab equipment or maintain it any of it. The Intel® DevCloud provides compute resources available to faculty and students, available 24/7, from anywhere in the world, and is kept up to date with Intel’s latest AI inference software toolkit OpenVINO™ releases and newest compute platforms. Students can develop projects, and faculty can develop exercises to enhance their classroom learning experiences giving students an edge in the growing and competitive AI job market."
+  - name: "Oracle for Research"
+    image: oracle-200.png
+    link: "https://www.oracle.com/oracle-for-research/?source=:ex:sn:::::SIGCSE2021&SC=:ex:sn:::::SIGCSE2021&pcode="
   - name: "Pearson"
     image: pearson-200.png
     link: "https://pearson.com/"
