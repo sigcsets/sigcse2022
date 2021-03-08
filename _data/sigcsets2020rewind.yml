@@ -97,9 +97,6 @@
   end_time: "07:30 PM (ET)"
   session_type: "Paper Session"
   submissions:
-    - id: "lt1"
-      title: "Evaluating 10 years of girls only tech camps: Impacts, lessons learned and a new future direction"
-      authors: "Christina N. Outlay (University of Wisconsin - Whitewater)"
     - id: "lt2"
       title: "The World's Fastest Fractal Drawing Program!"
       authors: "Dan Garcia (UC Berkeley)"
