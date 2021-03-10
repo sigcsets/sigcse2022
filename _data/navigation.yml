@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: Pathable
+  url: "https://pathable.sigcse2021.org"
+  side: left
+
 - title: "Schedule"
   url: /schedule/
   side: left
