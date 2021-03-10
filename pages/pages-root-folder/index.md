@@ -9,20 +9,20 @@ layout: frontpage
 header:
   image_fullwidth: sigcse2021-logo-header.png
 widget1:
-  title: Full Program Schedule is Live!
-  url: '/schedule'
-  image: schedule-widget.png
-  text: "The entire SIGCSE TS 2021 program schedule is now live!  Head to the 'Schedule' tab to explore all that the Symposium has to offer!"
+  title: Login to Pathable!
+  url: 'https://pathable.sigcse2021.org'
+  image: pathable-logo-widget.png
+  text: "Pathable is live!  Login with the email you used to register in Cvent!"
 # widget2:
 #   title: "Submit to SIGCSE TS!"
 #   url: '/authors'
 #   text: 'See the Call for Papers for more information on submitting to SIGCSE TS 2021!'
 #   image: ribbons-widget.png
 widget2:
-  title: "Keynote Speakers Announced!"
-  url: '/schedule/keynotes'
-  image: keynotes-widget.png
-  text: "We are honored to have an incredible slate of keynote speakers will be joining us for SIGCSE TS 2021!"
+  title: "SIGCSE Morning Coffee"
+  url: 'https://www.youtube.com/watch?v=k5t14FNc5b0&list=PL04L3zqnbRa_SxGO6HuaheBz_TzeNqObI&ab_channel=SIGCSETechnicalSymposium'
+  image: morning-coffee-widget.png
+  text: "Grab a cup of coffee and join us every morning during the Technical Symposium to hear all about everything going on at the conference, along with interviews from members of the SIGCSE community!"
 #
 # Use the call for action to show a button on the frontpage
 #
