@@ -90,10 +90,10 @@ Attendees will have the opportunity to access all available content on Pathable 
 
 ### Round 1: Poster Presentation
 
-Your poster will be scheduled for presentation on Tuesday March 16 from 4 to 6:45pm ET. You will be expected to “present” your poster at that time and be available during judging. 
+Your poster will be scheduled for presentation on Monday March 15 from 4 to 6:45pm ET. You will be expected to “present” your poster at that time and be available during judging. 
 
 ### Round 2: Presentation
 
-Students selected to participate in the Round 2 portion of the ACM SRC will have 10 minutes to present their work on Friday March 19 from 4 to 6:45pm ET.
+Students selected to participate in the Round 2 portion of the ACM SRC will have 10 minutes to present their work on Thursday March 18 from 4 to 6:45pm ET.
 
 Additional details about expectations will be provided prior to the conference. 
