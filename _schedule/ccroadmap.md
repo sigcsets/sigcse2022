@@ -19,7 +19,7 @@ Email [cc@sigcse2021.org](mailto:cc@sigcse2021.org) with questions or for ideas!
 * 8:00 a.m. - 8:30 a.m.: [SIGCSE Morning Coffee](https://pathable.sigcse2021.org/meetings/virtual/Kn8Xba7Jrb2N78G6i)
 * **[Keynote]** 1:00 p.m. – 2:00 p.m.: [Expanding Opportunities through Research for Societal Impacts](https://pathable.sigcse2021.org/meetings/virtual/rEZH6ZgcQd7ZGc32p)
 * 2:00 p.m. - 3:00 p.m.: [First Timer's Session and SIGCSE Award for Lifetime Service to the Computer Science Education Community keynote](https://pathable.sigcse2021.org/meetings/virtual/j3vMnSnbmqwACGoNc)
-* [<span style="color:blue">**[Poster]** 04:15 p.m. -- 06:45 p.m.: Enhanced Verbs for Bloom's Taxonomy with Focus on Computing and Technical Areas</span>](https://pathable.sigcse2021.org/meetings/virtual/9xbd5HygLN5YaMxrs)
+* [<span style="color:blue">**[Poster]** 04:00 p.m. -- 06:45 p.m.: Enhanced Verbs for Bloom's Taxonomy with Focus on Computing and Technical Areas</span>](https://pathable.sigcse2021.org/meetings/virtual/9xbd5HygLN5YaMxrs)
 * **[BoF]** 5:30 p.m. - 6:45 p.m.: [Integrating Hands-on Cybersecurity Exercises into the Curriculum in 2021](https://pathable.sigcse2021.org/meetings/virtual/tDYHqY7xJpLYHXd77)
 * **[Paper Session: Assessments]** 8:00 p.m. - 9:45 p.m.: [Superficial Code-guise: Investigating the Impact of Surface Feature Changes on Students' Programming Question Scores *(Third Best Paper in Computing Education Research Track)*](https://pathable.sigcse2021.org/meetings/virtual/JWxnYh4NHauevLLYd)
 
@@ -32,7 +32,7 @@ Email [cc@sigcse2021.org](mailto:cc@sigcse2021.org) with questions or for ideas!
 * **[Paper Session: Accessibility]** 1:00 p.m. - 1:20 p.m.: [Inside the Mind of a CS Undergraduate TA: A Firsthand Account of Undergraduate Peer Tutoring in Computer Labs *(Second Best Paper in Experience Reports and Tools Track)*](https://pathable.sigcse2021.org/meetings/virtual/ZkA44KgsHN3h2v2Sj)
 * **[Panel]** 1:00 p.m. - 2:45 p.m.: [Where Should We Go From Here? Eliminating Inequities In CS Education, Featuring Guests From The CS-Ed Podcast](https://pathable.sigcse2021.org/meetings/virtual/fr99kke3Av8rQYGfF)
 * **[BoF]** 4:00 p.m. - 5:15 p.m.: [Developing Effective and Equitable K-12 Computer Science Teachers](https://pathable.sigcse2021.org/meetings/virtual/GvzJrxiLdFkGCvn4P)
-* **[Poster]** 4:15 p.m. - 6:45 p.m.: [A Case Study of Redesigning an Introductory CS Course into Fully Online and its Evaluation](https://pathable.sigcse2021.org/meetings/NSuXY67EnmkitpysJ)
+* **[Poster]** 4:00 p.m. - 6:45 p.m.: [A Case Study of Redesigning an Introductory CS Course into Fully Online and its Evaluation](https://pathable.sigcse2021.org/meetings/NSuXY67EnmkitpysJ)
 * [<span style="color:blue">**[BoF]** 5:30 p.m. - 6:45 p.m.: Community Colleges: Increasing Participation at SIGCSE and ACM Activities</span>](https://pathable.sigcse2021.org/meetings/virtual/zjsBQZY7hJmfKaXip)
 * **[Paper Session: Student Experience]** 8:00 p.m. -  8:20 p.m.: [Confronting Inequities in Computer Science Education: A Case for Critical Theory *(Second Best Paper in Positions and Curriculum Initiatives Track)*](https://pathable.sigcse2021.org/meetings/virtual/uFeoSvf4dacuc5b5i)
 * **[Paper Session: CS1 - CS2]** 08:00 p.m. - 9:45 p.m.: [CS1 / CS2](https://pathable.sigcse2021.org/meetings/virtual/Lvir77jxpKHyu3xqx)
@@ -46,7 +46,7 @@ Email [cc@sigcse2021.org](mailto:cc@sigcse2021.org) with questions or for ideas!
 * [Paper Session] 01:00 PM (ET) - 02:45 PM (ET): Establishing ABET Accreditation Criteria for Data Science
 * **[BoF]** 4:00 p.m. - 5:15 p.m.: [Cybersecurity Education in the Age of Artificial Intelligence](https://pathable.sigcse2021.org/meetings/virtual/G9Tjq4oCHgGfZJaQH)
 * **[BoF]** 4:00 p.m. - 5:15 p.m.: [Disability in Computer Science Education](https://pathable.sigcse2021.org/meetings/virtual/ewHrynA5MFeMbLd7k)
-* **[Poster]** 4:15 p.m. - 6:45 p.m.: [Computing Ethics Starts on 'Day One': Ethics Narratives in Introductory CS Course](https://pathable.sigcse2021.org/meetings/aLMqJd6hCZmjbKq7g)
+* **[Poster]** 4:00 p.m. - 6:45 p.m.: [Computing Ethics Starts on 'Day One': Ethics Narratives in Introductory CS Course](https://pathable.sigcse2021.org/meetings/aLMqJd6hCZmjbKq7g)
 * **[BoF]** 5:30 p.m. - 6:45 p.m.: [A Town Meeting: SIGCSE Committee on Expanding the Women-in-Computing Community](https://pathable.sigcse2021.org/meetings/virtual/Ck7hDo8fBiSSseXzg)
 * **[Keynote]** 8:00 p.m. - 9:45 p.m.: [Automated Feedback, the Next Generation: Designing Learning Experiences](https://pathable.sigcse2021.org/meetings/virtual/jdmPuxaLY7Nu9j2uv)
 
@@ -67,7 +67,7 @@ Email [cc@sigcse2021.org](mailto:cc@sigcse2021.org) with questions or for ideas!
 
 * 8:00 a.m. - 8:30 a.m.: [SIGCSE Morning Coffee](https://pathable.sigcse2021.org/meetings/virtual/B5T2yHA7BKdiPDAay)
 * **[Special Session]** 1:00 p.m. 2:45 p.m.: [Computing Competencies for Undergraduate Data Science Programs](https://pathable.sigcse2021.org/meetings/virtual/7SiCJLh3hwnRWanrG)
-* **[Poster]** 4:15 p.m. - 6:45 p.m.: [Supporting CS Teachers through Local Communities: Perceptions of CSTA Chapter Leaders](https://pathable.sigcse2021.org/meetings/dbuy43qCLikyKAcWu)
+* **[Poster]** 4:00 p.m. - 6:45 p.m.: [Supporting CS Teachers through Local Communities: Perceptions of CSTA Chapter Leaders](https://pathable.sigcse2021.org/meetings/dbuy43qCLikyKAcWu)
 * **[Paper Session: Security]** 8:00 p.m. - 8:20 p.m.: [Creating a Multifarious Cyber Science Major (*Best Paper in Positions and Curriculum Initiatives Track*)](https://pathable.sigcse2021.org/meetings/virtual/xu7rE8QbEHfhmB6Li)
 * **[Paper Session: Computing Education Research B]** 8:40 p.m. - 9:00 p.m.: [Online Vs Face-to-face Web-development Course: Course Strategies, Learning, and Engagement](https://pathable.sigcse2021.org/meetings/virtual/vLZ6bTYd35AQQ4GuX)
 * **[Paper Session: Computing Education Research B]** 9:00 p.m. - 9:20 p.m.: [The Virtual Pivot: Transitioning Computational Thinking PD for Middle and High School Content Area Teachers](https://pathable.sigcse2021.org/meetings/virtual/vLZ6bTYd35AQQ4GuX)
@@ -77,7 +77,7 @@ Email [cc@sigcse2021.org](mailto:cc@sigcse2021.org) with questions or for ideas!
 
 * 8:00 a.m. - 8:30 a.m.: [SIGCSE Morning Coffee](https://pathable.sigcse2021.org/meetings/virtual/ap7ngsbf286qYSt8x)
 * **[Keynote]** 1:00 p.m. - 2:00 p.m.: [Increasing Diversity in Computing Education: Lesson Learned](https://pathable.sigcse2021.org/meetings/virtual/KGhizkvnpf3DRxkmB)
-* **[Poster]** 4:15 p.m. - 6:45 p.m.: [AlignCS: Evaluating the Landscape of K-12 CS Framework Aligned Curricula]()
-* **[Poster]** 4:15 p.m. - 6:45 p.m.: [Evidence or Excitement: Which Predicts Implementation of Research-based Pedagogy by CS Educators?](https://pathable.sigcse2021.org/meetings/D4M4w5GhxDkswZCQ6)
+* **[Poster]** 4:00 p.m. - 6:45 p.m.: [AlignCS: Evaluating the Landscape of K-12 CS Framework Aligned Curricula]()
+* **[Poster]** 4:00 p.m. - 6:45 p.m.: [Evidence or Excitement: Which Predicts Implementation of Research-based Pedagogy by CS Educators?](https://pathable.sigcse2021.org/meetings/D4M4w5GhxDkswZCQ6)
 * 8:00 p.m. - 9:00 p.m.: [Nifty Assignments](https://pathable.sigcse2021.org/meetings/virtual/NL2vkdHoZ4FfqvwKK)
 * **[Special Event]** 9:00 p.m. - 10:00 p.m.: [SIGCSE TS 2021 Closing Celebration](https://pathable.sigcse2021.org/meetings/virtual/9Gu6mfnag8x9Gkvy2)

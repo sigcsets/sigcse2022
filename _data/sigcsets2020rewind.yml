@@ -41,6 +41,7 @@
     - id: "ci2"
       title: "<em>2nd Best Paper:</em> Teaching Autonomous Systems at 1/10th-scale: Design of the F1/10 Racecar, Simulators and Curriculum"
       authors: "Abhijeet Agnihotri (Oregon State University); Matthew O’Kelly (University of Pennsylvania); Houssam Abbas (Oregon State University); Rahul Mangharam (University of Pennsylvania)"
+      url: https://www.youtube.com/watch?v=hXmGTKom4O8
     - id: "ci3"
       title: "<em>3rd Best Paper:</em> Creating a Balanced Data Science Program"
       authors: "Joel C. Adams (Calvin University)"
