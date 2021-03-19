@@ -44,7 +44,7 @@ Platinum:
       description: "Come hear a group of faculty who have been teaching with Google Cloud discuss their successes, challenges, and how they've integrated cloud computing into their existing classes and created new courses with the cloud."
   - name: "Microsoft"
     image: microsoft-200.png
-    link: "https://www.microsoft.com/en-us/"
+    link: "https://www.microsoft.com/en-us/education/higher-education/default.aspx"
     sessions:
     - title: "Introduction to Microsoft Azure Cloud (On-Demand Video)"
       day: Monday, March 8
