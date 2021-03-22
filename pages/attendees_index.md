@@ -8,9 +8,6 @@ sidebar: attendees
 
 <a name="registration"></a>
 
-## Registering for SIGCSE TS 2021
-
-<a class="button large radius {{ site.data.registration.registration_button.style }}" href="{{ url }}{{ site.data.registration.registration_button.url }}"{% if site.data.registration.registration_button.url contains 'http' %} target="_blank" {% endif %}>{{ site.data.registration.registration_button.text }}</a>
 
 <style>
 table tbody tr.odd, table tbody tr.alt, table tbody tr:nth-of-type(odd) {
@@ -34,6 +31,16 @@ span.team-heading {
 }
 
 </style>
+
+
+## Post-Conference Access to Pathable
+The SIGCSE TS 2021 chairs are working with the SIGCSE board to investigate offering post-conference access to the materials in Pathable.  More will be posted and announce as decisions are made.
+
+Note that anyone that already has purchased full registration to the 2021 Technical Symposium (prior to March 20, 2021) will continue to have access to Pathable until March 2022 and can login with the Pathable link in the nav menu above.
+
+<a class="button large radius {{ site.data.registration.registration_button.style }}" href="{{ url }}{{ site.data.registration.registration_button.url }}"{% if site.data.registration.registration_button.url contains 'http' %} target="_blank" {% endif %}>{{ site.data.registration.registration_button.text }}</a>
+
+## Registering for SIGCSE TS 2021
 
 The 52nd ACM Technical Symposium on Computer Science Education     
 Virtual Event hosted on Pathable at [http://pathable.sigcse2021.org](http://pathable.sigcse2021.org)

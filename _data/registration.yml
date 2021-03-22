@@ -66,6 +66,6 @@ workshoprates:
   regular: $25
   day-of: $30
 registration_button:
-  url: https://cvent.me/lVegdP
-  text: Register for SIGCSE TS 2021!
+  url: /attendees
+  text: Post-Conference Access
   style: alert
