@@ -12,7 +12,7 @@ widget1:
   title: Login to Pathable!
   url: 'https://pathable.sigcse2021.org'
   image: pathable-logo-widget.png
-  text: "Pathable is live!  Login with the email you used to register in Cvent!"
+  text: "If you have access to the Symposium through Pathable, login here to view all conference recordings until March 2022."
 # widget2:
 #   title: "Submit to SIGCSE TS!"
 #   url: '/authors'
@@ -20,9 +20,9 @@ widget1:
 #   image: ribbons-widget.png
 widget2:
   title: "SIGCSE Morning Coffee"
-  url: 'https://www.youtube.com/watch?v=k5t14FNc5b0&list=PL04L3zqnbRa_SxGO6HuaheBz_TzeNqObI&ab_channel=SIGCSETechnicalSymposium'
+  url: '/morningcoffee'
   image: morning-coffee-widget.png
-  text: "Grab a cup of coffee and join us every morning during the Technical Symposium to hear all about everything going on at the conference, along with interviews from members of the SIGCSE community!"
+  text: "Watch (or listen) to the entire 2021 season of SIGCSE Morning Coffee!"
 #
 # Use the call for action to show a button on the frontpage
 #
