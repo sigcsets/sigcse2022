@@ -1,208 +1,208 @@
-Platinum:
-  - name: "GitHub Education"
-    image: github-200.png
-    link: "https://education.github.com/"
-    sessions:
-    - title: "GitHub Education Teacher PD Preview"
-      day: Wednesday, March 10
-      time: 3:00 PM (ET) - 4:15 PM (ET)
-      presenters: Arelia Jones
-      description: "Participants will preview our teacher professional development course. In this preview, experience an introduction to Git and GitHub including creating repositories, branches and pull requests, and learn simple ways to introduce GitHub to your classroom."
-    - title: "Using GitHub for Multi-College Collaborative Undergraduate Research"
-      day: Tuesday, March 16
-      time: 3:00 PM (ET) - 4:15 PM (ET)
-      presenters: Amos Johnson (Morehouse College)
-      description: "Virginia Tech and Morehouse College are currently in the second semester of a Vertically Integrated Project (VIP). This experiential learning effort involves creating a long-term, multi-college, and multidisciplinary undergraduate research project in the technical area of deep learning applied to wireless communications. Due to COVID-19, the project has morphed into a completely online experience, with GitHub as the communications focal point. This change in structure has provided unique challenges in ensuring continued student engagement, collaboration, and research output—along with some unintended benefits. In this presentation, you’ll get an overview of the program, goals and motivations, and current status. In addition, the speakers will provide a unique look at how COVID-19 has led to necessary improvements in collaboration as a beneficial long term side-effect. You’ll come away with best practices for engaging students from diverse colleges, disciplines, and backgrounds effectively while maximizing student engagement and outcomes, especially in pure, or hybrid, online settings."
-    - title: "Help Students Master Git & GitHub in 3 Lessons"
-      day: Thursday, March 18
-      time: 3:00 PM (ET) - 4:15 PM (ET)
-      presenters: Jeff Olson (Director of Curriculum & Instruction, GitHub)
-      description: "Jeff has used Git & GitHub with students in both introductory and advanced high school courses, fine-tuning strategies for introducing Git in low-stakes and non-threatening ways and building to greater comfort & fluency over time. His strategies emphasize Git as a tool for project collaboration and personal organization, allowing Git to be integrated into your own projects & tasks no matter the programming language or IDE. Participants will see a lesson progression for developing understanding with Git & GitHub, including several Unplugged lesson ideas that can be done without computers. He'll also share his own journey through introducing Git to students, including pitfalls and strategies to avoid. Ultimately, even though Git is an industry standard tool for developers, Jeff doesn't think this should be the only reason for students to learn it; his goal is to describe strategies & resources that can motivate all students to see GitHub as a useful tool in their own journey through computer science, even if this doesn't lead directly into a career in software development."
-  - name: "Google, Inc."
-    image: google-200.png
-    link: "https://edu.google.com/code-with-google/"
-    sessions:
-    - title: "Speed Dating with Google Cloud"
-      day: Thursday, March 11
-      time: 3:00 PM (ET)
-      presenters: Laurie White
-      description: "Are you interested in learning more about Google Cloud and its programs but not ready for a serious 4-hour commitment to your terminal?  Then this ''workshop'' might just be a perfect match for you.  Instead of a single-focused event training, this workshop will be divided into numerous smaller blocks of discrete information sessions, covering everything from a description of the programs available, materials for classes, reports from specific classes, an exploration of some of our public data sets, and more.  Registrants are encouraged to drop in for the sessions that are most appropriate for them. A full schedule of sessions will be provided to registrants."
-    - title: "Artificial Intelligence and Real Justice"
-      day: Sunday, March 14
-      time: 8:00 PM (ET)
-      presenters: "Kamau Bobb (Moderator - Google); Panelists: Ayanna Howard & Safiya Noble"
-      description: "As we near the end of the first quarter of the 21st century, artificial intelligence and machine learning are quietly sitting right at the intersection of the technical and social frontier. Facing 20th century biases being transformed into 21st century realities through these new technologies, AI and ML are an especially complex duo right at the nexus of science, ethics and justice. Fundamental questions arise here - what do students need to know to be effective guardians of fairness and justice in these fields? what are the fields that ought to be engaged beyond computation itself? how are communities armed to even understand the implications and embedded nature of these systems into our daily lives? This session brings together thought leaders who are grappling with this dilemma with the goal of moving the discussion beyond whether AI and ML are biased and whose fault it may be, to understanding how we engage at this new frontier as both educators and citizens."
-    - title: "How Google Supports and Uses CS Education Research"
-      day: Monday, March 15
-      time: 3:00 PM (ET) - 4:15 PM (ET)
-      presenters: Chris Stephenson (Google); Stephanie Marken (Gallup); Sloan Davis (Google); Sepi Moghadam (Google); Kyle Jennings (Google)
-      description: "Over the last few years, much work has been done by the CS education community to support and conduct rigorous education research that enables a greater understanding of how CS is best taught and learned. Given that post-secondary CS programs are operating significantly beyond capacity, and that many states are mandating CS for all K–12 students, our relatively small body of rigorous research is impinging on our capacity to best serve an increasing number of students.  This session focuses on how Google is supporting the growth of the CS research community and applying new standards and practices to its own programs. Attendees will learn about several programs that provide funding to encourage and support research and grow the future research pipeline as well as how Google conducts and uses education research to evaluate and improve its programs."
-    - title: "Faculty Experiences Teaching Cloud Computing"
-      day: Tuesday, March 16
-      time: 6:45 PM (ET) - 8:00 PM (ET)
-      presenters: Erik Fredericks (Grand Valley State University); Mark Hills (East Carolina University); Mary Beth Moore (Potomac State College); Alex 'Casper' Cline (Ada National College for Digital Skills); Wu-chang Feng (Portland State University); Moderator - Laurie White (Mercer University)
-      description: "Come hear a group of faculty who have been teaching with Google Cloud discuss their successes, challenges, and how they've integrated cloud computing into their existing classes and created new courses with the cloud."
-  - name: "Microsoft"
-    image: microsoft-200.png
-    link: "https://www.microsoft.com/en-us/education/higher-education/default.aspx"
-    sessions:
-    - title: "Introduction to Microsoft Azure Cloud (On-Demand Video)"
-      day: Monday, March 8
-      time: 3:30 PM (ET)
-      presenters: "Dmitry Soshnikov"
-      description: "This video introduces the concept of a cloud, and explains how Microsoft Azure can be used to abstract the way we run our code: from Virtual Machines and IaaS to Platform Services. It shows how you can quickly benefit from using Azure, and gives overview of most important services.<br><br><em>Interested in live Q&A? Please visit our eBooth Monday, March 15 and Tuesday, March 16 from 3:00pm-4:00pm ET.</em>"
-    - title: "Introduction to Azure Machine Learning (On-Demand Video)"
-      day: Monday, March 8
-      time: 5:30 PM (ET)
-      presenters: "Dmitry Soshnikov"
-      description: "Azure includes a complete solution for all your Machine Learning needs, called Azure Machine Learning. It can be used both by beginners (in low-code/no-code scenarios) and by experienced Data Scientists to perform tasks such as hyperparameter optimization. This video introduces different ways to use Azure ML in your projects.<br><br><em>Interested in live Q&A? Please visit our eBooth Monday, March 15 and Tuesday, March 16 from 3:00pm-4:00pm ET.</em>"
-    - title: "Practical Quantum Computing Education: An Overview"
-      day: Tuesday, March 9
-      time: 3:00 PM (ET)
-      presenters: "Mariia Mykhailova"
-      description: "In this talk we will present a brief overview of the current state of practical quantum computing education and existing initiatives directed towards supporting it. After that we will discuss the work done by Microsoft Quantum in the domain of quantum computing education, aimed both at self-paced learners and at bringing quantum programming into quantum computing curricula."
-    - title: "MakeCode Arcade Game Development Workshop"
-      day: Friday, March 12
-      time: 3:00 PM (ET)
-      presenters: Jacqueline Russell (Program Manager - Microsoft MakeCode)
-      description: "Looking for a free, engaging, online tool for remote and hybrid learning?  Join us for a hands-on workshop where we'll be building retro Arcade-style games using MakeCode Arcade.  Attendees will be introduced to the MakeCode Arcade tool by building a few different types of games - space games, maze games, platformer games.  We will also cover all educational resources available including self-paced tutorials, and the new AP CS Principles curriculum.  This is a beginner-level workshop, no prior experience required."
-    - title: "Ushering in a New and Diverse Workforce"
-      day: Monday, March 15
-      time: 6:45 PM (ET) - 8:00 PM (ET)
-      presenters: "Margaret Price (Principal Strategist - Microsoft); Dr. Sarah Guthals (Principal - Microsoft)"
-      description: "We expect to see 150 million tech or tech-adjacent jobs over the next five years. Those who create with technology will shape our future, and there shouldn’t be barriers to learning the skills required to do so. To help meet this demand, we must make technical and non-technical learning more accessible to anyone who wants to learn. We must evolve industry and academic partnerships. We must address gaps in digital platforms to facilitate seamless and collaborative learning. We must help build a more inclusive future by fostering culture change, increasing diversity, and enabling a sense of belonging. Join us to learn about:<ul><li>Our approach to inclusive problem framing and solving for complex topics like experiential learning, tooling, mentorship, culture change, and curricula</li><li>New learn-to-code curricula created in partnership with NASA, Wonder Woman, Netflix, Lebron James</li><li>New evidence-based problem-solving, collaboration, and resilience curricula called ''life changing'' by students who opted to stick with rather than drop out of CS1 Fall 2020 after going through it</li><li>Partnership opportunities: How might we collaborate with you?</li></ul>"
-    - title: "Micro:bit - The Next Version"
-      day: Wednesday, March 17
-      time: 3:00 PM (ET) - 4:15 PM (ET)
-      presenters: "Jacqueline Russell (Program Manager - Microsoft MakeCode); Katie Henry (North America Lead, Micro:bit Educational Foundation)"
-      description: "The micro:bit is a tiny educational computing device that has taken the world by storm with more than 25 million children learning to code with the micro:bit in over 60 countries.  The latest version of the micro:bit recently released, opens up new creative possibilities with an on-board speaker and microphone.  Join us to learn more about this new device and follow along to build some sample projects like a sound emotion badge in Microsoft MakeCode.  We'll also cover some best practices for physical computing in remote learning environments and review free classroom resources."
-    - title: "Demystifying Apache Spark"
-      day: Wednesday, March 17
-      time: 6:45 PM (ET) - 8:00 PM (ET)
-      presenters: "Adi Polak"
-      description: "Spark is the leading Big Data analytics framework. However, it also has excellent features for Stream processing and machine learning development. Big Data systems are a new reality. Whether we're creating microservices-based solutions or machine learning-based products, we work with data, most often, big data. Apache Spark is your friend if you want to position yourself on the road for success as a Big Data Developer, Data Engineer, or Data Science with hands-on production experience. Come to this session to learn the basics of Apache Spark and how YOU can get started with it."
-
-
-Gold:
-  - name: "Codio"
-    image: codio-200.png
-    link: "https://codio.com/"  
-    sessions:
-    - title: "Pedagogical Practices in U.S. Colleges and Universities"
-      day: Monday, March 15
-      time: 4:15 PM (ET) - 5:30 PM (ET)
-      presenters: Elise Deitrick, PhD (VP of Product at Codio)
-      description: "Codio shares the findings of their 2020 Computer Science Educator survey, which identified what pedagogical approaches are being implemented in classrooms and how teachers weigh the benefits and challenges of adopting these practices. Results indicate that eBooks are the most popularly adopted innovation and that educators see assessment and feedback tools as highly beneficial. We found educators rank student benefits such as learning outcomes and student engagement as the most important benefits. Codio will speak to how their (1) evidence-based, interactive content, (2) fully auto-graded, feedback-rich assessments, and (3) remote feedback toolkit for teachers, including in-line code comments, code playback, and cursor presence, can help achieve these outcomes."
-  - name: "NSF"
-    image: nsf-200.png
-    link: "https://nsf.gov/"
-    sessions:
-    - title: "NSF Merit Review System and Grant Writing"
-      day: Monday, March 15
-      time: 5:30 PM (ET) - 6:45 PM (ET)
-      presenters: "Li Wang (Program Director EHR/DGE); Nigamanth Sridhar (Program Director, EHR/DGE); Paul Tymann (Program Director, EHR/DU)"
-      description: "What is the NSF merit review process and what does it take to ensure that reviewers find merit in your NSF proposal? Join us for an inside look as we analyze the NSF proposal process from solicitation to award or decline. Learn to identify key components and address intellectual merit and broader impact. This interactive session leads participants through each component by introducing related issues, engaging participants in group exercises designed to explore and share their understanding of the issues and providing guidance on these issues. Approaches for volunteering to review and the elements of a good review are covered, along with resources, Helpful Hints and Fatal Flaws."
-    - title: "NSF Funding Opportunities"
-      day: Tuesday, March 16
-      time: 4:15 PM (ET) - 5:30 PM (ET)
-      presenters: "Li Wang (Program Director EHR/DGE); Nigamanth Sridhar (Program Director, EHR/DGE); Jeff Forbes (Program Director, CISE/CNS); Paul Tymann (Program Director, EHR/DU)"
-      description: "As computing becomes more integrated into all aspects of society, research questions to address key areas of interest need likewise to become more interdisciplinary. NSF has several programs to support these cross-cutting research questions in computing and computer science education. This session will introduce participants to some of the NSF’s cross-cutting research and education programs. Some of the program that will be discussed will include: Improving Undergraduate STEM Education: Computing in Undergraduate Education (IUSE), Advanced Technological Education (ATE), Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM), Harnessing the Data Revolution: Data Science Corps (HDR), Computer Science for All (CSforAll: Research and RPPs), Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (INCLUDES), CyberCorps(R) Scholarship for Service, Secure and Trustworthy Cyberspace (SaTC)’s education designation, and NSF Research Traineeship (NRT) program."
-  
-
-Silver:
-  - name: AWS Educate
-    link: "https://aws.amazon.com/education/awseducate/"
-    image: awseducate-200.png
-  - name: CodeGrade
-    image: codegrade-200.png
-    link: "https://codegrade.com/"
-    sessions:
-    - title: "Autograding with Ease, Transitioning from Manual to Automatic Grading in Programming Courses"
-      day: Tuesday, March 16
-      time: 5:30 PM (ET) - 6:45 PM (ET)
-      presenters: Youri Voet (CodeGrade)
-      description: "In this session, Youri Voet, CEO and co-founder of CodeGrade, will guide you through converting a fully manually graded programming course step by step to a powerful (semi) automated course.<br><br>First, we will simply start by using some powerful manual feedback tools offered in CodeGrade, such as inline comments and snippets. Then, we will add a rubric to give the students clear objectives and make grading explainable and consistent. Once we have an efficient manual environment set up, we will start adding basic automated tests to provide instant feedback to students and improve quality of code. Once comfortable with this, we will start increasing the complexity of the tests to further automate the grading process. Reducing the time spent marking allows the grader to focus on the important aspects of giving feedback to learners. Lastly, we will show you how to check for code plagiarism and analyze your assignment.<br><br>This session will show you from end to end how you would set up and convert an assignment to a powerful graded CodeGrade assignment."
-  - name: Gradescope by Turnitin
-    link: "http://gradescope.com"
-    image: gradescope-200.png
-    sessions:
-    - title: "Gradescope: One Platform for Paper, Online, and Programming Assignments"
-      day: Wednesday, March 17
-      time: 4:15 PM (ET) - 5:30 PM (ET)
-      presenters: Dibyo Majumdar (Product & Engineering, Gradescope by Turnitin); Joanna Klukowska (Clinical Associate Professor, Department of Computer Science, New York University); Dave Doty (Assistant Professor of Computer Science, University of California-Davis); Dr. Mohammad Ammar Alsalka (University of Leeds)
-      description: "Gradescope is a single place for grading paper-based exams, programming projects, and online assignments. Join this session to hear from current computer science users about their experience and see for yourself what Gradescope looks like in action.<br><br>Don’t miss your opportunity to: <ul><li>Learn how Gradescope’s rubric-based grading interface can help you grade your exams and homework, faster, without compromising on quality.</li><li>See how to review your programming projects, in any language, with our autograder platform, review for similarity, and distribute results.</li><li>Hear from a panel of SIGCSE peers and current Gradescope users about how Gradescope has made an impact.</li></ul>Whether you’re grading 20, 200, or 2,000 students, Gradescope can help. Attend this session to find out more."
-  - name: IBM
-    image: ibm-200.png
-    link: "https://ibm.com/"
-  - name: repl.it
-    image: replit-200.png
-    link: "https://repl.it/teams-for-education"
-    sessions:
-    - title: "Zero Setup Online Pair Coding on Any Device with Replit"
-      day: Wednesday, March 17
-      time: 4:15 PM (ET) - 5:30 PM (ET)
-      presenters: Derrick McMillen; Patrick Coleman
-      description: "During extended periods of at-home learning, the equity gap of computing education access has been exacerbated further. Varying ability levels, home computer access, and internet access introduce new challenges for CS instructors to reach all students.  Instructors are also placed in the precarious position of needing to address industry demands for students trained with pair programming skills.  Hybrid learning that deliberately fosters a sense of comradery and intentional collaboration promises to improve student persistence and course outcomes.<br><br>Replit Teams for Education presents an opportunity for instructors from all backgrounds to spend more time engaged in teaching rather than troubleshooting student environments and tediously sharing code. Attendees will experience first-hand how students can work together through Replt’s collaborative coding environment and how to leverage Replit’s unique technologies in their teaching practice."
-  - name: zyBooks
-    image: zybooks-200.png
-    link: "https://www.zybooks.com/why-zybooks/"
-    sessions:
-    - title: "zyBooks: Empowering educators with high quality auto graded assignments and tools to promote academic integrity"
-      day: Wednesday, March 17
-      time: 5:30 PM (ET) - 6:45 PM (ET)
-      presenters: Frank Vahid (University of California, Riverside); Roman Lysecky (University of Arizona); Aubrey Lawson (zyBooks, A Wiley Brand CS/CE Content Developer)
-      description: "Nearly 80% of instructors who use zyLabs auto-grader switched from grading programming assignments by hand. They saved an average of 9 hours per week, with some reporting up to 20 hours saved. In recent years, computer science educators have increasingly shifted how they grade programming assignments, from grading manually or using batch scripts, to using auto-graders with immediate score feedback to students. zyBooks has been a pioneer by developing the zyLabs auto-grader, that is easy to use and integrated with our state of the art e-learning platform. This shift illustrates a future with a much different classroom dynamic, in which students view instructors less as evaluators and more as hands-on educators.  To support educators in this new role, zyLabs also provides support across a wide range of activities by providing a library of high-quality pre-written programming assignments, an intuitive interface for customizing content, and tools to promote student integrity. In this session, we'll talk about the growth and benefits of zyLabs auto-grading, demonstrate our library of programming assignments, and illustrate how zyLabs features promote academic honesty."
-
-Bronze:
-  - name: AdaCore
-    image: adacore-200.png
-    link: "http://www.adacore.com"
-    sessions: 
-    - title: "Learning systems programming, hard real-time programming and formal methods with good language support"
-      day: Thursday, March 18
-      time: 4:15 PM (ET) - 5:30 PM (ET)
-      presenters: "Patrick Rogers, PhD"
-      description: "This meeting will provide an interactive discussion and demonstration revolving around a programming language and tools for teaching systems programming, real-time programming, and practical, teachable formal methods."
-  - name: AnitaB.org
-    image: anitaborg-200.png
-    link: "https://anitab.org/"
-  - name: Intel OpenVINO
-    image: intel-200.png
-    link: "https://software.intel.com/content/www/us/en/develop/tools/devcloud/edge.html"
-    sessions:
-    - title: " AI Tools and Compute Resources for Faculty and Students"
-      day: Thursday, March 18
-      time: 5:30 PM (ET) - 6:45 PM (ET)
-      presenters: Jay Burris (Academic Program Manager)
-      description: "Did you know the #1 job per LinkedIn in 2019 was AI Specialist? And that 97M new automation jobs are expected to be created by 2025. Join us for a 75-minute tech talk packed with topics on the Intel® DevCloud which is instrumented with valuable tutorials to train students how to use and deploy AI in IoT use cases. With the Intel DevCloud, academic institutions and faculty don’t have to fund lab equipment or maintain it any of it. The Intel® DevCloud provides compute resources available to faculty and students, available 24/7, from anywhere in the world, and is kept up to date with Intel’s latest AI inference software toolkit OpenVINO™ releases and newest compute platforms. Students can develop projects, and faculty can develop exercises to enhance their classroom learning experiences giving students an edge in the growing and competitive AI job market."
-  - name: "Oracle for Research"
-    image: oracle-200.png
-    link: "https://www.oracle.com/oracle-for-research/?source=:ex:sn:::::SIGCSE2021&SC=:ex:sn:::::SIGCSE2021&pcode="
-  - name: "Pearson"
-    image: pearson-200.png
-    link: "https://pearson.com/"
-    sessions:
-    - title: "Online and Hybrid Learning with Revel, Introduction to Programming with market-leading Authors: Tony Gaddis and Y. Daniel Liang"
-      supporter: Pearson
-      day: Thursday, March 18
-      time: 5:30 PM (ET) - 6:45 PM (ET)
-      presenters: Tony Gaddis and Y. Daniel Liang
-      description: "Revel is Pearson's unique learning platform designed to encompass text, video, and interactives in one environment to foster active learning for all participants. Hear from two award-winning authors that are dedicated to the ever-changing field of computer science, Tony Gaddis and Y. Daniel Liang. With Revel courses in Python, Java, and C++, Tony and Daniel share implementation strategies for using Revel in distance, hybrid, and in-person orientations. You will also hear about Pearson's Efficacy Report on using Revel to teach introductory programming concepts and how it determined additional success metrics for students who engaged in active learning and coding practices. See firsthand how students can start to code in the early stages of the course and receive immediate feedback if their submissions were correct or need further refinement.  In this Webinar, our authors will share their experiences of teaching online with Python, Java, and C++ courses."
-  - name: "Turing's Craft"
-    image: turingscraft-200.png
-    link: "https://www.turingscraft.com/"
-    sessions:
-    - title: "Securing The Basics: CodeLab as a Learning Tool"
-      day: Thursday, March 18
-      time: 4:15 PM (ET) - 5:30 PM (ET)
-      presenters: Gerald Weiss (Turing's Craft, CUNY - Brooklyn College)
-      description: "Whether integrated in an LMS like Canvas or Blackboard, or as a standalone web client, CodeLab continues its role as a venue where students can work independently and without supervision to gain mastery over the syntax, semantics and common usage of the programming language elements of Java, Python, C++, etc. that are taught to CS1 students. Along with hosting instructor-created programming assignments, CodeLab offers hundreds of short programming exercises with high quality, immediate feedback that are focused on distinct language constructs or programming ideas. Each topic contains a sequence of incrementally increasingly complex exercises thus reducing the learning curve, so we believe that CodeLab is a must-have learning tool for introductory programming students. In this meeting, we will go over the essence of the core CodeLab service and then discuss strategies for faculty who wish to get the most out of the service for their students. We'll be talking about deadlines, customization, exercise creation, plagiarism, auto-grading and more."
-  - name: "Twilio"
-    image: twilio-200.png
-    link: "https://www.twilio.com"
-    sessions:
-    - title: "Teach Through Adventure: The Power of Story and Exploration"
-      day: Wednesday, March 17
-      time: 5:30 PM (ET) - 6:45 PM (ET)
-      presenters: Kevin Whinnery (Creator & Lead Developer of TwilioQuest)
-      description: "In this session, you will learn how the team behind the TwilioQuest educational PC game discovered the power of narrative and exploring 2D space in teaching technical concepts. Using historical data from TwilioQuest players as a case study, we will see the impact of design and content choices on the progress of learners through difficult technical concepts. After digging into the data, we will show teachers how they can become game designers. We will look at how to design and structure content as an adventure, using physical space to create both structure and freedom."
+#Platinum:
+#  - name: "GitHub Education"
+#    image: github-200.png
+#    link: "https://education.github.com/"
+#    sessions:
+#    - title: "GitHub Education Teacher PD Preview"
+#      day: Wednesday, March 10
+#      time: 3:00 PM (ET) - 4:15 PM (ET)
+#      presenters: Arelia Jones
+#      description: "Participants will preview our teacher professional development course. In this preview, experience an introduction to Git and GitHub including creating repositories, branches and pull requests, and learn simple ways to introduce GitHub to your classroom."
+#    - title: "Using GitHub for Multi-College Collaborative Undergraduate Research"
+#      day: Tuesday, March 16
+#      time: 3:00 PM (ET) - 4:15 PM (ET)
+#      presenters: Amos Johnson (Morehouse College)
+#      description: "Virginia Tech and Morehouse College are currently in the second semester of a Vertically Integrated Project (VIP). This experiential learning effort involves creating a long-term, multi-college, and multidisciplinary undergraduate research project in the technical area of deep learning applied to wireless communications. Due to COVID-19, the project has morphed into a completely online experience, with GitHub as the communications focal point. This change in structure has provided unique challenges in ensuring continued student engagement, collaboration, and research output—along with some unintended benefits. In this presentation, you’ll get an overview of the program, goals and motivations, and current status. In addition, the speakers will provide a unique look at how COVID-19 has led to necessary improvements in collaboration as a beneficial long term side-effect. You’ll come away with best practices for engaging students from diverse colleges, disciplines, and backgrounds effectively while maximizing student engagement and outcomes, especially in pure, or hybrid, online settings."
+#    - title: "Help Students Master Git & GitHub in 3 Lessons"
+#      day: Thursday, March 18
+#      time: 3:00 PM (ET) - 4:15 PM (ET)
+#      presenters: Jeff Olson (Director of Curriculum & Instruction, GitHub)
+#      description: "Jeff has used Git & GitHub with students in both introductory and advanced high school courses, fine-tuning strategies for introducing Git in low-stakes and non-threatening ways and building to greater comfort & fluency over time. His strategies emphasize Git as a tool for project collaboration and personal organization, allowing Git to be integrated into your own projects & tasks no matter the programming language or IDE. Participants will see a lesson progression for developing understanding with Git & GitHub, including several Unplugged lesson ideas that can be done without computers. He'll also share his own journey through introducing Git to students, including pitfalls and strategies to avoid. Ultimately, even though Git is an industry standard tool for developers, Jeff doesn't think this should be the only reason for students to learn it; his goal is to describe strategies & resources that can motivate all students to see GitHub as a useful tool in their own journey through computer science, even if this doesn't lead directly into a career in software development."
+#  - name: "Google, Inc."
+#    image: google-200.png
+#    link: "https://edu.google.com/code-with-google/"
+#    sessions:
+#    - title: "Speed Dating with Google Cloud"
+#      day: Thursday, March 11
+#      time: 3:00 PM (ET)
+#      presenters: Laurie White
+#      description: "Are you interested in learning more about Google Cloud and its programs but not ready for a serious 4-hour commitment to your terminal?  Then this ''workshop'' might just be a perfect match for you.  Instead of a single-focused event training, this workshop will be divided into numerous smaller blocks of discrete information sessions, covering everything from a description of the programs available, materials for classes, reports from specific classes, an exploration of some of our public data sets, and more.  Registrants are encouraged to drop in for the sessions that are most appropriate for them. A full schedule of sessions will be provided to registrants."
+#    - title: "Artificial Intelligence and Real Justice"
+#      day: Sunday, March 14
+#      time: 8:00 PM (ET)
+#      presenters: "Kamau Bobb (Moderator - Google); Panelists: Ayanna Howard & Safiya Noble"
+#      description: "As we near the end of the first quarter of the 21st century, artificial intelligence and machine learning are quietly sitting right at the intersection of the technical and social frontier. Facing 20th century biases being transformed into 21st century realities through these new technologies, AI and ML are an especially complex duo right at the nexus of science, ethics and justice. Fundamental questions arise here - what do students need to know to be effective guardians of fairness and justice in these fields? what are the fields that ought to be engaged beyond computation itself? how are communities armed to even understand the implications and embedded nature of these systems into our daily lives? This session brings together thought leaders who are grappling with this dilemma with the goal of moving the discussion beyond whether AI and ML are biased and whose fault it may be, to understanding how we engage at this new frontier as both educators and citizens."
+#    - title: "How Google Supports and Uses CS Education Research"
+#      day: Monday, March 15
+#      time: 3:00 PM (ET) - 4:15 PM (ET)
+#      presenters: Chris Stephenson (Google); Stephanie Marken (Gallup); Sloan Davis (Google); Sepi Moghadam (Google); Kyle Jennings (Google)
+#      description: "Over the last few years, much work has been done by the CS education community to support and conduct rigorous education research that enables a greater understanding of how CS is best taught and learned. Given that post-secondary CS programs are operating significantly beyond capacity, and that many states are mandating CS for all K–12 students, our relatively small body of rigorous research is impinging on our capacity to best serve an increasing number of students.  This session focuses on how Google is supporting the growth of the CS research community and applying new standards and practices to its own programs. Attendees will learn about several programs that provide funding to encourage and support research and grow the future research pipeline as well as how Google conducts and uses education research to evaluate and improve its programs."
+#    - title: "Faculty Experiences Teaching Cloud Computing"
+#      day: Tuesday, March 16
+#      time: 6:45 PM (ET) - 8:00 PM (ET)
+#      presenters: Erik Fredericks (Grand Valley State University); Mark Hills (East Carolina University); Mary Beth Moore (Potomac State College); Alex 'Casper' Cline (Ada National College for Digital Skills); Wu-chang Feng (Portland State University); Moderator - Laurie White (Mercer University)
+#      description: "Come hear a group of faculty who have been teaching with Google Cloud discuss their successes, challenges, and how they've integrated cloud computing into their existing classes and created new courses with the cloud."
+#  - name: "Microsoft"
+#    image: microsoft-200.png
+#    link: "https://www.microsoft.com/en-us/education/higher-education/default.aspx"
+#    sessions:
+#    - title: "Introduction to Microsoft Azure Cloud (On-Demand Video)"
+#      day: Monday, March 8
+#      time: 3:30 PM (ET)
+#      presenters: "Dmitry Soshnikov"
+#      description: "This video introduces the concept of a cloud, and explains how Microsoft Azure can be used to abstract the way we run our code: from Virtual Machines and IaaS to Platform Services. It shows how you can quickly benefit from using Azure, and gives overview of most important services.<br><br><em>Interested in live Q&A? Please visit our eBooth Monday, March 15 and Tuesday, March 16 from 3:00pm-4:00pm ET.</em>"
+#    - title: "Introduction to Azure Machine Learning (On-Demand Video)"
+#      day: Monday, March 8
+#      time: 5:30 PM (ET)
+#      presenters: "Dmitry Soshnikov"
+#      description: "Azure includes a complete solution for all your Machine Learning needs, called Azure Machine Learning. It can be used both by beginners (in low-code/no-code scenarios) and by experienced Data Scientists to perform tasks such as hyperparameter optimization. This video introduces different ways to use Azure ML in your projects.<br><br><em>Interested in live Q&A? Please visit our eBooth Monday, March 15 and Tuesday, March 16 from 3:00pm-4:00pm ET.</em>"
+#    - title: "Practical Quantum Computing Education: An Overview"
+#      day: Tuesday, March 9
+#      time: 3:00 PM (ET)
+#      presenters: "Mariia Mykhailova"
+#      description: "In this talk we will present a brief overview of the current state of practical quantum computing education and existing initiatives directed towards supporting it. After that we will discuss the work done by Microsoft Quantum in the domain of quantum computing education, aimed both at self-paced learners and at bringing quantum programming into quantum computing curricula."
+#    - title: "MakeCode Arcade Game Development Workshop"
+#      day: Friday, March 12
+#      time: 3:00 PM (ET)
+#      presenters: Jacqueline Russell (Program Manager - Microsoft MakeCode)
+#      description: "Looking for a free, engaging, online tool for remote and hybrid learning?  Join us for a hands-on workshop where we'll be building retro Arcade-style games using MakeCode Arcade.  Attendees will be introduced to the MakeCode Arcade tool by building a few different types of games - space games, maze games, platformer games.  We will also cover all educational resources available including self-paced tutorials, and the new AP CS Principles curriculum.  This is a beginner-level workshop, no prior experience required."
+#    - title: "Ushering in a New and Diverse Workforce"
+#      day: Monday, March 15
+#      time: 6:45 PM (ET) - 8:00 PM (ET)
+#      presenters: "Margaret Price (Principal Strategist - Microsoft); Dr. Sarah Guthals (Principal - Microsoft)"
+#      description: "We expect to see 150 million tech or tech-adjacent jobs over the next five years. Those who create with technology will shape our future, and there shouldn’t be barriers to learning the skills required to do so. To help meet this demand, we must make technical and non-technical learning more accessible to anyone who wants to learn. We must evolve industry and academic partnerships. We must address gaps in digital platforms to facilitate seamless and collaborative learning. We must help build a more inclusive future by fostering culture change, increasing diversity, and enabling a sense of belonging. Join us to learn about:<ul><li>Our approach to inclusive problem framing and solving for complex topics like experiential learning, tooling, mentorship, culture change, and curricula</li><li>New learn-to-code curricula created in partnership with NASA, Wonder Woman, Netflix, Lebron James</li><li>New evidence-based problem-solving, collaboration, and resilience curricula called ''life changing'' by students who opted to stick with rather than drop out of CS1 Fall 2020 after going through it</li><li>Partnership opportunities: How might we collaborate with you?</li></ul>"
+#    - title: "Micro:bit - The Next Version"
+#      day: Wednesday, March 17
+#      time: 3:00 PM (ET) - 4:15 PM (ET)
+#      presenters: "Jacqueline Russell (Program Manager - Microsoft MakeCode); Katie Henry (North America Lead, Micro:bit Educational Foundation)"
+#      description: "The micro:bit is a tiny educational computing device that has taken the world by storm with more than 25 million children learning to code with the micro:bit in over 60 countries.  The latest version of the micro:bit recently released, opens up new creative possibilities with an on-board speaker and microphone.  Join us to learn more about this new device and follow along to build some sample projects like a sound emotion badge in Microsoft MakeCode.  We'll also cover some best practices for physical computing in remote learning environments and review free classroom resources."
+#    - title: "Demystifying Apache Spark"
+#      day: Wednesday, March 17
+#      time: 6:45 PM (ET) - 8:00 PM (ET)
+#      presenters: "Adi Polak"
+#      description: "Spark is the leading Big Data analytics framework. However, it also has excellent features for Stream processing and machine learning development. Big Data systems are a new reality. Whether we're creating microservices-based solutions or machine learning-based products, we work with data, most often, big data. Apache Spark is your friend if you want to position yourself on the road for success as a Big Data Developer, Data Engineer, or Data Science with hands-on production experience. Come to this session to learn the basics of Apache Spark and how YOU can get started with it."
+#
+#
+#Gold:
+#  - name: "Codio"
+#    image: codio-200.png
+#    link: "https://codio.com/"  
+#    sessions:
+#    - title: "Pedagogical Practices in U.S. Colleges and Universities"
+#      day: Monday, March 15
+#      time: 4:15 PM (ET) - 5:30 PM (ET)
+#      presenters: Elise Deitrick, PhD (VP of Product at Codio)
+#      description: "Codio shares the findings of their 2020 Computer Science Educator survey, which identified what pedagogical approaches are being implemented in classrooms and how teachers weigh the benefits and challenges of adopting these practices. Results indicate that eBooks are the most popularly adopted innovation and that educators see assessment and feedback tools as highly beneficial. We found educators rank student benefits such as learning outcomes and student engagement as the most important benefits. Codio will speak to how their (1) evidence-based, interactive content, (2) fully auto-graded, feedback-rich assessments, and (3) remote feedback toolkit for teachers, including in-line code comments, code playback, and cursor presence, can help achieve these outcomes."
+#  - name: "NSF"
+#    image: nsf-200.png
+#    link: "https://nsf.gov/"
+#    sessions:
+#    - title: "NSF Merit Review System and Grant Writing"
+#      day: Monday, March 15
+#      time: 5:30 PM (ET) - 6:45 PM (ET)
+#      presenters: "Li Wang (Program Director EHR/DGE); Nigamanth Sridhar (Program Director, EHR/DGE); Paul Tymann (Program Director, EHR/DU)"
+#      description: "What is the NSF merit review process and what does it take to ensure that reviewers find merit in your NSF proposal? Join us for an inside look as we analyze the NSF proposal process from solicitation to award or decline. Learn to identify key components and address intellectual merit and broader impact. This interactive session leads participants through each component by introducing related issues, engaging participants in group exercises designed to explore and share their understanding of the issues and providing guidance on these issues. Approaches for volunteering to review and the elements of a good review are covered, along with resources, Helpful Hints and Fatal Flaws."
+#    - title: "NSF Funding Opportunities"
+#      day: Tuesday, March 16
+#      time: 4:15 PM (ET) - 5:30 PM (ET)
+#      presenters: "Li Wang (Program Director EHR/DGE); Nigamanth Sridhar (Program Director, EHR/DGE); Jeff Forbes (Program Director, CISE/CNS); Paul Tymann (Program Director, EHR/DU)"
+#      description: "As computing becomes more integrated into all aspects of society, research questions to address key areas of interest need likewise to become more interdisciplinary. NSF has several programs to support these cross-cutting research questions in computing and computer science education. This session will introduce participants to some of the NSF’s cross-cutting research and education programs. Some of the program that will be discussed will include: Improving Undergraduate STEM Education: Computing in Undergraduate Education (IUSE), Advanced Technological Education (ATE), Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM), Harnessing the Data Revolution: Data Science Corps (HDR), Computer Science for All (CSforAll: Research and RPPs), Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (INCLUDES), CyberCorps(R) Scholarship for Service, Secure and Trustworthy Cyberspace (SaTC)’s education designation, and NSF Research Traineeship (NRT) program."
+#  
+#
+#Silver:
+#  - name: AWS Educate
+#    link: "https://aws.amazon.com/education/awseducate/"
+#    image: awseducate-200.png
+#  - name: CodeGrade
+#    image: codegrade-200.png
+#    link: "https://codegrade.com/"
+#    sessions:
+#    - title: "Autograding with Ease, Transitioning from Manual to Automatic Grading in Programming Courses"
+#      day: Tuesday, March 16
+#      time: 5:30 PM (ET) - 6:45 PM (ET)
+#      presenters: Youri Voet (CodeGrade)
+#      description: "In this session, Youri Voet, CEO and co-founder of CodeGrade, will guide you through converting a fully manually graded programming course step by step to a powerful (semi) automated course.<br><br>First, we will simply start by using some powerful manual feedback tools offered in CodeGrade, such as inline comments and snippets. Then, we will add a rubric to give the students clear objectives and make grading explainable and consistent. Once we have an efficient manual environment set up, we will start adding basic automated tests to provide instant feedback to students and improve quality of code. Once comfortable with this, we will start increasing the complexity of the tests to further automate the grading process. Reducing the time spent marking allows the grader to focus on the important aspects of giving feedback to learners. Lastly, we will show you how to check for code plagiarism and analyze your assignment.<br><br>This session will show you from end to end how you would set up and convert an assignment to a powerful graded CodeGrade assignment."
+#  - name: Gradescope by Turnitin
+#    link: "http://gradescope.com"
+#    image: gradescope-200.png
+#    sessions:
+#    - title: "Gradescope: One Platform for Paper, Online, and Programming Assignments"
+#      day: Wednesday, March 17
+#      time: 4:15 PM (ET) - 5:30 PM (ET)
+#      presenters: Dibyo Majumdar (Product & Engineering, Gradescope by Turnitin); Joanna Klukowska (Clinical Associate Professor, Department of Computer Science, New York University); Dave Doty (Assistant Professor of Computer Science, University of California-Davis); Dr. Mohammad Ammar Alsalka (University of Leeds)
+#      description: "Gradescope is a single place for grading paper-based exams, programming projects, and online assignments. Join this session to hear from current computer science users about their experience and see for yourself what Gradescope looks like in action.<br><br>Don’t miss your opportunity to: <ul><li>Learn how Gradescope’s rubric-based grading interface can help you grade your exams and homework, faster, without compromising on quality.</li><li>See how to review your programming projects, in any language, with our autograder platform, review for similarity, and distribute results.</li><li>Hear from a panel of SIGCSE peers and current Gradescope users about how Gradescope has made an impact.</li></ul>Whether you’re grading 20, 200, or 2,000 students, Gradescope can help. Attend this session to find out more."
+#  - name: IBM
+#    image: ibm-200.png
+#    link: "https://ibm.com/"
+#  - name: repl.it
+#    image: replit-200.png
+#    link: "https://repl.it/teams-for-education"
+#    sessions:
+#    - title: "Zero Setup Online Pair Coding on Any Device with Replit"
+#      day: Wednesday, March 17
+#      time: 4:15 PM (ET) - 5:30 PM (ET)
+#      presenters: Derrick McMillen; Patrick Coleman
+#      description: "During extended periods of at-home learning, the equity gap of computing education access has been exacerbated further. Varying ability levels, home computer access, and internet access introduce new challenges for CS instructors to reach all students.  Instructors are also placed in the precarious position of needing to address industry demands for students trained with pair programming skills.  Hybrid learning that deliberately fosters a sense of comradery and intentional collaboration promises to improve student persistence and course outcomes.<br><br>Replit Teams for Education presents an opportunity for instructors from all backgrounds to spend more time engaged in teaching rather than troubleshooting student environments and tediously sharing code. Attendees will experience first-hand how students can work together through Replt’s collaborative coding environment and how to leverage Replit’s unique technologies in their teaching practice."
+#  - name: zyBooks
+#    image: zybooks-200.png
+#    link: "https://www.zybooks.com/why-zybooks/"
+#    sessions:
+#    - title: "zyBooks: Empowering educators with high quality auto graded assignments and tools to promote academic integrity"
+#      day: Wednesday, March 17
+#      time: 5:30 PM (ET) - 6:45 PM (ET)
+#      presenters: Frank Vahid (University of California, Riverside); Roman Lysecky (University of Arizona); Aubrey Lawson (zyBooks, A Wiley Brand CS/CE Content Developer)
+#      description: "Nearly 80% of instructors who use zyLabs auto-grader switched from grading programming assignments by hand. They saved an average of 9 hours per week, with some reporting up to 20 hours saved. In recent years, computer science educators have increasingly shifted how they grade programming assignments, from grading manually or using batch scripts, to using auto-graders with immediate score feedback to students. zyBooks has been a pioneer by developing the zyLabs auto-grader, that is easy to use and integrated with our state of the art e-learning platform. This shift illustrates a future with a much different classroom dynamic, in which students view instructors less as evaluators and more as hands-on educators.  To support educators in this new role, zyLabs also provides support across a wide range of activities by providing a library of high-quality pre-written programming assignments, an intuitive interface for customizing content, and tools to promote student integrity. In this session, we'll talk about the growth and benefits of zyLabs auto-grading, demonstrate our library of programming assignments, and illustrate how zyLabs features promote academic honesty."
+#
+#Bronze:
+#  - name: AdaCore
+#    image: adacore-200.png
+#    link: "http://www.adacore.com"
+#    sessions: 
+#    - title: "Learning systems programming, hard real-time programming and formal methods with good language support"
+#      day: Thursday, March 18
+#      time: 4:15 PM (ET) - 5:30 PM (ET)
+#      presenters: "Patrick Rogers, PhD"
+#      description: "This meeting will provide an interactive discussion and demonstration revolving around a programming language and tools for teaching systems programming, real-time programming, and practical, teachable formal methods."
+#  - name: AnitaB.org
+#    image: anitaborg-200.png
+#    link: "https://anitab.org/"
+#  - name: Intel OpenVINO
+#    image: intel-200.png
+#    link: "https://software.intel.com/content/www/us/en/develop/tools/devcloud/edge.html"
+#    sessions:
+#    - title: " AI Tools and Compute Resources for Faculty and Students"
+#      day: Thursday, March 18
+#      time: 5:30 PM (ET) - 6:45 PM (ET)
+#      presenters: Jay Burris (Academic Program Manager)
+#      description: "Did you know the #1 job per LinkedIn in 2019 was AI Specialist? And that 97M new automation jobs are expected to be created by 2025. Join us for a 75-minute tech talk packed with topics on the Intel® DevCloud which is instrumented with valuable tutorials to train students how to use and deploy AI in IoT use cases. With the Intel DevCloud, academic institutions and faculty don’t have to fund lab equipment or maintain it any of it. The Intel® DevCloud provides compute resources available to faculty and students, available 24/7, from anywhere in the world, and is kept up to date with Intel’s latest AI inference software toolkit OpenVINO™ releases and newest compute platforms. Students can develop projects, and faculty can develop exercises to enhance their classroom learning experiences giving students an edge in the growing and competitive AI job market."
+#  - name: "Oracle for Research"
+#    image: oracle-200.png
+#    link: "https://www.oracle.com/oracle-for-research/?source=:ex:sn:::::SIGCSE2021&SC=:ex:sn:::::SIGCSE2021&pcode="
+#  - name: "Pearson"
+#    image: pearson-200.png
+#    link: "https://pearson.com/"
+#    sessions:
+#    - title: "Online and Hybrid Learning with Revel, Introduction to Programming with market-leading Authors: Tony Gaddis and Y. Daniel Liang"
+#      supporter: Pearson
+#      day: Thursday, March 18
+#      time: 5:30 PM (ET) - 6:45 PM (ET)
+#      presenters: Tony Gaddis and Y. Daniel Liang
+#      description: "Revel is Pearson's unique learning platform designed to encompass text, video, and interactives in one environment to foster active learning for all participants. Hear from two award-winning authors that are dedicated to the ever-changing field of computer science, Tony Gaddis and Y. Daniel Liang. With Revel courses in Python, Java, and C++, Tony and Daniel share implementation strategies for using Revel in distance, hybrid, and in-person orientations. You will also hear about Pearson's Efficacy Report on using Revel to teach introductory programming concepts and how it determined additional success metrics for students who engaged in active learning and coding practices. See firsthand how students can start to code in the early stages of the course and receive immediate feedback if their submissions were correct or need further refinement.  In this Webinar, our authors will share their experiences of teaching online with Python, Java, and C++ courses."
+#  - name: "Turing's Craft"
+#    image: turingscraft-200.png
+#    link: "https://www.turingscraft.com/"
+#    sessions:
+#    - title: "Securing The Basics: CodeLab as a Learning Tool"
+#      day: Thursday, March 18
+#      time: 4:15 PM (ET) - 5:30 PM (ET)
+#      presenters: Gerald Weiss (Turing's Craft, CUNY - Brooklyn College)
+#      description: "Whether integrated in an LMS like Canvas or Blackboard, or as a standalone web client, CodeLab continues its role as a venue where students can work independently and without supervision to gain mastery over the syntax, semantics and common usage of the programming language elements of Java, Python, C++, etc. that are taught to CS1 students. Along with hosting instructor-created programming assignments, CodeLab offers hundreds of short programming exercises with high quality, immediate feedback that are focused on distinct language constructs or programming ideas. Each topic contains a sequence of incrementally increasingly complex exercises thus reducing the learning curve, so we believe that CodeLab is a must-have learning tool for introductory programming students. In this meeting, we will go over the essence of the core CodeLab service and then discuss strategies for faculty who wish to get the most out of the service for their students. We'll be talking about deadlines, customization, exercise creation, plagiarism, auto-grading and more."
+#  - name: "Twilio"
+#    image: twilio-200.png
+#    link: "https://www.twilio.com"
+#    sessions:
+#    - title: "Teach Through Adventure: The Power of Story and Exploration"
+#      day: Wednesday, March 17
+#      time: 5:30 PM (ET) - 6:45 PM (ET)
+#      presenters: Kevin Whinnery (Creator & Lead Developer of TwilioQuest)
+#      description: "In this session, you will learn how the team behind the TwilioQuest educational PC game discovered the power of narrative and exploring 2D space in teaching technical concepts. Using historical data from TwilioQuest players as a case study, we will see the impact of design and content choices on the progress of learners through difficult technical concepts. After digging into the data, we will show teachers how they can become game designers. We will look at how to design and structure content as an adventure, using physical space to create both structure and freedom."

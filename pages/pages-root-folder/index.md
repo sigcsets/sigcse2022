@@ -4,25 +4,20 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-mediaplayer: true
 layout: frontpage
 header:
   image_fullwidth: sigcse2021-logo-header.png
 widget1:
-  title: Login to Pathable!
-  url: 'https://pathable.sigcse2021.org'
-  image: pathable-logo-widget.png
-  text: "If you have access to the Symposium through Pathable, login here to view all conference recordings until March 2022."
+  title: Call For Participation
+  url: '/assets/pdf/cfp.pdf'
+  #image: logo.png
+  text: "See the Call for Participation for more information on submitting to SIGCSE TS 2022!"
+  style: alert
 # widget2:
 #   title: "Submit to SIGCSE TS!"
 #   url: '/authors'
 #   text: 'See the Call for Papers for more information on submitting to SIGCSE TS 2021!'
 #   image: ribbons-widget.png
-widget2:
-  title: "SIGCSE Morning Coffee"
-  url: '/morningcoffee'
-  image: morning-coffee-widget.png
-  text: "Watch (or listen) to the entire 2021 season of SIGCSE Morning Coffee!"
 #
 # Use the call for action to show a button on the frontpage
 #

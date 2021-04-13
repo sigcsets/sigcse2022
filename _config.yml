@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'SIGCSE TS 2021'
+title: 'SIGCSE TS 2022'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Expanding Opportunities'
@@ -17,7 +17,7 @@ slogan: 'Expanding Opportunities'
 description: 'The SIGCSE Technical Symposium is a forum for educators and researchers to share new results and insights around developing, implementing, or evaluating computing programs, curricula, and courses.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Content by SIGCSE TS 2021 Committee - <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> Template by <a href="http://phlow.de/">Phlow</a> - <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Content by SIGCSE TS 2022 Committee - <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> Template by <a href="http://phlow.de/">Phlow</a> - <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -25,10 +25,10 @@ author: SIGCSE
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: '//sigcse2021.sigcse.org'
+url: '//sigcse2022.sigcse.org/temp'
 baseurl: 
-domain: "sigcse2021.org"
-year: "2021"
+domain: "sigcse2022.org"
+year: "2022"
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -40,7 +40,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: '//sigcse2021.sigcse.org/images/'
+urlimg: '/images/'
 
 collections:
     authors:
@@ -52,7 +52,7 @@ collections:
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "//sigcse2021.sigcse.org/temp/images/logo.png"
 
 # Plugins
 plugins:

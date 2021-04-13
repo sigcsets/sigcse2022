@@ -65,7 +65,7 @@ workshoprates:
   early: $20
   regular: $25
   day-of: $30
-registration_button:
-  url: /attendees
-  text: Post-Conference Access
-  style: alert
+  #registration_button:
+  #url: /attendees
+  #text: Post-Conference Access
+  #style: alert

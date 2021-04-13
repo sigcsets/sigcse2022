@@ -1,15 +1,15 @@
 
 submissionopen: false
-submissionurl: "https://easychair.org/conferences/?conf=sigcse-ts2021"
+submissionurl: "https://easychair.org/conferences/?conf=sigcse-ts2022"
 
 camerareadyinstructionsopen: false
-#camerareadyinstructions: "http://www.sheridanprinting.com/typedept/sigcse2021.htm" 
+#camerareadyinstructions: "http://www.sheridanprinting.com/typedept/sigcse2022.htm" 
 #UPDATE camera ready instructions
 
-reviewer-signup: http://sigcse2021.org/review
+reviewer-signup: http://sigcse2022.org/review
 
-symposiumchairsemail: symposium@sigcse2021.org
-programchairsemail: program@sigcse2021.org
+symposiumchairsemail: symposium@sigcse2022.org
+programchairsemail: program@sigcse2022.org
 
 # Number of topic areas specified in EasyChair
 topics:
@@ -66,27 +66,27 @@ reviewing:
     dualAnonymous: true
   - track: Panels
     round: 1
-    bidding: true # confirmed for 2021
+    bidding: true # confirmed for 2022
     dualAnonymous: false
   - track: Special Sessions
     round: 1
-    bidding: true # confirmed for 2021
+    bidding: true # confirmed for 2022
     dualAnonymous: false
   - track: Workshops
     round: 1
-    bidding: true  # confirmed for 2021
+    bidding: true  # confirmed for 2022
     dualAnonymous: false
   - track: ACM Student Research Competition
     round: 2
-    bidding: false # confirmed for 2021
+    bidding: false # confirmed for 2022
     dualAnonymous: false
   - track: Demos
     round: 2
-    bidding: false # confirmed for 2021
+    bidding: false # confirmed for 2022
     dualAnonymous: false
   - track: Lightning Talks
     round: 2
-    bidding: false # confirmed for 2021
+    bidding: false # confirmed for 2022
     dualAnonymous: true
   - track: Birds of a Feather
     round: 2
@@ -98,7 +98,7 @@ reviewing:
     dualAnonymous: false
   - track: Posters
     round: 2
-    bidding: false # confirmed for 2021
+    bidding: false # confirmed for 2022
     dualAnonymous: true
 
 
@@ -219,7 +219,7 @@ details:
     limits: "2 pages"
     connector: "including"
     abstract: "250 words"
-    length: "<s>20</s> now 17 minutes" # for 2021, prior (on the ground): "45 minutes (during breaks)"
+    length: "<s>20</s> now 17 minutes" # for 2022, prior (on the ground): "45 minutes (during breaks)"
   Lightning Talks:
     limits: "1 page, 500 words max."
     connector: "including"
@@ -232,6 +232,6 @@ details:
     limits: "2 pages"
     abstract: "1 page"
     connector: "including extended"
-    length: "<s>2</s> 2.75 hours (poster session)"  # tentative for 2021
+    length: "<s>2</s> 2.75 hours (poster session)"  # tentative for 2022
 
 lastupdate: "July 1, 2020"
