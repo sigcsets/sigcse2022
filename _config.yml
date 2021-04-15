@@ -25,7 +25,7 @@ author: SIGCSE
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: '//sigcse2022.sigcse.org/temp'
+url: '//sigcse2022.sigcse.org'
 baseurl: 
 domain: "sigcse2022.org"
 year: "2022"
@@ -52,7 +52,7 @@ collections:
 
 
 # Logo size is 600x80 pixels
-logo: "//sigcse2021.sigcse.org/temp/images/logo.png"
+logo: "//sigcse2022.sigcse.org/images/"
 
 # Plugins
 plugins:

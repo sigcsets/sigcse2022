@@ -6,13 +6,14 @@ $('audio,video').mediaelementplayer();
 
 
 <script src="{{ site.url }}/assets/js/javascript.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.1.18/jquery.backstretch.min.js"></script>
 <script src="{{ url }}/assets/js/top.js"></script>
 
 
 {% if page.header.image_fullwidth %}
 <script>
-    $("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
-    $("#masthead-with-text").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", {fade: 700});
+    $("#masthead").backstretch([{url: "{{ site.urlimg }}{{ page.header.image_fullwidth }}", alt: "The 53rd ACM Technical Symposium on Computer Science Education (March 2-5, 2022)"", scale: 'fit'}], {fade: 700});
+    $("#masthead-with-text").backstretch([{url: "{{ site.urlimg }}{{ page.header.image_fullwidth }}", alt: "The 53rd ACM Technical Symposium on Computer Science Education (March 2-5, 2022)"", scale: 'fit'}], {fade: 700});
 </script>
 {% endif %}
 
