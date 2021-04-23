@@ -7,13 +7,13 @@ title: "SIGCSE Contacts"
 permalink: "/contact/"
 ---
 
-## SIGCSE TS 2021 Contacts
+## SIGCSE TS 2022 Contacts
 
 For symposium organizational issues:     
-Mark Sherriff and Larry Merkle, Symposium Co-Chairs ([symposium@sigcse2021.org](mailto:symposium@sigcse2021.org))
+Larry Merkle and Maureen Doyle, Symposium Co-Chairs ([symposium@sigcse2022.org](mailto:symposium@sigcse2022.org))
 
 For program issues:    
-Pam Cutter, Alvaro Monge, and Judy Sheard, Program Co-Chairs ([program@sigcse2021.org](mailto:program@sigcse2021.org))
+Judy Sheard, Leen-Kiat Soh, and Brian Dorn, Program Co-Chairs ([program@sigcse2022.org](mailto:program@sigcse2022.org))
 
 For exhibitor or sponsor issues:     
 ([sigcse@dlplan.com](mailto:sigcse@dlplan.com))
