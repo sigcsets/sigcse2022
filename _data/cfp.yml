@@ -221,7 +221,7 @@ details:
     abstract: "250 words"
     length: "45 minutes (during breaks)" # for 2022, prior (on the ground): "45 minutes (during breaks)"
   Lightning Talks:
-    limits: "1 page, 500 words max."
+    limits: "1 page, 500 words maximum"
     connector: "including"
     abstract: "250 words"
     length: "5 minutes"
