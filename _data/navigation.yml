@@ -2,9 +2,9 @@
   url: "/"
   side: left
 
-#- title: Pathable
-#  url: "https://pathable.sigcse2021.org"
-#  side: left
+- title: Policies
+  url: "/policies/"
+  side: left
 #
 #- title: "Schedule"
 #  url: /schedule/

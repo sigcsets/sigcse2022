@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Symposium Committee"
-meta_title: "Symposium Committee for SIGCSE TS 2021"
+meta_title: "Symposium Committee for SIGCSE TS 2022"
 permalink: "/committee/"
 sidebar: committee
 ---
