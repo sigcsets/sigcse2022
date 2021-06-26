@@ -22,9 +22,9 @@
 #  url: /reviewers/
 #  side: left
 #
-#- title: "Exhibitors"
-#  url: /exhibitors/
-#  side: left
+- title: "Exhibitors"
+  url: /exhibitors/
+  side: left
 #
 #- title: "Committee"
 #  url: /committee/

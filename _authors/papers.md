@@ -7,35 +7,27 @@ track: "Papers"
 
 {% include submission-details.html %}
 
-<!-- {% include covid-guidelines-alert.html %} -->
-
 ## SIGCSE Technical Symposium Paper Types
 
 Papers describe an educational research project, classroom experience, teaching technique, curricular initiative, or pedagogical tool. All papers should explicitly state their motivating questions, relate to relevant literature, and contain an analysis of the effectiveness of the interventions. An **abstract submission is required for all papers** and it is due a week before the full paper is due.  
 
 **Paper submissions are expected to be original and polished work.**  While there will be the opportunity for authors of accepted papers to revise work considering the feedback from reviewers, those revisions should be minor since there is no "review-revise-review" cycle for the SIGCSE Technical Symposium. Additionally, we expect submissions will include a review of previous, related work.
 
-{% include review-anonymity.html %}
+
 
 ## Paper Tracks
-Please ensure that you **submit your paper to the correct paper track**. Papers will be reviewed for the track they are submitted to and will not be moved between tracks.
-
+Please ensure that you **submit your paper to the correct paper track**. Papers will be reviewed for the track they are submitted to and will not be moved between tracks.  Any submissions made to more than one track will be desk rejected from both tracks.
 * **Computing Education Research**. Papers should adhere to rigorous standards, describing research questions, hypotheses, methods, results, and limitations, as is typical and expected of research studies. These papers normally focus on topics relevant to computing education with emphasis on educational goals and knowledge units/topics; teaching and learning methods or techniques; evaluation of pedagogical approaches; studies of the many different populations that are engaged in computing education, including (but not limited to) students, instructors; and issues of gender, diversity, equity, and underrepresentation.  We welcome replication papers and papers that present null or negative results that meet the criteria below.
 
-* **Experience Reports and Tools**. Papers should carefully describe the development and use of a computing education approach  or tool, the  context of use, and provide a rich reflection on what did or didn’t work, and why. This track accepts experience reports, teaching techniques, and pedagogical tools. All papers in this track should provide enough detail to enable the approach or tool to be  adopted by others.
+* **Experience Reports and Tools**. Papers should carefully describe the development and use of a computing education approach or tool, the context of use, and provide a rich reflection on what did or didn’t work, and why. This track accepts experience reports, teaching techniques, and pedagogical tools. All papers in this track should provide enough detail to enable the approach or tool to be adopted by others.  (Note: Papers that describe a tool and its use should be submitted to the Experience Reports and Tools track.  A research study on a tool should be submitted to the Computing Education Research track.)
 
-* **Position and Curricula Initiatives**. Position papers should engender fruitful academic discussion through a defensible opinion about a computing education topic, substantiated with evidence. Curricula Initiative papers discuss new and revised curricula, programs, degrees and include position papers. Papers about curricula, programs, and degrees should describe the motivating context before the new initiative was undertaken, what it took to put the initiative into place, the impact, and suggestions for others wishing to adopt it.
+* **Position and Curricula Initiative**. Position papers should engender fruitful academic discussion through a defensible opinion about a computing education topic, substantiated with evidence. Curricula Initiative papers discuss new and revised curricula, programs, degrees and include position papers. Papers about curricula, programs, and degrees should describe the motivating context before the new initiative was undertaken, what it took to put the initiative into place, the impact, and suggestions for others wishing to adopt it.
 
-### Selecting a Track
-Please select the most appropriate track for your work.  The Program Chairs will not move papers between tracks. Any submissions made to more than one track will be desk rejected from both tracks.  
+Authors may find ["What is a SIGCSE Symposium Paper?"](https://dl.acm.org/citation.cfm?id=3243073) useful as they consider which track to submit to. 
 
-Authors may find ["What is a SIGCSE Symposium Paper?"](https://dl.acm.org/citation.cfm?id=3243073) useful as they consider which track to submit to.  
-* Computing Education Research papers report on work that addresses one or more research questions and where studies are pre-planned. 
-* Experience Reports and Tools papers are a deeply reflective case study or experience that is of interest to the community; they typically don't have research questions, but instead, provide a reflection on the goal of the experience.  
-* Papers that are describing a tool and its use should be submitted to the Experience Reports and Tools track.  A research study on a tool should be submitted to the Computing Education Research track.
 
 ### Paper Resources
-There are many resources for writing high quality papers for submission to the SIGCSE Technical Symposium.  We encourage authors to read and evaluate papers from prior SIGCSE Technical Symposium, especially those designated as *best papers*, which were selected both due to content and high quality reporting (for example the [SIGCSE TS 2020 best papers](https://sigcse2020.sigcse.org/online/index.html#best-papers)).  Authors will also likely find the [paper review guidelines](/reviewers/paper-review-guidelines.html) beneficial for identifying how reviewers will assess papers for each track.   Below, we list additional resources that you may find useful as you write your papers, especially computing education research papers.
+There are many resources for writing high quality papers for submission to the SIGCSE Technical Symposium.  We encourage authors to read and evaluate papers from prior SIGCSE Technical Symposium, especially those designated as *best papers*, which were selected both due to content and high quality reporting.  Authors will also likely find the [paper review guidelines](/reviewers/paper-review-guidelines.html) beneficial for identifying how reviewers will assess papers for each track.   Below, we list additional resources that you may find useful as you write your papers, especially computing education research papers.
 
 * [Writing a research question (csedresearch.org)](https://csedresearch.org/write-a-research-question/)
 * [Reporting Tips (csedresearch.org)](https://csedresearch.org/reporting-activities/)
@@ -87,34 +79,16 @@ The abstract helps reviewers bid for papers that they are qualified and interest
 
 ## How Should The Paper Be Formatted?
 
-Authors **must submit ONLY an anonymized version of the paper**. The goal of the anonymized version is to, as much as possible, provide the author(s) of the paper with an unbiased review. The anonymized version should have ALL mentions of the authors removed (including author’s names and affiliation plus identifying information within the body of the paper such as websites or related publications). Self-citations need not be removed if they are worded so that the reviewer doesn’t know if the writer is citing themselves. That is, instead of writing “We reported on our first experiment in 2017 in a previous paper [1]”, the writer might write “In 2017, an initial experiment was done in this area as reported in [1].
+Authors **must submit ONLY an anonymized version of the paper**. The goal of the anonymized version is to, as much as possible, provide the author(s) of the paper with an unbiased review. The anonymized version should have ALL mentions of the authors removed (including author’s names and affiliation plus identifying information within the body of the paper such as websites or related publications). However, authors are reminded to leave sufficient space in the submitted manuscripts to accommodate author information either at the beginning or end of the paper.   Self-citations need not be removed if they are worded so that the reviewer doesn’t know if the writer is citing themselves. That is, instead of writing “We reported on our first experiment in 2017 in a previous paper [1]”, the writer might write “In 2017, an initial experiment was done in this area as reported in [1].
+
+{% include review-anonymity.html %}
 
 If the paper is accepted for the conference and for publication, authors will be asked to complete a camera-ready copy that will include all appropriate author names, citations, and references.
 
-The paper is limited to a **maximum of {{site.data.submissions.papers.limits}}**. The seventh page must only contain references, no other content is accepted. The Program Co-Chairs will *desk reject any submissions that deviate from this or other formatting requirements*. Submissions must adhere to ACM's publication guidelines:
+The paper is limited to a maximum of {{site.data.submissions.papers.limits}} and must adhere to ACM's publication guidelines:
 
 {% include template-information.html %}
 
 If your paper is accepted you will have a chance to modify your publication version before it is published.
 
 {% include submission-proposal.html %}
-
-## Presenting at SIGCSE TS 2021
-
-### Important Dates
-
-* __January 22__ - Submit video presentation through submission form emailed to corresponding authors 
-
-### How will I be presenting my work? (Paper Tracks)
-
-Technical session presentations for all paper tracks (Computing Education Research, Experience Reports and Tools, and Position and Curricula Initiatives) will be split into two parts -- a prerecorded video presentation of no more than 20 minutes in length and a 20-minute live discussion and Q&A session during your assigned slot the week of the Technical Symposium.
-
-Presenters are asked to prerecord a 20 minute presentation of their work that will be made available to attendees roughly two weeks before the Technical Symposium begins on Pathable.  Attendees will have the opportunity to access all available content during the weeks leading up to the Symposium and will have access for a year following the end of the Symposium.  
-
-Five papers will be assigned to each technical session during the Symposium.  Each presenter in a technical session will be given 20 minutes for their work -- 5 minutes for a short recap with two or three slides and then 15 minutes of Q&A.  Pathable embeds Zoom in the web application for video presentations, so the experience will be familiar to most presenters.  A session chair will moderate the session and technical support will be available all week to assist as needed.  You will also have the opportunity to upload a copy of your presentation slides, which will be made available with your session in Pathable.  All technical sessions will be recorded and made available on-demand through Pathable for a year following the end of the Symposium.
-
-More information regarding the live technical sessions, including which session each paper is assigned to, will be available in January.  
-
-{% include presentation-how-to-submit.md %}
-
-{% include presentation-guidelines.md %}

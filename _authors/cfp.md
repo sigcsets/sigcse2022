@@ -2,7 +2,7 @@
 layout: page
 order: 0
 title: Call for Participation
-#track: CFP
+track: CFP
 ---
 
 ## Important Dates
