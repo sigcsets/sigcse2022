@@ -13,19 +13,7 @@ track: CFP
 Submissions have a time deadline of 23:59 AoE (Anywhere on Earth, UTC-12h) on each of the dates listed above.
 
 ## Overview
-The SIGCSE Technical Symposium is a forum for educators and researchers to share new results and insights around developing, implementing, or evaluating computing programs, pedagogy, curricula, and courses. We are planning to go to Canada! This will mark the first time the technical symposium is hosted outside of the US. With this momentous decision, in addition to the usual tracks, we invite submissions that seek to **expand opportunities in computing education**. We welcome submissions on the topics of broadening participation and diversity, K-12 and novice learners, improved and scalable pedagogies, leveraging data and analytics to improve learning, peer learning and instruction, novel outreach, events and engagement strategies, involving students in solving social and global challenges, advanced CS topics, and education research – including qualitative and quantitative, instruments, null and negative results. The SIGCSE Technical Symposium encourages many ways to share ideas, including 
-[Papers](/authors/papers), 
-[Panels](/authors/panels), 
-[Special Sessions](/authors/specialsessions), 
-[Workshops](/authors/workshops), 
-the [ACM Student Research Competition](/authors/src), 
-[Birds of a Feather (BoFs)](/authors/bofs), 
-[Demos](/authors/demos), 
-[Lightning Talks](/authors/lightningtalks), 
-[Nifty Assignments](/authors/nifty), & 
-[Posters](/authors/posters),
-[Affiliated Events](/authors/affiliated),
-and [Pre-Symposium Events](/authors/presymposium).
+The SIGCSE Technical Symposium is a forum for educators and researchers to share new results and insights around developing, implementing, or evaluating computing programs, pedagogy, curricula, and courses. The conference is planned to be held in Providence, Rhode Island and we are exploring support for hybrid participation. We particularly invite submissions that highlight computing education’s role in giving society hope for a better future, while aligning with the usual topics of interest, including broadening participation; strengthening diversity, equity, and inclusion K-12 and novice learners; improved and scalable pedagogies; leveraging data and analytics peer learning and instruction; novel outreach; events and engagement strategies; involving students in solving social and global challenges; advanced CS topics; and education research – including qualitative and quantitative, instruments, null and negative results. The SIGCSE Technical Symposium provides many ways to share ideas, including papers, panels, special sessions, workshops, the ACM Student Research Competition, Birds of a Feather (BoFs), demos, lightning talks, nifty assignments, posters, and pre-symposium events. We invite colleagues to contribute to, review for, and attend SIGCSE TS 2022. Once papers are accepted and finalized for publication, the official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work. At least one author of an accepted work must register and attend the conference.
 **We invite colleagues to contribute to, review for, and attend SIGCSE TS 2022**. 
 
 
