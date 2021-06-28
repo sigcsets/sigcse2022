@@ -6,9 +6,9 @@ track: CFP
 ---
 
 ## Important Dates
-* {{site.data.cfp.round[0].date}}: [Paper abstracts](/authors/papers), [affiliated events](/authors/affiliated) and [pre-symposium events](/authors/presymposium).
+* {{site.data.cfp.round[0].date}}: [Paper abstracts](/authors/papers), affiliated events and pre-symposium events.
 * {{site.data.cfp.round[1].date}}: [Papers](/authors/papers), [Panels](/authors/panels), [Special Sessions](/authors/specialsessions), and [Workshops](/authors/workshops)
-* {{site.data.cfp.round[2].date}}: [ACM SRC](/authors/src), [BoFs](/authors/bofs), [Demos](/authors/demos), [Lightning Talks](/authors/lightningtalks), [Nifty Assignments](/authors/nifty), & [Posters](/authors/posters)
+* {{site.data.cfp.round[2].date}}: ACM SRC, BoFs, Demos, Lightning Talks, Nifty Assignments, & Posters
 
 Submissions have a time deadline of 23:59 AoE (Anywhere on Earth, UTC-12h) on each of the dates listed above.
 
@@ -17,8 +17,10 @@ The SIGCSE Technical Symposium is a forum for educators and researchers to share
 **We invite colleagues to contribute to, review for, and attend SIGCSE TS 2022**. 
 
 
+<!--
 ### Reviewing
 [Learn more about reviewing](/reviewers/) and [sign up to volunteer as a reviewer or APC](/reviewers/signup/). Reviewers play an important role in providing feedback to authors and in helping to identify the works that make up the confference.
+-->
 
 
 ### Papers
@@ -51,12 +53,12 @@ Undergraduate and graduate student ACM members are invited to submit individual 
 SRC proposals are {{site.data.cfp.details["Workshops"].limits}} maximum. Accepted SRC abstracts will be included in the proceedings. SRC posters are presented during a poster session. Authors of selected posters will be invited to give a 10-minute presentation during an SRC session.
 
 ### Birds of a Feather
-[Birds of a Feather (BoFs)](/authors/bofs) provide an environment for colleagues with similar interests to meet for informal discussions. A/V equipment will not be provided for BoFs.
+Birds of a Feather (BoFs) provide an environment for colleagues with similar interests to meet for informal discussions. A/V equipment will not be provided for BoFs.
 
 BoF proposals are {{site.data.cfp.details["Birds of a Feather"].limits}} page maximum. Accepted BoF abstracts will be included in the proceedings. BoFs will be provided a session of {{site.data.cfp.details["Birds of a Feather"].length}}.
 
 ### Demos
-[Demos](/authors/demos) showcase the relevance, potential, and innovation of a tool and allow time for discussion with its creator in the exhibition hall. Proposals include an abstract as well as power, A/V, and space needs. An abstract is included in the proceedings.
+Demos showcase the relevance, potential, and innovation of a tool and allow time for discussion with its creator in the exhibition hall. Proposals include an abstract as well as power, A/V, and space needs. An abstract is included in the proceedings.
 
 Demos proposals are {{site.data.cfp.details["Demos"].limits}} maximum. Accepted demo abstracts will be included in the proceedings. Demos will be provided {{site.data.cfp.details["Demos"].length}} during a session.
 
@@ -75,7 +77,7 @@ See the detailed [Nifty Assignments](/authors/nifty) author guidelines for the r
 Accepted Nifty abstracts will be included in the proceedings as part of the Nifty paper. 
 
 ### Posters
-[Posters](/authors/posters) Posters describe computing education materials or research, particularly works in progress. Posters enable one-on-one discussion with conference attendees. 
+Posters describe computing education materials or research, particularly works in progress. Posters enable one-on-one discussion with conference attendees. 
 
 Posters proposals are {{site.data.cfp.details["Posters"].limits}} maximum. Accepted poster extended abstracts of {{site.data.cfp.details["Posters"].abstract}} will be included in the proceedings. Posters will be provided a session of {{site.data.cfp.details["Posters"].length}}.
 

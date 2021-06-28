@@ -20,15 +20,17 @@ We are excited to announce that Pathable has been selected as the virtual platfo
     <li><a href="{{ site.url }}{{ post.url }}#presenting-at-sigcse-ts-2022">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+-->
 
 ## SIGCSE TS 2022 Tracks
 Follow the links below for detailed information about submission guidelines to the submission type.
 <ul>
     {% assign posts = site.authors | sort: 'order' %}
     {% for post in posts %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% if post.track == 'CFP' or post.track == 'Papers' or post.track == 'Panels' or post.track == 'Special Sessions' or post.track == 'Workshops' %} 
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.track }}</a></li>
+    {% else %}
+    <li>{{ post.track }} (TBA)</li>
+    {% endif %}
     {% endfor %}
 </ul>
--->
-
-<a href="{{ site.url}}/authors/cfp">Call for Participation</a>

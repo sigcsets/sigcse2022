@@ -125,9 +125,9 @@ master:
 
   # Papers
   - time: "23:59 AoE (Anywhere on Earth, UTC-12h)"
-    notification: "Friday, October 9, 2020"
-    cameraready: "Sunday, December 1, 2020"
-    abstractdue: "Friday, August 21, 2020"
+    notification: "Monday, September 27, 2021"
+    cameraready: "Friday, November 19, 2021"
+    abstractdue: "Friday, August 6, 2021"
     round: 1
     types:
       - track: Papers
@@ -136,8 +136,8 @@ master:
 
   # Panels, Special Sessions, Workshops
   - time: "23:59 AoE (Anywhere on Earth, UTC-12h)"
-    notification: "Friday, October 9, 2020"
-    cameraready: "Sunday, December 1, 2020"
+    notification: "Monday, September 27, 2021"
+    cameraready: "Friday, November 19, 2021"
     round: 1
     types:
       - track: Panels
