@@ -26,12 +26,12 @@ the [ACM Student Research Competition](/authors/src),
 [Posters](/authors/posters),
 [Affiliated Events](/authors/affiliated),
 and [Pre-Symposium Events](/authors/presymposium).
-**We invite colleagues to contribute to, review for, and attend SIGCSE TS 2021**. 
+**We invite colleagues to contribute to, review for, and attend SIGCSE TS 2022**. 
 
-Once papers are accepted and finalized for publication, *the official publication date is the date the proceedings are made available in the ACM Digital Library*. This date may be up to two weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work. At least one author of an accepted work must register and attend the conference.
 
 ### Reviewing
 [Learn more about reviewing](/reviewers/) and [sign up to volunteer as a reviewer or APC](/reviewers/signup/). Reviewers play an important role in providing feedback to authors and in helping to identify the works that make up the confference.
+
 
 ### Papers
 [Papers](/authors/papers) describe an educational research project, classroom experience or pedagogical tool, novel position or curricular initiative. All papers should explicitly state their motivating questions, relate to relevant literature, and contain an analysis of the effectiveness of interventions (if any), including limitations. Initial submissions must be anonymous and must be in the appropriate track. **Note that an ABSTRACT SUBMISSION is required for all papers one week before the full paper is due.**
@@ -58,12 +58,12 @@ Workshop proposals are {{site.data.cfp.details["Workshops"].limits}} maximum. Ac
 
 
 ### ACM Student Research Competition
-Undergraduate and graduate student ACM members are invited to submit individual research contributions from all areas of computing to the [ACM Student Research Competition](/authors/src) (SRC). An abstract is included in the proceedings.
+Undergraduate and graduate student ACM members are invited to submit individual research contributions from all areas of computing to the ACM Student Research Competition (SRC). An abstract is included in the proceedings.
 
 SRC proposals are {{site.data.cfp.details["Workshops"].limits}} maximum. Accepted SRC abstracts will be included in the proceedings. SRC posters are presented during a poster session. Authors of selected posters will be invited to give a 10-minute presentation during an SRC session.
 
 ### Birds of a Feather
-[Birds of a Feather (BoFs)](/authors/bofs), provide an environment for colleagues with similar interests to meet for informal discussions. A/V equipment will not be provided for BoFs.
+[Birds of a Feather (BoFs)](/authors/bofs) provide an environment for colleagues with similar interests to meet for informal discussions. A/V equipment will not be provided for BoFs.
 
 BoF proposals are {{site.data.cfp.details["Birds of a Feather"].limits}} page maximum. Accepted BoF abstracts will be included in the proceedings. BoFs will be provided a session of {{site.data.cfp.details["Birds of a Feather"].length}}.
 
@@ -73,14 +73,16 @@ BoF proposals are {{site.data.cfp.details["Birds of a Feather"].limits}} page ma
 Demos proposals are {{site.data.cfp.details["Demos"].limits}} maximum. Accepted demo abstracts will be included in the proceedings. Demos will be provided {{site.data.cfp.details["Demos"].length}} during a session.
 
 ### Lightning Talks
-[Lightning Talks](/authors/lightningtalks) describe works in progress, new and untested ideas, or opportunities for collaborative work. Lightning talks are an excellent way to spark discussions and get feedback on an idea.
+Lightning Talks describe works in progress, new and untested ideas, or opportunities for collaborative work. Lightning talks are an excellent way to spark discussions and get feedback on an idea.
 
 Lightning Talks proposals are {{site.data.cfp.details["Lightning Talks"].limits}}. Accepted lightning talk abstracts will be included in the proceedings. Lightning Talks will be provided a presentation of {{site.data.cfp.details["Lightning Talks"].length}}.
 
 ### Nifty Assignments
-[Nifty Assignments](/authors/nifty) promote and share successful assignment ideas with enough materials available for others to adopt and adapt for their use. Proposals must include a short writeup describing the assignment, target population, strength and weaknesses, and what computing concept it teaches.
+Nifty Assignments promote and share successful assignment ideas with enough materials available for others to adopt and adapt for their use. Proposals must include a short writeup describing the assignment, target population, strength and weaknesses, and what computing concept it teaches.
 
+<!--
 See the detailed [Nifty Assignments](/authors/nifty) author guidelines for the required material that needs to be submitted as a Zip archive.
+-->
 
 Accepted Nifty abstracts will be included in the proceedings as part of the Nifty paper. 
 
@@ -89,8 +91,12 @@ Accepted Nifty abstracts will be included in the proceedings as part of the Nift
 
 Posters proposals are {{site.data.cfp.details["Posters"].limits}} maximum. Accepted poster extended abstracts of {{site.data.cfp.details["Posters"].abstract}} will be included in the proceedings. Posters will be provided a session of {{site.data.cfp.details["Posters"].length}}.
 
-### Pre-Symposium & Affiliated Events
-Affiliated organizations are invited to submit proposals for events, including target audience, # participants, duration, topic, schedule, power, A/V, space needs, and organizers. Event organizers are expected to cover the cost of the room, food, and/or A/V through attendance registration fees or event organizer budgets. Cost information will be available on the conference website. Early submission is encouraged. Events will be considered on a rolling basis until either the due date ({{site.data.cfp.round[0].date}}) or we run out of space.
+
+### Affiliated Events
+Affiliated organizations are invited to submit proposals for events. Proposals include the target audience, number of participants, duration, topic, schedule, power, A/V, space needs, and organizers.  Event organizers are expected to cover the cost of the room, food, and/or A/V through attendance registration fees or event organizer budgets. Cost information will be available on the conference website. Early submission is encouraged. Events will be considered on a rolling basis until either the due date (Friday, August 6, 2021) or we run out of space.
+
+<!--
 More details are available on the author guidelines:
 * [Pre-Symposium Events](/authors/presymposium)
 * [Affiliated Events](/authors/affiliated)
+-->
