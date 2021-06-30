@@ -14,9 +14,9 @@
 #  url: /attendees/
 #  side: left
 #
-#- title: "Authors"
-#  url: /authors/
-#  side: left
+- title: "Authors"
+  url: /authors/
+  side: left
 #
 #- title: "Reviewers"
 #  url: /reviewers/
@@ -26,9 +26,9 @@
   url: /exhibitors/
   side: left
 #
-#- title: "Committee"
-#  url: /committee/
-#  side: left
+- title: "Committee"
+  url: /committee/
+  side: left
 
 - title: "SIGCSE TS 2022 - March 2-5"
   url: /info/

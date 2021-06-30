@@ -36,28 +36,28 @@ round:
 
 reviewDates:
 # 0, Paper Reviewing
-  - bidstart: "Friday, August 21, 2020"
-    bidend: "Friday, August 28, 2020"
-    reviewstart: "Saturday, August 29, 2020"
-    reviewend: "Wednesday, September 16, 2020"
-    discussionstart: "Thursday, September 17, 2020" 
-    discussionend: "Wednesday, September 23, 2020"
+  - bidstart: "Saturday, August 7, 2021"
+    bidend: "Friday, August 13, 2021"
+    reviewstart: "Saturday, August 14, 2021"
+    reviewend: "Wednesday, September 1, 2021"
+    discussionstart: "Wednesday, September 1, 2021" 
+    discussionend: "Wednesday, September 8, 2021"
 
 # 1, Non-Paper Reviewing
-  - bidstart: "Saturday, August 29, 2020"
-    bidend: "Wednesday, September 2, 2020"
-    reviewstart: "Thursday, September 3, 2020"
-    reviewend: "Wednesday, September 16, 2020"
-    discussionstart: "Thursday, September 17, 2020" 
-    discussionend: "Wednesday, September 23, 2020"
+  - bidstart: "Saturday, August 14, 2021"
+    bidend: "Wednesday, August 18, 2021"
+    reviewstart: "Thursday, August 19 2021"
+    reviewend: "Wednesday, September 1, 2021"
+    discussionstart: "Thursday, September 1, 2021" 
+    discussionend: "Wednesday, September 8, 2021"
 
 # 2, Non-Paper Reviewing
-  - bidstart: "Saturday, October 24, 2020"
-    bidend: "Tuesday, October 27, 2020"
-    reviewstart: "Wednesday, October 28, 2020"
-    reviewend: "Wednesday, November 11, 2020"
-    discussionstart: "Thursday, November 12, 2020" 
-    discussionend: "Monday, November 16, 2020"
+  - bidstart: "Saturday, October 9, 2021"
+    bidend: "Tuesday, October 12, 2021"
+    reviewstart: "Wednesday, October 13, 2021"
+    reviewend: "Wednesday, October 27, 2021"
+    discussionstart: "Thursday, October 28, 2021" 
+    discussionend: "Monday, November 1, 2021"
 
 reviewing:
   - track: Papers
@@ -152,8 +152,8 @@ master:
 
   # ACM SRC, BoFs, Demos, LTs, Nifty, Posters
   - time: "23:59 AoE (Anywhere on Earth, UTC-12h)"
-    notification: "Monday, November 23, 2020"
-    cameraready: "Sunday, December 13, 2020"
+    notification: "Friday, November 5, 2021"
+    cameraready: "Tuesday, November 30, 2021"
     round: 2
     types:
       - track: ACM Student Research Competition
@@ -234,4 +234,4 @@ details:
     connector: "including extended"
     length: "2 hours (poster session)"  # tentative for 2022
 
-lastupdate: "June 8, 2021"
+lastupdate: "June 27, 2021"

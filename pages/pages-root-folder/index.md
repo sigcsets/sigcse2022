@@ -11,7 +11,9 @@ widget1:
   title: Call For Participation
   url: '/assets/pdf/cfp.pdf'
   #image: logo.png
-  text: "See the Call for Participation for more information on submitting to SIGCSE TS 2022!"
+  text: >
+    See the Call for Participation for more information on submitting to SIGCSE TS 2022!
+    In person and virtual presentations welcome!
   style: alert
 # widget2:
 #   title: "Submit to SIGCSE TS!"
