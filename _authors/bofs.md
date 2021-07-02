@@ -31,9 +31,11 @@ The full 1-to-2 page proposal is used for the review process only. If the propos
 * **Expertise of Discussion Leader(s)**: Give a summary of the qualifications of the discussion leader(s) as it relates to the BOF topic being proposed.
 * **Proposed Activity during BOF**: Provide a brief description of the activities you intend to use during the BOF. We expect BOFs to be inclusive and involve active participation for attendees. Describe how your BOF will use inclusive practices and foster attendee involvement. Describe how you will engage with a hybrid audience (some attendees in person, some virtual).
 Proposers may find the following resources useful in identifying inclusive practices to include in the BOF activities:
-- An intro to facilitating hybrid groups online from Training for Change
-- An inclusive meeting checklist from the University of Waterloo
-- An article on facilitating effective discussions from the University of Waterloo
+    - [An intro to facilitating hybrid groups online from Training for Change](//trainingforchange.org/training_tools/facilitating-hybrid-groups-online)
+    - [An inclusive meeting checklist from the University of Waterloo](//uwaterloo.ca/human-rights-equity-inclusion/sites/ca.human-rights-equity-inclusion/files/uploads/files
+/inclusive_meetings_checklist-only.pdf)
+    - [An article on facilitating effective discussions from the University of Waterloo](//uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/alternatives-lecturing/d
+iscussions/facilitating-effective-discussions)
  
 * **References**: Include a reference list if applicable.
 ### BOF Abstract (limited to {{site.data.submissions["birds of a feather"].abstract-limits}})
