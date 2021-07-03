@@ -18,7 +18,7 @@ A typical panel will consist of four participants, including the moderator. Limi
  
 {% include review-anonymity.html %}
  
-Criteria used in reviewing the proposals include the likely level of interest in the topic, the presence of panelistswith multiple perspectives on the topic and significant expertise and experience, and the likelihood that the panel will leave sufficient time for audience participation.
+Criteria used in reviewing the proposals include the likely level of interest in the topic, the presence of panelists with multiple perspectives on the topic and significant expertise and experience, and the likelihood that the panel will leave sufficient time for audience participation.
  
 If the proposal is accepted, all panelists listed in the panel description will be required to register for the conference by no later than the camera-ready deadline and to participate in the session.
  
