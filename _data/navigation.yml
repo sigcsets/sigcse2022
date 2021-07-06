@@ -18,9 +18,9 @@
   url: /authors/
   side: left
 #
-#- title: "Reviewers"
-#  url: /reviewers/
-#  side: left
+- title: "Reviewers"
+  url: /reviewers/
+  side: left
 #
 - title: "Exhibitors"
   url: /exhibitors/

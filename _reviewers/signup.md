@@ -15,7 +15,7 @@ The SIGCSE Technical Symposium uses a community reviewing process, and we encour
 Thank you to all those who have completed the form; formal invitations to review are sent in late July.
 
 ### Reviewer responsibilities
-Reviewers are expected to review **three** submissions from one of the tracks in one or both rounds. A small number of submissions are assigned to give Reviewers the time to make a thorough review of the submission *and* participate in discussions about those submissions with the other Reviewers and Associate Program Chairs or Track Chairs.  Associate Program Chairs meta-review **eight to nine** paper submissions.
+Reviewers are expected to review **three** to **four** submissions from one of the tracks in one or both rounds. A small number of submissions are assigned to give Reviewers the time to make a thorough review of the submission *and* participate in discussions about those submissions with the other Reviewers and Associate Program Chairs or Track Chairs.  Associate Program Chairs meta-review **eight to nine** paper submissions.
 
 ### But what if the paper deadline has passed?
 Don't worry, we still need reviewing volunteers for the second submission deadline, for posters, demos, lightning talks, and BOFs. So don't hesitate to sign up. We'll also keep your information for next year, so you can be invited to review again. Thank you for serving in this important community support role!

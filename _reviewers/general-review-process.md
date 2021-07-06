@@ -37,7 +37,7 @@ As a Reviewer, you will need to:
 
 ### Reviewer Timeline
 
-The following dates describe the timeline for Reviewer work on SIGCSE TS 2021. Please consider your workload around these dates before accepting a Reviewer invitation.
+The following dates describe the timeline for Reviewer work on SIGCSE TS 2022. Please consider your workload around these dates before accepting a Reviewer invitation.
 
 #### Group 1 Timeline 
 
@@ -82,7 +82,7 @@ Group 2 submissions are [ACM Student Research Competition](/reviewers/src-review
 			<th scope="col"><strong>Start Date</strong></th>
 			<th scope="col"><strong>End Date</strong></th>
 		</tr>
-<!-- No bidding in 2021. TODO: replace with conditional logic instead!
+<!-- No bidding in 2022. TODO: replace with conditional logic instead!
 		<tr>
 			<th scope="row">Bidding (Optional - see track specific information for details)</th>
 			<td>{{site.data.cfp.reviewDates[2].bidstart}}</td>
@@ -108,7 +108,7 @@ Group 2 submissions are [ACM Student Research Competition](/reviewers/src-review
 
 ### Reviewer Profile
 
-When you receive your invitation to review for SIGCSE TS 2021, please take a few moments to update your profile and select 3-5 topics that you are most qualified for reviewing.  To do so, select **SIGCSE TS 2021 > My topics** from the menu.  
+When you receive your invitation to review for SIGCSE TS 2022, please take a few moments to update your profile and select 3-5 topics that you are most qualified for reviewing.  To do so, select **SIGCSE TS 2022 > My topics** from the menu.  
 
 Please check at most 5 topics! More topics will make it harder for the EasyChair system to make a good set of matches. 
 
@@ -125,7 +125,7 @@ Before starting your review, you may be asked by the Track Chairs to bid on subm
 As a **Reviewer**, we ask that you carefully read each submission assigned to you and write a constructive review that concisely summarizes what you believe the submission to be about. When reviewing a submission, consider:
 
 * the strengths and weaknesses, 
-* the contribution to an outstanding SIGCSE TS 2021 program and experience for attendees, and
+* the contribution to an outstanding SIGCSE TS 2022 program and experience for attendees, and
 * how it brings new ideas or extends current ideas through replication to the field and to practitioners and researchers of computing education.
 
 Track specific Reviewer guidelines are available:

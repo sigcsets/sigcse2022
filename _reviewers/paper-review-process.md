@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 1.2
+order: 1.1
 title: Paper Review Process
 showTitle: true
 ---
@@ -18,7 +18,7 @@ In the dual-anonymous process, submissions are anonymized (so Reviewers and APCs
 
 ## Reviewer and APC Timeline
 
-The following dates describe the timeline for Reviewer & APC work on SIGCSE TS 2021. Please consider your workload around these dates before accepting a Reviewer or APC invitation.
+The following dates describe the timeline for Reviewer & APC work on SIGCSE TS 2022. Please consider your workload around these dates before accepting a Reviewer or APC invitation.
 
 <div class="table-responsive" style="margin-top: 20px;">
   <table class="table">
@@ -50,8 +50,8 @@ The following dates describe the timeline for Reviewer & APC work on SIGCSE TS 2
 **APC Recommendation and Meta-Review Deadline**: {{site.data.cfp.reviewDates[0].discussionend}} anywhere on earth (AOE)
 
 ## Workload
-SIGSE Technical Symposium papers are up to 6 pages with 1 additional page that contains references. 
-- **Reviewers:** 3 papers
+SIGCSE Technical Symposium papers are up to 6 pages with 1 additional page that contains references. 
+- **Reviewers:** 3-4 papers
 - **APCs**: 8-9 papers
 
 ## Bid
@@ -71,7 +71,7 @@ Additionally, please declare any conflicts with submitting authors before biddin
 As a **Reviewer**, we ask that you carefully read each submission assigned to you and write a constructive review that concisely summarizes what you believe the submission to be about.  When reviewing a submission, consider:
 
 * The strengths and weaknesses, 
-* The contribution to an outstanding SIGCSE TS 2021 program and experience for attendees,
+* The contribution to an outstanding SIGCSE TS 2022 program and experience for attendees,
 * How it brings new ideas or extends current ideas through replication to the field and practitioners and researchers of computer science education, and
 * Additional details about reviewing including track-specific details are provided in the [paper review guidelines](/reviewers/paper-review-guidelines).
 
@@ -109,3 +109,4 @@ Please **do not** include your recommendation for acceptance or rejection of a p
 Additionally, the Program Chairs will request feedback from APCs on the quality of reviews for decisions about future invitations to review for the SIGCSE Technical Symposium.
 
 {% include reviewers-recalcitrant.html %}
+

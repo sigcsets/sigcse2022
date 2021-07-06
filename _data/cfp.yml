@@ -1,12 +1,12 @@
 
-submissionopen: true
+submissionopen: false
 submissionurl: "https://easychair.org/conferences/?conf=sigcsets2022"
 
 camerareadyinstructionsopen: false
 #camerareadyinstructions: "http://www.sheridanprinting.com/typedept/sigcse2022.htm" 
 #UPDATE camera ready instructions
 
-reviewer-signup: http://sigcse2022.org/review
+reviewer-signup: https://forms.gle/JQQ8twdGbHxR5eHM9
 
 symposiumchairsemail: symposium@sigcse2022.org
 programchairsemail: program@sigcse2022.org
@@ -41,7 +41,7 @@ reviewDates:
     reviewstart: "Saturday, August 14, 2021"
     reviewend: "Wednesday, September 1, 2021"
     discussionstart: "Wednesday, September 1, 2021" 
-    discussionend: "Wednesday, September 8, 2021"
+    discussionend: "Wednesday, September 10, 2021"
 
 # 1, Non-Paper Reviewing
   - bidstart: "Saturday, August 14, 2021"
@@ -49,7 +49,7 @@ reviewDates:
     reviewstart: "Thursday, August 19 2021"
     reviewend: "Wednesday, September 1, 2021"
     discussionstart: "Thursday, September 1, 2021" 
-    discussionend: "Wednesday, September 8, 2021"
+    discussionend: "Wednesday, September 10, 2021"
 
 # 2, Non-Paper Reviewing
   - bidstart: "Saturday, October 9, 2021"
@@ -127,6 +127,7 @@ master:
   - time: "23:59 AoE (Anywhere on Earth, UTC-12h)"
     notification: "Monday, September 27, 2021"
     cameraready: "Friday, November 19, 2021"
+
     abstractdue: "Friday, August 6, 2021"
     round: 1
     types:
