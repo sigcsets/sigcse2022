@@ -25,7 +25,7 @@ author: SIGCSE
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: '//sigcse2022.sigcse.org/staging'
+url: '//sigcse2022.sigcse.org'
 baseurl: 
 domain: "sigcse2022.org"
 year: "2022"

@@ -5,7 +5,7 @@
 {% include alert danger='Please be aware that the submission form asks you to provide demographic information. This demographic information is being collected by ACM; they created the questions and require them to be in the submission form. Please know that the demographic information submitted is not seen (and thus cannot be used in any way) by Technical Symposium reviewers or leadership. We also have no control over the questions asked nor where they appear in the form.' %}
 
 {% if submissiontype != 'Demo' and submissiontype != 'Nifty Assignment' %}
-SIGCSE TS {{site.year}} is **not participating in the new ACM workflow**, template, and production system.  *MS Word Authors*, please use the Interim Template. *LaTeX Authors*, please use the official ACM Master with the `ACM_SigConf` template.
+SIGCSE TS {{site.year}} is **not participating in the new ACM workflow**, template, and production system. *MS Word Authors*, please use the Interim Template. *LaTeX Authors*, please use the official ACM Master template with the "sigconf" format option in the `documentclass`.
 {% endif %}
 
 Submissions use the English language. If you desire editing services, consider the following from the ACM.
