@@ -17,9 +17,8 @@ A typical panel will consist of four participants, including the moderator. Limi
  
  
 {% include review-anonymity.html %}
- 
 Criteria used in reviewing the proposals include the likely level of interest in the topic, the presence of panelists with multiple perspectives on the topic and significant expertise and experience, and the likelihood that the panel will leave sufficient time for audience participation.
- 
+In recognizing the importance of diversity in all forms within the SIGCSE community, we encourage proposals whose panel makeup enables them to speak to diverse experiences and perspectives in relation to the topic. Note:  Please refer to [“ACM’s definitions of diversity and inclusion”](https://www.acm.org/diversity-inclusion/about). Please also refer to [“ACM’s recommended considerations when forming diverse teams”](https://www.acm.org/diversity-inclusion/diverse-teams)(or diverse panels in this case).
 If the proposal is accepted, all panelists listed in the panel description will be required to register for the conference by no later than the camera-ready deadline and to participate in the session.
  
 ## Planning for an in-person or a hybrid session
@@ -62,3 +61,4 @@ and page limits.
 \* NOTE: This sample does not include information about the preferred delivery mode or engaging virtual attendees, as it is from a prior year.
  
 {% include submission-proposal.html %}
+ 

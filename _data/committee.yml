@@ -114,6 +114,11 @@
   "Evaluations":
     email: evaluations@sigcse2022.org
     members:
+      - name: Joslenne Pena
+        inst: Macalester College
+
+      - name: Sam Rebelsky 
+        inst: Grinnell College
 
   "Global Liaison":
     email: global@sigcse2022.org

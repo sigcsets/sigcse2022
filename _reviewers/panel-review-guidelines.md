@@ -9,7 +9,6 @@ showTitle: true
 {% include reviewdetails.html %}
  
 ## Overview
-{% include alert info='Current as of August 13 2020' %}
  
 [Panel sessions](/authors/panels) provide an opportunity for expert panel members to present their views on a specific topic and then to discuss these views among themselves and with the audience. Usually a panel session starts with a brief introduction of the panel topic and the participants, followed by short presentations by the panelists giving their views. They are scheduled in standard conference spaces. The session must allow sufficient opportunity (about 30 minutes) for an interactive question and answer period involving both the panelists and the audience.
  
@@ -35,14 +34,14 @@ The review form for panels will ask you to comment specifically on three aspects
 2. Structure & Plan for Audience Participation
     - Is there an overview of the panel structure?
     - Does the proposed structure include time for a brief introduction of the topic and the panelists?
-    - Does the proposed structure include time for panelists to present their view?
+    - Does the proposed structure include time for panelists to present their views?
     - Does the proposed structure allow sufficient time for an interactive question and answer period between the audience and panelists (30 mins)?
     - Could the panel still be effective if given a shorter session?
-    - Do the panelists have a strong plan for the virtual format?
+    - Do the panelists have a viable plan for a hybrid format?
 3. Panelist considerations
-    - Does the proposal clearly identify the panelists (i.e., name and affiliation) and describe their expertise related to the topic, as well as panelists from diverse groups?
-    - Is the panel composed of panelists that represent multiple/diverse views on the topic?
-    - Does the proposal clearly identify no more than 4 panelists, including the moderator? 
-    - If there are more than 4 panelists, are each of the panelists needed for representing a full range of perspectives on the panel topic?
-    
-    {% include reviewer-shared-text.html %} 
+    - Does the proposal clearly identify the panelists (i.e., name and affiliation) and describe their expertise related to the topic?
+    - Will the panel be well positioned to present multiple views on the topic, representing the diversity of perspectives within the SIGCSE community?  Note:  Please refer to [“ACM’s definitions of diversity and inclusion”](https://www.acm.org/diversity-inclusion/about). Please also refer to [“ACM’s recommended considerations when forming diverse teams”](https://www.acm.org/diversity-inclusion/diverse-teams)(or diverse panels in this case).
+    - Does the proposal clearly identify no more than four panelists, including the moderator? Otherwise, are each of the panelists needed for representing a full range of perspectives on the panel topic?
+ 
+{% include reviewer-shared-text.html %}
+ 

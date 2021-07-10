@@ -8,7 +8,11 @@
 			{% else %}
 				{% assign anchor = post.title %}
 			{% endif %}
+            {% if post.track != 'XX' %} 
 	        <li><a href="{{ site.url }}{{ post.url }}">{{ anchor }}</a></li>
+            {% else %}
+            <li>{{ post.track }} (TBA)</li>
+            {% endif %}
         {% endfor %}
 	</ul>
 </aside>

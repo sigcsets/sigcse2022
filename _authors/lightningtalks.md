@@ -30,7 +30,8 @@ The proposal is limited to {{site.data.submissions["lightning talks"].limits}}, 
  
 ### Supplementary Materials
  
-The abstract for an accepted proposal may contain a link to a website with more information.  If you choose to include supplementary materials in your initial submission, you are **obligated to anonymize the material** (e.g., remove author names and use anonymous content hosting services such as Dropbox) so as to respect the dual-anonymous review process.  Furthermore, reviewers are not obligated to read your supplementary materials, so ensure that your abstract is self-contained and sufficient.
+The abstract for an **accepted** proposal when published may contain a link to a website with more information. However, you should not include such links to any supplementary materials in your **initial** submission, so as to respect the dual-anonymous review process.
+
  
 ### Virtual Options
 For virtual presentations, the presenter may provide a pre-recorded video of their presentation.  In any case the presenter must be available to participate live in Q&A during the session either in person or online via conferencing software.

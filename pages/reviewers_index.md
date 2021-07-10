@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "For Reviewers"
-meta_title: "Information for Reviewers for SIGCSE TS 2021"
+meta_title: "Information for Reviewers for SIGCSE TS 2022"
 permalink: "/reviewers/"
 sidebar: reviewers
 ---
@@ -13,6 +13,10 @@ We have broken out submission guidelines by type. There are many ways to share t
 <ul>
     {% assign posts = site.reviewers | sort: 'order' %}
     {% for post in posts %}
+    {% if post.track != 'XXX' %} 
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% else %}
+    <li>{{ post.track }} (TBA)</li>
+    {% endif %}
     {% endfor %}
 </ul>

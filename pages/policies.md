@@ -4,6 +4,11 @@ title: "SIGCSE Technical Symposium Policies"
 permalink: "/policies/"
 ---
 
+## SIGCSE Policies 
+- [Conflict of Interest](https://sigcse.org/policies/COI.html)
+- [Presenter Substitution](https://sigcse.org/policies/substitute.html)
+- [Corporate Sponsorship](https://sigcse.org/policies/corporate.html)
+- [Other ACM SIGCSE Policies](https://sigcse.org/policies/)
 
 
 ## ACM Harassment Policy/Information
