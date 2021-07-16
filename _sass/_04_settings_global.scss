@@ -1139,7 +1139,7 @@ $side-nav-padding: rem-calc(0 0 0 0);
 $side-nav-list-margin: rem-calc(0 0 0 0);
 
 // We use these to control link styles.
-$side-nav-link-color: $primary-color;
+$side-nav-link-color: $link-color;
 $side-nav-link-color-active: scale-color($side-nav-link-color, $lightness: -40%);
 $side-nav-link-color-hover: scale-color($side-nav-link-color, $lightness: -40%);
 $side-nav-font-size: rem-calc(16);

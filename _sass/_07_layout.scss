@@ -68,10 +68,10 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #masthead {
-    background-color: $primary-color;
+    background-color: $ci-0;
 }
 #masthead-no-image-header {
-    background-color: $primary-color;
+    background-color: $ci-0;
 }
 #masthead-with-text {
     background-color: #000 !important; 
@@ -233,7 +233,7 @@ body.video cite { color: #fff; }
     color: #fff;
 }
 #page-meta .button:hover {
-    background: $primary-color;
+    background: $ci-0;
 }
 .meta-info p {
   font-size: rem-calc(13);

@@ -40,7 +40,7 @@ caption {
 }
 
 #calendar .weekdays {
-	background: #4a9bb4;  
+	background: #52bdf9;  
 }
 
 
