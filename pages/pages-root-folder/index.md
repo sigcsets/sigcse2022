@@ -7,19 +7,19 @@
 layout: frontpage
 header:
   image_fullwidth: sigcse2021-logo-header.png
-widget1:
-  title: Call For Participation
-  url: '/assets/pdf/cfp.pdf'
-  #image: logo.png
-  text: >
-    See the Call for Participation for more information on submitting to SIGCSE TS 2022!
-    In person and virtual presentations welcome!
-  style: alert
+#widget1:
+#  title: Call For Participation
+#  url: '/assets/pdf/cfp.pdf'
+#  #image: logo.png
+#  text: >
+#    See the Call for Participation for more information on submitting to SIGCSE TS 2022!
+#    In person and virtual presentations welcome!
 widget2:
   title: "Submit to SIGCSE TS!"
   url: '/authors'
-  text: 'See the Call for Papers for more information on submitting to SIGCSE TS 2022!'
+  text: 'See the Call for Participation for more information on submitting to SIGCSE TS 2022!'
   image: ribbons-widget.png
+  style: alert
 #
 # Use the call for action to show a button on the frontpage
 #
