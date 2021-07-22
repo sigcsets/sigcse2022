@@ -48,7 +48,7 @@ collections:
     reviewers:
         output: true
     schedule:
-        output: false
+        output: true
 
 
 # Logo size is 600x80 pixels
