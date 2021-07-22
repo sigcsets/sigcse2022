@@ -27,7 +27,7 @@ Authors may find ["What is a SIGCSE Symposium Paper?"](https://dl.acm.org/citati
 
 
 ### Paper Resources
-There are many resources for writing high quality papers for submission to the SIGCSE Technical Symposium.  We encourage authors to read and evaluate papers from prior SIGCSE Technical Symposium, especially those designated as *best papers*, which were selected both due to content and high quality reporting.  Authors will also likely find the [paper review guidelines](/reviewers/paper-review-guidelines.html) beneficial for identifying how reviewers will assess papers for each track.   Below, we list additional resources that you may find useful as you write your papers, especially computing education research papers.
+There are many resources for writing high quality papers for submission to the SIGCSE Technical Symposium.  We encourage authors to read and evaluate papers from prior SIGCSE Technical Symposium, especially those designated as *best papers*, which were selected both due to content and high quality reporting.  Authors will also likely find the [paper review guidelines](/reviewers/paper-review-guidelines) beneficial for identifying how reviewers will assess papers for each track.   Below, we list additional resources that you may find useful as you write your papers, especially computing education research papers.
 
 * [Writing a research question (csedresearch.org)](https://csedresearch.org/write-a-research-question/)
 * [Reporting Tips (csedresearch.org)](https://csedresearch.org/reporting-activities/)
