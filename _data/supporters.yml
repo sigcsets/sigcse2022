@@ -1,4 +1,4 @@
-#Platinum:
+Platinum:
 #  - name: "GitHub Education"
 #    image: github-200.png
 #    link: "https://education.github.com/"
@@ -42,9 +42,9 @@
 #      time: 6:45 PM (ET) - 8:00 PM (ET)
 #      presenters: Erik Fredericks (Grand Valley State University); Mark Hills (East Carolina University); Mary Beth Moore (Potomac State College); Alex 'Casper' Cline (Ada National College for Digital Skills); Wu-chang Feng (Portland State University); Moderator - Laurie White (Mercer University)
 #      description: "Come hear a group of faculty who have been teaching with Google Cloud discuss their successes, challenges, and how they've integrated cloud computing into their existing classes and created new courses with the cloud."
-#  - name: "Microsoft"
-#    image: microsoft-200.png
-#    link: "https://www.microsoft.com/en-us/education/higher-education/default.aspx"
+ - name: "Microsoft"
+   image: microsoft-200.png
+   link: "https://www.microsoft.com/en-us/education/higher-education/default.aspx"
 #    sessions:
 #    - title: "Introduction to Microsoft Azure Cloud (On-Demand Video)"
 #      day: Monday, March 8
@@ -83,10 +83,13 @@
 #      description: "Spark is the leading Big Data analytics framework. However, it also has excellent features for Stream processing and machine learning development. Big Data systems are a new reality. Whether we're creating microservices-based solutions or machine learning-based products, we work with data, most often, big data. Apache Spark is your friend if you want to position yourself on the road for success as a Big Data Developer, Data Engineer, or Data Science with hands-on production experience. Come to this session to learn the basics of Apache Spark and how YOU can get started with it."
 #
 #
-#Gold:
-#  - name: "Codio"
-#    image: codio-200.png
-#    link: "https://codio.com/"  
+Gold:
+ - name: "Codio"
+   image: codio-200.png
+   link: "https://codio.com/"  
+ - name: "Rephactor"
+   image: rephactor-200.png
+   link: "https://rephactor.com/"
 #    sessions:
 #    - title: "Pedagogical Practices in U.S. Colleges and Universities"
 #      day: Monday, March 15
@@ -109,7 +112,10 @@
 #      description: "As computing becomes more integrated into all aspects of society, research questions to address key areas of interest need likewise to become more interdisciplinary. NSF has several programs to support these cross-cutting research questions in computing and computer science education. This session will introduce participants to some of the NSF’s cross-cutting research and education programs. Some of the program that will be discussed will include: Improving Undergraduate STEM Education: Computing in Undergraduate Education (IUSE), Advanced Technological Education (ATE), Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM), Harnessing the Data Revolution: Data Science Corps (HDR), Computer Science for All (CSforAll: Research and RPPs), Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (INCLUDES), CyberCorps(R) Scholarship for Service, Secure and Trustworthy Cyberspace (SaTC)’s education designation, and NSF Research Traineeship (NRT) program."
 #  
 #
-#Silver:
+Silver:
+- name: Repl.it
+  link: https://replit.com/ 
+  image: replit-200.png
 #  - name: AWS Educate
 #    link: "https://aws.amazon.com/education/awseducate/"
 #    image: awseducate-200.png
@@ -153,7 +159,10 @@
 #      presenters: Frank Vahid (University of California, Riverside); Roman Lysecky (University of Arizona); Aubrey Lawson (zyBooks, A Wiley Brand CS/CE Content Developer)
 #      description: "Nearly 80% of instructors who use zyLabs auto-grader switched from grading programming assignments by hand. They saved an average of 9 hours per week, with some reporting up to 20 hours saved. In recent years, computer science educators have increasingly shifted how they grade programming assignments, from grading manually or using batch scripts, to using auto-graders with immediate score feedback to students. zyBooks has been a pioneer by developing the zyLabs auto-grader, that is easy to use and integrated with our state of the art e-learning platform. This shift illustrates a future with a much different classroom dynamic, in which students view instructors less as evaluators and more as hands-on educators.  To support educators in this new role, zyLabs also provides support across a wide range of activities by providing a library of high-quality pre-written programming assignments, an intuitive interface for customizing content, and tools to promote student integrity. In this session, we'll talk about the growth and benefits of zyLabs auto-grading, demonstrate our library of programming assignments, and illustrate how zyLabs features promote academic honesty."
 #
-#Bronze:
+Bronze:
+- name: ABET
+  image: abet-200.png
+  link: https://www.abet.org/
 #  - name: AdaCore
 #    image: adacore-200.png
 #    link: "http://www.adacore.com"
