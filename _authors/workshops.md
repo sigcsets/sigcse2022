@@ -76,13 +76,8 @@ The required content is as follows.
  
 - **Other Critical Information**: Include any other notes that will facilitate assessment of the Workshop proposal.
  
-### Sample Proposal
-{% include alert content='Sample proposals are being generated and will be posted at a later time. Check this page again in a few days.' %}
-{% comment %}
--  [Proposal Example (PDF)](/docs/sigcse-sample-workshop.pdf)
- 
--  [Proposal Example (Word)](/docs/sigcse-sample-workshop.docx)
-{% endcomment %}
+### Workshop Proposal Template
+-  [Proposal Example (Word)](/docs/sigcse-workshop-template.docx)
  
 ## Hands-On Workshops
  

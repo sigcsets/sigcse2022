@@ -7,6 +7,10 @@ track: "Papers"
 
 {% include submission-details.html %}
 
+<section class="alert-box success" role="alert">
+We are planning for the 2022 SIGCSE TS to be held on-site in Providence but we also recognize that it may be necessary for some authors of accepted papers to participate virtually.  Our hybrid conference format will support such virtual presentations.
+</section>
+
 ## SIGCSE Technical Symposium Paper Types
 
 Papers describe an educational research project, classroom experience, teaching technique, curricular initiative, or pedagogical tool. All papers should explicitly state their motivating questions, relate to relevant literature, and contain an analysis of the effectiveness of the interventions. An **abstract submission is required for all papers** and it is due a week before the full paper is due.  
