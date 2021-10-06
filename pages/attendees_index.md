@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "For Attendees"
-meta_title: "Information for Attendees for SIGCSE TS 2021"
+meta_title: "Information for Attendees for SIGCSE TS 2022"
 permalink: "/attendees/"
 sidebar: attendees
 ---
@@ -32,23 +32,34 @@ span.team-heading {
 
 </style>
 
-
+<!-- Comment out for 2022
 ## Post-Conference Access to Pathable
 The SIGCSE TS 2021 chairs are working with the SIGCSE board to investigate offering post-conference access to the materials in Pathable.  More will be posted and announce as decisions are made.
 
 Note that anyone that already has purchased full registration to the 2021 Technical Symposium (prior to March 20, 2021) will continue to have access to Pathable until March 2022 and can login with the Pathable link in the nav menu above.
 
 <a class="button large radius {{ site.data.registration.registration_button.style }}" href="{{ url }}{{ site.data.registration.registration_button.url }}"{% if site.data.registration.registration_button.url contains 'http' %} target="_blank" {% endif %}>{{ site.data.registration.registration_button.text }}</a>
+-->
+## For Attendees
 
-## Registering for SIGCSE TS 2021
+ * [Registration Information](#registration_info)
+ * Hotel Reservation
+ * Alternative Hotels
+ * Visas
+ * Roommate Database
+ * Visitor Info
 
-The 52nd ACM Technical Symposium on Computer Science Education     
-Virtual Event hosted on Pathable at [http://pathable.sigcse2021.org](http://pathable.sigcse2021.org)
 
-* Pre-Symposium Events: March 8-13
-* Workshops: March 13-14
-* Technical Symposium: March 14-20
-* Pathable Virtual Platform Opens: March 1
+## Registering for SIGCSE TS 2023           {#registration_info}
+
+The 53nd ACM Technical Symposium on Computer Science Education     
+Hybrid Event will be held at the [Providence Convention Center](http://www.riconvention.com) and 
+[Omni Providence Hotel](https://www.omnihotels.com/hotels/providence)  in Providence, Rhode Island, USA. 
+
+* Pre-Symposium Events: March 2
+* Workshops: March 2,5
+* Technical Symposium: March 2-5
+* Virtual Platform Opens: TBD
 
 {% for rate_category in site.data.registration.rates %}
   <h3>{{ rate_category[0] }}</h3>
@@ -104,7 +115,7 @@ If your institution requires an address for reimbursement or approval purposes, 
 _Host:_ Association for Computing Machinery (ACM) / Special Interest Group on Computer Science Education (SIGCSE)    
 _Address:_ 1601 Broadway, 10th Floor, New York, NY 10019-7434
 
-_NOTE:_ This address cannot be used to send physical payments for registering for the Techncial Symposium.  For questions about how to register, please email [registration@sigcse2021.org](mailto:registration@sigcse2021.org).
+_NOTE:_ This address cannot be used to send physical payments for registering for the Techncial Symposium.  For questions about how to register, please email [registration@sigcse2022.org](mailto:registration@sigcse2022.org).
 
 As the Technical Symposium is being hosted in the United States (even if it is virtual), we have no VAT number that we can provide.
 
@@ -112,21 +123,20 @@ We also cannot provide VISA letters at this time.
 
 ### Questions?
 
-For general questions about registration or help with Cvent, please email [registration@sigcse2021.org](mailto:registration@sigcse2021.org).
+For general questions about registration or help with Cvent, please email [registration@sigcse2022.org](mailto:registration@sigcse2022.org).
 
-For help with special circumstances, such as proof of participation, please email [support@sigcse2021.org](mailto:support@sigcse2021.org).
+For help with special circumstances, such as proof of participation, please email [support@sigcse2022.org](mailto:support@sigcse2022.org).
 
-Authors or presenters with questions regarding their participation in the Technical Symposium should email [program@sigcse2021.org](mailto:program@sigcse2021.org) or [symposium@sigcse2021.org](mailto:symposium@sigcse2021.org) as appropriate.
+Authors or presenters with questions regarding their participation in the Technical Symposium should email [program@sigcse2022.org](mailto:program@sigcse2022.org) or [symposium@sigcse2022.org](mailto:symposium@sigcse2022.org) as appropriate.
 
 ### Cancellation Policy
 
-<p><strong>Cancellation requests must be made by March 1, 2021 at 11:59 PM Eastern Time.</strong> A processing fee of US$100 will be assessed for full rate registrations. A processing fee of US$25 will be assessed for reduced rate registrations. Regrettably, cancellations received after that date cannot be honored. The conference committee recognizes that sometimes last-minute cancellations can't be avoided<!-- For 2021, include only as HTML comment: due to weather, travel disruptions, and/or health issues -->. However, the conference incurs expenses for which it is liable based on registration counts. Registrants <!-- For 2021, include only as HTML comment: are strongly advised to purchase travel insurance to cover their non-refundable expenses. Also, registrants -->who find themselves unable to attend should be aware that registrations are transferable, but in general the conference committee cannot assist in finding an appropriate recipient.</p>
+<p><strong>Cancellation requests must be made by March 1, 2022 at 11:59 PM Eastern Time.</strong> A processing fee of US$100 will be assessed for full rate registrations. A processing fee of US$25 will be assessed for reduced rate registrations. Regrettably, cancellations received after that date cannot be honored. The conference committee recognizes that sometimes last-minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts. Registrants  are strongly advised to purchase travel insurance to cover their non-refundable expenses. Also, registrant who find themselves unable to attend should be aware that registrations are transferable, but in general the conference committee cannot assist in finding an appropriate recipient.</p>
 
 <p><strong>In the event that the symposium is cancelled due to circumstances beyond the organizers' control,</strong> refunds are not guaranteed. If refunds are issued, the amount will depend on the expenses and financial commitments incurred by the symposium as of the cancellation date.</p>
 
-<!-- For 2021, include only as HTML comment: Please bring evidence of full-time student status to the conference. -->
+Please bring evidence of full-time student status to the conference. 
 
-<!-- For 2021, include only as HTML comment:
 <hr />
 <p><strong>Letters from ACM in support of visa applications:</strong></p><p>ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. For visa support letters, please send all requests to supportletters@acm.org with the following information.</p>
 <ol>
@@ -136,4 +146,4 @@ Authors or presenters with questions regarding their participation in the Techni
 <li>If you are the author of any papers accepted for the conference, please provide the title.</li>
 <li>Fax number and/or e-mail address of where the invitation letter should be sent</li>
 </ol>
--->
+
