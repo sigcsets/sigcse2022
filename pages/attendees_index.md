@@ -41,8 +41,9 @@ Note that anyone that already has purchased full registration to the 2021 Techni
 <a class="button large radius {{ site.data.registration.registration_button.style }}" href="{{ url }}{{ site.data.registration.registration_button.url }}"{% if site.data.registration.registration_button.url contains 'http' %} target="_blank" {% endif %}>{{ site.data.registration.registration_button.text }}</a>
 -->
 ## For Attendees
-
+ 
  * [Registration Information](#registration_info)
+ * COVID-19 Precautions
  * Hotel Reservation
  * Alternative Hotels
  * Visas
@@ -50,7 +51,7 @@ Note that anyone that already has purchased full registration to the 2021 Techni
  * Visitor Info
 
 
-## Registering for SIGCSE TS 2023           {#registration_info}
+## Registering for SIGCSE TS 2023           
 
 The 53nd ACM Technical Symposium on Computer Science Education     
 Hybrid Event will be held at the [Providence Convention Center](http://www.riconvention.com) and 
@@ -78,9 +79,64 @@ Hybrid Event will be held at the [Providence Convention Center](http://www.ricon
 * _Student registration rates are for full-time students only._    
 * _Exhibits Only grants access to the exhibit hall, supporter sessions, and select affiliated events ONLY.  You will not have access to any other content from the Technical Symposium with this type of registration, including keynotes, technical sessions, workshops, Birds-of-a-Feather, and others.  Authors/presenters cannot choose this category as you will not have access to your session in Pathable._
 
-### Registering for Other Symposium Events through Cvent
+## COVID Precautions
+ACM SIGCSE TS 2022 will follow to ACM, ACM SIGCSE, [CDC](https://www.cdc.gov/coronavirus/2019-ncov/your-health/gatherings.html) and the [Rhode Island Convention Center](https://www.riconvention.com/attend-an-event/covid-19-event-updates) guidelines and health reminders. 
 
-#### Workshops
+## Conference Hotels 
+
+### Official Conference Hotels
+The conference will be held in the Rhode Island Convention Center and the Omni Hotel. Rooms have been reserved at the following hotels: 
+
+#### Omni Providence Hotel - $199/night 
+* 1 W Exchange Street, Providence, RI 02903
+* +1 (401) 598-8000
+
+#### Hilton Providence - $199/night (0.2 miles, 3 minute walk)
+* 21 Atwells Avenue, Providence RI 02903
+* +1 (401) 831-3900
+
+#### Courtyard by Marriott Providence Downtown - $175/night (0.1 mile, 3 min walk)
+* 32 Exchange Terrace At Memorial Blvd, Providence RI 02903
+* +1 (401) 272-1191
+
+#### Graduate Providence Hotel - $169/night (0.1 mile, 4 minute walk)
+* 11 Dorrance St, Providence RI 02903
+* +1 (401) 421-0700
+
+#### Marriott Providence Downtown - $179/night (0.9 miles, 20 min walk) 
+ * 1 Orms Street, Providence RI 02904
+ * +1 (401) 272-2400
+
+### Unofficial Hotels 
+There are a number of hotels nearby the Convention Center.  Rates vary at each.
+
+[Hilton Providence (0.2 miles, 3 min walk)](https://www.hilton.com/en/hotels/pvdprhf-hilton-providence/)  
+[Residence Inn Providence. (174 feet, 1 min walk)](https://www.marriott.com/hotels/hotel-rooms/pvdpc-residence-inn-providence-coventry/ )  
+[The Dean (361 feet, 2 min walk)](https://thedeanhotel.com) 
+[The Beatrice (0.4 miles, 8 min walk)](https://www.thebeatrice.com)  
+
+## Visas
+<p><strong>Letters from ACM in support of visa applications:</strong></p><p>ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. For visa support letters, please send all requests to supportletters@acm.org with the following information.</p>
+<ol>
+<li>Name and mailing address as it appears on your passport.</li>
+<li>The name of the conference you wish to attend.</li>
+<li>Registration confirmation number.</li>
+<li>If you are the author of any papers accepted for the conference, please provide the title.</li>
+<li>Fax number and/or e-mail address of where the invitation letter should be sent</li>
+</ol>
+
+## Roommate Database
+
+#TBD 
+
+## Visitor Info 
+
+See our Visitor Info for information about getting to and from Providence Rhode Island.
+
+The closest airport is Rhode Island T.F. Green International Airport.  That's airport code [PVD](https://www.pvdairport.com). 
+
+<!-- 
+## Workshops
 
 Workshops provide an in-depth review of, or introduction to, a topic of interest. A successful workshop should provide participants with materials and/or ideas that are immediately useful in the classroom.
 
@@ -136,14 +192,7 @@ Authors or presenters with questions regarding their participation in the Techni
 <p><strong>In the event that the symposium is cancelled due to circumstances beyond the organizers' control,</strong> refunds are not guaranteed. If refunds are issued, the amount will depend on the expenses and financial commitments incurred by the symposium as of the cancellation date.</p>
 
 Please bring evidence of full-time student status to the conference. 
-
 <hr />
-<p><strong>Letters from ACM in support of visa applications:</strong></p><p>ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. For visa support letters, please send all requests to supportletters@acm.org with the following information.</p>
-<ol>
-<li>Name and mailing address as it appears on your passport.</li>
-<li>The name of the conference you wish to attend.</li>
-<li>Registration confirmation number.</li>
-<li>If you are the author of any papers accepted for the conference, please provide the title.</li>
-<li>Fax number and/or e-mail address of where the invitation letter should be sent</li>
-</ol>
+--> 
+
 
