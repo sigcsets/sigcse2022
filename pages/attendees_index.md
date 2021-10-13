@@ -44,11 +44,9 @@ Note that anyone that already has purchased full registration to the 2021 Techni
  
  * [Registration Information](#registration_info)
  * COVID-19 Precautions
- * Hotel Reservation
- * Alternative Hotels
  * Visas
  * Roommate Database
- * Visitor Info
+ * KidsCamp
 
 
 ## Registering for SIGCSE TS 2023           
@@ -62,6 +60,7 @@ Hybrid Event will be held at the [Providence Convention Center](http://www.ricon
 * Technical Symposium: March 2-5
 * Virtual Platform Opens: TBD
 
+In Person Registration
 {% for rate_category in site.data.registration.rates %}
   <h3>{{ rate_category[0] }}</h3>
   <table width="100%" class="multibody">
@@ -75,6 +74,19 @@ Hybrid Event will be held at the [Providence Convention Center](http://www.ricon
   
 {% endfor %}
 
+Virtual Registration
+{% for rate_category in site.data.virtual.rates %}
+  <h3>{{ rate_category[0] }}</h3>
+  <table width="100%" class="multibody">
+    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtual.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtual.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.virtual.dates.day-of}}</th></tr>
+    <tbody>
+    {% for rate_type in rate_category[1] %}
+      <tr><td>{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].regular }}</td><td>{{ rate_type[1].day-of }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  
+{% endfor %}
 * _All registration rates are in US$._    
 * _Student registration rates are for full-time students only._    
 * _Exhibits Only grants access to the exhibit hall, supporter sessions, and select affiliated events ONLY.  You will not have access to any other content from the Technical Symposium with this type of registration, including keynotes, technical sessions, workshops, Birds-of-a-Feather, and others.  Authors/presenters cannot choose this category as you will not have access to your session in Pathable._
@@ -82,38 +94,8 @@ Hybrid Event will be held at the [Providence Convention Center](http://www.ricon
 ## COVID Precautions
 ACM SIGCSE TS 2022 will follow to ACM, ACM SIGCSE, [CDC](https://www.cdc.gov/coronavirus/2019-ncov/your-health/gatherings.html) and the [Rhode Island Convention Center](https://www.riconvention.com/attend-an-event/covid-19-event-updates) guidelines and health reminders. 
 
-## Conference Hotels 
-
-### Official Conference Hotels
-The conference will be held in the Rhode Island Convention Center and the Omni Hotel. Rooms have been reserved at the following hotels: 
-
-#### Omni Providence Hotel - $199/night 
-* 1 W Exchange Street, Providence, RI 02903
-* +1 (401) 598-8000
-
-#### Hilton Providence - $199/night (0.2 miles, 3 minute walk)
-* 21 Atwells Avenue, Providence RI 02903
-* +1 (401) 831-3900
-
-#### Courtyard by Marriott Providence Downtown - $175/night (0.1 mile, 3 min walk)
-* 32 Exchange Terrace At Memorial Blvd, Providence RI 02903
-* +1 (401) 272-1191
-
-#### Graduate Providence Hotel - $169/night (0.1 mile, 4 minute walk)
-* 11 Dorrance St, Providence RI 02903
-* +1 (401) 421-0700
-
-#### Marriott Providence Downtown - $179/night (0.9 miles, 20 min walk) 
- * 1 Orms Street, Providence RI 02904
- * +1 (401) 272-2400
-
-### Unofficial Hotels 
-There are a number of hotels nearby the Convention Center.  Rates vary at each.
-
-[Hilton Providence (0.2 miles, 3 min walk)](https://www.hilton.com/en/hotels/pvdprhf-hilton-providence/)  
-[Residence Inn Providence. (174 feet, 1 min walk)](https://www.marriott.com/hotels/hotel-rooms/pvdpc-residence-inn-providence-coventry/ )  
-[The Dean (361 feet, 2 min walk)](https://thedeanhotel.com) 
-[The Beatrice (0.4 miles, 8 min walk)](https://www.thebeatrice.com)  
+## KidsCamp
+TBD
 
 ## Visas
 <p><strong>Letters from ACM in support of visa applications:</strong></p><p>ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. For visa support letters, please send all requests to supportletters@acm.org with the following information.</p>
@@ -129,11 +111,6 @@ There are a number of hotels nearby the Convention Center.  Rates vary at each.
 
 #TBD 
 
-## Visitor Info 
-
-See our Visitor Info for information about getting to and from Providence Rhode Island.
-
-The closest airport is Rhode Island T.F. Green International Airport.  That's airport code [PVD](https://www.pvdairport.com). 
 
 <!-- 
 ## Workshops
@@ -184,6 +161,7 @@ For general questions about registration or help with Cvent, please email [regis
 For help with special circumstances, such as proof of participation, please email [support@sigcse2022.org](mailto:support@sigcse2022.org).
 
 Authors or presenters with questions regarding their participation in the Technical Symposium should email [program@sigcse2022.org](mailto:program@sigcse2022.org) or [symposium@sigcse2022.org](mailto:symposium@sigcse2022.org) as appropriate.
+-->
 
 ### Cancellation Policy
 
@@ -193,6 +171,6 @@ Authors or presenters with questions regarding their participation in the Techni
 
 Please bring evidence of full-time student status to the conference. 
 <hr />
---> 
+
 
 
