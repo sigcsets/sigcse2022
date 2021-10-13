@@ -1,0 +1,63 @@
+virtual:
+  "SIGCSE Members":
+    "Regular Rate":
+      early: $150
+      regular: $200
+      day-of: $250
+    "Community College Faculty":
+      early: $150
+      regular: $200
+      day-of: $250
+    "K-12 Teacher":
+      early: $150
+      regular: $200
+      day-of: $250
+    "Student":
+      early: $50
+      regular: $50
+      day-of: $50
+    "Retirees":
+      early: $150
+      regular: $200
+      day-of: $250
+    "Exhibits Only":
+      early: $100
+      regular: $100
+      day-of: $100
+  "Non-SIGCSE Members":
+    "Regular Rate":
+      early: $200
+      regular: $250
+      day-of: $300
+    "Community College":
+      early: $200
+      regular: $250
+      day-of: $300
+    "K-12 Teacher":
+      early: $200
+      regular: $250
+      day-of: $300
+    "Student":
+      early: $70
+      regular: $70
+      day-of: $70
+    "Retirees":
+      early: $200
+      regular: $250
+      day-of: $300
+    "Exhibits Only":
+      early: $100
+      regular: $100
+      day-of: $100
+dates:
+  early: Through Jan 21 (ET)
+  regular: Feb 3 - Feb 18 (ET) 
+  day-of: Feb 19 - Mar 5 (ET)
+workshoprates:
+  early: $70
+  regular: $95
+  day-of: $100
+  #registration_button:
+  #url: /attendees
+  #text: Post-Conference Access
+  #style: alert
