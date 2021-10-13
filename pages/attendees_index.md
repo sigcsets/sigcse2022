@@ -43,13 +43,15 @@ Note that anyone that already has purchased full registration to the 2021 Techni
 ## For Attendees
  
  * [Registration Information](#registration_info)
- * COVID-19 Precautions
+    - Carbon Offset
+    - Henry Walker Fund
+ * Health and Well Being
  * Visas
  * Roommate Database
  * KidsCamp
 
 
-## Registering for SIGCSE TS 2023           
+## Registering for SIGCSE TS 2022          
 
 The 53nd ACM Technical Symposium on Computer Science Education     
 Hybrid Event will be held at the [Providence Convention Center](http://www.riconvention.com) and 
@@ -59,6 +61,9 @@ Hybrid Event will be held at the [Providence Convention Center](http://www.ricon
 * Workshops: March 2,5
 * Technical Symposium: March 2-5
 * Virtual Platform Opens: TBD
+
+The SIGCSE TS 2022 organizing committee is excited  to offer options for participants to attend remotely or travel to Providence and attend the conference in person. We hope to have an exciting and engaging experience for all participants, and really hope to see many of you in person.  Recognizing that we need information to make decisions about travel and gathering, we will keep this site updated with information as it is available.  Our registration system will allow you to switch your registration automatically, but keep in mind the discount dates.  The cost for your new registration will be based on the date you change it, not the date when you first registered for it. 
+
 
 In Person Registration
 {% for rate_category in site.data.registration.rates %}
@@ -91,8 +96,10 @@ Virtual Registration
 * _Student registration rates are for full-time students only._    
 * _Exhibits Only grants access to the exhibit hall, supporter sessions, and select affiliated events ONLY.  You will not have access to any other content from the Technical Symposium with this type of registration, including keynotes, technical sessions, workshops, Birds-of-a-Feather, and others.  Authors/presenters cannot choose this category as you will not have access to your session in Pathable._
 
-## COVID Precautions
-ACM SIGCSE TS 2022 will follow to ACM, ACM SIGCSE, [CDC](https://www.cdc.gov/coronavirus/2019-ncov/your-health/gatherings.html) and the [Rhode Island Convention Center](https://www.riconvention.com/attend-an-event/covid-19-event-updates) guidelines and health reminders. 
+## Health and Well Being
+The ACM SIGCSE TS 2022 committee is commited to providing our community with a conference that supports virtual and in-person participation.  As the registration date gets closer, we will provide details on the platform for virtual attendees and what to expect if traveling to Providence.
+
+Please know that we will adhere to ACM, ACM SIGCSE, [CDC](https://www.cdc.gov/coronavirus/2019-ncov/your-health/gatherings.html) and the [Rhode Island Convention Center](https://www.riconvention.com/attend-an-event/covid-19-event-updates) guidelines and health protocols. 
 
 ## KidsCamp
 TBD
