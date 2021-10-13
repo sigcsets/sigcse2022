@@ -33,7 +33,7 @@ The proposal is limited to a maximum of {{site.data.submissions["special session
  
 The following modifications and exceptions apply:
  
-* **Abstract**: Should provide a brief summary describing your special session including session objective, intended audience, and relevance to the SIGCSE community.
+* **Abstract**: Should provide a brief summary (up to 250 words) describing your special session including session objective, intended audience, and relevance to the SIGCSE community.
  
 * Subsequent sections should contain the following information:
  

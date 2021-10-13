@@ -27,10 +27,6 @@ Follow the links below for detailed information about submission guidelines to t
 <ul>
     {% assign posts = site.authors | sort: 'order' %}
     {% for post in posts %}
-    {% if post.track == 'CFP' or post.track == 'Papers' or post.track == 'Panels' or post.track == 'Special Sessions' or post.track == 'Workshops' or post.track == 'Nifty Assignments' or post.track == "Birds of a Feather" or post.track == 'Posters' or post.track == 'Demos' or post.track == 'Lightning Talks' or post.track == 'ACM Student Research Competition' %} 
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.track }}</a></li>
-    {% else %}
-    <li>{{ post.track }} (TBA)</li>
-    {% endif %}
     {% endfor %}
 </ul>

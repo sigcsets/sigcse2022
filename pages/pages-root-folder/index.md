@@ -14,11 +14,16 @@ header:
 #  text: >
 #    See the Call for Participation for more information on submitting to SIGCSE TS 2022!
 #    In person and virtual presentations welcome!
-widget2:
+widget1:
   title: "Submit to SIGCSE TS!"
   url: '/authors'
   text: 'See the Call for Participation for more information on submitting to SIGCSE TS 2022!'
   image: ribbons-widget.png
+  style: alert
+widget2:
+  title: "2022 Travel Grant Program!"
+  url: 'https://sigcse.org/programs/travel-grants/index.html '
+  text: 'Applications for the 2022 Travel Grant Program are currently open. The Travel Grant Program was established through a generous, multi-year  donation by Henry Walker to support faculty and teachers who have not yet had an opportunity to attend the SIGCSE Technical Symposium. The SIGCSE Board anticipates funding twenty new awards for the 2022 Symposium.'
   style: alert
 #
 # Use the call for action to show a button on the frontpage

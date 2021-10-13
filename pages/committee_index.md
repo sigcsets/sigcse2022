@@ -37,7 +37,7 @@ table.multibody tbody:hover, tbody:hover th[rowspan], tbody:hover td[rowspan], t
 
 {% for comm in site.data.committee %}
 <a name = "{{comm[0] | remove: " " }}"></a>  <!-- create anchors from committee name with no spaces -->
-{% if comm[0] == "Program Committee" or comm[0] == "Organizing Committee" %}
+{% if comm[0] == "Program Committee" or comm[0] == "Organizing Committee" or comm[0] == "Associate Program Chairs" %}
 <h2>{{comm[0]}}</h2>
 <table width="100%" class="multibody">
   <tr><th scope="col">Team</th><th scope="col">Member</th><th scope="col">Institution</th></tr>

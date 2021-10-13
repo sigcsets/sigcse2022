@@ -44,7 +44,7 @@ time: {{subtime}}
   <table class="table">
       <thead>
         <tr> <!-- TODO: automate this, currently code must be modified  -->
-          {% if site.data.cfp.submissionopen and subtrack < 3 %}
+          {% if site.data.cfp.submissionopen and subtrack > 1 %}
             <th colspan="2" style="text-align: center;">Now accepting submissions!</th>
           {% else %}
             <th colspan="2" style="text-align: center;">Submissions are closed.</th>
@@ -70,6 +70,7 @@ time: {{subtime}}
           <th scope="row">Time Due</th>
           <td> {{subtime}}</td>
         </tr>
+        {% if track != "Affiliated Events" %} 
         <tr>
           <th scope="row">Submission Limits</th>
           <td> {{site.data.cfp.details[track].limits}}
@@ -78,12 +79,22 @@ time: {{subtime}}
           {% endif %}
           </td>
         </tr>
+        {% endif %}
 
-        {% if site.data.cfp.submissionopen and subtrack < 3 %} <!-- TODO: change for Round 2! -->
+        {% if track != "Affiliated Events" %} 
+        {% if site.data.cfp.submissionopen and subtrack > 1 %} <!-- TODO: change for Round 2! -->
         <tr>
           <th scope="row">Submission Link</th>
           <td>
               <a href="{{site.data.cfp.submissionurl}}">{{site.data.sigcse.upper}} {{site.data.sigcse.year}} SIGCSE TS 2022 Submission via EasyChair</a>
+            </td>
+        </tr>
+        {% endif %}
+        {% else %}
+        <tr>
+          <th scope="row">Submission</th>
+          <td>
+              Please email submissions to <a href="mailto:affiliated@sigcse2022.org">affiliated@sigcse2022.org</a>.
             </td>
         </tr>
         {% endif %}

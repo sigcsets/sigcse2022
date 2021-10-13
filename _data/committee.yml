@@ -7,6 +7,10 @@
     - name: Larry Merkle
       inst: Air Force Institute of Technology
 
+    - name: Kristin Stephens-Martinez (Virtual)
+      inst: Duke University
+
+
 "Program Co-Chairs":
   email: program@sigcse2022.org
   members:
@@ -245,6 +249,150 @@
 
       - name: Michael Bauer 
         inst: Leeward Community College
+
+"Associate Program Chairs":
+  CER:
+    members:
+      - name: Ibrahim Albluwi
+        inst: Princeton University
+      - name: Meghan Allen
+        inst: The University of British Columbia
+      - name: Christine Alvarado
+        inst: University of California San Diego
+      - name: Julio Bahamon
+        inst: UNC Charlotte
+      - name: Lina Battestilli
+        inst: North Carolina State University
+      - name: Brett Becker
+        inst: University College Dublin
+      - name: Kristy Elizabeth Boyer
+        inst: University of Florida
+      - name: Mehmet Celepkolu
+        inst: University of Florida
+      - name: Leigh Ann Delyser
+        inst: CSforALL
+      - name: Paul Denny
+        inst: The University of Auckland
+      - name: Mohsen Dorodchi
+        inst: University of North Carolina, Charlotte
+      - name: Stephen Edwards
+        inst: Virginia Tech
+      - name: Yasmine Elglaly
+        inst: Western Washington University
+      - name: Michelle Friend
+        inst: University of Nebraska Omaha
+      - name: Rita Garcia
+        inst: The University of Adelaide
+      - name: Graham Glanville
+        inst: CCT College Dublin
+      - name: Caroline Hardin
+        inst: Western Washington University
+      - name: Sarah Heckman
+        inst: North Carolina State University
+      - name: Helen Hu
+        inst: Westminster College
+      - name: Ayaan Kazerouni
+        inst: California Polytechnic State University
+      - name: Juho Leinonen
+        inst: Aalto University
+      - name: Violetta Lonati
+        inst: University of Milan
+      - name: Andrew Luxton-Reilly
+        inst: The University of Auckland
+      - name: David Malan
+        inst: Harvard University
+      - name: Lijun Ni
+        inst: SUNY, Albany
+      - name: Miranda Parker
+        inst: University of California, Irvine
+      - name: Raymond Pettit
+        inst: University of Virginia
+      - name: Thomas Price
+        inst: North Carolina State University
+      - name: Brian Railing
+        inst: Carnegie Mellon University
+      - name: Kalpathi Subramanian
+        inst: The University of N Carolina at Charlotte
+      - name: Tammy Vandegrift
+        inst: University of Portland
+      - name: Jacqueline Whalley
+        inst: Auckland University of Technology
+  ERT:
+    members:
+      - name: Eric Aaron
+        inst: Colby College Dept. of Computer Science
+      - name: Marc Berges
+        inst: Friedrich-Alexander Universität Erlangen-Nürnberg
+      - name: Veronica Catete
+        inst: North Carolina State University
+      - name: Peter Clarke
+        inst: Florida International University
+      - name: Steve Cooper
+        inst: University of Nebraska - Lincoln
+      - name: Alan Fekete
+        inst: The University of Sydney
+      - name: Matthew Forshaw
+        inst: Newcastle University
+      - name: Brian Harrington
+        inst: University of Toronto
+      - name: Matthew Hertz
+        inst: University at Buffalo
+      - name: Maria Jump
+        inst: Northeastern University -- Charlotte
+      - name: Amanpreet Kapoor
+        inst: University of Florida
+      - name: Carsten Kleiner
+        inst: University of Applied Science and Arts Hannover
+      - name: Viraj Kumar
+        inst: Dayananda Sagar University
+      - name: David Levine
+        inst: Saint Bonaventure University
+      - name: Nicholas Lytle
+        inst: North Carolina State University
+      - name: Bruce Maxim
+        inst: University of Michigan
+      - name: Lester McCann
+        inst: University of Arizona
+      - name: Susan Mengel
+        inst: Texas Tech University
+      - name: Dave Musicant
+        inst: Carleton College
+      - name: Kris Nagel
+        inst: Georgia Institute of Technology
+      - name: James Paterson
+        inst: Glasgow Caledonian University
+      - name: Wendy Powley
+        inst: Queen's University
+      - name: Samuel Rebelsky
+        inst: Grinnell College
+      - name: Susan Rodger
+        inst: Duke University
+      - name: Simon
+        inst: University of Newcastle
+      - name: Frank Vahid
+        inst: UC Riverside
+      - name: Henry Walker
+        inst: Grinnell College
+      - name: Josh Weese
+        inst: Kansas State University
+  PCI:
+    members:
+      - name: Mark Bailey
+        inst: Hamilton College
+      - name: Eric Fouh
+        inst: University of Pennsylvania
+      - name: Judith Gal-Ezer
+        inst: The Open University of Israel
+      - name: Deborah Kariuki
+        inst: UMBC
+      - name: Michael Nowak
+        inst: University of Illinois at Urbana-Champaign
+      - name: Sagar Raina
+        inst: Mount Saint Mary College
+      - name: Stefan Robila
+        inst: Montclair State University
+      - name: Patricia Tanner
+        inst: Indiana Tech
 
 ####################
 

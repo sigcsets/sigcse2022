@@ -43,6 +43,8 @@ In addition to submitting a pdf of your actual poster (what you would normally p
 NEW since SIGCSE TS 2021, **submissions must be anonymized for review**.  The goal of anonymization is to, as much as possible, allow the author(s) of the submission an unbiased review. The anonymized version should have ALL mentions of the authors removed (including author’s names and affiliation plus identifying information within the body of the submission such as websites or related publications). Self-citations need not be removed if they are worded so that the reviewer doesn’t know if the writer is citing themselves. That is, instead of writing “We reported on our first experiment in 2017 in a previous paper [1]”, the writer might write “In 2017, an initial experiment was done in this area as reported in [1].
  
 The full submission should include: 1)  abstract, 2) extended abstract, and 3)description of your poster (as detailed below). The same abstract needs to appear in two places: in the PDF of the full submission and in a text box on the submission web page.
+
+The CCS Concepts, Keywords, and Copyright block / Bibstrip are required but the ACM Reference Format block is not, as shown in the template.
  
 The full submission is used for the review process only. If the poster is accepted, the abstract will appear on the Symposium website. The abstract and extended abstract (i.e. the first page of your submission) will appear in the Symposium proceedings and in the ACM Digital Library. 
  

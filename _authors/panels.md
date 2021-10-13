@@ -39,7 +39,7 @@ The following modifications and exceptions do apply:
     is the moderator by placing the word "Moderator" in parentheses
     after their name.
  
--   **Abstract:** Should provide a brief summary of your panel.
+-   **Abstract:** Should provide a brief summary (up to 250 words) of your panel.
  
 - 	**Summary:** The first section should be titled Summary and should provide an expanded summary of the panel’s goals,  intended audience, and relevance to the SIGCSE community.  
 -	**Panel Structure:** The section following the summary should explain the panel structure and plan for audience participation and provide sufficient time for audience interaction and questions.   This section should include a clear statement about the preferred delivery mode for the panel: all panelists in-person, all panelists remote, or a mixture of in-person and remote panelists.

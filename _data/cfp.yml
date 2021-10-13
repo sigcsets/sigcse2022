@@ -1,5 +1,5 @@
 
-submissionopen: true
+submissionopen: false
 submissionurl: "https://easychair.org/conferences/?conf=sigcsets2022"
 
 camerareadyinstructionsopen: false
@@ -126,7 +126,7 @@ master:
   # Papers
   - time: "23:59 AoE (Anywhere on Earth, UTC-12h)"
     notification: "Monday, September 27, 2021"
-    cameraready: "Friday, November 19, 2021"
+    cameraready: "Monday, December 6, 2021"
 
     abstractdue: "Friday, August 6, 2021"
     round: 1
@@ -138,7 +138,7 @@ master:
   # Panels, Special Sessions, Workshops
   - time: "23:59 AoE (Anywhere on Earth, UTC-12h)"
     notification: "Monday, September 27, 2021"
-    cameraready: "Friday, November 19, 2021"
+    cameraready: "Thursday, December 15, 2021"
     round: 1
     types:
       - track: Panels
@@ -154,7 +154,7 @@ master:
   # ACM SRC, BoFs, Demos, LTs, Nifty, Posters
   - time: "23:59 AoE (Anywhere on Earth, UTC-12h)"
     notification: "Friday, November 5, 2021"
-    cameraready: "Tuesday, November 30, 2021"
+    cameraready: "Thursday, December 15, 2021"
     round: 2
     types:
       - track: ACM Student Research Competition

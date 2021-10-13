@@ -20,13 +20,16 @@ format: frontpage
 		{% include _frontpage-widget.html widget=page.widget1 %}
 	{% endif %}
 
+	{% if page.aside %}
+		{% include _frontpage-aside-widget.html %}
+        <br>
+	{% endif %}
+
+
 	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
 		{% include _frontpage-widget.html widget=page.widget2 %}
 	{% endif %}
 
-	{% if page.aside %}
-		{% include _frontpage-aside-widget.html %}
-	{% endif %}
 </div>
 
 {% comment %}
