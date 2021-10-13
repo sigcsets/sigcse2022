@@ -1,70 +1,70 @@
 rates:
   "SIGCSE Members":
     "Regular Rate":
-      early: $150
-      regular: $200
-      day-of: $250
+      early: $375
+      regular: $450
+      day-of: $525
     "Community College Faculty":
-      early: $100
-      regular: $150
-      day-of: $200
+      early: $310
+      regular: $385
+      day-of: $475
     "K-12 Teacher":
-      early: $100
-      regular: $150
-      day-of: $200
+      early: $310
+      regular: $385
+      day-of: $475
     "Student":
-      early: $50
-      regular: $50
-      day-of: $50
-    "Retirees":
       early: $100
-      regular: $150
-      day-of: $200
+      regular: $100
+      day-of: $100
+    "Retirees":
+      early: $200
+      regular: $275
+      day-of: $350
     "Exhibits Only":
-      early: $25
-      regular: $25
-      day-of: $25
+      early: $100
+      regular: $100
+      day-of: $100
   "Non-SIGCSE Members":
     "Regular Rate":
-      early: $200
-      regular: $250
-      day-of: $300
+      early: $500
+      regular: $575
+      day-of: $650
     "Regular Rate w/ Joining SIGCSE (electronic pubs)":
-      early: $175
-      regular: $225
-      day-of: $275
+      early: $390
+      regular: $465
+      day-of: $540
     "Regular Rate w/ Joining SIGCSE (paper pubs)":
-      early: $195
-      regular: $245
-      day-of: $295   
+      early: $410
+      regular: $485
+      day-of: $560  
     "Community College Faculty w/ Joining SIGCSE":
-      early: $125
-      regular: $175
-      day-of: $225
+      early: $325
+      regular: $400
+      day-of: $490
     "K-12 Teacher w/ Joining SIGCSE":
-      early: $125
-      regular: $175
-      day-of: $225
+      early: $325
+      regular: $400
+      day-of: $490
     "Student w/ Joining SIGCSE":
-      early: $62
-      regular: $62
-      day-of: $62
+      early: $115
+      regular: $115
+      day-of: $115
     "Retirees":
-      early: $100
-      regular: $150
-      day-of: $200
+      early: $200
+      regular: $275
+      day-of: $350
     "Exhibits Only":
-      early: $25
-      regular: $25
-      day-of: $25
+      early: $100
+      regular: $100
+      day-of: $100
 dates:
-  early: Through Jan 31 (ET)
-  regular: Feb 1 - Feb 28 (ET) 
-  day-of: Mar 1 - Mar 20 (ET)
+  early: Through Jan 21 (ET)
+  regular: Feb 3 - Feb 18 (ET) 
+  day-of: Feb 19 - Mar 5 (ET)
 workshoprates:
-  early: $20
-  regular: $25
-  day-of: $30
+  early: $70
+  regular: $95
+  day-of: $100
   #registration_button:
   #url: /attendees
   #text: Post-Conference Access
