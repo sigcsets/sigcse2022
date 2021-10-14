@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "For Attendees"
-meta_title: "Information for Attendees for SIGCSE TS 2021"
+meta_title: "Information for Attendees for SIGCSE TS 2022"
 permalink: "/attendees/"
 sidebar: attendees
 ---
@@ -32,24 +32,52 @@ span.team-heading {
 
 </style>
 
-
+<!-- Comment out for 2022
 ## Post-Conference Access to Pathable
 The SIGCSE TS 2021 chairs are working with the SIGCSE board to investigate offering post-conference access to the materials in Pathable.  More will be posted and announce as decisions are made.
 
 Note that anyone that already has purchased full registration to the 2021 Technical Symposium (prior to March 20, 2021) will continue to have access to Pathable until March 2022 and can login with the Pathable link in the nav menu above.
 
 <a class="button large radius {{ site.data.registration.registration_button.style }}" href="{{ url }}{{ site.data.registration.registration_button.url }}"{% if site.data.registration.registration_button.url contains 'http' %} target="_blank" {% endif %}>{{ site.data.registration.registration_button.text }}</a>
+-->
+## For Attendees
+ 
+ * [Registration Information](#registration_info)
+    - Carbon Offset
+<p>    ACM SIGCSE  makes it is easy for attendees to offset their carbon footprint to the ACM SIGCSE Technical Symposium through the registration process. Donations will be passed directly to [Cool Effect](https://www.cooleffect.org/), an organization that helps individuals and businesses develop practical and cost-effective solutions to slow, stop and reduce the climate crisis. During the registration process, you will see a check box option that will allow you to make a donation to offset your emissions from attending the symposium. This contribution is optional and distinct from the registration fee and will appear as such on your registration receipt. Please consult your organization in advance to determine if the expense is reimbursable.  ACM will forward the names of the individuals that contribute along with the amount of their contribution to Cool Effect who will acknowledge the contribution to the individual donor for tax purposes.  You can utilize utilize the [carbon offset calculator](https://www.cooleffect.org/content/travel-offset) to make the appropriate donation based on travel and lodging. 
+  </p>
+  
+    - Henry Walker Fund 
+ <p>   The SIGCSE Board gratefully acknowledges former Board chair Henry Walker for his efforts in establishing this grant program and for his generous donation which served as the impetus to get the program started. This program depends upon donations for continued operation and possible expansion. Already, several SIGCSE members and friends have contributed, and we strongly encourage further donations to help support this ongoing program. Donations may be sent to:
 
-## Registering for SIGCSE TS 2021
+ACM, Office of Financial Services
+1601 Broadway, 10th Floor
+New York, NY 10019-7434
 
-The 52nd ACM Technical Symposium on Computer Science Education     
-Virtual Event hosted on Pathable at [http://pathable.sigcse2021.org](http://pathable.sigcse2021.org)
+Please make checks payable to ACM/SIGCSE and please mark on memo "The SIGCSE Travel Grant Program". ACM is a not-for-profit, tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code. As such, your contribution to SIGCSE is deductible to the extent provided by law.
+</p>
 
-* Pre-Symposium Events: March 8-13
-* Workshops: March 13-14
-* Technical Symposium: March 14-20
-* Pathable Virtual Platform Opens: March 1
+ * Health and Well Being
+ * Visas
+ * Roommate Database
+ * KidsCamp
 
+
+## Registering for SIGCSE TS 2022          
+
+The 53nd ACM Technical Symposium on Computer Science Education     
+Hybrid Event will be held at the [Providence Convention Center](http://www.riconvention.com) and 
+[Omni Providence Hotel](https://www.omnihotels.com/hotels/providence)  in Providence, Rhode Island, USA. 
+
+* Pre-Symposium Events: March 2
+* Workshops: March 2,5
+* Technical Symposium: March 2-5
+* Virtual Platform Opens: TBD
+
+The SIGCSE TS 2022 organizing committee is excited to offer options for participants to attend remotely or travel to Providence and attend the conference in person. We hope to have an exciting and engaging experience for all participants, and really hope to see many of you in person.  Recognizing that we need information to make decisions about travel and gathering, we will keep this site updated with information as it is available.  Our registration system will allow you to switch your registration automatically, but keep in mind the discount dates.  The cost for your new registration will be based on the date you change it, not the date when you first registered for it. 
+
+
+In Person Registration
 {% for rate_category in site.data.registration.rates %}
   <h3>{{ rate_category[0] }}</h3>
   <table width="100%" class="multibody">
@@ -63,13 +91,48 @@ Virtual Event hosted on Pathable at [http://pathable.sigcse2021.org](http://path
   
 {% endfor %}
 
+Virtual Registration
+{% for rate_category in site.data.virtual.rates %}
+  <h3>{{ rate_category[0] }}</h3>
+  <table width="100%" class="multibody">
+    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtual.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtual.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.virtual.dates.day-of}}</th></tr>
+    <tbody>
+    {% for rate_type in rate_category[1] %}
+      <tr><td>{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].regular }}</td><td>{{ rate_type[1].day-of }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  
+{% endfor %}
 * _All registration rates are in US$._    
 * _Student registration rates are for full-time students only._    
 * _Exhibits Only grants access to the exhibit hall, supporter sessions, and select affiliated events ONLY.  You will not have access to any other content from the Technical Symposium with this type of registration, including keynotes, technical sessions, workshops, Birds-of-a-Feather, and others.  Authors/presenters cannot choose this category as you will not have access to your session in Pathable._
 
-### Registering for Other Symposium Events through Cvent
+## Health and Well Being
+The ACM SIGCSE TS 2022 committee is commited to providing our community with a conference that supports virtual and in-person participation.  As the registration date gets closer, we will provide details on the platform for virtual attendees and what to expect if traveling to Providence.
 
-#### Workshops
+Please know that we will adhere to ACM, ACM SIGCSE, [CDC](https://www.cdc.gov/coronavirus/2019-ncov/your-health/gatherings.html) and the [Rhode Island Convention Center](https://www.riconvention.com/attend-an-event/covid-19-event-updates) guidelines and health protocols. 
+
+## KidsCamp
+TBD
+
+## Visas
+<p><strong>Letters from ACM in support of visa applications:</strong></p><p>ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. For visa support letters, please send all requests to supportletters@acm.org with the following information.</p>
+<ol>
+<li>Name and mailing address as it appears on your passport.</li>
+<li>The name of the conference you wish to attend.</li>
+<li>Registration confirmation number.</li>
+<li>If you are the author of any papers accepted for the conference, please provide the title.</li>
+<li>Fax number and/or e-mail address of where the invitation letter should be sent</li>
+</ol>
+
+## Roommate Database
+
+#TBD 
+
+
+<!-- 
+## Workshops
 
 Workshops provide an in-depth review of, or introduction to, a topic of interest. A successful workshop should provide participants with materials and/or ideas that are immediately useful in the classroom.
 
@@ -104,7 +167,7 @@ If your institution requires an address for reimbursement or approval purposes, 
 _Host:_ Association for Computing Machinery (ACM) / Special Interest Group on Computer Science Education (SIGCSE)    
 _Address:_ 1601 Broadway, 10th Floor, New York, NY 10019-7434
 
-_NOTE:_ This address cannot be used to send physical payments for registering for the Techncial Symposium.  For questions about how to register, please email [registration@sigcse2021.org](mailto:registration@sigcse2021.org).
+_NOTE:_ This address cannot be used to send physical payments for registering for the Techncial Symposium.  For questions about how to register, please email [registration@sigcse2022.org](mailto:registration@sigcse2022.org).
 
 As the Technical Symposium is being hosted in the United States (even if it is virtual), we have no VAT number that we can provide.
 
@@ -112,28 +175,21 @@ We also cannot provide VISA letters at this time.
 
 ### Questions?
 
-For general questions about registration or help with Cvent, please email [registration@sigcse2021.org](mailto:registration@sigcse2021.org).
+For general questions about registration or help with Cvent, please email [registration@sigcse2022.org](mailto:registration@sigcse2022.org).
 
-For help with special circumstances, such as proof of participation, please email [support@sigcse2021.org](mailto:support@sigcse2021.org).
+For help with special circumstances, such as proof of participation, please email [support@sigcse2022.org](mailto:support@sigcse2022.org).
 
-Authors or presenters with questions regarding their participation in the Technical Symposium should email [program@sigcse2021.org](mailto:program@sigcse2021.org) or [symposium@sigcse2021.org](mailto:symposium@sigcse2021.org) as appropriate.
+Authors or presenters with questions regarding their participation in the Technical Symposium should email [program@sigcse2022.org](mailto:program@sigcse2022.org) or [symposium@sigcse2022.org](mailto:symposium@sigcse2022.org) as appropriate.
+-->
 
 ### Cancellation Policy
 
-<p><strong>Cancellation requests must be made by March 1, 2021 at 11:59 PM Eastern Time.</strong> A processing fee of US$100 will be assessed for full rate registrations. A processing fee of US$25 will be assessed for reduced rate registrations. Regrettably, cancellations received after that date cannot be honored. The conference committee recognizes that sometimes last-minute cancellations can't be avoided<!-- For 2021, include only as HTML comment: due to weather, travel disruptions, and/or health issues -->. However, the conference incurs expenses for which it is liable based on registration counts. Registrants <!-- For 2021, include only as HTML comment: are strongly advised to purchase travel insurance to cover their non-refundable expenses. Also, registrants -->who find themselves unable to attend should be aware that registrations are transferable, but in general the conference committee cannot assist in finding an appropriate recipient.</p>
+<p><strong>Cancellation requests must be made by March 1, 2022 at 11:59 PM Eastern Time.</strong> A processing fee of US$100 will be assessed for full rate registrations. A processing fee of US$25 will be assessed for reduced rate and virtual registrations. Regrettably, cancellations received after that date cannot be honored. The conference committee recognizes that sometimes last-minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts. Registrants  are strongly advised to purchase travel insurance to cover their non-refundable expenses. Also, registrant who find themselves unable to attend should be aware that registrations are transferable, but in general the conference committee cannot assist in finding an appropriate recipient.</p>
 
 <p><strong>In the event that the symposium is cancelled due to circumstances beyond the organizers' control,</strong> refunds are not guaranteed. If refunds are issued, the amount will depend on the expenses and financial commitments incurred by the symposium as of the cancellation date.</p>
 
-<!-- For 2021, include only as HTML comment: Please bring evidence of full-time student status to the conference. -->
-
-<!-- For 2021, include only as HTML comment:
+Please bring evidence of full-time student status to the conference. 
 <hr />
-<p><strong>Letters from ACM in support of visa applications:</strong></p><p>ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. For visa support letters, please send all requests to supportletters@acm.org with the following information.</p>
-<ol>
-<li>Name and mailing address as it appears on your passport.</li>
-<li>The name of the conference you wish to attend.</li>
-<li>Registration confirmation number.</li>
-<li>If you are the author of any papers accepted for the conference, please provide the title.</li>
-<li>Fax number and/or e-mail address of where the invitation letter should be sent</li>
-</ol>
--->
+
+
+
