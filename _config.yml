@@ -49,6 +49,8 @@ collections:
         output: true
     schedule:
         output: true
+    registration:
+        output: true
 
 
 # Logo size is 600x80 pixels
