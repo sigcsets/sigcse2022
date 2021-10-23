@@ -81,7 +81,7 @@ The SIGCSE TS 2022 organizing committee is excited to offer options for particip
 {% for rate_category in site.data.virtual.rates %}
   <h3>{{ rate_category[0] }}</h3>
   <table width="100%" class="multibody">
-    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtual.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtual.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.virtual.dates.day-of}}</th></tr>
+    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtualRegistration.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtualRegistration.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.virtualRegistration.dates.day-of}}</th></tr>
     <tbody>
     {% for rate_type in rate_category[1] %}
       <tr><td>{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].regular }}</td><td>{{ rate_type[1].day-of }}</td></tr>
