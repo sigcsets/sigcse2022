@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Registration Details"
-meta_title: "Information about Registration for SIGCSE TS 2022"
-permalink: "/registration/"
-sidebar: registration
+title: "Attendees Information"
+meta_title: "Information for Attendees for SIGCSE TS 2022"
+permalink: "/attendees/"
+sidebar: attendees
 ---
 
 <a name="registration"></a>
@@ -40,28 +40,9 @@ Note that anyone that already has purchased full registration to the 2021 Techni
 
 <a class="button large radius {{ site.data.registration.registration_button.style }}" href="{{ url }}{{ site.data.registration.registration_button.url }}"{% if site.data.registration.registration_button.url contains 'http' %} target="_blank" {% endif %}>{{ site.data.registration.registration_button.text }}</a>
 -->
-## For Attendees
- 
-<p markdown="1" class="alert-box" role="alert">
-<b>Carbon Offsets.</b> ACM SIGCSE makes it is easy for attendees to offset their carbon footprint to the ACM SIGCSE Technical Symposium through the registration process. Donations will be passed directly to <a href="https://www.cooleffect.org/">Cool Effect</a>, an organization that helps individuals and businesses develop practical and cost-effective solutions to slow, stop and reduce the climate crisis. During the registration process, you will see a check box option that will allow you to make a donation to offset your emissions from attending the symposium. This contribution is optional and distinct from the registration fee and will appear as such on your registration receipt. Please consult your organization in advance to determine if the expense is reimbursable.  ACM will forward the names of the individuals that contribute along with the amount of their contribution to Cool Effect who will acknowledge the contribution to the individual donor for tax purposes.  You can utilize utilize the <a href="https://www.cooleffect.org/content/travel-offset">carbon offset calculator</a> to make the appropriate donation based on travel and lodging. 
-</p>
-
-<p markdown="1" class="alert-box" role="alert">
-<b>Henry Walker Fund.</b> The SIGCSE Board gratefully acknowledges former Board chair Henry Walker for his efforts in establishing this grant program and for his generous donation which served as the impetus to get the program started. This program depends upon donations for continued operation and possible expansion. Already, several SIGCSE members and friends have contributed, and we strongly encourage further donations to help support this ongoing program. Donations may be sent to:
-
-<br>
-<br>
-ACM, Office of Financial Services
-<br>
-1601 Broadway, 10th Floor
-<br>
-New York, NY 10019-7434
-<br>
-<br>
-
-Please make checks payable to ACM/SIGCSE and please mark on memo "The SIGCSE Travel Grant Program". ACM is a not-for-profit, tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code. As such, your contribution to SIGCSE is deductible to the extent provided by law.
-</p>
-
+## Hotel and Travel Information for SIGCSE TS 2022          
+- [Travel Information](https://www.goprovidence.com/sigcse/getting-here/)
+- [Hotel Information](https://www.goprovidence.com/sigcse/hotel-information/)
 
 
 ## Registering for SIGCSE TS 2022          
@@ -85,7 +66,7 @@ The SIGCSE TS 2022 organizing committee is excited to offer options for particip
     <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.registration.dates.early}}</th><th scope="col">Regular: <br>{{site.data.registration.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.registration.dates.day-of}}</th></tr>
     <tbody>
     {% for rate_type in rate_category[1] %}
-      <tr><td>{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].regular }}</td><td>{{ rate_type[1].day-of }}</td></tr>
+      <tr><td width="50%">{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].regular }}</td><td>{{ rate_type[1].day-of }}</td></tr>
     {% endfor %}
     </tbody>
   </table>
@@ -93,13 +74,13 @@ The SIGCSE TS 2022 organizing committee is excited to offer options for particip
 {% endfor %}
 
 ### Virtual Registration
-{% for rate_category in site.data.virtual.rates %}
+{% for rate_category in site.data.virtualRegistration.virtual %}
   <h3>{{ rate_category[0] }}</h3>
   <table width="100%" class="multibody">
     <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtual.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtual.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.virtual.dates.day-of}}</th></tr>
     <tbody>
     {% for rate_type in rate_category[1] %}
-      <tr><td>{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].regular }}</td><td>{{ rate_type[1].day-of }}</td></tr>
+      <tr><td width="50%">{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].regular }}</td><td>{{ rate_type[1].day-of }}</td></tr>
     {% endfor %}
     </tbody>
   </table>
@@ -124,8 +105,20 @@ Please know that we will adhere to ACM, ACM SIGCSE, [CDC](https://www.cdc.gov/co
 <li>Fax number and/or e-mail address of where the invitation letter should be sent</li>
 </ol>
 
-## Roommate Database
 
+## Carbon Offsets
+ACM SIGCSE makes it is easy for attendees to offset their carbon footprint to the ACM SIGCSE Technical Symposium through the registration process. Donations will be passed directly to <a href="https://www.cooleffect.org/">Cool Effect</a>, an organization that helps individuals and businesses develop practical and cost-effective solutions to slow, stop and reduce the climate crisis. During the registration process, you will see a check box option that will allow you to make a donation to offset your emissions from attending the symposium. This contribution is optional and distinct from the registration fee and will appear as such on your registration receipt. Please consult your organization in advance to determine if the expense is reimbursable.  ACM will forward the names of the individuals that contribute along with the amount of their contribution to Cool Effect who will acknowledge the contribution to the individual donor for tax purposes.  You can utilize the <a href="https://www.cooleffect.org/content/travel-offset">carbon offset calculator</a> to make the appropriate donation based on travel and lodging. 
+
+## Henry Walker Fund
+The SIGCSE Board gratefully acknowledges former Board chair Henry Walker for his efforts in establishing this grant program and for his generous donation which served as the impetus to get the program started. This program depends upon donations for continued operation and possible expansion. Already, several SIGCSE members and friends have contributed, and we strongly encourage further donations to help support this ongoing program. Donations may be sent to:
+
+    ACM, Office of Financial Services
+    1601 Broadway, 10th Floor
+    New York, NY 10019-7434
+
+Please make checks payable to ACM/SIGCSE and please mark on memo "The SIGCSE Travel Grant Program". ACM is a not-for-profit, tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code. As such, your contribution to SIGCSE is deductible to the extent provided by law.
+
+## Roommate Database
 TBD 
 
 ## KidsCamp
