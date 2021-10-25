@@ -48,11 +48,11 @@ Note that anyone that already has purchased full registration to the 2021 Techni
 ## Registering for SIGCSE TS 2022          
 
 The 53nd ACM Technical Symposium on Computer Science Education     
-Hybrid Event will be held at the [Providence Convention Center](http://www.riconvention.com) and 
+Hybrid Event will be held at the [Rhode Island Convention Center](http://www.riconvention.com) and 
 [Omni Providence Hotel](https://www.omnihotels.com/hotels/providence)  in Providence, Rhode Island, USA. 
 
 * Pre-Symposium Events: March 2
-* Workshops: March 2,5
+* Workshops: March 2, 4, and 5
 * Technical Symposium: March 2-5
 * Virtual Platform Opens: TBD
 
