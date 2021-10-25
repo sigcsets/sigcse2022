@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Attendees Information"
-meta_title: "Information for Attendees for SIGCSE TS 2022"
-permalink: "/attendees/"
-sidebar: attendees
+title: "Participant Information"
+meta_title: "Information for SIGCSE TS 2022 Participants"
+permalink: "/participants/"
+sidebar: participants
 ---
 
 <a name="registration"></a>
@@ -47,16 +47,14 @@ Note that anyone that already has purchased full registration to the 2021 Techni
 
 ## Registering for SIGCSE TS 2022          
 
-The 53nd ACM Technical Symposium on Computer Science Education     
-Hybrid Event will be held at the [Rhode Island Convention Center](http://www.riconvention.com) and 
-[Omni Providence Hotel](https://www.omnihotels.com/hotels/providence)  in Providence, Rhode Island, USA. 
+The 53rd ACM Technical Symposium on Computer Science Education Hybrid Event will be held at the [Rhode Island Convention Center](http://www.riconvention.com) and [Omni Providence Hotel](https://www.omnihotels.com/hotels/providence)  in Providence, Rhode Island, USA. 
 
-* Pre-Symposium Events: March 2
+* Pre-Symposium Affiliated Events: March 2
 * Workshops: March 2, 4, and 5
 * Technical Symposium: March 2-5
 * Virtual Platform Opens: TBD
 
-The SIGCSE TS 2022 organizing committee is excited to offer options for participants to attend remotely or travel to Providence and attend the conference in person. We hope to have an exciting and engaging experience for all participants, and really hope to see many of you in person.  Recognizing that we need information to make decisions about travel and gathering, we will keep this site updated with information as it is available.  Our registration system will allow you to switch your registration automatically, but keep in mind the discount dates.  The cost for your new registration will be based on the date you change it, not the date when you first registered for it. 
+The SIGCSE TS 2022 organizing committee is excited to offer options for participants to participate virtually or travel to Providence and attend the conference in person. We hope to have an exciting and engaging experience for all participants, and hope very much to see many of you in person.  Recognizing that participants need information to make decisions about travel and gathering, we will keep this site updated with information as it is available.  Our registration system will allow you to switch your own registration between in-person and virtual participation, but keep in mind the discount dates.  The cost for your new registration will be based on the date you change it, not the date when you first registered. 
 
 
 ### In-Person Registration
@@ -87,13 +85,13 @@ The SIGCSE TS 2022 organizing committee is excited to offer options for particip
   
 {% endfor %}
 * _All registration rates are in US$._    
-* _Student registration rates are for full-time students only._    
-* _Exhibits Only grants access to the exhibit hall, supporter sessions, and select affiliated events ONLY.  You will not have access to any other content from the Technical Symposium with this type of registration, including keynotes, technical sessions, workshops, Birds-of-a-Feather, and others.  Authors/presenters cannot choose this category as you will not have access to your session in Pathable._
+* _Student registration rates are for full-time students only. Please bring evidence of full-time student status to the conference._    
+* _The Exhibits Only registration rates grant access ONLY to the exhibit hall, supporter sessions, and selected Affiliated Events.  Such participants will NOT have access to any other content from the Technical Symposium with this type of registration, including keynotes, technical sessions, workshops, Birds-of-a-Feather, and others.  Presenters cannot choose this category._
 
 ## Health and Well-Being
-The ACM SIGCSE TS 2022 committee is commited to providing our community with a conference that supports virtual and in-person participation.  As the registration date gets closer, we will provide details on the platform for virtual attendees and what to expect if traveling to Providence.
+The ACM SIGCSE TS 2022 committee is commited to providing our community with a conference that supports virtual and in-person participation.  As the registration dates get closer, we will provide details on the platform for virtual attendees and what to expect if traveling to Providence.
 
-Please know that we will adhere to ACM, ACM SIGCSE, [CDC](https://www.cdc.gov/coronavirus/2019-ncov/your-health/gatherings.html) and the [Rhode Island Convention Center](https://www.riconvention.com/attend-an-event/covid-19-event-updates) guidelines and health protocols. 
+Please know that we will adhere to ACM, ACM SIGCSE, [CDC](https://www.cdc.gov/coronavirus/2019-ncov/your-health/gatherings.html) and [Rhode Island Convention Center](https://www.riconvention.com/attend-an-event/covid-19-event-updates) recommendations, guidelines, and health protocols. This includes requiring proof of vaccination for in-person participation in all 2022 ACM events.
 
 ## Visas
 <p><strong>Letters from ACM in support of visa applications:</strong></p><p>ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. For visa support letters, please send all requests to supportletters@acm.org with the following information.</p>
@@ -107,7 +105,7 @@ Please know that we will adhere to ACM, ACM SIGCSE, [CDC](https://www.cdc.gov/co
 
 
 ## Carbon Offsets
-ACM SIGCSE makes it is easy for attendees to offset their carbon footprint to the ACM SIGCSE Technical Symposium through the registration process. Donations will be passed directly to <a href="https://www.cooleffect.org/">Cool Effect</a>, an organization that helps individuals and businesses develop practical and cost-effective solutions to slow, stop and reduce the climate crisis. During the registration process, you will see a check box option that will allow you to make a donation to offset your emissions from attending the symposium. This contribution is optional and distinct from the registration fee and will appear as such on your registration receipt. Please consult your organization in advance to determine if the expense is reimbursable.  ACM will forward the names of the individuals that contribute along with the amount of their contribution to Cool Effect who will acknowledge the contribution to the individual donor for tax purposes.  You can utilize the <a href="https://www.cooleffect.org/content/travel-offset">carbon offset calculator</a> to make the appropriate donation based on travel and lodging. 
+ACM SIGCSE makes it is easy for attendees to offset their carbon footprint to the ACM SIGCSE Technical Symposium through the registration process. Donations will be passed directly to <a href="https://www.cooleffect.org/">Cool Effect</a>, an organization that helps individuals and businesses develop practical and cost-effective solutions to slow, stop, and reduce the climate crisis. During the registration process, you will see a check box option that will allow you to make a donation to offset your emissions from attending the symposium. This contribution is optional and distinct from the registration fee and will appear as such on your registration receipt. Please consult your organization in advance to determine if the expense is reimbursable. If you need to use different credit cards for your registration and your donation, you can simply log in again after registering, update your registration, and pay with a second credit card. ACM will forward the names of the individuals that contribute along with the amount of their contribution to Cool Effect who will acknowledge the contribution to the individual donor for tax purposes.  You can utilize the <a href="https://www.cooleffect.org/content/travel-offset">carbon offset calculator</a> to make the appropriate donation based on travel and lodging. 
 
 ## Henry Walker Fund
 The SIGCSE Board gratefully acknowledges former Board chair Henry Walker for his efforts in establishing this grant program and for his generous donation which served as the impetus to get the program started. This program depends upon donations for continued operation and possible expansion. Already, several SIGCSE members and friends have contributed, and we strongly encourage further donations to help support this ongoing program. Donations may be sent to:
@@ -116,13 +114,13 @@ The SIGCSE Board gratefully acknowledges former Board chair Henry Walker for his
     1601 Broadway, 10th Floor
     New York, NY 10019-7434
 
-Please make checks payable to ACM/SIGCSE and please mark on memo "The SIGCSE Travel Grant Program". ACM is a not-for-profit, tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code. As such, your contribution to SIGCSE is deductible to the extent provided by law.
+Please make checks payable to ACM/SIGCSE with the memo "The SIGCSE Travel Grant Program". ACM is a not-for-profit, tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code. As such, your contribution to SIGCSE is deductible to the extent provided by law.
 
 ## Roommate Database
-TBD 
+Coming soon.
 
 ## KidsCamp
-TBD
+Coming soon.
 
 
 
@@ -179,9 +177,8 @@ Authors or presenters with questions regarding their participation in the Techni
 
 ## Cancellation Policy
 
-<p><strong>Cancellation requests must be made by March 1, 2022 at 11:59 PM Eastern Time.</strong> A processing fee of US$100 will be assessed for full rate registrations. A processing fee of US$25 will be assessed for reduced rate and virtual registrations. Regrettably, cancellations received after that date cannot be honored. The conference committee recognizes that sometimes last-minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts. Registrants  are strongly advised to purchase travel insurance to cover their non-refundable expenses. Also, registrant who find themselves unable to attend should be aware that registrations are transferable, but in general the conference committee cannot assist in finding an appropriate recipient.</p>
+<p><strong>Cancellation requests must be made by March 1, 2022 at 11:59 PM Eastern Time.</strong> A processing fee of US$100 will be assessed for full rate registrations. A processing fee of US$25 will be assessed for reduced rate and virtual registrations. Regrettably, cancellations received after that date cannot be honored. The conference committee recognizes that sometimes last-minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts. In-person registrants are strongly advised to purchase travel insurance to cover their non-refundable expenses. Also, registrants who find themselves unable to attend should be aware that registrations are transferable, but in general the conference committee cannot assist in finding an appropriate recipient.</p>
 
-<p><strong>In the event that the symposium is cancelled due to circumstances beyond the organizers' control,</strong> refunds are not guaranteed. If refunds are issued, the amount will depend on the expenses and financial commitments incurred by the symposium as of the cancellation date.</p>
+<p><strong>In the event that the Symposium is cancelled due to circumstances beyond the organizers' control,</strong> refunds are not guaranteed. If refunds are issued, the amount will depend on the expenses and financial commitments incurred by the Symposium as of the cancellation date.</p>
 
-Please bring evidence of full-time student status to the conference. 
 <hr />
