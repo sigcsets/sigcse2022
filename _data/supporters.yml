@@ -117,6 +117,10 @@ Gold:
 #  
 #
 Silver:
+- name: ABET
+  image: abet-200.png
+  link: https://www.abet.org/
+
 - name: Repl.it
   link: https://replit.com/ 
   image: replit-200.png
@@ -164,9 +168,6 @@ Silver:
 #      description: "Nearly 80% of instructors who use zyLabs auto-grader switched from grading programming assignments by hand. They saved an average of 9 hours per week, with some reporting up to 20 hours saved. In recent years, computer science educators have increasingly shifted how they grade programming assignments, from grading manually or using batch scripts, to using auto-graders with immediate score feedback to students. zyBooks has been a pioneer by developing the zyLabs auto-grader, that is easy to use and integrated with our state of the art e-learning platform. This shift illustrates a future with a much different classroom dynamic, in which students view instructors less as evaluators and more as hands-on educators.  To support educators in this new role, zyLabs also provides support across a wide range of activities by providing a library of high-quality pre-written programming assignments, an intuitive interface for customizing content, and tools to promote student integrity. In this session, we'll talk about the growth and benefits of zyLabs auto-grading, demonstrate our library of programming assignments, and illustrate how zyLabs features promote academic honesty."
 #
 Bronze:
-- name: ABET
-  image: abet-200.png
-  link: https://www.abet.org/
 #  - name: AdaCore
 #    image: adacore-200.png
 #    link: "http://www.adacore.com"
