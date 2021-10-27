@@ -20,10 +20,6 @@ virtual:
       early: $150
       regular: $200
       day-of: $250
-    "Exhibits Only":
-      early: $100
-      regular: $100
-      day-of: $100
   "Non-SIGCSE Members":
     "Regular Rate":
       early: $200
@@ -45,10 +41,6 @@ virtual:
       early: $200
       regular: $250
       day-of: $300
-    "Exhibits Only":
-      early: $100
-      regular: $100
-      day-of: $100
 dates:
   early: through Feb 2 (ET)
   regular: Feb 3 - Feb 18 (ET) 

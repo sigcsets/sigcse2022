@@ -396,8 +396,46 @@
 
 ####################
 
-#"Global Committee":
-#  members: 
+"Global Committee":
+  members: 
+    - name: Brett Becker
+      inst: University College Dublin
+    - name: Rodrigo Duran
+      inst:  instituto Federal de Mato Grosso do Sul
+    - name: Amey Karkare
+      inst: IIT Kanpur
+    - name: André Santos
+      inst:  instituto Universitário de Lisboa
+    - name: Chao Mbogo
+      inst: Kenya Methodist University
+    - name: Ernesto Cuadros- Vargas
+      inst: UTEC, Peru
+    - name: Gary Wong
+      inst: University of Hong Kong
+    - name: Hironori Washizaki
+      inst: Waseda University
+    - name: Paul Denny
+      inst: University of Auckland
+    - name: Steven Bradley
+      inst: Durham University
+    - name: Viraj Kumar
+      inst: Indian  institute of Science
+    - name: Lenandlar Singh
+      inst: University of Guyana
+    - name: Tobias Kohn
+      inst: University of Cambridge
+    - name: Ming Zhang
+      inst: Peking University
+    - name: Roberto Bittencourt
+      inst: State University of Feira de Santana
+    - name: Ethel Tshukudu
+      inst: University of Glasgow
+    - name: Juho Leinonen
+      inst: Aalto University
+    - name: Jacqueline Smith
+      inst: University of Toronto
+    - name: Ibrahim Albluwi
+      inst: Princess Sumaya University for Technology
 #   - name: Roberto Bittencourt
 #     inst: State University of Feira de Santana, Brazil
 #   - name: Steven Bradley

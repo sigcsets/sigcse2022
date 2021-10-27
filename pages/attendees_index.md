@@ -3,7 +3,7 @@ layout: page
 title: "Participant Information"
 meta_title: "Information for SIGCSE TS 2022 Participants"
 permalink: "/participants/"
-sidebar: participants
+sidebar: attendees
 ---
 
 <a name="registration"></a>
@@ -107,6 +107,7 @@ Please know that we will adhere to ACM, ACM SIGCSE, [CDC](https://www.cdc.gov/co
 ## Carbon Offsets
 ACM SIGCSE makes it is easy for attendees to offset their carbon footprint to the ACM SIGCSE Technical Symposium through the registration process. Donations will be passed directly to <a href="https://www.cooleffect.org/">Cool Effect</a>, an organization that helps individuals and businesses develop practical and cost-effective solutions to slow, stop, and reduce the climate crisis. During the registration process, you will see a check box option that will allow you to make a donation to offset your emissions from attending the symposium. This contribution is optional and distinct from the registration fee and will appear as such on your registration receipt. Please consult your organization in advance to determine if the expense is reimbursable. If you need to use different credit cards for your registration and your donation, you can simply log in again after registering, update your registration, and pay with a second credit card. ACM will forward the names of the individuals that contribute along with the amount of their contribution to Cool Effect who will acknowledge the contribution to the individual donor for tax purposes.  You can utilize the <a href="https://www.cooleffect.org/content/travel-offset">carbon offset calculator</a> to make the appropriate donation based on travel and lodging. 
 
+<!--
 ## Henry Walker Fund
 The SIGCSE Board gratefully acknowledges former Board chair Henry Walker for his efforts in establishing this grant program and for his generous donation which served as the impetus to get the program started. This program depends upon donations for continued operation and possible expansion. Already, several SIGCSE members and friends have contributed, and we strongly encourage further donations to help support this ongoing program. Donations may be sent to:
 
@@ -115,6 +116,8 @@ The SIGCSE Board gratefully acknowledges former Board chair Henry Walker for his
     New York, NY 10019-7434
 
 Please make checks payable to ACM/SIGCSE with the memo "The SIGCSE Travel Grant Program". ACM is a not-for-profit, tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code. As such, your contribution to SIGCSE is deductible to the extent provided by law.
+
+-->
 
 ## Roommate Database
 Coming soon.
