@@ -1,5 +1,5 @@
 virtual:
-  "SIGCSE Members":
+  "ACM/SIGCSE Members":
     "Regular Rate":
       early: $150
       regular: $200
@@ -37,10 +37,6 @@ virtual:
       early: $70
       regular: $70
       day-of: $70
-    "Retirees":
-      early: $200
-      regular: $250
-      day-of: $300
 dates:
   early: through Feb 2 (ET)
   regular: Feb 3 - Feb 18 (ET) 

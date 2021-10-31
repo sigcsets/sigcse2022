@@ -10,8 +10,8 @@
 #  url: /schedule/
 #  side: left
 #
-- title: "Attendees"
-  url: "https://www.goprovidence.com/sigcse/attractions/"
+- title: "Participants"
+  url: /participants/
   side: left
 #
 - title: "Authors"

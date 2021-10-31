@@ -1,5 +1,5 @@
 rates:
-  "SIGCSE Members":
+  "ACM/SIGCSE Members":
     "Regular Rate":
       early: $375
       regular: $450
@@ -12,6 +12,10 @@ rates:
       early: $310
       regular: $385
       day-of: $475
+    "K-12 Teacher - Fri/Sat":
+      early: $175
+      regular: $250
+      day-of: $325
     "Student":
       early: $100
       regular: $100
@@ -49,10 +53,6 @@ rates:
       early: $115
       regular: $115
       day-of: $115
-    "Retirees":
-      early: $200
-      regular: $275
-      day-of: $350
     "Exhibits Only":
       early: $100
       regular: $100
