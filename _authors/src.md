@@ -14,7 +14,8 @@ The ***ACM Student Research Competition*** held at the SIGCSE Technical Symposiu
 * All **graduate submissions** must represent a student’s individual research contribution --- neither supervisors nor other students are allowed as coauthors.
 * **Undergraduate submissions** may represent individual or team research contributions. Research completed while the student was an undergraduate may be submitted to the undergraduate category even if the student is now a first-year graduate student.
  
-A student must be an ACM student member to qualify for awards and travel grants (up to $500 may be available for students who do not have another source of funding).
+<!--A student must be an ACM student member to qualify for awards and travel grants (up to $500 may be available for students who do not have another source of funding).
+-->
 Note: The authors of accepted submissions will have the option of participating in the Student Research Competition either in-person by physically attending the conference in Providence, RI, USA, or virtually. More details about attending the conference virtually will be provided prior to the conference.  
  
 {% include review-anonymity.html %}
@@ -50,7 +51,9 @@ No more than three research projects will be accepted from a single department a
  
 Authors of all accepted submissions will receive instructions on how to submit the publication-ready copy of an abstract of {{site.data.submissions["acm student research competition"].abstract-limits}} that serves as a succinct description of the project. Deadline and instructions regarding publication-ready submissions are emailed to accepted authors. 
  
+<!--
 Authors of all accepted submissions are expected to present their posters either in-person or virtually during the Symposium. In case the authors attend the Symposium in person, a travel grant covering expenses for travel to the SIGCSE Technical Symposium, including conference registration, transportation, lodging, and meals, up to a limit of US $500 may be provided to each student whose submission is accepted to the Student Research Competition. Students must be members of ACM to qualify for these awards.
+-->
  
 ## During the Conference
  
