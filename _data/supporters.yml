@@ -1,50 +1,13 @@
 Platinum:
-#  - name: "GitHub Education"
-#    image: github-200.png
-#    link: "https://education.github.com/"
-#    sessions:
-#    - title: "GitHub Education Teacher PD Preview"
-#      day: Wednesday, March 10
-#      time: 3:00 PM (ET) - 4:15 PM (ET)
-#      presenters: Arelia Jones
-#      description: "Participants will preview our teacher professional development course. In this preview, experience an introduction to Git and GitHub including creating repositories, branches and pull requests, and learn simple ways to introduce GitHub to your classroom."
-#    - title: "Using GitHub for Multi-College Collaborative Undergraduate Research"
-#      day: Tuesday, March 16
-#      time: 3:00 PM (ET) - 4:15 PM (ET)
-#      presenters: Amos Johnson (Morehouse College)
-#      description: "Virginia Tech and Morehouse College are currently in the second semester of a Vertically Integrated Project (VIP). This experiential learning effort involves creating a long-term, multi-college, and multidisciplinary undergraduate research project in the technical area of deep learning applied to wireless communications. Due to COVID-19, the project has morphed into a completely online experience, with GitHub as the communications focal point. This change in structure has provided unique challenges in ensuring continued student engagement, collaboration, and research output—along with some unintended benefits. In this presentation, you’ll get an overview of the program, goals and motivations, and current status. In addition, the speakers will provide a unique look at how COVID-19 has led to necessary improvements in collaboration as a beneficial long term side-effect. You’ll come away with best practices for engaging students from diverse colleges, disciplines, and backgrounds effectively while maximizing student engagement and outcomes, especially in pure, or hybrid, online settings."
-#    - title: "Help Students Master Git & GitHub in 3 Lessons"
-#      day: Thursday, March 18
-#      time: 3:00 PM (ET) - 4:15 PM (ET)
-#      presenters: Jeff Olson (Director of Curriculum & Instruction, GitHub)
-#      description: "Jeff has used Git & GitHub with students in both introductory and advanced high school courses, fine-tuning strategies for introducing Git in low-stakes and non-threatening ways and building to greater comfort & fluency over time. His strategies emphasize Git as a tool for project collaboration and personal organization, allowing Git to be integrated into your own projects & tasks no matter the programming language or IDE. Participants will see a lesson progression for developing understanding with Git & GitHub, including several Unplugged lesson ideas that can be done without computers. He'll also share his own journey through introducing Git to students, including pitfalls and strategies to avoid. Ultimately, even though Git is an industry standard tool for developers, Jeff doesn't think this should be the only reason for students to learn it; his goal is to describe strategies & resources that can motivate all students to see GitHub as a useful tool in their own journey through computer science, even if this doesn't lead directly into a career in software development."
-#  - name: "Google, Inc."
-#    image: google-200.png
-#    link: "https://edu.google.com/code-with-google/"
-#    sessions:
-#    - title: "Speed Dating with Google Cloud"
-#      day: Thursday, March 11
-#      time: 3:00 PM (ET)
-#      presenters: Laurie White
-#      description: "Are you interested in learning more about Google Cloud and its programs but not ready for a serious 4-hour commitment to your terminal?  Then this ''workshop'' might just be a perfect match for you.  Instead of a single-focused event training, this workshop will be divided into numerous smaller blocks of discrete information sessions, covering everything from a description of the programs available, materials for classes, reports from specific classes, an exploration of some of our public data sets, and more.  Registrants are encouraged to drop in for the sessions that are most appropriate for them. A full schedule of sessions will be provided to registrants."
-#    - title: "Artificial Intelligence and Real Justice"
-#      day: Sunday, March 14
-#      time: 8:00 PM (ET)
-#      presenters: "Kamau Bobb (Moderator - Google); Panelists: Ayanna Howard & Safiya Noble"
-#      description: "As we near the end of the first quarter of the 21st century, artificial intelligence and machine learning are quietly sitting right at the intersection of the technical and social frontier. Facing 20th century biases being transformed into 21st century realities through these new technologies, AI and ML are an especially complex duo right at the nexus of science, ethics and justice. Fundamental questions arise here - what do students need to know to be effective guardians of fairness and justice in these fields? what are the fields that ought to be engaged beyond computation itself? how are communities armed to even understand the implications and embedded nature of these systems into our daily lives? This session brings together thought leaders who are grappling with this dilemma with the goal of moving the discussion beyond whether AI and ML are biased and whose fault it may be, to understanding how we engage at this new frontier as both educators and citizens."
-#    - title: "How Google Supports and Uses CS Education Research"
-#      day: Monday, March 15
-#      time: 3:00 PM (ET) - 4:15 PM (ET)
-#      presenters: Chris Stephenson (Google); Stephanie Marken (Gallup); Sloan Davis (Google); Sepi Moghadam (Google); Kyle Jennings (Google)
-#      description: "Over the last few years, much work has been done by the CS education community to support and conduct rigorous education research that enables a greater understanding of how CS is best taught and learned. Given that post-secondary CS programs are operating significantly beyond capacity, and that many states are mandating CS for all K–12 students, our relatively small body of rigorous research is impinging on our capacity to best serve an increasing number of students.  This session focuses on how Google is supporting the growth of the CS research community and applying new standards and practices to its own programs. Attendees will learn about several programs that provide funding to encourage and support research and grow the future research pipeline as well as how Google conducts and uses education research to evaluate and improve its programs."
-#    - title: "Faculty Experiences Teaching Cloud Computing"
-#      day: Tuesday, March 16
-#      time: 6:45 PM (ET) - 8:00 PM (ET)
-#      presenters: Erik Fredericks (Grand Valley State University); Mark Hills (East Carolina University); Mary Beth Moore (Potomac State College); Alex 'Casper' Cline (Ada National College for Digital Skills); Wu-chang Feng (Portland State University); Moderator - Laurie White (Mercer University)
-#      description: "Come hear a group of faculty who have been teaching with Google Cloud discuss their successes, challenges, and how they've integrated cloud computing into their existing classes and created new courses with the cloud."
- - name: "Microsoft"
-   image: microsoft-200.png
-   link: "https://www.microsoft.com/en-us/education/higher-education/default.aspx"
+  - name: "GitHub Education"
+    image: github-200.png
+    link: "https://education.github.com/"
+  - name: "Google, Inc."
+    image: google-200.png
+    link: "https://edu.google.com/code-with-google/"
+  - name: "Microsoft"
+    image: microsoft-200.png
+    link: "https://www.microsoft.com/en-us/education/higher-education/default.aspx"
 #    sessions:
 #    - title: "Introduction to Microsoft Azure Cloud (On-Demand Video)"
 #      day: Monday, March 8
