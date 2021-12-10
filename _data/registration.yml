@@ -28,7 +28,7 @@ rates:
       early: $100
       regular: $100
       day-of: $100
-  "Non-SIGCSE Members":
+  "Non-Members":
     "Regular Rate":
       early: $500
       regular: $575
@@ -62,9 +62,15 @@ dates:
   regular: Feb 3 - Feb 18 (ET) 
   day-of: Feb 19 - Mar 5 (ET)
 workshoprates:
-  early: $70
-  regular: $95
-  day-of: $100
+  "In-Person":
+    early: $70
+    regular: $95
+    day-of: $100
+  "Virtual":
+    early: $30
+    regular: $30
+    day-of: $30
+
   #registration_button:
   #url: /attendees
   #text: Post-Conference Access

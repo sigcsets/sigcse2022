@@ -144,7 +144,7 @@
   "Kids' Camp":
     email: kidscamp@sigcse2022.org
     members:
-      - name: Karen Arlien
+      - name: Elana Reiser
         inst: Bismarck State College
 
       - name: Victoria Hong
@@ -180,7 +180,7 @@
         inst: St. Paul Academy and Summit School
 
       - name: Scheila Martins
-        inst: University of Houston-Victoria
+        inst: Independent
 
   "Social and Board Games":
     email: boardgames@sigcse2022.org
@@ -239,6 +239,8 @@
     members:
       - name: Scott McElfresh
         inst: Christopher Newport University
+      - name: Deepti Joshi
+        inst: The Citadel
 
 
   "Web and Data":

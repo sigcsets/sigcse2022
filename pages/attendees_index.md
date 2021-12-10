@@ -75,7 +75,7 @@ The SIGCSE TS 2022 organizing committee is excited to offer options for particip
 {% for rate_category in site.data.virtualRegistration.virtual %}
   <h3>{{ rate_category[0] }}</h3>
   <table width="100%" class="multibody">
-    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtual.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtual.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.virtual.dates.day-of}}</th></tr>
+    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtualRegistration.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtualRegistration.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.virtualRegistration.dates.day-of}}</th></tr>
     <tbody>
     {% for rate_type in rate_category[1] %}
       <tr><td width="50%">{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].regular }}</td><td>{{ rate_type[1].day-of }}</td></tr>
@@ -88,10 +88,24 @@ The SIGCSE TS 2022 organizing committee is excited to offer options for particip
 * _Student registration rates are for full-time students only. Please bring evidence of full-time student status to the conference._    
 * _The Exhibits Only registration rates grant access ONLY to the exhibit hall, supporter sessions, and selected Affiliated Events.  Such participants will NOT have access to any other content from the Technical Symposium with this type of registration, including keynotes, technical sessions, workshops, Birds-of-a-Feather, and others.  Presenters cannot choose this category._
 
+# Workshops
+  <table width="100%" class="multibody">
+    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtualRegistration.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtualRegistration.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.virtualRegistration.dates.day-of}}</th></tr>
+    <tbody>
+    {% for rate_type in site.data.registration.workshoprates %}
+      <tr><td width="50%">{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].regular }}</td><td>{{ rate_type[1].day-of }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+* _All registration rates are in US$._    
+  
+
+<!--
 ## Health and Safety
 The ACM SIGCSE TS 2022 committee is commited to providing our community with a conference that supports virtual and in-person participation.  As the registration dates get closer, we will provide details on the platform for virtual attendees and what to expect if traveling to Providence.
 
 Please know that we will adhere to ACM, ACM SIGCSE, [CDC](https://www.cdc.gov/coronavirus/2019-ncov/your-health/gatherings.html) and [Rhode Island Convention Center](https://www.riconvention.com/attend-an-event/covid-19-event-updates) recommendations, guidelines, and health protocols. In particular, the SIGCSE Board is requiring all in-person attendees at the SIGCSE Technical Symposium 2022 in Providence, RI, USA, to show proof of full vaccination. They are not allowing exemptions at this time because there are opportunities for attendees to participate remotely.
+-->
 
 ## Visas
 <p><strong>Letters from ACM in support of visa applications:</strong></p><p>ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. For visa support letters, please send all requests to supportletters@acm.org with the following information.</p>

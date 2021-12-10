@@ -20,7 +20,7 @@ virtual:
       early: $150
       regular: $200
       day-of: $250
-  "Non-SIGCSE Members":
+  "Non-Members":
     "Regular Rate":
       early: $200
       regular: $250
