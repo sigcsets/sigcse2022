@@ -1,13 +1,13 @@
 ﻿blocks:
   - block: 1
-    day: Saturday, March 13
-    time: 9:00 AM-12:00 PM (ET)
+    day: Wednesday, March 2
+    time: 7:00 PM-10:00 PM (ET)
   - block: 2
-    day: Saturday, March 13
-    time: 1:00 PM-4:00 PM (ET)
+    day: Friday, March 4
+    time: 7:00 PM-10:00 PM (ET)
   - block: 3
-    day: Sunday, March 14
-    time: 1:00 PM-4:00 PM (ET)
+    day: Saturday, March 5
+    time: 3:00 PM-6:00 PM (ET)
 
 
 workshops:
