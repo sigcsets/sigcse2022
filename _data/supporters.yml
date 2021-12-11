@@ -93,6 +93,11 @@ Silver:
 - name: CodeGrade
   image: codegrade-200.png
   link: "https://codegrade.com/"
+
+- name: "Pearson"
+  image: pearson-200.png
+  link: "https://pearson.com/"
+
 #    sessions:
 #    - title: "Autograding with Ease, Transitioning from Manual to Automatic Grading in Programming Courses"
 #      day: Tuesday, March 16
@@ -155,9 +160,6 @@ Bronze:
 #  - name: "Oracle for Research"
 #    image: oracle-200.png
 #    link: "https://www.oracle.com/oracle-for-research/?source=:ex:sn:::::SIGCSE2021&SC=:ex:sn:::::SIGCSE2021&pcode="
-#  - name: "Pearson"
-#    image: pearson-200.png
-#    link: "https://pearson.com/"
 #    sessions:
 #    - title: "Online and Hybrid Learning with Revel, Introduction to Programming with market-leading Authors: Tony Gaddis and Y. Daniel Liang"
 #      supporter: Pearson
