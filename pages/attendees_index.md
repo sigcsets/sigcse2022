@@ -137,8 +137,7 @@ Please make checks payable to ACM/SIGCSE with the memo "The SIGCSE Travel Grant 
 Coming soon.
 
 ## KidsCamp
-Coming soon.
-
+We will be offering KidsCamp, onsite in the Omni Hotel.  The contract is still being negotiated.  If you are interested in reserving a spot in KidsCamp, then please email kidscamp@sigcse2022.org.  We will email you as soon as you can sign up!
 
 
 <!-- 
