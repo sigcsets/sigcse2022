@@ -6,6 +6,8 @@ permalink: "/health/"
 sidebar: health
 ---
 
+Current as of: December 17, 2021
+
 ## SIGCSE TS 2022 Is Planning for an In-Person Event & Remote Participation
 
 The SIGCSE TS 2022 committee is dedicated to providing the community with the best possible conference experience for all participants. SIGCSE TS 2022 continues to plan to meet in person March 2-5, 2022 in Providence, RI, USA. For those who may be unable to travel to Providence, please watch for the Remote Participation FAQ and review the SIGCSE TS 2022 Registration page for the most up to date information.
@@ -18,9 +20,9 @@ The health and safety of the SIGCSE TS 2022 family — participants and voluntee
 
 #### Proof of Vaccination
 
-SIGCSE TS 2022 will require all in-person attendees, exhibitors, volunteers, and SIGCSE TS 2022 staff to show proof of full vaccination. You are considered fully vaccinated 14 days after the last dose in your vaccine series. In order to pick up your registration badge, you must provide proof of COVID-19 vaccination from one of the FDA or World Health Organization (WHO) approved vaccines.  
+SIGCSE TS 2022 will require all in-person attendees, exhibitors, volunteers, and SIGCSE TS 2022 staff to show proof of full vaccination. You are considered fully vaccinated 14 days after the last dose in your vaccine series. In order to pick up your registration badge, you must provide proof of COVID-19 vaccination from one of the United States Food and Drug Administration (FDA) or World Health Organization (WHO) approved vaccines.  
 
-#### Additional Protocols (subject to change)
+#### Additional Protocols
 
 __Face Coverings:__ The CDC currently recommends wearing a mask indoors in public if in an area of substantial or high transmission.
 
@@ -55,9 +57,9 @@ __Do I have to pay to have my vaccination status validated?__
 There will be no cost to SIGCSE TS 2022 participants associated with the vaccine verification process.
 
 __Will there be a mask requirement at SIGCSE TS 2022?__
-The CDC currently recommends wearing a mask indoors in public if in an area of substantial or high transmission.. SIGCSE TS 2022 will continue to monitor requirements set by local government as well as guidelines from the CDC. A decision on mask requirements will be made closer to the start of SIGCSE TS 2022.
+The CDC currently recommends wearing a mask indoors in public if in an area of substantial or high transmission. SIGCSE TS 2022 will continue to monitor requirements set by local government as well as guidelines from the CDC. A decision on mask requirements will be made closer to the start of SIGCSE TS 2022.
 
-__How will SC support social distancing at the conference?__
+__How will TS 2022 support social distancing at the conference?__
 All meeting rooms will include options for social distancing. All SIGCSE TS 2022 participants, including exhibitors, are asked to follow rules and local guidance with respect to social distancing.
 
 __What are the entry requirements for all special events, including the keynote and the receptions?__
@@ -65,5 +67,3 @@ Entry requirements will apply across all SIGCSE TS 2022-hosted events. This incl
 
 __What other measures is SIGCSE TS 2022 taking to ensure a safe conference?__
 Up until and through SIGCSE TS 2022, this page will contain the most up to date information on the safety protocols being followed for the conference. We will continue to look at ways to enhance our health and safety measures as needed.
-
-Last updated: December 17, 2021
