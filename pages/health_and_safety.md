@@ -6,21 +6,21 @@ permalink: "/health/"
 sidebar: health
 ---
 
-# SIGCSE TS 2022 Is Planning for an In-Person Event & Remote Participation
+## SIGCSE TS 2022 Is Planning for an In-Person Event & Remote Participation
 
 The SIGCSE TS 2022 committee is dedicated to providing the community with the best possible conference experience for all participants. SIGCSE TS 2022 continues to plan to meet in person March 2-5, 2022 in Providence, RI, USA. For those who may be unable to travel to Providence, please watch for the Remote Participation FAQ and review the SIGCSE TS 2022 Registration page for the most up to date information.
 
 We are working to produce an event that will be every bit as creative, inspiring, and meaningful as past SIGCSE Technical Symposia — whether you choose to participate in-person or remotely. We appreciate your support, and look forward to seeing you in March.
 
-## On-Site Safety Protocols
+### On-Site Safety Protocols
 
 The health and safety of the SIGCSE TS 2022 family — participants and volunteers alike — remains a top priority. With a focus on coming together safely this March, we will be implementing the safety protocols below for all in-person attendees. These are based on the policies and recommendations of the World Health Organization (WHO), the U.S. Center for Disease Control (CDC) (e.g., https://www.cdc.gov/coronavirus/2019-ncov/vaccines/fully-vaccinated-guidance.html) as well as those of the state of Rhode Island (https://covid.ri.gov/).
 
-### Proof of Vaccination
+#### Proof of Vaccination
 
 SIGCSE TS 2022 will require all in-person attendees, exhibitors, volunteers, and SIGCSE TS 2022 staff to show proof of full vaccination. You are considered fully vaccinated 14 days after the last dose in your vaccine series. In order to pick up your registration badge, you must provide proof of COVID-19 vaccination from one of the FDA or World Health Organization (WHO) approved vaccines.  
 
-### Additional Protocols (subject to change)
+#### Additional Protocols (subject to change)
 
 __Face Coverings:__ The CDC currently recommends wearing a mask indoors in public if in an area of substantial or high transmission.
 
@@ -32,13 +32,13 @@ __Hygiene:__ Throughout the Rhode Island Convention Center multiple non-contact 
 
 __Cleaning:__ Prior to every event, trained staff will follow CDC and local guidelines on the cleaning and disinfecting of all areas including touch points (handrails, seats, restrooms, etc.). The Environmental Hygiene program was developed with guidance from CDC, NHS, PHAA, WHO and experts in hygiene.
     
-## Before You Travel
+### Before You Travel
 
 We will continue to closely monitor specific travel advisories through official channels, which include WHO and the CDC, as well as safety guidelines at the local and state levels.
 
 Before traveling to the conference, we recommend that you stay informed of any information your local health agencies may make available and take reasonable precautions to protect yourself. SIGCSE TS 2022 continues to closely monitor this dynamic situation and will provide updates with any developments and reserves the right to make changes as needed.
 
-## Frequently Asked Questions
+### Frequently Asked Questions
 __Will SIGCSE TS 2022 honor any vaccine exemptions for medical or religious reasons or consider a negative COVID test in lieu of proof of vaccination?__
 SIGCSE TS 2022 is requiring vaccine verification to participate in-person and will not provide any exemptions or accept a negative COVID test in lieu of proof of vaccination. Those who are unable to provide proof of vaccination are encouraged to participate remotely.
 
