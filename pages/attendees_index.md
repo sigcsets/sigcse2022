@@ -141,7 +141,7 @@ search for other attendees wanting to share rooms.  The database is an informati
 This database stores your information, whether you have a hotel room or not, and then allows you to search for a roommate.  Once you and a roommate agree to share,  please fill out the form filled to you to be removed from the active list of roommate seekers.
 
 ## KidsCamp
-We will be offering KidsCamp, onsite in the Omni Hotel.  You can [sign up for KidsCamp here](www.accentregister.com/register/sigcse22).
+We will be offering KidsCamp, onsite in the Omni Hotel.  You can [sign up for KidsCamp here](https://www.accentregister.com/register/sigcse22).
 
 
 <!-- 
