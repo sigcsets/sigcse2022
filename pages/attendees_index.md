@@ -98,6 +98,8 @@ The SIGCSE TS 2022 organizing committee is excited to offer options for particip
     </tbody>
   </table>
 * _All registration rates are in US$._    
+
+To see what workshops are being offered, you can look at the [list of workshops](https://sigcse2022.sigcse.org/schedule/workshops/).
   
 
 <!--
@@ -134,10 +136,12 @@ Please make checks payable to ACM/SIGCSE with the memo "The SIGCSE Travel Grant 
 -->
 
 ## Roommate Database
-Coming soon.
+The [SIGCSE TS 2022 Roommate Finder](https://app.miniextensions.com/form/HQQb5whwEXxH4RqmnHcp) database's purpose is to allow SIGCSE attendees to 
+search for other attendees wanting to share rooms.  The database is an information resources only, the rest is up to you.
+This database stores your information, whether you have a hotel room or not, and then allows you to search for a roommate.  Once you and a roommate agree to share,  please fill out the form filled to you to be removed from the active list of roommate seekers.
 
 ## KidsCamp
-We will be offering KidsCamp, onsite in the Omni Hotel.  The contract is still being negotiated.  If you are interested in reserving a spot in KidsCamp, then please email kidscamp@sigcse2022.org.  We will email you as soon as you can sign up!
+We will be offering KidsCamp, onsite in the Omni Hotel.  You can [sign up for KidsCamp here](www.accentregister.com/register/sigcse22).
 
 
 <!-- 
