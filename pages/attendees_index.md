@@ -41,6 +41,7 @@ Note that anyone that already has purchased full registration to the 2021 Techni
 <a class="button large radius {{ site.data.registration.registration_button.style }}" href="{{ url }}{{ site.data.registration.registration_button.url }}"{% if site.data.registration.registration_button.url contains 'http' %} target="_blank" {% endif %}>{{ site.data.registration.registration_button.text }}</a>
 -->
 ## Hotel and Travel Information for SIGCSE TS 2022          
+Reserve your room at the 2022 SIGCSE Technical Symposium headquarter hotel, Omni Providence, by February 7th to ensure the SIGCSE discounted rate. The Omni Providence is connected to the Rhode Island Convention Center.  Hotel rooms and rates are based on availability. Be sure to reserve before February 7th to guarantee your room.
 - [Travel Information](https://www.goprovidence.com/sigcse/getting-here/)
 - [Hotel Information](https://www.goprovidence.com/sigcse/hotel-information/)
 
@@ -141,9 +142,7 @@ search for other attendees wanting to share rooms.  The database is an informati
 This database stores your information, whether you have a hotel room or not, and then allows you to search for a roommate.  Once you and a roommate agree to share,  please fill out the form filled to you to be removed from the active list of roommate seekers.
 
 ## KidsCamp
-We will be offering KidsCamp, onsite in the Omni Hotel. SIGCSE TS Kids Camp welcomes children ages 6 months - 12 years. Children participate in age-appropriate activities including arts and crafts projects, active games and much more in a safe, nurturing environment. 
-
-You can [sign up for KidsCamp here](https://www.accentregister.com/register/sigcse22).
+Unfortunately, due to the uncertainty of travel and lack of vaccine availability for children under 5, we are unable to offer Kids' Camp this year.
 
 
 <!-- 
