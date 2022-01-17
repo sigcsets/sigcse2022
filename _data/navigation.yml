@@ -6,9 +6,9 @@
   url: "/policies/"
   side: left
 #
-#- title: "Schedule"
-#  url: /schedule/
-#  side: left
+- title: "Schedule"
+  url: /schedule/
+  side: left
 #
 - title: "Participants"
   url: /participants/

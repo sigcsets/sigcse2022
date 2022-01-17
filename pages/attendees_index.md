@@ -48,6 +48,10 @@ Reserve your room at the 2022 SIGCSE Technical Symposium headquarter hotel, Omni
 
 ## Registering for SIGCSE TS 2022          
 
+<center style="margin-top: -20px; margin-bottom: 20px">
+<h3><a href="https://cvent.me/17lVE2">Registration is now open here.</a></h3>
+</center>
+
 The 53rd ACM Technical Symposium on Computer Science Education Hybrid Event will be held at the [Rhode Island Convention Center](http://www.riconvention.com) and [Omni Providence Hotel](https://www.omnihotels.com/hotels/providence)  in Providence, Rhode Island, USA. 
 
 * Pre-Symposium Affiliated Events: March 2
@@ -102,6 +106,9 @@ The SIGCSE TS 2022 organizing committee is excited to offer options for particip
 
 To see what workshops are being offered, you can look at the [list of workshops](https://sigcse2022.sigcse.org/schedule/workshops/).
   
+
+## Hybrid Experience
+Program content will be delivered in a hybrid modality, with the virtual component hosted on Pathable. Specifically, presenters may participate either in-person or remotely. Selected presentations will be live-streamed to remote participants, including the keynote addresses, panels, special sessions, and nifty assignments. All papers, lightning talks, demos, and posters will have a pre-recorded video on the online platform. Authors of in-person presentations that are not live-streamed will be online at specific times in the Authors’ Corner, where they will be available to discuss their work.
 
 <!--
 ## Health and Safety

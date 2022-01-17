@@ -8,16 +8,14 @@ layout: frontpage
 header:
   image_fullwidth: sigcse2021-logo-header.png
 #widget1:
-#  title: Call For Participation
-#  url: '/assets/pdf/cfp.pdf'
+#  title: Registration is open!
+#  url: '/participants#registering-for-sigcse-ts-2022'
 #  #image: logo.png
 #  text: >
-#    See the Call for Participation for more information on submitting to SIGCSE TS 2022!
-#    In person and virtual presentations welcome!
 widget1:
-  title: "Submit to SIGCSE TS!"
-  url: '/authors'
-  text: 'See the Call for Participation for more information on submitting to SIGCSE TS 2022!'
+  title: Registration is open!
+  url: '/participants#registering-for-sigcse-ts-2022'
+  text: 'Registration for SIGCSE TS is now open! You can see details on the participants page!'
   image: ribbons-widget.png
   style: alert
 widget2:
