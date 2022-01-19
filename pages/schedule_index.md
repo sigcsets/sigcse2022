@@ -142,24 +142,26 @@ a {
 </style>
 Last update: {{ "now" | date: "%A, %B %d, %Y" }}    
 
-For full details of the program, please download the <a href="assets/pdf/program.pdf">Full Program PDF</a>.
+For full details of the program, please download the <a href="/assets/pdf/program.pdf">Full Program PDF</a>.
 <br>
 For full details about the workshops, please visit the <a href="/schedule/workshops">Workshops Page</a>.
 
 <br>
-1. The following program does not reflect any recent changes where authors have changed their presentation modes, or submission-related information such as title, author names, and affiliations. Such changes will be updated periodically betweeen now and the start of the Technical Symposium.
-2. For each entry, there are day, time, and room assigned. The day and time assignments should be correct and final, whereas the room assignment process is still on-going.
+1. All times shown are Eastern Standard Time (EST).
+2. All rooms shown are in the Rhode Island Convention Center unless otherwise indicated.
+3. The following program does not reflect any recent changes where authors have changed their presentation modes, or submission-related information such as title, author names, and affiliations. Such changes will be updated periodically betweeen now and the start of the Technical Symposium.
+4. For each entry, there are day, time, and room assigned. The day and time assignments should be correct and final, whereas the room assignment process is still on-going.
 
 We thank you for your patience with us as we nagivate the complexities associated with the hybrid design of this conference while adjusting to the evolving pandemic situation.
-If you have any questions, please do not hesitate to contact the Program Co-Chairs (Judy, Leen-Kiat, and Brian) at program@sigcse2022.org.
+If you have any questions, please do not hesitate to contact the Program Co-Chairs (Judy, Leen-Kiat, and Brian) at <a href="mailto:program@sigcse2022.org">program@sigcse2022.org</a>.
 
 {% assign day = "Wednesday" %}
-<div class="block_header">{{day}}</div>
+<div class="block_header">{{day}}, March 2</div>
 {% for session in site.data.program[day] %}
 <div class="element-item card" style="width: 100%">
   <div class="container">
     <h3>{{session.name}}</h3>
-    <span class="alert-box">{{day}} / {{ session.time }} in {{ session.room}} </span>
+    <span class="alert-box">{{day}} March 2 / {{ session.time }} in {{ session.room}} </span>
         {% for submission in session.subsessions %}
             <strong>{{submission}}</strong><br>
         {% endfor %}
@@ -168,12 +170,12 @@ If you have any questions, please do not hesitate to contact the Program Co-Chai
 {% endfor %}
 
 {% assign day = "Thursday" %}
-<div class="block_header">{{day}}</div>
+<div class="block_header">{{day}}, March 3</div>
 {% for session in site.data.program[day] %}
 <div class="element-item card" style="width: 100%">
   <div class="container">
     <h3>{{session.name}}</h3>
-    <span class="alert-box">{{day}} / {{ session.time }} in {{ session.room}} </span>
+    <span class="alert-box">{{day}}, March 3 / {{ session.time }} in {{ session.room}} </span>
         {% for submission in session.subsessions %}
             <strong>{{submission}}</strong><br>
         {% endfor %}
@@ -182,12 +184,12 @@ If you have any questions, please do not hesitate to contact the Program Co-Chai
 {% endfor %}
 
 {% assign day = "Friday" %}
-<div class="block_header">{{day}}</div>
+<div class="block_header">{{day}}, March 4</div>
 {% for session in site.data.program[day] %}
 <div class="element-item card" style="width: 100%">
   <div class="container">
     <h3>{{session.name}}</h3>
-    <span class="alert-box">{{day}} / {{ session.time }} in {{ session.room}} </span>
+    <span class="alert-box">{{day}}, March 4 / {{ session.time }} in {{ session.room}} </span>
         {% for submission in session.subsessions %}
             <strong>{{submission}}</strong><br>
         {% endfor %}
@@ -196,12 +198,12 @@ If you have any questions, please do not hesitate to contact the Program Co-Chai
 {% endfor %}
 
 {% assign day = "Saturday" %}
-<div class="block_header">{{day}}</div>
+<div class="block_header">{{day}}, March 5</div>
 {% for session in site.data.program[day] %}
 <div class="element-item card" style="width: 100%">
   <div class="container">
     <h3>{{session.name}}</h3>
-    <span class="alert-box">{{day}} / {{ session.time }} in {{ session.room}} </span>
+    <span class="alert-box">{{day}}, March 5 / {{ session.time }} in {{ session.room}} </span>
         {% for submission in session.subsessions %}
             <strong>{{submission}}</strong><br>
         {% endfor %}

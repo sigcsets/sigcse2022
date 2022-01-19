@@ -98,6 +98,16 @@ Silver:
   image: pearson-200.png
   link: "https://pearson.com/"
 
+- name: "Coding Rooms"
+  image: codingrooms.png
+  link: "https://www.codingrooms.com/"
+
+- name: "MongoDB"
+  image: mongodb.png
+  link: "https://www.mongodb.com/"
+
+
+
 #    sessions:
 #    - title: "Autograding with Ease, Transitioning from Manual to Automatic Grading in Programming Courses"
 #      day: Tuesday, March 16
