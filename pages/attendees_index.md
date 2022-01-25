@@ -110,6 +110,11 @@ To see what workshops are being offered, you can look at the [list of workshops]
 ## Hybrid Experience
 Program content will be delivered in a hybrid modality, with the virtual component hosted on Pathable. Specifically, presenters may participate either in-person or remotely. Selected presentations will be live-streamed to remote participants, including the keynote addresses, panels, special sessions, and nifty assignments. All papers, lightning talks, demos, and posters will have a pre-recorded video on the online platform. Authors of in-person presentations that are not live-streamed will be online at specific times in the Authors’ Corner, where they will be available to discuss their work.
 
+## On-Site Student Volunteers 
+
+Student volunteers are an important part of the SIGCSE Symposium and have been for many years. Student volunteers are on-site attendees attending the physical conference who are full-time undergraduate or graduate students. Each volunteer works for 9 hours (or less, as assigned), helping with various conference management activities. You'll interact with the conference organizers and presenters and will meet other students from all over the world. [More information about the experience, the benefits, and how to sign up are provided here](/participants/studentvolunteers).
+
+
 <!--
 ## Health and Safety
 The ACM SIGCSE TS 2022 committee is commited to providing our community with a conference that supports virtual and in-person participation.  As the registration dates get closer, we will provide details on the platform for virtual attendees and what to expect if traveling to Providence.

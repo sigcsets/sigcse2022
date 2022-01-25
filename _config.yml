@@ -51,6 +51,8 @@ collections:
         output: true
     registration:
         output: true
+    participants:
+        output: true
 
 
 # Logo size is 600x80 pixels

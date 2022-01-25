@@ -153,72 +153,23 @@ For full details about the workshops, please visit the <a href="/schedule/worksh
 We thank you for your patience with us as we navigate the complexities associated with the hybrid design of this conference while adjusting to the evolving pandemic situation.
 If you have any questions, please do not hesitate to contact the Program Co-Chairs (Judy, Leen-Kiat, and Brian) at <a href="mailto:program@sigcse2022.org">program@sigcse2022.org</a>.
 
-{% assign day = "Wednesday" %}
-<div class="block_header">{{day}}, March 2</div>
-{% for session in site.data.program[day] %}
+{% for day in site.data.program2['days'] %}
+<div class="block_header">{{day.name}}</div>
+{% for session in site.data.program2['sessions'] %}
+{% if day.day == session.day %}
 <div class="element-item card" style="width: 100%">
   <div class="container">
-    <h3>{{session.name}}</h3>
-    <span class="alert-box">{{day}} March 2 / {{ session.time }} in {{ session.room}} </span>
+    <h3>{{session.title}}</h3>
+    <span class="alert-box" style="color: black; background-color: none">{{day.name}} / {{ session.start }} - {{ session.end }}{% if session.subsessions == null %} in {{ session.location }} {% endif %}</span>
+    {% if session.subsessions == null %}
+    <p>{{session.presenters}}</p>
+    {% endif %}
         {% for submission in session.subsessions %}
-            <strong>{{submission}}</strong><br>
+            <strong>{{submission.title}} in {{ submission.location }}</strong><br>
+            {{submission.presenters}}<br><br>
         {% endfor %}
   </div>
 </div> 
+{% endif %}
 {% endfor %}
-
-{% assign day = "Thursday" %}
-<div class="block_header">{{day}}, March 3</div>
-{% for session in site.data.program[day] %}
-<div class="element-item card" style="width: 100%">
-  <div class="container">
-    <h3>{{session.name}}</h3>
-    <span class="alert-box">{{day}}, March 3 / {{ session.time }} in {{ session.room}} </span>
-        {% for submission in session.subsessions %}
-            <strong>{{submission}}</strong><br>
-        {% endfor %}
-  </div>
-</div> 
-{% endfor %}
-
-{% assign day = "Friday" %}
-<div class="block_header">{{day}}, March 4</div>
-{% for session in site.data.program[day] %}
-<div class="element-item card" style="width: 100%">
-  <div class="container">
-    <h3>{{session.name}}</h3>
-    <span class="alert-box">{{day}}, March 4 / {{ session.time }} in {{ session.room}} </span>
-        {% for submission in session.subsessions %}
-            <strong>{{submission}}</strong><br>
-        {% endfor %}
-  </div>
-</div> 
-{% endfor %}
-
-{% assign day = "Saturday" %}
-<div class="block_header">{{day}}, March 5</div>
-{% for session in site.data.program[day] %}
-<div class="element-item card" style="width: 100%">
-  <div class="container">
-    <h3>{{session.name}}</h3>
-    <span class="alert-box">{{day}}, March 5 / {{ session.time }} in {{ session.room}} </span>
-        {% for submission in session.subsessions %}
-            <strong>{{submission}}</strong><br>
-        {% endfor %}
-  </div>
-</div> 
-{% endfor %}
-
-{% assign day = "TBD" %}
-<div class="block_header">{{day}}</div>
-{% for session in site.data.program[day] %}
-<div class="element-item card" style="width: 100%">
-  <div class="container">
-    <h3>{{session.name}}</h3>
-    <span class="alert-box">{{day}} / {{ session.time }} in {{ session.room}} </span>
-        {% for submission in session.subsessions %}
-            <strong>{{submission}}</strong><br>
-        {% endfor %}
-  </div>
-</div> 
 {% endfor %}
