@@ -160,7 +160,7 @@ If you have any questions, please do not hesitate to contact the Program Co-Chai
 <div class="element-item card" style="width: 100%">
   <div class="container">
     <h3>{{session.title}}</h3>
-    <span class="alert-box" style="color: black; background-color: none">{{day.name}} / {{ session.start }} - {{ session.end }}{% if session.subsessions == null %} in {{ session.location }} {% endif %}</span>
+    <span class="alert-box" style="color: black; background: none">{{day.name}} / {{ session.start }} - {{ session.end }}{% if session.subsessions == null %} in {{ session.location }} {% endif %}</span>
     {% if session.subsessions == null %}
     <p>{{session.presenters}}</p>
     {% endif %}
