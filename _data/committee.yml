@@ -7,9 +7,6 @@
     - name: Larry Merkle
       inst: Air Force Institute of Technology
 
-    - name: Kristin Stephens-Martinez (Virtual)
-      inst: Duke University
-
 
 "Program Co-Chairs":
   email: program@sigcse2022.org
@@ -22,6 +19,22 @@
 
     - name: Brian Dorn
       inst: University of Nebraska at Omaha
+
+"Hybrid Experience Chair":
+  email: virtual@sigcse2022.org
+  members:
+    - name: Kristin Stephens-Martinez
+      inst: Duke University
+
+
+###################
+
+"Symposium Photographer":
+  email: admin@coleimage.com
+  members:
+    - name: Cole Rodger
+      inst: Cole Rodger Photographics
+
 
 ###################
 
