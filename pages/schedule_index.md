@@ -142,8 +142,8 @@ a {
 </style>
 Last update: {{ "now" | date: "%A, %B %d, %Y" }}    
 
-For full details about the workshops, please visit the <a href="/schedule/workshops">Workshops Page</a>.
-For full details about Affiliated Events, please visit the <a href="/schedule/affiliatedevents">Affiliated Events Page</a>.
+For full details about the Workshops, please visit the <a href="/schedule/workshops">Workshops Page</a>.<br>
+For full details about Affiliated Events, please visit the <a href="/schedule/affiliatedevents">Affiliated Events Page</a>.<br>
 
 <br>
 1. All times shown are Eastern Standard Time (EST).
@@ -161,14 +161,20 @@ If you have any questions, please do not hesitate to contact the Program Co-Chai
 <div class="element-item card" style="width: 100%">
   <div class="container">
     <h3>{{session.title}}</h3>
-    <span class="alert-box" style="color: black; background: none">{{day.name}} / {{ session.start }} - {{ session.end }}{% if session.subsessions == null %} in {{ session.location }} {% endif %}</span>
-    {% if session.subsessions == null %}
-    <p>{{session.presenters}}</p>
+    {{day.name}} / {{ session.start }} - {{ session.end }}<br>
+    {% if session.subsessions == null and session.location %} <i>{{ session.location }}</i><br> {% endif %}
+    {% if session.subsessions == null and session.presenters %}
+    <p>{{session.presenters}}</p><br>
     {% endif %}
+    {% if session.description != null %}{{ session.description }}<br>{% endif %}
+    <br>
+    {% if session.subsessions != null %}
+    <br>
         {% for submission in session.subsessions %}
             <strong>{{submission.title}} in {{ submission.location }}</strong><br>
             {{submission.presenters}}<br><br>
         {% endfor %}
+    {% endif %}
   </div>
 </div> 
 {% endif %}
