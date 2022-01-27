@@ -6,7 +6,7 @@ title: Affiliated Event Schedule
 
 <button onclick="topFunction()" id="toTopButton" title="Go to top">Back to Top</button> 
 
-# Affiliated Events
+
 There are several exciting affiliated events this year; plan your travel so you can take part in these excellent professional development and educational opportunities.
 
 **Please note**, some affiliated events have associated fees.
@@ -20,10 +20,10 @@ There are several exciting affiliated events this year; plan your travel so you 
 - [HFOSS Education](#hfoss_ed)
 
 ### <a id="aspiring_educators"></a> Professional Development Session for New and Aspiring Educators
-. Meghan Allen and Diane Horton
-. Date: 03/02/2022
-. Time: 8:00 AM - 5:30 PM
-. Room: 552 A/B - Rhode Island Convention Center
+ Meghan Allen and Diane Horton  
+ Date: 03/02/2022  
+ Time: 8:00 AM - 5:30 PM  
+ Room: 552 A/B - Rhode Island Convention Center  
 
 A successful career as an educator involves more than a deep understanding of a research area. Even so, many new CS educators experience relatively little training as educators – and face more questions than answers, e.g., How do I find a career path and institution that are right for me? What strategies can I use during the job search and interviewing process to achieve my goals? What tips could help me organize a course, scaffold engaging experiences, and build lasting relationships with students? What practical steps can I take to support equity, diversity, and inclusion in my work?
 The Professional Development Session for New and Aspiring Educators is a pre-symposium event at SIGCSE 2022 that, through presentations, discussions, and small-group community building, will tackle these questions. The session is designed to assist aspiring and early-career educators in exploring the non-research facets of an academic career. It will run on March 2, 2022 in Providence, Rhode Island, USA from 9am to 5pm, and is open to postdocs and graduate students in any year who are considering careers in academia, as well as pre-tenure faculty members and new teaching-track faculty seeking guidance and/or networking support. This session is one of several career-focused, SIGCSE-affiliated events at the 2022 Technical Symposium that have served more than 200 educators over the past decade.
@@ -38,7 +38,7 @@ Requires separate registration, visit their [website](http://www.cs.toronto.edu/
 
 In this session, participants will learn from faculty about how they have integrated accessibility and disability topics into their computer science courses. There are certain courses, such as web or app design and development and human-computer interactions, that should be addressing accessibility because of the human-facing nature of software. Less obvious are courses, such as intro CS, computer vision, natural language processing, data compression, software engineering, and others, that can also have accessibility and disability content. After the presentations, participants will break into small groups to discuss more ways to include these topics into their courses. The contents of the workshop will be documented and be available on the AccessComputing website after the conference.
 
-Visit their [website](hhttps://www.washington.edu/accesscomputing/accesscomputing-workshop-integrating-accessibility-and-disability-computing-curriculum) for more information.
+Visit their [website](https://www.washington.edu/accesscomputing/accesscomputing-workshop-integrating-accessibility-and-disability-computing-curriculum) for more information.
 
 ### <a id="liberal_arts_comp_ed"></a>Innovations and Opportunities in Liberal Arts Computing Education
 . Amanda Holland-Minkley and Grant Braught
@@ -79,7 +79,7 @@ This free and open to all, SIGCAS-sponsored affiliated event (https://www.sigcas
 
 It has been a long standing tradition for employers to complain that CS graduates lack many Day-1 job-readiness skills and for faculty to insist that academic programs should focus on long-lasting foundational material instead of trying to satisfy the multitude of short-term employer needs. If a CS undergraduate program was designed by employers of CS graduates, it would look considerably different from today’s academia-designed programs, as shown in the parallel education computing programs now being offered by several employers. This session asks several questions relevant to CS curricula: Is there a middle ground? Is there a principled approach to addressing the balance? How does one balance foundational concepts with practical skills? How would we know what is effective and what is not? Come join the discussion and participate in a workshop that will not only feature industry panelists but also a hands-on design component.
 
-Visit their [website](www.deapcomp.org/sigcse2022/) for more information.
+Visit their [website](https://www.deacomp.org/sigcse2022/) for more information.
 
 ### <a id="peer_teaching"></a>Peer Teaching Summit 2022
 . Sarah Heckman and others
@@ -89,7 +89,7 @@ Visit their [website](www.deapcomp.org/sigcse2022/) for more information.
 
 The Peer Teaching Summit 2022 will bring together Computer Science (CS) faculty and peer teaching leaders who are seeking resources, tools, and strategies for training and supporting peer teachers for large enrollment CS classes. The Summit will build on the community developed in 2019. Undergraduates can be employed in support of a department's teaching mission to improve student engagement, learning, and retention - particularly among students from groups underrepresented in CS. Summit participants will discuss how their program supports and trains undergraduates as teaching assistants, section leaders, lab assistants, mentors, and tutors. In describing their programs, participants will share best practices, lessons learned, and relevant research. This summit will connect faculty and peer teaching leaders who are interested in brainstorming and sharing tools and strategies for peer teaching programs.
 
-Visit their [website](https://www.peerteaching.org/summit-2022 ) for more information.
+Visit their [website](https://www.peerteaching.org/summit-2022) for more information.
 
 ### <a id="hfoss_ed"></a>HFOSS Education
 . Greg Hislop
