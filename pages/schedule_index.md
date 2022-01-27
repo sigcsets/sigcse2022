@@ -143,6 +143,7 @@ a {
 Last update: {{ "now" | date: "%A, %B %d, %Y" }}    
 
 For full details about the workshops, please visit the <a href="/schedule/workshops">Workshops Page</a>.
+For full details about Affiliated Events, please visit the <a href="/schedule/affiliatedevents">Affiliated Events Page</a>.
 
 <br>
 1. All times shown are Eastern Standard Time (EST).
