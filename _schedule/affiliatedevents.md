@@ -14,7 +14,7 @@ There are several exciting affiliated events this year; plan your travel so you 
 - [Integrating Accessibility and Disability into the Computing Curriculum](#accessibility_disability)
 - [Innovations and Opportunities in Liberal Arts Computing Education](#liberal_arts_comp_ed)
 - [Professional Development Pre-Symposium Event for Teaching-Track Faculty](#teaching_track_faculty)
-- [Dream Big: Addressing Computing for the Social Good in the Computing Curricula](#computing_curricula)
+- "[Dream Big: Addressing Computing for the Social Good in the Computing Curricula](#computing_curricula)
 - [How Should CS Programs Balance First-Job Readiness and Foundations for Long-Term Career Success?](#first_job_readiness)
 - [Peer Teaching Summit 2022](#peer_teaching)
 - [HFOSS Education](#hfoss_ed)
@@ -97,4 +97,4 @@ Visit their [website](https://www.peerteaching.org/summit-2022 ) for more inform
 . Time: 8:30 am - 5:30 pm
 . Room: Naragansett A - Omni
 
-Student participation in Humanitarian Free and Open Source Software (HFOSS) provides an opportunity for learning software engineering technical and professional skills while also engaging students with computing for social good.  Experience indicates that faculty are interested in employing HFOSS but also find this teaching approach challenging, especially at first.  To better support instructors, HFOSS educators are exploring ways to provide better support and control for instructors taking initial steps in using HFOSS with students.
+Student participation in Humanitarian Free and Open Source Software (HFOSS) provides an opportunity for learning software engineering technical and professional skills while also engaging students with computing for social good.  Experience indicates that faculty are interested in employing HFOSS but also find this teaching approach challenging, especially at first.  To better support instructors, HFOSS educators are exploring ways to provide better support and control for instructors taking initial steps in using HFOSS with students. 
