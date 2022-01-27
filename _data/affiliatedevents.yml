@@ -1,47 +1,92 @@
-affiliatedevents:
-  - title: "Innovations and Opportunities in Liberal Arts Computing Education"
-    event: 1
-    day: Monday, March 8 and Tuesday, March 9
-    time: 1:00 PM-4:30 PM (ET) (Two-Day Event)
-    organizers: Amanda Holland-Minkley (Washington & Jefferson College), Janet Davis (Whitman College), Mario Nakazawa (Berea College), Andrea Tartaro (Furman University), Jim Teresco (Siena College)
-    contact: amh@washjeff.edu
-    url: https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/
-    description: "Organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges, this affiliated event will let us share and further develop the work being carried out by three working groups of the Committee as well as support networking and collaboration within the liberal arts computing community. Building on priorities identified at our SIGCSE 2020 Pre-Symposium event, this event will cover three major topics. First, we will continue to discuss uniquely liberal arts approaches to computing curricula through the presentation of selected curricula. Next, we will explore models and best practices for “CS+X” courses, considering what the outcomes should be for such courses in order to take both disciplines into balanced consideration. Finally, we will consider a proposed workshop targeted at PhD candidates and postdocs that presents the realities and benefits of teaching computer science at a liberal arts institution. In all cases, participants will have an opportunity to learn about work already taking place within the liberal arts computing community as well as to engage in Q&A and breakout discussions. The event will conclude with a short business meeting where participants will help identify and define opportunities for the Committee to further support the liberal arts computing education community. All interested faculty and students are welcome."
-    register: Select this event during SIGCSE TS 2021 registration through Cvent.  No additional cost and open to all registered Symposium attendees.  This event can be added on later by editing your registration through Cvent.
-    submissions: Submissions are accepted for this event.  See the event website for more information.
-  - title: "Computing for the Social Good in Education Checkup: A Renewal on Why We Became Educators"
-    event: 2
-    day: Wednesday, March 10
-    time: 1:00 PM-5:00 PM (ET)
-    organizers: Johanna Blumenthal (Regis University), Richard Blumenthal (Regis University), Lisa Kaczmarczyk (Harvey Mudd College), Mikey Goldweber (Xavier University)
-    contact: jblumenthal@regis.edu
-    description: "Computing for the Social Good in Education (CSG-Ed) focuses on the methods for producing computing graduates who are focused on using their computing education towards the benefit of society. In this year's affiliated, we invite our fellow educators to reflect with us upon why we became educators and engage in a rigorous inquiry designed to assess why computing is perceived as a lucrative career choice, but low on the list of providing a means to improve society, especially among women and underrepresented minorities. If this is the perception, then we must ask, \"What are we educators doing that may becontributing or acquiescing to this perception?\" The event will explore this question, as well as, \"How can we shift computing education to change this perception?\" This session will first entail a facilitated exploration of how we, the computing education field, got to this state. The topics will include: the economic pressures on the education sector, how our curricula have influenced student aspirations, and the tension between the need for a liberally educated citizenry and highly focused professional training. We will then transition to a discussion of what actions each of us can take to successfully align the reality of computing education with our aspirational societal goals. Our goal for this affiliated event is that participants will leave with concrete action items they can immediately put into practice."
-    register: Select this event during SIGCSE TS 2021 registration through Cvent.  No additional cost and open to all registered Symposium attendees.  This event can be added on later by editing your registration through Cvent.
-  - title: "Welcoming Students with Disabilities in Online Computer Science Education"
-    event: 3
-    day: Thursday, March 11
-    time: 1:00 PM-5:00 PM (ET)
-    organizers: Sheryl Burgstahler (University of Washington), Terrill Thompson (University of Washington), Brianna Blaser (University of Washington), Richard Ladner (University of Washington)
-    contact: blaser@uw.edu
-    description: "Without explicit consideration to accessibility and universal design, online computer science education is unlikely to be welcoming to students with a variety of disabilities. Join faculty, people with disabilities, and broadening participation experts for a discussion of explicit strategies that faculty and instructors can take in the short-term and in the long-term to increase the accessibility of their computer science courses. This session is sponsored by AccessComputing, an NSF Broadening Participation in Computing Alliance that works to increase the participation of people with disabilities in computing education and careers."
-    url: https://www.washington.edu/accesscomputing/accesscomputing-hosts-affiliated-event-sigcse-welcoming-students-disabilities-online-computer-science-education
-    register: Select this event during SIGCSE TS 2021 registration through Cvent.  No additional cost and open to all registered Symposium attendees.  This event can be added on later by editing your registration through Cvent.
-  - title: "Professional Development Pre-Symposium Event for Teaching-Track Faculty"
-    event: 4
-    day: Friday, March 12
-    time: 1:00 PM-5:00 PM (ET)
-    organizers: Christine Alvarado (University of California San Diego), Susanne Hambrusch (Purdue University), Geoffrey Herman (University of Illinois at Urbana-Champaign), Amy J. Ko (University of Washington), Lori Pollock (University of Delaware)
-    description: "Enrollment in CS courses and programs continues to be high. To meet this increased demand, many Ph.D. granting departments have added or are actively recruiting teaching faculty (typically with academic rank) to their faculty. The half-day event will focus on the professional development of teaching track faculty (professor of practice, instructor, clinical faculty, lecturer, etc.) in Ph.D. granting departments. The event fills a crucial need as many departments have limited experience on how to mentor, evaluate, and promote this type of faculty. The sessions will focus on how teaching faculty can strategize their involvement in departmental as well as research activities, different forms of scholarship and leadership activities to pursue, and best practices for success, promotion, and advancement. Academic leaders involved in supervising and evaluating teaching track faculty will provide their perspective and insights."
-    register: This event is by application only.  The application can be found on the event website linked above. Applicants that are accepted will have this event added to their Pathable schedule after they have registered for the Technical Symposium through Cvent.
-    contact: cjalvarado@eng.ucsd.edu
-    url: https://cra.org/crae/teaching-track-faculty-at-sigcse-2021/
-  - title: "Computing Science Education Infrastructure: From Ideas to Practice - The 7th SPLICE Workshop"
-    event: 5
-    day: Monday, March 15 and Tuesday, March 16
-    time: 10:00am-12:30 PM (ET) (Two-Day Event)
-    organizers: Cliff Shaffer (Virginia Tech), Peter Brusilovsky (University of Pittsburgh), Ken Koedinger (Carnegie Mellon University), Steve Edwards (Virginia Tech)
-    description: "Increasingly, the meat of many CS courses is provided by many interactive, auto-assessed exercises, referred to as \"smart content\". These tools engage students, provide valuable feedback, and allow the collection of data for further analysis. While it remains a challenge to connect these tools to learning management systems (LMS), eTextbooks and IDEs, standards like Learning Tools Interoperability (LTI) make it possible. Interoperability is improving year by year. Collecting, distributing, and analyzing the rapidly growing collections of data generated by click streams coming from such tools is still a major challenge. But progress is being made both in improved analysis tools and in standards for collecting data, like student attempts at solving programming problems This NSF-supported workshop is the third in a series of SIGCSE affiliated events in support of the SPLICE project. The goal of SPLICE is to support and better coordinate efforts to build community and capacity among Computer Science Education (CSEd) researchers, data scientists, and learning scientists toward reducing barriers. CSEd infrastructure should support (1) broader re-use of innovative learning content instrumented for rich data collection, (2) formats and tools for analysis of learner data, and (3) development of best practices to make collections of learner data available to researchers. The organizers and presenters will share progress from ongoing projects and collaborations, attempting to build an agenda for the community to strive for in the coming years."
-    url: https://cssplice.github.io/SIGCSE21Workshop.html
-    contact: pbrusilovsky@gmail.com
-    register: Select this event during SIGCSE TS 2021 registration through Cvent.  No additional cost and open to all registered Symposium attendees.  This event can be added on later by editing your registration through Cvent.
-    submissions: Submissions are accepted for this event.  See the event website for more information.
+# Affiliated Events
+There are several exciting affiliated events this year; plan your travel so you can take part in these excellent professional development and educational opportunities.
+
+**Please note**, some affiliated events have associated fees.
+- [Professional Development Session for New and Aspiring Educators](#aspiring_educators)
+- [Integrating Accessibility and Disability into the Computing Curriculum](#accessibility_disability)
+- [Innovations and Opportunities in Liberal Arts Computing Education](#liberal_arts_comp_ed)
+- [Professional Development Pre-Symposium Event for Teaching-Track Faculty](#teaching_track_faculty)
+- [Dream Big: Addressing Computing for the Social Good in the Computing Curricula](#computing_curricula)
+- [How Should CS Programs Balance First-Job Readiness and Foundations for Long-Term Career Success?](#first_job_readiness)
+- [Peer Teaching Summit 2022](#peer_teaching)
+- [HFOSS Education](#hfoss_ed)
+
+### <a id="aspiring_educators"></a> Professional Development Session for New and Aspiring Educators
+. Meghan Allen and Diane Horton
+. Date: 03/02/2022
+. Time: 8:00 AM - 5:30 PM
+. Room: 552 A/B - Rhode Island Convention Center
+
+A successful career as an educator involves more than a deep understanding of a research area. Even so, many new CS educators experience relatively little training as educators – and face more questions than answers, e.g., How do I find a career path and institution that are right for me? What strategies can I use during the job search and interviewing process to achieve my goals? What tips could help me organize a course, scaffold engaging experiences, and build lasting relationships with students? What practical steps can I take to support equity, diversity, and inclusion in my work?
+The Professional Development Session for New and Aspiring Educators is a pre-symposium event at SIGCSE 2022 that, through presentations, discussions, and small-group community building, will tackle these questions. The session is designed to assist aspiring and early-career educators in exploring the non-research facets of an academic career. It will run on March 2, 2022 in Providence, Rhode Island, USA from 9am to 5pm, and is open to postdocs and graduate students in any year who are considering careers in academia, as well as pre-tenure faculty members and new teaching-track faculty seeking guidance and/or networking support. This session is one of several career-focused, SIGCSE-affiliated events at the 2022 Technical Symposium that have served more than 200 educators over the past decade.
+
+Requires separate registration, visit their [website](http://www.cs.toronto.edu/~dianeh/educator-workshop/) for more information.
+
+### <a id="accessibility_disability"></a>Integrating Accessibility and Disability into the Computing Curriculum
+. Richard Lander, Amy Ko and Kristen Shinohara
+. Date: 03/02/2022
+. Time: 3:30 PM - 6:30 PM
+. Room: Providence II/III - Omni
+
+In this session, participants will learn from faculty about how they have integrated accessibility and disability topics into their computer science courses. There are certain courses, such as web or app design and development and human-computer interactions, that should be addressing accessibility because of the human-facing nature of software. Less obvious are courses, such as intro CS, computer vision, natural language processing, data compression, software engineering, and others, that can also have accessibility and disability content. After the presentations, participants will break into small groups to discuss more ways to include these topics into their courses. The contents of the workshop will be documented and be available on the AccessComputing website after the conference.
+
+Visit their [website](hhttps://www.washington.edu/accesscomputing/accesscomputing-workshop-integrating-accessibility-and-disability-computing-curriculum) for more information.
+
+### <a id="liberal_arts_comp_ed"></a>Innovations and Opportunities in Liberal Arts Computing Education
+. Amanda Holland-Minkley and Grant Braught
+. Date: 03/02/2022
+. Time: 8:30 PM - 5:30 PM
+. Room: 555 A/B - Rhode Island Convention Center
+
+Organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges, this Pre-Symposium event will promote connection and collaboration within the liberal arts computing community. This full day event will be split into two sessions. The first session will focus on innovations in computing education in the liberal arts and may include courses, curricula, co-curricular programs or other elements that reflect a specifically liberal arts perspective. Selected submissions will be presented and discussed at the event and also be added to the Committee’s growing repository of materials. The second session will be held in an “unconference” format, with proposals accepted for working group topics from the community as a whole. Possible topics include but are not limited to course design and assessment for CS+X courses, strategies for recruiting faculty to teach at liberal arts colleges, and course- specific topics such as implementing specifications grading or implementing inclusive teaching practices. Throughout the event, sessions will give participants an opportunity to learn about work already taking place within the liberal arts computing community as well as to engage in Q&A and breakout discussions. All interested faculty and students are welcome.
+
+Visit their [website](https://computing-in-the-liberal-arts.github.io/SIGCSE2022-Affiliated-Event/) for more information.
+
+### <a id="teaching_track_faculty"></a>Professional Development Pre-Symposium Event for Teaching-Track Faculty
+. Geoffrey Herman, Amy Ko, Brandon Myers and Lori Pollock
+. Date: 03/02/2022
+. Time: 8:30 PM - 3:30 PM
+. Room: Narragansett B - Omni
+
+Enrollment in CS courses and programs continues to be high. To meet this increased demand, many Ph.D. granting departments have added or are actively recruiting teaching faculty (typically with academic rank) to their faculty. This whole-day event will focus on the professional development of teaching-track faculty (professor of practice, instructor, clinical faculty, lecturer, etc.) in Ph.D. granting departments. The event fills a crucial need as many departments have limited experience on how to mentor, evaluate, and promote this new type of faculty. The sessions will focus on how teaching faculty can strategize their involvement in departmental as well as research activities, different forms of scholarship and leadership activities to pursue, and best practices for success, promotion, and advancement. Junior and mid-career teaching-track faculty will participate in an “unconference” format. By gathering topics of common interest, attendees will self organize to provide peer mentoring and to collect advice for professional development rather than having pre-planned panels or sessions at the discretion of the organizers.
+
+Visit their [website](https://cra.org/crae/professional-development-workshop-for-teaching-track-faculty-at-sigcse-2022/) for more information.
+
+### <a id="computing_curricula"></a>Dream Big: Addressing Computing for the Social Good in the Computing Curricula
+. Mikey Goldweber, Lisa Kaczmarczyk, Rick Blumenthal and Johanna Blumenthal
+. Date: 03/02/2022
+. Time: 1:00 PM - 5:00 PM
+. Room: Providence I/IV - Omni
+
+Computing for the Social Good in Education (CSG-Ed) deals with methods for producing computing graduates who are focused on using their computing education towards the benefit of society. We invite participants to discuss how they would reimagine their insti- tution’s and general computing curriculum, if they were supreme, magic wand wielding, curricular overlords.
+Currently, computing is perceived as a practical means to ensure a livelihood, but often overlooked as a path for empowering the disadvantaged and raising the quality of life for all. Furthermore, the numerous headlines exemplifying computing by the elite and for the elite at the expense of everyone else, or, stated differently, examples of technology companies shirking any responsibility to remedy the unintended harmful consequences of their products, pushes a view of computing that is a self-serving one. The view being that those making the technology get rich doing it, leave everyone else behind and do not care about those left behind or harmed by their products. This prevailing, and somewhat bleak, perception of computing’s impact on society is not the whole picture. Yet, such a climate can impact students’ choice of major, how they view their own field and the choices they make as a professional after they graduate. How are our computing curricula perpetuating the current perceptions of computing, acquiescing to this perception or working to expand the view of what computing can do for society? Are we combating the false dichotomy and showing students that they can have a successful career without exploiting anyone and do so while using their computing skills to benefit society?
+We give you a magic wand; what does your new computing curriculum look like?
+This free and open to all, SIGCAS-sponsored affiliated event (https://www.sigcas.org/csged/) will explore this question through prepared presentations, group activities, and the sharing of pro- posals among the participants and hopefully the larger computing education community. Our shared intent is to shape the next gen- eration of computing curricula, such as the upcoming Computer Science Curricula 202X report (https://csed.hosting.acm.org/)
+
+### <a id="first_job_readiness"></a>How Should CS Programs Balance First-Job Readiness and Foundations for Long-Term Career Success?
+. Mikey Goldweber, Lisa Kaczmarczyk, Rick Blumenthal and Johanna Blumenthal
+. Date: 03/02/2022
+. Time: 8:00 am - 3:00 pm
+. Room: Virtual
+
+It has been a long standing tradition for employers to complain that CS graduates lack many Day-1 job-readiness skills and for faculty to insist that academic programs should focus on long-lasting foundational material instead of trying to satisfy the multitude of short-term employer needs. If a CS undergraduate program was designed by employers of CS graduates, it would look considerably different from today’s academia-designed programs, as shown in the parallel education computing programs now being offered by several employers. This session asks several questions relevant to CS curricula: Is there a middle ground? Is there a principled approach to addressing the balance? How does one balance foundational concepts with practical skills? How would we know what is effective and what is not? Come join the discussion and participate in a workshop that will not only feature industry panelists but also a hands-on design component.
+
+Visit their [website](www.deapcomp.org/sigcse2022/) for more information.
+
+### <a id="peer_teaching"></a>Peer Teaching Summit 2022
+. Sarah Heckman and others
+. Date: 03/02/2022
+. Time: TBD
+. Room: 556 A/B – Rhode Island Convention Center
+
+The Peer Teaching Summit 2022 will bring together Computer Science (CS) faculty and peer teaching leaders who are seeking resources, tools, and strategies for training and supporting peer teachers for large enrollment CS classes. The Summit will build on the community developed in 2019. Undergraduates can be employed in support of a department's teaching mission to improve student engagement, learning, and retention - particularly among students from groups underrepresented in CS. Summit participants will discuss how their program supports and trains undergraduates as teaching assistants, section leaders, lab assistants, mentors, and tutors. In describing their programs, participants will share best practices, lessons learned, and relevant research. This summit will connect faculty and peer teaching leaders who are interested in brainstorming and sharing tools and strategies for peer teaching programs.
+
+Visit their [website](https://www.peerteaching.org/summit-2022 ) for more information.
+
+### <a id="hfoss_ed"></a>HFOSS Education
+. Greg Hislop
+. Date: 03/02/2022
+. Time: 8:30 am - 5:30 pm
+. Room: Naragansett A - Omni
+
+Student participation in Humanitarian Free and Open Source Software (HFOSS) provides an opportunity for learning software engineering technical and professional skills while also engaging students with computing for social good.  Experience indicates that faculty are interested in employing HFOSS but also find this teaching approach challenging, especially at first.  To better support instructors, HFOSS educators are exploring ways to provide better support and control for instructors taking initial steps in using HFOSS with students. 
