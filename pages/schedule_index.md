@@ -170,7 +170,7 @@ If you have any questions, please do not hesitate to contact the Program Co-Chai
     {% if session.subsessions == null and session.presenters %}
 		<p>{{session.presenters}}</p>
     {% endif %}
-    {% if session.description != null %}{{ session.description }}<br><br>{% endif %}
+    {% if session.description != null %}<span markdown="1">{{ session.description }}</span><br><br>{% endif %}
     {% if session.subsessions != null %}
 		<br>
 		{% for subsession in session.subsessions %}
@@ -408,7 +408,7 @@ William Allen (Rensselaer Polytechnic Institute); Shelly Belsky (Rensselaer Poly
 **An Introduction to Computer Science in the New Curriculum for Wales**  
 Tom Crick (Swansea University)
   
-<h3 id="poster-session-virtual">Virtual Poster Session</h3>
+<h3 id="poster-session-4">Virtual Poster Session</h3>
 
 **From the Game Ideas Prototypes to their Final Versions using International Intensive Project Results**  
 Piotr Milczarski (University of Lodz); Norbert Borowski (University of Lodz); Artur Hłobaż (University of Lodz); Michał Beczkowski (University of Lodz)
