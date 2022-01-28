@@ -1389,7 +1389,7 @@ sessions:
     day: "3/4/2022"
     start: "10:00"
     end: "12:00"
-    description: "Note: See list of posters under [Poster Session #1](https://localhost:4000/schedule#poster-session-1)."
+    description: "Note: See list of posters under [Poster Session #1](/schedule#poster-session-1)."
     location: "Exhibit Hall C/D (RICC)"
     hybrid: "N"
     presenters: "Track Chairs: Lina Battestilli (North Carolina State University); Jennifer Campbell (University of Toronto)"
