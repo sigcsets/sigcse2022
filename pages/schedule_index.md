@@ -166,7 +166,7 @@ If you have any questions, please do not hesitate to contact the Program Co-Chai
     {% if session.subsessions == null and session.presenters %}
     <p>{{session.presenters}}</p><br>
     {% endif %}
-    {% if session.description != null %}{{ session.description }}<br>{% endif %}
+    {% if session.description != null %}<span markdown="1">{{ session.description }}</span><br>{% endif %}
     <br>
     {% if session.subsessions != null %}
     <br>
