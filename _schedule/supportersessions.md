@@ -30,7 +30,7 @@ Presenter: Barry Rosenberg, Tina Ornduff, Google
 
 Most engineering students don't realize that professional engineers spend much of their day writing. Communicating clearly and efficiently is often the key difference between a mediocre engineering career and a great engineering career. In 2015, Google created technical writing courses specifically aimed at software engineers. To everyone's surprise, these courses became popular. In fact, more than half of all Google software engineers have now taken at least part of a technical writing course. In 2020, Google released free versions of these courses externally. During this session, Barry Rosenberg and Tina Ornduff--two of the courses' creators--will describe the available resources and answer your questions about teaching technical writing principles to CS students.
 
-![Google Logo](supporter_logos/google.png)
+![Google Logo](/images/google.png)
 
 ---
 
