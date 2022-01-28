@@ -79,7 +79,7 @@ Room: Virtual
 
 It has been a long standing tradition for employers to complain that CS graduates lack many Day-1 job-readiness skills and for faculty to insist that academic programs should focus on long-lasting foundational material instead of trying to satisfy the multitude of short-term employer needs. If a CS undergraduate program was designed by employers of CS graduates, it would look considerably different from today’s academia-designed programs, as shown in the parallel education computing programs now being offered by several employers. This session asks several questions relevant to CS curricula: Is there a middle ground? Is there a principled approach to addressing the balance? How does one balance foundational concepts with practical skills? How would we know what is effective and what is not? Come join the discussion and participate in a workshop that will not only feature industry panelists but also a hands-on design component.
 
-Visit their [website](https://www.deacomp.org/sigcse2022/) for more information.
+Visit their [website](https://www.deapcomp.org/sigcse2022/) for more information.
 
 ### <a id="peer_teaching"></a>Peer Teaching Summit 2022
 Sarah Heckman and others  
@@ -92,9 +92,11 @@ The Peer Teaching Summit 2022 will bring together Computer Science (CS) faculty 
 Visit their [website](https://www.peerteaching.org/summit-2022) for more information.
 
 ### <a id="hfoss_ed"></a>HFOSS Education
-Greg Hislop  
+Greg Hislop, Lori Postner, Grant Braught, Darci Burdge, Heidi Ellis, Herman Jackson, Cam Macdonell, Wes Turner, Karl Wurst
 Date: 03/02/2022  
 Time: 8:30 am - 5:30 pm  
 Room: Naragansett A - Omni  
 
 Student participation in Humanitarian Free and Open Source Software (HFOSS) provides an opportunity for learning software engineering technical and professional skills while also engaging students with computing for social good.  Experience indicates that faculty are interested in employing HFOSS but also find this teaching approach challenging, especially at first.  To better support instructors, HFOSS educators are exploring ways to provide better support and control for instructors taking initial steps in using HFOSS with students. 
+
+Visit their [website](http://foss2serve.org/index.php/SIGCSE_2022_Affiliated_Event) for more information. 
