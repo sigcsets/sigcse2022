@@ -408,7 +408,7 @@ William Allen (Rensselaer Polytechnic Institute); Shelly Belsky (Rensselaer Poly
 **An Introduction to Computer Science in the New Curriculum for Wales**  
 Tom Crick (Swansea University)
   
-<h3 id="poster-session-4">Virtual Poster Session</h3>
+<h3 id="poster-session-4">Poster Session #4 [Virtual]</h3>
 
 **From the Game Ideas Prototypes to their Final Versions using International Intensive Project Results**  
 Piotr Milczarski (University of Lodz); Norbert Borowski (University of Lodz); Artur Hłobaż (University of Lodz); Michał Beczkowski (University of Lodz)
@@ -493,3 +493,52 @@ Tom Crick (Swansea University); Tom Prickett (Northumbria University); Jill Brad
   
 **Grading Mastery: Calculating Grades from Domain-Law Violations**  
 Oleg Sychev (Volgograd State Technical University); Yaroslav Kamennov (Volgograd State Technical University)
+
+<h3 id="poster-session-SRC-UG">Undergraduate Student Research Competition Poster Session</h3>
+
+**K-12 CS Teacher Licensing in the US**  
+Jessica M Yauney (Brigham Young University)
+  
+**Constructivism in Computer Science Education**  
+Julie Smith (University of North Texas)
+  
+**Rho-NLR: A Neural Lumigraph Renderer with Controllable Illumination**  
+Laura Perkins (New College of Florida)
+  
+**The Effect of Animation and Real-world Analogies on Learning Computer Systems Concepts by Diverse Students**  
+Zhen Wu (University of Pittsburgh); Rachel Puckett (University of Pittsburgh); Wonsun Ahn (University of Pittsburgh); Sherif Khattab (University of Pittsburgh); Luis Oliveira (University of Pittsburgh); Vinicius Petrucci (University of Pittsburgh)
+  
+**Misconceptions about Computer Science Leads to Deferred Entrance to the Technology Field**  
+Tabitha Miles (Simmons University)
+  
+**Interactive Network Visualization of Learning Progressions**  
+Nathan Hurtig (Rose-Hulman Institute of Technology)
+
+**Celer: A Smart Fleet Management System (Optimizing Traffic Flow in New York City)**  
+Ugo Dos Reis (University of Toronto); Maheen Ferdousi (University of Toronto); Ilir Dema (University of Toronto)
+
+**Using LSTM Networks for Multiparameter Physiological Signal Reconstruction to Reduce Training Time**  
+Alia E. Alramahi (Benedictine University); Adrian K. Cornely (Benedictine University); Grace M. Mirsky (Benedictine University)
+
+**[Virtual] Mining Data on Computing Majors Knowledge Game**
+Sam Thach (Oregon Institute of Technology); Cecily Heiner (Oregon Institute of Technology)
+ 
+<h3 id="poster-session-SRC-G">Graduate Student Research Competition Poster Session</h3>
+
+**The Development of Computational Thinking in Computing Higher Education**  
+Carolina Moreira Oliveira (Federal University of Paraná)
+
+**Finding the Most Relevant Pages of the Learning Materials on which a Student Just Focuses**  
+Taichi Imbe (Meisei University)
+
+**What Does Literature Tell Us About Recursion?**  
+Sean Mackay (University at Buffalo)
+  
+**Equipping Middle School Teachers with Culturally Responsive Pedagogy for Computer Science Through Community-centered Professional Development**  
+Gillian Bausch (University at Albany, SUNY)
+  
+**Cross-grade Comparison of Computational Thinking in Young Children Using Normalized Unplugged Assessment Scores**  
+Emily Relkin (Tufts University)
+
+**[Virtual] Supporting Novice Learners’ Coding through Productive Failure-Based Debugging Activities** 
+Sagun Giri (The Pennsylvania State University)
