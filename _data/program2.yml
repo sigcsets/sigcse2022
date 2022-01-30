@@ -11,7 +11,37 @@ days:
     name: "Asynchronous Paper Sessions"
 
 sessions:
+
+# 3/2 0800
+
+  # - type: "Affiliated Event"
+    # title: "Affiliated Event &mdash; Professional Development Session for New and Aspiring Educators"
+    # day: "3/2/2022"
+    # start: "TBA"
+    # end: "TBA"
+    # location: "Room 556 A/B (RICC)"
+    # presenters: "Sarah Heckman and others"
+    # description: 
+        # "The Peer Teaching Summit 2022 will bring together Computer Science (CS) faculty and peer teaching leaders who are seeking resources, tools, and strategies for training and supporting peer teachers for large enrollment CS classes. The Summit will build on the community developed in 2019. Undergraduates can be employed in support of a department's teaching mission to improve student engagement, learning, and retention - particularly among students from groups underrepresented in CS. Summit participants will discuss how their program supports and trains undergraduates as teaching assistants, section leaders, lab assistants, mentors, and tutors. In describing their programs, participants will share best practices, lessons learned, and relevant research. This summit will connect faculty and peer teaching leaders who are interested in brainstorming and sharing tools and strategies for peer teaching programs.
+        # <br><br>
+        # Visit their [website](http://www.peerteaching.org/summit-2022) for more information."
+
+  - type: "Affiliated Event"
+    title: "Affiliated Event &mdash; Professional Development Session for New and Aspiring Educators"
+    day: "3/2/2022"
+    start: "8:00"
+    end: "17:30"
+    location: "Room 552 A/B (RICC)"
+    presenters: "Meghan Allen and Diane Horton"
+    description: 
+        "A successful career as an educator involves more than a deep understanding of a research area. Even so, many new CS educators experience relatively little training as educators – and face more questions than answers, e.g., How do I find a career path and institution that are right for me? What strategies can I use during the job search and interviewing process to achieve my goals? What tips could help me organize a course, scaffold engaging experiences, and build lasting relationships with students? What practical steps can I take to support equity, diversity, and inclusion in my work?
+        <br><br>
+        The Professional Development Session for New and Aspiring Educators is a pre-symposium event at SIGCSE 2022 that, through presentations, discussions, and small-group community building, will tackle these questions. The session is designed to assist aspiring and early-career educators in exploring the non-research facets of an academic career. It will run on March 2, 2022 in Providence, Rhode Island, USA from 9am to 5pm, and is open to postdocs and graduate students in any year who are considering careers in academia, as well as pre-tenure faculty members and new teaching-track faculty seeking guidance and/or networking support. This session is one of several career-focused, SIGCSE-affiliated events at the 2022 Technical Symposium that have served more than 200 educators over the past decade.
+        <br><br>
+        Requires separate registration, visit their [website](http://www.cs.toronto.edu/~dianeh/educator-workshop/) for more information."
+
 # 3/2 0830
+
   - type: "Supporter Sessions"
     title: "Google Supporter Session &mdash; Technical Writing for All Students"
     day: "3/2/2022"
@@ -21,7 +51,64 @@ sessions:
     hybrid: "N"
     presenters: "Barry Rosenberg (Google), Tina Ornduff (Google)"
     description: "Most engineering students don't realize that professional engineers spend much of their day writing. Communicating clearly and efficiently is often the key difference between a mediocre engineering career and a great engineering career. In 2015, Google created technical writing courses specifically aimed at software engineers. To everyone's surprise, these courses became popular. In fact, more than half of all Google software engineers have now taken at least part of a technical writing course. In 2020, Google released free versions of these courses externally. During this session, Barry Rosenberg and Tina Ornduff--two of the courses' creators--will describe the available resources and answer your questions about teaching technical writing principles to CS students."
+
+  - type: "Affiliated Event"
+    title: "Affiliated Event &mdash; Innovations and Opportunities in Liberal Arts Computing Education"
+    day: "3/2/2022"
+    start: "8:30"
+    end: "17:30"
+    location: "Room 555 A/B (RICC)"
+    presenters: "Amanda Holland-Minkley and Grant Braught"
+    description: 
+        "Organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges, this Pre-Symposium event will promote connection and collaboration within the liberal arts computing community. This full day event will be split into two sessions. The first session will focus on innovations in computing education in the liberal arts and may include courses, curricula, co-curricular programs or other elements that reflect a specifically liberal arts perspective. Selected submissions will be presented and discussed at the event and also be added to the Committee’s growing repository of materials. The second session will be held in an “unconference” format, with proposals accepted for working group topics from the community as a whole. Possible topics include but are not limited to course design and assessment for CS+X courses, strategies for recruiting faculty to teach at liberal arts colleges, and course- specific topics such as implementing specifications grading or implementing inclusive teaching practices. Throughout the event, sessions will give participants an opportunity to learn about work already taking place within the liberal arts computing community as well as to engage in Q&A and breakout discussions. All interested faculty and students are welcome.
+        <br><br>
+        Visit their [website](https://computing-in-the-liberal-arts.github.io/SIGCSE2022-Affiliated-Event/) for more information."
+
+  - type: "Affiliated Event"
+    title: "Affiliated Event &mdash; HFOSS Education"
+    day: "3/2/2022"
+    start: "8:30"
+    end: "17:30"
+    location: "Narragansett A Ballroom (Omni)"
+    presenters: "Greg Hislop, Lori Postner, Grant Braught, Darci Burdge, Heidi Ellis, Herman Jackson, Cam Macdonell, Wes Turner, Karl Wurst"
+    description: 
+        "Student participation in Humanitarian Free and Open Source Software (HFOSS) provides an opportunity for learning software engineering technical and professional skills while also engaging students with computing for social good.  Experience indicates that faculty are interested in employing HFOSS but also find this teaching approach challenging, especially at first.  To better support instructors, HFOSS educators are exploring ways to provide better support and control for instructors taking initial steps in using HFOSS with students.
+        <br><br>
+        Visit their [website](http://foss2serve.org/index.php/SIGCSE_2022_Affiliated_Event) for more information."
+
+  - type: "Affiliated Event"
+    title: "Affiliated Event &mdash; Professional Development Pre-Symposium Event for Teaching-Track Faculty"
+    day: "3/2/2022"
+    start: "8:30"
+    end: "15:30"
+    location: "Narragansett B Ballroom (Omni)"
+    presenters: "Geoffrey Herman, Amy Ko, Brandon Myers and Lori Pollock"
+    description: 
+        "Enrollment in CS courses and programs continues to be high. To meet this increased demand, many Ph.D. granting departments have added or are actively recruiting teaching faculty (typically with academic rank) to their faculty. This whole-day event will focus on the professional development of teaching-track faculty (professor of practice, instructor, clinical faculty, lecturer, etc.) in Ph.D. granting departments. The event fills a crucial need as many departments have limited experience on how to mentor, evaluate, and promote this new type of faculty. The sessions will focus on how teaching faculty can strategize their involvement in departmental as well as research activities, different forms of scholarship and leadership activities to pursue, and best practices for success, promotion, and advancement. Junior and mid-career teaching-track faculty will participate in an “unconference” format. By gathering topics of common interest, attendees will self organize to provide peer mentoring and to collect advice for professional development rather than having pre-planned panels or sessions at the discretion of the organizers.
+        <br><br>
+        Visit their [website](https://cra.org/crae/professional-development-workshop-for-teaching-track-faculty-at-sigcse-2022/) for more information."
+
+# 3/2 1300
+
+  - type: "Affiliated Event"
+    title: "Affiliated Event &mdash; Dream Big: Addressing Computing for the Social Good in the Computing Curricula"
+    day: "3/2/2022"
+    start: "13:00"
+    end: "17:00"
+    location: "Providence I/IV Ballroom (Omni)"
+    presenters: "Mikey Goldweber, Lisa Kaczmarczyk, Rick Blumenthal and Johanna Blumenthal"
+    description: 
+        "Computing for the Social Good in Education (CSG-Ed) deals with methods for producing computing graduates who are focused on using their computing education towards the benefit of society. We invite participants to discuss how they would reimagine their insti- tution’s and general computing curriculum, if they were supreme, magic wand wielding, curricular overlords.
+        <br><br>
+        Currently, computing is perceived as a practical means to ensure a livelihood, but often overlooked as a path for empowering the disadvantaged and raising the quality of life for all. Furthermore, the numerous headlines exemplifying computing by the elite and for the elite at the expense of everyone else, or, stated differently, examples of technology companies shirking any responsibility to remedy the unintended harmful consequences of their products, pushes a view of computing that is a self-serving one. The view being that those making the technology get rich doing it, leave everyone else behind and do not care about those left behind or harmed by their products. This prevailing, and somewhat bleak, perception of computing’s impact on society is not the whole picture. Yet, such a climate can impact students’ choice of major, how they view their own field and the choices they make as a professional after they graduate. How are our computing curricula perpetuating the current perceptions of computing, acquiescing to this perception or working to expand the view of what computing can do for society? Are we combating the false dichotomy and showing students that they can have a successful career without exploiting anyone and do so while using their computing skills to benefit society?
+        <br><br>
+        We give you a magic wand; what does your new computing curriculum look like?
+        <br><br>
+        This free and open to all, [IGCAS-sponsored affiliated event](https://www.sigcas.org/csged/) will explore this question through prepared presentations, group activities, and the sharing of pro- posals among the participants and hopefully the larger computing education community. Our shared intent is to shape the next gen- eration of computing curricula, such as the upcoming [Computer Science Curricula 202X report](https://csed.hosting.acm.org/)"
+
+
 # 3/2 1330
+
   - type: "Supporter Sessions"
     title: "Microsoft Supporter Session &mdash; MakeCode Sampler Pack!"
     day: "3/2/2022"
@@ -33,7 +120,9 @@ sessions:
     description: "Looking for some high-engagement options for teaching CS?  Join us for a fun, hands-on workshop where we’ll take a tour around MakeCode – exploring physical computing with the micro:bit, game development with MakeCode Arcade, and game modding with Minecraft!  We will walk through step-by-step coding challenges and build projects together that you can use in the classroom.  This is a beginner-level workshop – no prior experience required.  Attendees should bring a smile and a laptop to the session. Please note: this workshop will only be hosted in person.
     |
     Register for the Microsoft MakeCode Sampler Pack! Pre-Symposium session: [https://forms.office.com/r/R0F2ACEuss](https://forms.office.com/r/R0F2ACEuss)"
+
 # 3/2 1500
+
   - type: "Registration"
     title: "Registration Open"
     day: "3/2/2022"
@@ -42,7 +131,23 @@ sessions:
     location: "Exhibit Hall Pre-Function (RICC)"
     hybrid: "N"
     presenters: "Sarah Heckman (North Carolina State University); Rachelle Kristof Hippler (Baldwin Wallace University); Briana Morrison (University of Virginia)"
+
+# 3/2 1530
+
+  - type: "Affiliated Event"
+    title: "Affiliated Event &mdash; Integrating Accessibility and Disability into the Computing Curriculum"
+    day: "3/2/2022"
+    start: "15:30"
+    end: "18:30"
+    location: "Providence II/III Ballroom (Omni)"
+    presenters: "Richard Lander, Amy Ko, and Kristen Shinohara"
+    description: 
+        "In this session, participants will learn from faculty about how they have integrated accessibility and disability topics into their computer science courses. There are certain courses, such as web or app design and development and human-computer interactions, that should be addressing accessibility because of the human-facing nature of software. Less obvious are courses, such as intro CS, computer vision, natural language processing, data compression, software engineering, and others, that can also have accessibility and disability content. After the presentations, participants will break into small groups to discuss more ways to include these topics into their courses. The contents of the workshop will be documented and be available on the AccessComputing website after the conference.
+        <br><br>
+        Visit their [website](https://www.washington.edu/accesscomputing/accesscomputing-workshop-integrating-accessibility-and-disability-computing-curriculum) for more information."
+
 # 3/2 1600
+
   - type: "Supporter Sessions"
     title: "ABET Supporter Session &mdash; How Should CS Programs Balance First-Job Readiness and Foundations for Long-Term Career Success?"
     day: "3/2/2022"
@@ -52,7 +157,9 @@ sessions:
     hybrid: "Y"
     presenters: "Rajendra K. Raj (Rochester Institute of Technology), Rahul Simha (The George Washington University)"
     description: "It has been a long standing tradition for employers to complain that CS graduates lack many Day-1 job-readiness skills and for faculty to insist that academic programs should focus on long-lasting foundational material instead of trying to satisfy the multitude of short-term employer needs. If a CS undergraduate program was designed by employers of CS graduates, it would look considerably different from today’s academia-designed programs, as shown in the parallel education computing programs now being offered by several employers. This session asks several questions relevant to CS curricula: Is there a middle ground? Is there a principled approach to addressing the balance? How does one balance foundational concepts with practical skills? How would we know what is effective and what is not? Come join the discussion and participate in a workshop that will not only feature industry panelists but also a hands-on design component. (event information link: [http://www.deapcomp.org/sigcse2022/](http://www.deapcomp.org/sigcse2022/))"
+
 # 3/2 1900
+
   - type: "Workshops"
     title: "Workshops 1xx"
     day: "3/2/2022"
@@ -125,7 +232,9 @@ sessions:
           location: "Virtual Room"
           hybrid: "Y"
           presenters: "Julia Bernd (International Computer Science Institute); Dan Garcia (University of California); Buffie Holley (Albemarle High School); Maritza Johnson (University of San Diego)"
+
 # 3/3 0700
+
   - type: "Speakers' Breakfasts"
     title: "Speakers' Breakfast"
     day: "3/3/2022"
@@ -134,7 +243,9 @@ sessions:
     location: "Room 557 (RICC)"
     hybrid: "N"
     presenters: ""
+
 # 3/3 0730
+
   - type: "Registration"
     title: "Registration Open"
     day: "3/3/2022"
@@ -143,7 +254,9 @@ sessions:
     location: "Exhibit Hall Pre-Function (RICC)"
     hybrid: "N"
     presenters: "Sarah Heckman (North Carolina State University); Rachelle Kristof Hippler (Baldwin Wallace University); Briana Morrison (University of Virginia)"
+
 # 3/3 0815
+
   - type: "Keynotes"
     title: "Opening Plenary"
     day: "3/3/2022"
@@ -152,7 +265,9 @@ sessions:
     location: "Ballroom A-E (RICC)"
     hybrid: "Y"
     presenters: ""
+
 # 3/3 1000
+
   - type: "Exhibit Hall"
     title: "Exhibit Hall Open"
     day: "3/3/2022"
@@ -194,7 +309,9 @@ sessions:
           location: "Exhibit Hall C/D (RICC)"
           hybrid: "N"
           presenters: "Gordon Stein (Vanderbilt University); Ákos Lédeczi (Vanderbilt University)"
+
 # 3/3 1045
+
   - type: "Supporter Sessions"
     title: "Microsoft Supporter Session &mdash; ElectionGuard: Allowing voters to confirm that their votes are correctly counted"
     day: "3/3/2022"
@@ -427,7 +544,9 @@ sessions:
     location: "Room 556 A/B (RICC, Hybrid Room)"
     hybrid: "Y"
     presenters: "Bryan Twarek (Computer Science Teachers Association); Colleen Lewis (University of Illinois at Urbana-Champaign); Abigail Joseph (The Harker School); Charity Freeman (Discovery Partners Institute); Todd Lash (University of Illinois at Urbana-Champaign); Mariam Saffar Perez (University of Illinois at Urbana-Champaign)"
+
 # 3/3 1200
+
   - type: "Lunches"
     title: "Lunch Break"
     day: "3/3/2022"
@@ -444,7 +563,9 @@ sessions:
     location: "Ballroom A-E (RICC)"
     hybrid: "Y"
     presenters: ""
+
 # 3/3 1345
+
   - type: "Supporter Sessions"
     title: "Google Supporter Session &mdash; Getting More From Google: Engaging with Google's CS Education Programs"
     day: "3/3/2022"
@@ -703,7 +824,9 @@ sessions:
     location: "Exhibit Hall C/D (RICC)"
     hybrid: "N"
     presenters: "Track Chairs: Lina Battestilli (North Carolina State University); Jennifer Campbell (University of Toronto)"
+
 # 3/3 1500
+
   - type: "Demos"
     title: "Demo Session #2 &mdash; Data Structures and Algorithms"
     day: "3/3/2022"
@@ -737,7 +860,9 @@ sessions:
           location: "Exhibit Hall C/D (RICC)"
           hybrid: "N"
           presenters: "Austin Cory Bart (University of Delaware)"
+
 # 3/3 1545
+
   - type: "Paper Sessions"
     title: "Paper Session &mdash; Perspectives and (Mis)conceptions"
     day: "3/3/2022"
@@ -983,7 +1108,9 @@ sessions:
     location: "Room 556 A/B (RICC, Hybrid Room)"
     hybrid: "Y"
     presenters: "Monica M. McGill (CSEdResearch.org & Knox College); Jake Baskin (Computer Science Teachers Association); Miles Berry (University of Roehampton); Quinn Burke (Digital Promise); Leigh Ann Delyser (CSforALL); Shuchi Grover (Looking Glass Venture & Stanford University); Colleen Lewis (University of Illinois at Urbana-Champaign); Briana B. Morrison (University of Virginia); Davina Pruitt-Mentle (National Initiative for Cybersecurity Education (NICE) & National Institute of Standards and Technology (NIST))"
+
 # 3/3 1730
+
   - type: "Supporter Sessions"
     title: "ABET Supporter Session &mdash; An Update on ABET Accreditation Criteria"
     day: "3/3/2022"
@@ -1145,7 +1272,9 @@ sessions:
           location: "Virtual BOF Room"
           hybrid: "Y"
           presenters: "Rachel Bonnette (University at Buffalo); Samuel Abramovich (University at Buffalo); Adrienne Decker (University at Buffalo); Greg A. Fabiano (Florida International University)"
+
 # 3/3 1830
+
   - type: "Supporter Sessions"
     title: "Pearson Supporter Session &mdash; Pearson's Revel for online and hybrid programming courses: implementation and increasing student success"
     day: "3/3/2022"
@@ -1306,7 +1435,9 @@ sessions:
           location: "Virtual BOF Room"
           hybrid: "Y"
           presenters: "John R Hott (University of Virginia); Jeremiah Blanchard (University of Florida)"
+
 # 3/3 1930
+
   - type: "Reception"
     title: "TS 2022 Reception"
     day: "3/3/2022"
@@ -1315,7 +1446,9 @@ sessions:
     location: "Rotunda & East Pre-function (RICC)"
     hybrid: "N"
     presenters: ""
+
 # 3/4 0700
+
   - type: "Speakers' Breakfasts"
     title: "Speakers' Breakfast"
     day: "3/4/2022"
@@ -1324,7 +1457,9 @@ sessions:
     location: "Room 557 (RICC)"
     hybrid: "N"
     presenters: ""
+
 # 3/4 0730
+
   - type: "Registration"
     title: "Registration Open"
     day: "3/4/2022"
@@ -1333,7 +1468,9 @@ sessions:
     location: "Exhibit Hall Pre-Function (RICC)"
     hybrid: "N"
     presenters: "Sarah Heckman (North Carolina State University); Rachelle Kristof Hippler (Baldwin Wallace University); Briana Morrison (University of Virginia)"
+
 # 3/4 0815
+
   - type: "Keynotes"
     title: "Outstanding Contribution Plenary"
     day: "3/4/2022"
@@ -1342,7 +1479,9 @@ sessions:
     location: "Ballroom A-E (RICC)"
     hybrid: "Y"
     presenters: ""
+
 # 3/4 1000
+
   - type: "Exhibit Hall"
     title: "Exhibit Hall Open"
     day: "3/4/2022"
@@ -1393,7 +1532,9 @@ sessions:
     location: "Exhibit Hall C/D (RICC)"
     hybrid: "N"
     presenters: "Track Chairs: Lina Battestilli (North Carolina State University); Jennifer Campbell (University of Toronto)"
+
 # 3/4 1045
+
   - type: "Supporter Sessions"
     title: "Google Supporter Session &mdash; Supporting diverse, equitable, and inclusive student research in computing"
     day: "3/4/2022"
@@ -1659,7 +1800,9 @@ sessions:
     location: "Room 556 A/B (RICC, Hybrid Room)"
     hybrid: "Y"
     presenters: "Mikey Goldweber (Xavier University); Lisa Kaczmarczyk (Lisa Kaczmarczyk PhD Consulting, LLC); Rick Blumenthal (Regis University); Alison Clear (Eastern Institute of Technology); Johanna Blumenthal (Regis University)"
+
 # 3/4 1200
+
   - type: "Lunches"
     title: "Lunch Break"
     day: "3/4/2022"
@@ -1676,7 +1819,9 @@ sessions:
     location: "Room 557 (RICC)"
     hybrid: "N"
     presenters: ""
+
 # 3/4 1345
+
   - type: "Supporter Sessions"
     title: "GitHub Supporter Session &mdash; Scale your classroom with GitHub Classroom and Codespaces"
     day: "3/4/2022"
@@ -1917,7 +2062,9 @@ sessions:
     location: "Room 556 A/B (RICC, Hybrid Room)"
     hybrid: "Y"
     presenters: "Neil C. C. Brown (King's College London); Michael Kölling (King's College London); Charalampos Kyfonidis (King's College London); Pierre Weill-Tessier (King's College London)"
+
 # 3/4 1500
+
   - type: "Poster Sessions"
     title: "Poster Session #2"
     day: "3/4/2022"
@@ -1969,7 +2116,9 @@ sessions:
           location: "Exhibit Hall C/D (RICC)"
           hybrid: "N"
           presenters: "Yihao Hu (Duke University); Zhengjie Miao (Duke University); Zhiming Leong (Duke University); Haechan Lim (Duke University); Zachary Zheng (Duke University); Sudeepa Roy (Duke University); Kristin Stephens-Martinez (Duke University); Jun Yang (Duke University)"
+
 # 3/4 1545
+
   - type: "Supporter Sessions"
     title: "Coding Rooms Supporter Session &mdash; Creating Engaging CS Curriculum with Coding Rooms"
     day: "3/4/2022"
@@ -2178,7 +2327,9 @@ sessions:
     location: "Virtual"
     hybrid: "Y"
     presenters: "Margaret Hamilton (RMIT University, Australia); James Harland (RMIT University, Australia)"
+
 # 3/4 1710
+
   - type: "Meetings"
     title: "SIGCSE Business Meeting"
     day: "3/4/2022"
@@ -2187,7 +2338,9 @@ sessions:
     location: "Room TBA"
     presenters: "SIGCSE Board"
     description: "The annual SIGCSE Business Meeting is a time when the SIGCSE Board presents information about the organization from the past year including the financial status of the organization. There is time for Q&A from the audience about the presentation or about SIGCSE and its programs in general. All SIGCSE members as well as all ACM members (regardless of SIGCSE membership status) are welcome to attend the business meeting."
+
 # 3/4 1800
+
   - type: "Meetings"
     title: "CCSC Business Meeting"
     day: "3/4/2022"
@@ -2283,7 +2436,9 @@ sessions:
           location: "Providence Ballroom II/III (Omni)"
           hybrid: "N"
           presenters: "Benjamin Walsh (University of Colorado Boulder); Safinah Ali (Massachusetts Institute of Technology); Francisco Castro (University of Massachusetts Amherst); Kayla Desportes (New York University); Daniella DiPaola (Massachusetts Institute of Technology); Irene Lee (Massachusetts Institute of Technology); William Payne (New York University); Scott Sieke (CU Science Discovery); Helen Zhang (Boston College)"
+
 # 3/5 0700
+
   - type: "Speakers' Breakfasts"
     title: "Speakers' Breakfast"
     day: "3/5/2022"
@@ -2292,7 +2447,9 @@ sessions:
     location: "Room 557 (RICC)"
     hybrid: "N"
     presenters: ""
+
 # 3/5 0800
+
   - type: "Registration"
     title: "Registration Open"
     day: "3/5/2022"
@@ -2309,7 +2466,9 @@ sessions:
     location: "Ballroom A-E (RICC)"
     hybrid: "Y"
     presenters: ""
+
 # 3/5 0920
+
   - type: "Supporter Sessions"
     title: "CodeGrade Supporter Session &mdash; Scaling and automating an Online Master’s Degree in Data Science at Eastern University"
     day: "3/5/2022"
@@ -2671,7 +2830,9 @@ sessions:
     location: "Virtual Room"
     hybrid: "Y"
     presenters: "Alison Clear (Eastern Institute of Technology); Ernesto Cuadros-Vargas (Universidad San Ignacio de Loyola); Shingo Takada (Keio University)"
+
 # 3/5 1035
+
   - type: "Poster Sessions"
     title: "Poster Session #3"
     day: "3/5/2022"
@@ -2681,7 +2842,9 @@ sessions:
     location: "Exhibit Hall C/D (RICC)"
     hybrid: "N"
     presenters: "Track Chairs: Lina Battestilli (North Carolina State University); Jennifer Campbell (University of Toronto)"
+
 # 3/5 1115
+
   - type: "Paper Sessions"
     title: "Paper Session &mdash; Training and Deploying Teaching Assistants"
     day: "3/5/2022"
@@ -3003,7 +3166,9 @@ sessions:
     location: "Virtual Room"
     hybrid: "Y"
     presenters: "Oluwakemi Ola (University of British Columbia); Brian Harrington (University of Toronto Scarborough)"
+
 # 3/5 1230
+
   - type: "Lunches"
     title: "Lunch"
     day: "3/5/2022"
@@ -3022,7 +3187,9 @@ sessions:
     hybrid: "N"
     presenters: ""
     description: ""
+
 # 3/5 1500
+
   - type: "Workshops"
     title: "Workshops 4xx"
     day: "3/5/2022"
@@ -3095,7 +3262,9 @@ sessions:
           location: "Providence Ballroom II/III (Omni)"
           hybrid: "N"
           presenters: "Sheikh Ghafoor (Tennessee Technological University); Sushil Prasad (University of Texas San Antonio); Charles Weems (University of Massachusetts Amherst)"
+
 # Asynchronous
+
   - type: "Paper Sessions"
     title: "Paper Session [Virtual] &mdash; Instructional Strategies"
     day: "Asynchronous"
