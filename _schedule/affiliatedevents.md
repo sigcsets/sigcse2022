@@ -71,7 +71,7 @@ Currently, computing is perceived as a practical means to ensure a livelihood, b
 We give you a magic wand; what does your new computing curriculum look like?
 This free and open to all, [SIGCAS-sponsored affiliated event](https://www.sigcas.org/csged/) will explore this question through prepared presentations, group activities, and the sharing of pro- posals among the participants and hopefully the larger computing education community. Our shared intent is to shape the next gen- eration of computing curricula, such as the upcoming [Computer Science Curricula 202X report](https://csed.hosting.acm.org/)
 
-### <a id="first_job_readiness"></a>How Should CS Programs Balance First-Job Readiness and Foundations for Long-Term Career Success?
+### <a id="first_job_readiness"></a>ABET Supporter Session: How Should CS Programs Balance First-Job Readiness and Foundations for Long-Term Career Success?
 Rajendra K. Raj and Rahul Simha 
 Date: 03/02/2022  
 Time: 4:00 pm - 6:00 pm  EST
