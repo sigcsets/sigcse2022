@@ -14,7 +14,7 @@ There are several exciting affiliated events this year; plan your travel so you 
 - [Integrating Accessibility and Disability into the Computing Curriculum](#accessibility_disability)
 - [Innovations and Opportunities in Liberal Arts Computing Education](#liberal_arts_comp_ed)
 - [Professional Development Pre-Symposium Event for Teaching-Track Faculty](#teaching_track_faculty)
-- "[Dream Big: Addressing Computing for the Social Good in the Computing Curricula](#computing_curricula)
+- [Dream Big: Addressing Computing for the Social Good in the Computing Curricula](#computing_curricula)
 - [How Should CS Programs Balance First-Job Readiness and Foundations for Long-Term Career Success?](#first_job_readiness)
 - [Peer Teaching Summit 2022](#peer_teaching)
 - [HFOSS Education](#hfoss_ed)
@@ -69,10 +69,10 @@ Room: Providence I/IV - Omni
 Computing for the Social Good in Education (CSG-Ed) deals with methods for producing computing graduates who are focused on using their computing education towards the benefit of society. We invite participants to discuss how they would reimagine their insti- tution’s and general computing curriculum, if they were supreme, magic wand wielding, curricular overlords.
 Currently, computing is perceived as a practical means to ensure a livelihood, but often overlooked as a path for empowering the disadvantaged and raising the quality of life for all. Furthermore, the numerous headlines exemplifying computing by the elite and for the elite at the expense of everyone else, or, stated differently, examples of technology companies shirking any responsibility to remedy the unintended harmful consequences of their products, pushes a view of computing that is a self-serving one. The view being that those making the technology get rich doing it, leave everyone else behind and do not care about those left behind or harmed by their products. This prevailing, and somewhat bleak, perception of computing’s impact on society is not the whole picture. Yet, such a climate can impact students’ choice of major, how they view their own field and the choices they make as a professional after they graduate. How are our computing curricula perpetuating the current perceptions of computing, acquiescing to this perception or working to expand the view of what computing can do for society? Are we combating the false dichotomy and showing students that they can have a successful career without exploiting anyone and do so while using their computing skills to benefit society?
 We give you a magic wand; what does your new computing curriculum look like?
-This free and open to all, [IGCAS-sponsored affiliated event](https://www.sigcas.org/csged/) will explore this question through prepared presentations, group activities, and the sharing of pro- posals among the participants and hopefully the larger computing education community. Our shared intent is to shape the next gen- eration of computing curricula, such as the upcoming [Computer Science Curricula 202X report](https://csed.hosting.acm.org/)
+This free and open to all, [SIGCAS-sponsored affiliated event](https://www.sigcas.org/csged/) will explore this question through prepared presentations, group activities, and the sharing of pro- posals among the participants and hopefully the larger computing education community. Our shared intent is to shape the next gen- eration of computing curricula, such as the upcoming [Computer Science Curricula 202X report](https://csed.hosting.acm.org/)
 
 ### <a id="first_job_readiness"></a>How Should CS Programs Balance First-Job Readiness and Foundations for Long-Term Career Success?
-Mikey Goldweber, Lisa Kaczmarczyk, Rick Blumenthal and Johanna Blumenthal  
+Rajendra K. Raj and Rahul Simha 
 Date: 03/02/2022  
 Time: 8:00 am - 3:00 pm  
 Room: Virtual  
