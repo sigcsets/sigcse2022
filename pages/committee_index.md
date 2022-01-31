@@ -51,7 +51,13 @@ table.multibody tbody:hover, tbody:hover th[rowspan], tbody:hover td[rowspan], t
       </th></tr>
       {% for member in team[1].members %}
         <tr>
+		{% if member.role == "senior" %}
+          <td style="vertical-align:center">{{member.name}}<br>(Senior Co-Chair)</td>
+		{% elsif member.role == "junior" %}
+          <td style="vertical-align:center">{{member.name}}<br>(Junior Co-Chair)</td>
+		{% else %}
           <td style="vertical-align:center">{{member.name}}</td>
+		{% endif %}
           {% if member.inst %}
             <td style="vertical-align:center">{{member.inst}}</td>
           {% else %}
@@ -71,7 +77,13 @@ table.multibody tbody:hover, tbody:hover th[rowspan], tbody:hover td[rowspan], t
     <tr><th scope="col">Name</th><th scope="col">Institution</th></tr>
       {% for member in comm[1].members %}
         <tr>
+ 		{% if member.role == "senior" %}
+          <td>{{member.name}}<br>(Senior Co-Chair)</td>
+		{% elsif member.role == "junior" %}
+          <td>{{member.name}}<br>(Junior Co-Chair)</td>
+		{% else %}
           <td>{{member.name}}</td>
+		{% endif %}
           {% if member.inst %}
             <td>{{member.inst}}</td>
           {% else %}

@@ -3,22 +3,27 @@
   members:
     - name: Maureen Doyle
       inst: Northern Kentucky University
+      role: junior
 
     - name: Larry Merkle
       inst: Air Force Institute of Technology
+      role: senior
 
 
 "Program Co-Chairs":
   email: program@sigcse2022.org
   members:
+    - name: Brian Dorn
+      inst: University of Nebraska at Omaha
+      role: junior
+
     - name: Judithe Sheard
       inst: Monash University
+      role: senior
 
     - name: Leen-Kiat Soh
       inst: University of Nebraska-Lincoln
-
-    - name: Brian Dorn
-      inst: University of Nebraska at Omaha
+      role: junior
 
 "Hybrid Experience Chair":
   email: virtual@sigcse2022.org
@@ -44,9 +49,11 @@
     members:
       - name: Muztaba Fuad
         inst: Winston-Salem State University
+        role: senior
 
       - name: Ashish Aggarwal
         inst: University of Florida
+        role: junior
 
 
   "Birds of a Feather":
@@ -54,9 +61,11 @@
     members:
       - name: Meghan Allen
         inst: University of British Columbia
+        role: senior
 
       - name: Aleata Hubbard Cheuoua
         inst: WestEd, LLC
+        role: junior
 
 
   "Demos and Lightning Talks":
@@ -64,9 +73,11 @@
     members:
       - name: Carsten Kleiner
         inst: University of Applied Sciences & Arts Hannover
+        role: senior
 
       - name: Bedour Alshaigy
         inst: University of Aberdeen
+        role: junior
 
   "Nifty Assignments":
     email: nifty@sigcse2022.org
@@ -82,27 +93,33 @@
     members:
       - name: Ben Stephenson
         inst: University of Calgary
+        role: senior
 
       - name: Tamara Pearson
         inst: Spelman College
+        role: junior
 
   "Posters":
     email: posters@sigcse2022.org
     members:
       - name: Lina Battestilli
         inst: North Carolina State University
+        role: senior
 
       - name: Jennifer Campbell
         inst: University of Toronto
+        role: junior
 
   "Workshops":
     email: workshops@sigcse2022.org
     members:
       - name: S. Monisha Pulimood
         inst: The College of New Jersey
+        role: senior
 
       - name: Cheryl Swanier
         inst: UMass Amherst
+        role: junior
  
 ######################
 
@@ -118,9 +135,11 @@
     members:
       - name: Krish Narayanan
         inst: Eastern Michigan University
+        role: junior
 
       - name: Jeffrey Stone
         inst: Penn State University
+        role: senior
 
   "Community College Liaison":
     email: cc@sigcse2022.org
@@ -133,35 +152,44 @@
     members:
       - name: Joslenne Pena
         inst: Macalester College
+        role: junior
 
       - name: Sam Rebelsky 
         inst: Grinnell College
+        role: senior
 
   "Global Liaison":
     email: global@sigcse2022.org
     members:
       - name: Brett A. Becker
         inst: University College Dublin
+        role: senior
 
       - name: Rodrigo Duran
         inst: Instituto Federal de Mato Grosso do Sul
+        role: junior
 
   "K-12 Liaison":
     email: k12@sigcse2022.org
     members:
       - name: Susan Mengel
         inst: Texas Tech University
+        role: senior
+       
       - name: Kathleen Perry
         inst: Burnt Hills - Ballston Lake High School
+        role: junior
 
   "Kids' Camp":
     email: kidscamp@sigcse2022.org
     members:
       - name: Elana Reiser
         inst: Bismarck State College
+        role: junior
 
       - name: Victoria Hong
         inst: St. Joseph's College - New York
+        role: senior
 
   "Local Arrangements":
     email: local@sigcse2022.org
@@ -183,24 +211,30 @@
   "Publications":
     email: publications@sigcse2022.org
     members:
+       - name: ""
+       - inst: ""
 
   "Publicity and Social Media":
     email: publicity@sigcse2022.org
     members:
       - name: Kate Lockwood
         inst: St. Paul Academy and Summit School
+        role: senior
 
       - name: Scheila Martins
         inst: Independent
+        role: junior
 
   "Social and Board Games":
     email: boardgames@sigcse2022.org
     members:
       - name: Robbie Hott
         inst: University of Virginia
+        role: senior
 
       - name: Benjamin Say
         inst: Colorado State University
+        role: junior
 
 
   "Registration":
@@ -208,12 +242,15 @@
     members:
       - name: Sarah Heckman
         inst: North Carolina State University
+        role: junior
 
       - name: Rachelle Kristof Hippler
         inst: Baldwin Wallace University
+        role: senior
 
       - name: Brianna Morrison
         inst: University of Omaha
+        role: junior
 
 
   "SIGCSE Board Liaison":
@@ -226,32 +263,41 @@
     members:
       - name: Mark Floryan
         inst: University of Virginia
+        role: senior
 
       - name: Christopher Gregg
         inst: Stanford University
+        role: junior
 
       - name: Sara Melnick
         inst: Independent
+        role: senior
 
       - name: Timothy Yuen
         inst: The University of Texas at San Antonio                            
+        role: junior
 
   "Sponsor/Exhibitor Liaisons":
     email: exhibitor@sigcse2022.org
     members:
       - name: Elizabeth K. Hawthorne
         inst: Rider University
+        role: junior
 
       - name: Jodi Tims
         inst: Northeastern University
+        role: senior
 
   "Treasurer":
     email: treasurer@sigcse2022.org
     members:
       - name: Scott McElfresh
         inst: Christopher Newport University
+        role: senior
+
       - name: Deepti Joshi
         inst: The Citadel
+        role: junior
 
 
   "Web and Data":
@@ -259,9 +305,11 @@
     members:
       - name: Adam Blank
         inst: California Institute of Technology
+        role: senior
 
       - name: Michael Bauer 
         inst: Leeward Community College
+        role: junior
 
 "Associate Program Chairs":
   CER:
