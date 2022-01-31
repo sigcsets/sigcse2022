@@ -140,7 +140,7 @@ sessions:
     start: "15:30"
     end: "18:30"
     location: "Providence II/III Ballroom (Omni)"
-    presenters: "Richard Lander, Amy Ko, and Kristen Shinohara"
+    presenters: "Richard Ladner, Amy Ko, and Kristen Shinohara"
     description: 
         "In this session, participants will learn from faculty about how they have integrated accessibility and disability topics into their computer science courses. There are certain courses, such as web or app design and development and human-computer interactions, that should be addressing accessibility because of the human-facing nature of software. Less obvious are courses, such as intro CS, computer vision, natural language processing, data compression, software engineering, and others, that can also have accessibility and disability content. After the presentations, participants will break into small groups to discuss more ways to include these topics into their courses. The contents of the workshop will be documented and be available on the AccessComputing website after the conference.
         <br><br>
