@@ -74,7 +74,7 @@ This free and open to all, [SIGCAS-sponsored affiliated event](https://www.sigca
 ### <a id="first_job_readiness"></a>How Should CS Programs Balance First-Job Readiness and Foundations for Long-Term Career Success?
 Rajendra K. Raj and Rahul Simha 
 Date: 03/02/2022  
-Time: 8:00 am - 3:00 pm  
+Time: 4:00 pm - 6:00 pm  EST
 Room: Virtual  
 
 It has been a long standing tradition for employers to complain that CS graduates lack many Day-1 job-readiness skills and for faculty to insist that academic programs should focus on long-lasting foundational material instead of trying to satisfy the multitude of short-term employer needs. If a CS undergraduate program was designed by employers of CS graduates, it would look considerably different from today’s academia-designed programs, as shown in the parallel education computing programs now being offered by several employers. This session asks several questions relevant to CS curricula: Is there a middle ground? Is there a principled approach to addressing the balance? How does one balance foundational concepts with practical skills? How would we know what is effective and what is not? Come join the discussion and participate in a workshop that will not only feature industry panelists but also a hands-on design component.
