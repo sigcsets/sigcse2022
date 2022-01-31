@@ -157,7 +157,11 @@ We thank you for your patience with us as we navigate the complexities associate
 <div class="block_header">{{day.name}}</div>
 {% for session in site.data.program2['sessions'] %}
 {% if day.day == session.day %}
+{% if session.id == null %}
 <div class="element-item card" style="width: 100%">
+{% else %}
+<div class="element-item card" style="width: 100%" id="{{ session.id }}">
+{% endif %}  
   <div class="container">
     <h3>{{session.title}}</h3>
     {{day.name}} 

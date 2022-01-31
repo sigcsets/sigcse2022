@@ -258,13 +258,21 @@ sessions:
 # 3/3 0815
 
   - type: "Keynotes"
+    id: "liskov"
     title: "Opening Plenary"
     day: "3/3/2022"
     start: "8:15"
     end: "9:45"
     location: "Ballroom A-E (RICC)"
     hybrid: "Y"
-    presenters: ""
+    presenters: "Barbara Liskov (MIT)"
+    description: "
+      **Reflections on Programming Methodology**
+      <br>
+      Research in programming methodology led to the development of the principles and methods that underlie how modern software systems are designed and structured.  At the center of this work are the notions of abstraction and modularity. These ideas are related: design is the process of inventing and identifying abstractions, and the implementations of the abstractions become the modules that make up the program.  This talk will discuss our current understanding of abstraction and modularity and the research that got us to where we are today.
+      <br><br>
+      **Barbara Liskov** is an Institute Professor at MIT. Her research interests include distributed and parallel systems, programming methodology, and programming languages. Liskov is a member of the National Academy of Engineering, the National Academy of Sciences, the National Inventors Hall of Fame, and the Massachusetts Academy of Sciences.  She is a fellow of the American Academy of Arts and Sciences and the Association for Computing Machinery, and a charter fellow of the National Academy of Inventors. She received the ACM Turing Award in 2009, the IEEE Von Neumann medal in 2004, the IEEE Pioneer Award in 2018, a lifetime achievement award from the Society of Women Engineers in 1996, the ACM SIGPLAN Programming Language Achievement Award in 2008, the ACM Sigops Hall of fame award in 2012, and the Stanford Hero of Engineering award in 2019."
+
 
 # 3/3 1000
 
@@ -556,13 +564,23 @@ sessions:
     hybrid: "N"
     presenters: ""
   - type: "Lunches"
+    id: "deers"
     title: "First Timers' Lunch"
     day: "3/3/2022"
     start: "12:00"
     end: "13:45"
     location: "Ballroom A-E (RICC)"
     hybrid: "Y"
-    presenters: ""
+    presenters: "Jeffrey C. Carver (University of Alabama), Sarah Heckman (NC State University), and Mark Sherriff (University of Virginia)"
+    description: "
+      **Getting Involved with the SIGCSE Technical Symposium and Education Research**
+      <br>Welcome to the SIGCSE Technical Symposium, where there’s always a lot going on!  As a first timer it can be difficult to decide how to allocate your time among all of the technical sessions, panels, special sessions, supporter sessions, birds-of-a-feather sessions, posters, the show floor, and more.  Jeff, Sarah, and Mark will provide tips on how to make the most of your time during the Technical Symposium and how to get involved in the future.  One great way to get involved is to take the excitement and inspiration from your first Technical Symposium to start your own empirical computing education research journey.
+      <br><br>
+      **Jeffrey C. Carver** is Professor and Graduate Program Director of Computer Science at the University of Alabama where he also serves as Chair of the Cyber Initiative. His primary research focus is on Empirical Software Engineering and Computer Science Education. He is currently a PI on three educational research projects funded by NSF focusing on 1) the use of empirical methods in CER research, 2) improving software testing education for early CS students, and 3) software engineering training for research software engineers. He is a Senior Member of ACM and IEEE. More details available on his website <http://carver.cs.ua.edu>. Contact him at <carver@cs.ua.edu>.
+      <br><br>
+      **Sarah Heckman** is a Teaching Professor and Director of Undergraduate Programs in the Department of Computer Science at NC State University.  She has received several teaching awards including recognition as an Alumni Distinguished Undergraduate Professor from NC State.  Her research interests are in computing education research, particularly around student help-seeking and support. Sarah is a member of the SIGCSE Technical Symposium Steering Committee, a member of the SIGCSE 2022 TS registration team (stop by the registration desk to say hi!), and was the Program Chair for the Technical Symposium in 2019 and 2020.  She is a Senior Member of the ACM and IEEE.  More details are available on her website: <https://people.engr.ncsu.edu/sesmith5/>. She may be reached at <sarah_heckman@ncsu.edu>.
+      <br><br>
+      **Mark Sherriff** is a Professor of Computer Science (Academic General Faculty) in the Department of Computer Science at the University of Virginia.  He was the founding director of the Center for Innovation in Computing Education and Outreach, which focuses on improving the impact of CS education research at UVA and abroad.  He has received numerous teaching awards in his career, including the 2016 IEEE Computer Society Mary Kenneth Keller Computer Science & Engineering Undergraduate Teaching Award and the 2014 UVA All-University Teaching Award.  He is active in the SIGCSE community, serving as Symposium Co-Chair for the 2020 and 2021 SIGCSE Technical Symposium.  He is a Senior Member of the ACM and IEEE.  More details are available on his website <http://marksherriff.com>.  He can be reached at <sherriff@virginia.edu>."
 
 # 3/3 1345
 
@@ -1472,13 +1490,20 @@ sessions:
 # 3/4 0815
 
   - type: "Keynotes"
+    id: "ericson"
     title: "Outstanding Contribution Plenary"
     day: "3/4/2022"
     start: "8:15"
     end: "9:45"
     location: "Ballroom A-E (RICC)"
     hybrid: "Y"
-    presenters: ""
+    presenters: "Barbara Ericson (University of Michigan)"
+    description: "
+      **Improving Diversity in Computing through Increased Access and Success**
+      <br>
+      My goal is to increase diversity in computing. In this talk I explain why diversity is important to me.  My strategy to improve diversity is to increase access and success.  This work includes teacher professional development, summer camps, weekend workshops with youth serving organizations, curriculum development, helping states make systemic changes to computing education, publicizing gender and race issues in Advanced Placement Computer Science, creating free and interactive ebooks, testing new types of practice problems/tools, and offering near-peer mentoring programs.
+      <br><br>
+      **Barbara Ericson** is an Assistant Professor in the School of Information at the University of Michigan.  She conducts research at the intersection of computing education, the learning sciences and HCI, to improve students' access to and success in computing. With her husband and colleague, Dr. Mark Guzdial, she received the 2010 ACM Karl V. Karlstrom Outstanding Educator Award for their work on media computation.  She was the 2012 winner of the A. Richard Newton Educator Award for her efforts to attract more females to computing.  She is also an ACM Distinguished Member for Outstanding Educational Contributions to Computing."
 
 # 3/4 1000
 
@@ -2459,13 +2484,24 @@ sessions:
     hybrid: "N"
     presenters: "Sarah Heckman (North Carolina State University); Rachelle Kristof Hippler (Baldwin Wallace University); Briana Morrison (University of Virginia)"
   - type: "Keynotes"
+    id:  "daily"
     title: "Closing Celebration Plenary"
     day: "3/5/2022"
     start: "8:00"
     end: "9:15"
     location: "Ballroom A-E (RICC)"
     hybrid: "Y"
-    presenters: ""
+    presenters: "Keynote: Shaundra B. Daily, Ph.D. (Duke University)"
+    description: "
+      **Diversifying Computing: Real Change Must Come from Within**
+      <br>
+      In addition to holding the key to solving some of our most pressing challenges, it is no secret that computing touches nearly every facet of modern life. As a result, society can no longer afford for these fields to be reserved for a chosen few. It is imperative that we are inclusive of a broad range of student identities, so they can contribute to the driving the future of technologies that will impact the world as well as participate in economic opportunities presented by tech innovation. Changing this trajectory cannot rely on those most marginalized in computing. Rather, institutions must actively analyze and change the policies and practices that serve as barriers to diversifying the landscape. In this talk, Dr. Daily will discuss the challenges associated with centering interventions on marginalized groups as well as how we can move towards a more inclusive future of computing by focusing within.
+      <br><br>
+      **Shaundra Daily** is professor of the practice of electrical and computer engineering & computer science at Duke University. Prior to joining Duke, she was an associate professor with tenure at the University of Florida in the Department of Computer & Information Science & Engineering.
+      <br><br>
+      Dr. Daily's research focuses on the design, implementation, and evaluation of technologies, programs, and curricula to support diversity, equity, and inclusion in STEM fields. Her approach has focused on three key strategies: designing, implementing, and evaluating technologies that enhance interpersonal skills that will facilitate collaboration in diverse settings; creating technologies and programs geared towards making computing and engineering accessible to diverse audiences; and mentoring, participating in outreach, and researching the experiences of marginalized groups in computing and engineering.
+      <br><br>
+      Having garnered over $40M in funding from public and private sources to support her research activities, Daily’s work has been featured in USA Today, Forbes, National Public Radio, and the Chicago Tribune. Daily earned her B.S. and M.S. in Electrical Engineering from the Florida Agricultural and Mechanical University – Florida State University College of Engineering, and a S.M. and Ph.D. from the MIT Media Lab."
 
 # 3/5 0920
 
