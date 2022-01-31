@@ -17,8 +17,8 @@ sessions:
   # - type: "Affiliated Event"
     # title: "Affiliated Event &mdash; Professional Development Session for New and Aspiring Educators"
     # day: "3/2/2022"
-    # start: "TBA"
-    # end: "TBA"
+    # start: "08:30"
+    # end: "12:00"
     # location: "Room 556 A/B (RICC)"
     # presenters: "Sarah Heckman and others"
     # description: 
@@ -104,7 +104,7 @@ sessions:
         <br><br>
         We give you a magic wand; what does your new computing curriculum look like?
         <br><br>
-        This free and open to all, [IGCAS-sponsored affiliated event](https://www.sigcas.org/csged/) will explore this question through prepared presentations, group activities, and the sharing of pro- posals among the participants and hopefully the larger computing education community. Our shared intent is to shape the next gen- eration of computing curricula, such as the upcoming [Computer Science Curricula 202X report](https://csed.hosting.acm.org/)"
+        This free and open to all, [SIGCAS-sponsored affiliated event](https://www.sigcas.org/csged/) will explore this question through prepared presentations, group activities, and the sharing of pro- posals among the participants and hopefully the larger computing education community. Our shared intent is to shape the next gen- eration of computing curricula, such as the upcoming [Computer Science Curricula 202X report](https://csed.hosting.acm.org/)"
 
 
 # 3/2 1330
@@ -2762,7 +2762,7 @@ sessions:
           hybrid: "N"
           presenters: "TJ OConnor (Florida Institute of Technology)"
   - type: "Lightning Talks"
-    title: "Paper Session &mdash; Lightning Talks #2"
+    title: "Lightning Talks #2"
     day: "3/5/2022"
     start: "9:20"
     end: "10:35"
