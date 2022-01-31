@@ -480,7 +480,7 @@ Alina Zaman (University of Memphis); Vinhthuy Phan (University of Memphis); Amy 
 Amogh Mannekote (University of Florida); Mehmet Celepkolu (University of Florida); Aisha Chung Galdo (University of Florida); Kristy Elizabeth Boyer (University of Florida); Maya Israel (University of Florida); Sarah Heckman (North Carolina State University); Kristin Stephens-Martinez (Duke University)
   
 **Improved Testing of PrairieLearn Question Generators**  
-Aayush Shah (UC Berkeley); Alan Lee (UC Berkeley); Chris Chi (Harvard University); Ruiwei Xiao (University of Washington at St. Louis); Pranav Sukumar (UC Berkeley); Jesus Villalobos (UC Berkeley); Dan Garcia (UC Berkeley)
+Aayush Shah (UC Berkeley); Alan Lee (UC Berkeley); Chris Chi (Harvard University); Ruiwei Xiao (Washington University in St. Louis); Pranav Sukumar (UC Berkeley); Jesus Villalobos (UC Berkeley); Dan Garcia (UC Berkeley)
   
 **Supporting Teacher Professional Learning and Curriculum Implementation Through Collaborative Curriculum Design**  
 Lijun Ni (University at Albany, State University of New York); Gillian Bausch (University at Albany, State University of New York); Bernardo Feliciano (University of Massachusetts Lowell); Hsien-Yuan Hsu (University of Massachusetts Lowell); Fred Martin (University of Massachusetts Lowell)
