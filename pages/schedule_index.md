@@ -147,6 +147,7 @@ Last update: {{ "now" | date: "%A, %B %d, %Y" }}
 1. Each entry includes the day, time, and room assigned. The day and time assignments should be correct and final, whereas the room assignment process is still on-going. All times shown are Eastern Standard Time (EST).
 1. For full details about the Workshops, please visit the [Workshops Page](/schedule/workshops).
 1. Full details about Affiliated Events are now included below.
+1. A [roadmap](https://docs.google.com/document/d/1Z7w8HJ03WB5X0qF0b71eOKaP6CsDUMPw/edit?usp=sharing&ouid=107906839535250673001&rtpof=true&sd=true) of suggested sessions for K-12 participants to attend is now available.
 </div>
 
 <div markdown="1">
