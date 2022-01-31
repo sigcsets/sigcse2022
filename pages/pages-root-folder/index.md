@@ -7,21 +7,9 @@
 layout: frontpage
 header:
   image_fullwidth: sigcse2021-logo-header.png
-#widget1:
-#  title: Registration is open!
-#  url: '/participants#registering-for-sigcse-ts-2022'
-#  #image: logo.png
-#  text: >
 widget1:
-  title: Registration is open!
-  url: '/participants#registering-for-sigcse-ts-2022'
-  text: 'Registration for SIGCSE TS is now open! You can see details on the participants page!'
-  image: ribbons-widget.png
-  style: alert
-widget2:
-  title: "2022 Travel Grant Program!"
-  url: 'https://sigcse.org/programs/travel-grants/index.html '
-  text: 'Applications for the 2022 Travel Grant Program are currently open. The Travel Grant Program was established through a generous, multi-year  donation by Henry Walker to support faculty and teachers who have not yet had an opportunity to attend the SIGCSE Technical Symposium. The SIGCSE Board anticipates funding twenty new awards for the 2022 Symposium.'
+  title: The SIGCSE TS 2022 program schedule is live!
+  url: '/schedule'
   style: alert
 #
 # Use the call for action to show a button on the frontpage
