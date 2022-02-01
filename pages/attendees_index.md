@@ -46,6 +46,63 @@ Note that anyone that already has purchased full registration to the 2021 Techni
 Program content will be delivered in a hybrid modality, with the virtual component hosted on Pathable. Specifically, presenters may participate either in-person or remotely. Selected presentations will be live-streamed to remote participants, including the keynote addresses, panels, special sessions, and nifty assignments. All papers, lightning talks, demos, and posters will have a pre-recorded video on the online platform. Authors of in-person presentations that are not live-streamed will be online at specific times in the Authors’ Corner, where they will be available to discuss their work.
 
 
+## Accessibility
+The SIGCSE community is becoming increasingly diverse, with attendees from all over the world who represent varied gender, racial, ethnic, disability, and other identities. This set of Frequently Asked Questions is here to help you navigate accessibility at the conference. If you have any additional questions or concerns, please contact the Accessibility Liaison, Mohsen Dorodchi, at [accessibility@sigcse2022.org](mailto:accessibility@sigcse2022.org).
+
+### Q: Is there a room for nursing mothers?
+**A:** Yes. There is a room for nursing on the fifth floor of the convention center next to room 557.  This room is equipped with a refrigerator and full bathroom.  Please see the Registration Desk to obtain the key.
+
+### Q: What if I experience harassment at the conference?
+**A:** In accordance with the [ACM Conference Policy](https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment), harassment and hostile behavior are unwelcome at SIGCSE TS 2022. If you have been harassed or you witness harassment, please contact the conference chairs ([symposium@sigcse2022.org](mailto:symposium@sigcse2022.org) .  If you prefer to report behavior anonymously this can be done using the [ACM form for Reporting violations of the ACM Policy Against Harassment](https://www.acm.org/about-acm/reporting-unacceptable-behavior), which supports anonymous reporting.
+
+### Q:  Are there gender-inclusive restrooms available?
+**A:** Yes.  Two gender-inclusive restrooms are available in the convention center as indicated by the stars on the following maps. One is at the rear of Exhibition Hall C on the 3rd Level:
+
+![map of gender-inclusive restrooms, 3rd level](/images/acc2.png)
+
+The other gender-inclusive restroom is in the West Prefunction area on the 5th Level:
+
+![map of gender-inclusive restrooms, 5th level](/images/acc1.png)
+
+
+### Q: What are accessible transport options for getting to the conference venue?
+**A:** Please see the [SIGCSE TS 2022 Travel Information section](/participants/#hotel-and-travel-information) for information on getting to Providence.
+
+The Omni Hotel is connected to the Rhode Island Convention Center by an enclosed walkway with automatic door openers.
+
+For information about Rhode Island’s T.F. Green International Airport please reference [https://www.pvdairport.com/terminal/accessibility](https://www.pvdairport.com/terminal/accessibility).
+
+Taxis and rideshares can be ordered on demand from the airport, with typically short wait times, if any at all. Access to the MBTA Commuter Rail and the RIPTA city bus is available at the airport. The airport’s Commuter Rail train provides service to the downtown Providence Amtrak Station, which is directly across the street from the Rhode Island State House. Some useful links:
+
+- [Commuter Rail \| Schedules & Maps \| MBTA](https://www.mbta.com/schedules/commuter-rail)
+- [Schedules - RIPTA](https://www.ripta.com/schedules/)
+- [TF Green Airport Car Service & Transportation \| PVD \| Uber](https://www.uber.com/global/en/airports/pvd)
+- [Providence - Lyft](https://www.lyft.com/rider/cities/providence-ri)
+
+RIPTA city bus service is available to/from T.F. Green on route numbers 1, 8, 14, and 20.
+
+### Q: Will any events be off-site?
+**A:** No. All events will take place at the Rhode Island Convention Center and Omni Hotel.
+
+### Q: What is the layout of the conference venue? Where are the elevators and stairs?
+**A:**  Please see our Omni map and Rhode Island Convention Center map for details (above, with more coming soon). All areas, including restrooms and food courts, are accessible. Elevators are located on each level, with a wheelchair lift to the Mezzanine level. Both adjacent parking facilities have specifically marked parking spaces for patrons with physical limitations. Van parking for disabled patrons is located at the north end of the parking garage across from the North Garage entrance. A limited number of wheelchairs are available to patrons who need them. Please email [accessibility@sigcse2022.org](mailto:accessibility@sigcse2022.org) if you have specific needs.
+
+### Q: On which level(s) of the venue will the conference be held? What are the names of session rooms, lunch rooms, reception rooms?
+**A:** Two floors in the Omni and one floor in the convention center will be used.  All sessions and names can be found [on the program schedule page](/schedule/).
+
+### Q: Will the conference be a smoke-free environment?
+**A:** There is no smoking inside the conference hotels or the conference center.
+
+### Q: Will there be microphones for attendees in session rooms?
+**A:** Yes. Guidelines for session chairs and presenters request that all participants use microphones.
+
+### Q: Is there an option to attend the conference remotely by robots (e.g., Beams)?
+**A:** We are sorry, but SIGCSE TS 2022 will not be able to provide remote attendance by robot. [Remote participation](/participants#remote-participants) through our virtual platform is supported.
+
+### Q: Does the conference center have any areas with an induction loop for hearing assistance?
+**A:** No, there is not an induction loop. However, special hearing devices can be hooked into the sound system if the convention center and AV company is informed of your needs in advance.  Please email [accessibility@sigcse2022.org](mailto:accessibility@sigcse2022.org) if you require this.
+
+
 ## Hotel and Travel Information          
 Reserve your room at the 2022 SIGCSE Technical Symposium headquarter hotel, Omni Providence, by February 7th to ensure the SIGCSE discounted rate. The Omni Providence is connected to the Rhode Island Convention Center.  Hotel rooms and rates are based on availability. Be sure to reserve before February 7th to guarantee your room.
 - [Travel Information](https://www.goprovidence.com/sigcse/getting-here/)
