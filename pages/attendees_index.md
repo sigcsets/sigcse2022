@@ -40,14 +40,36 @@ Note that anyone that already has purchased full registration to the 2021 Techni
 
 <a class="button large radius {{ site.data.registration.registration_button.style }}" href="{{ url }}{{ site.data.registration.registration_button.url }}"{% if site.data.registration.registration_button.url contains 'http' %} target="_blank" {% endif %}>{{ site.data.registration.registration_button.text }}</a>
 -->
-## Hotel and Travel Information for SIGCSE TS 2022          
+
+
+## Hybrid Experience
+Program content will be delivered in a hybrid modality, with the virtual component hosted on Pathable. Specifically, presenters may participate either in-person or remotely. Selected presentations will be live-streamed to remote participants, including the keynote addresses, panels, special sessions, and nifty assignments. All papers, lightning talks, demos, and posters will have a pre-recorded video on the online platform. Authors of in-person presentations that are not live-streamed will be online at specific times in the Authors’ Corner, where they will be available to discuss their work.
+
+
+## Hotel and Travel Information          
 Reserve your room at the 2022 SIGCSE Technical Symposium headquarter hotel, Omni Providence, by February 7th to ensure the SIGCSE discounted rate. The Omni Providence is connected to the Rhode Island Convention Center.  Hotel rooms and rates are based on availability. Be sure to reserve before February 7th to guarantee your room.
 - [Travel Information](https://www.goprovidence.com/sigcse/getting-here/)
 - [Hotel Information](https://www.goprovidence.com/sigcse/hotel-information/)
 
 
-## Registering for SIGCSE TS 2022          
+### Roommate Database
+The [SIGCSE TS 2022 Roommate Finder](https://app.miniextensions.com/form/HQQb5whwEXxH4RqmnHcp) database's purpose is to allow SIGCSE attendees to 
+search for other attendees wanting to share rooms.  The database is an information resources only, the rest is up to you.
+This database stores your information, whether you have a hotel room or not, and then allows you to search for a roommate.  Once you and a roommate agree to share,  please fill out the form filled to you to be removed from the active list of roommate seekers.
 
+
+### Visas
+<strong>Letters from ACM in support of visa applications:</strong> ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. For visa support letters, please send all requests to supportletters@acm.org with the following information.
+<ol>
+<li>Name and mailing address as it appears on your passport.</li>
+<li>The name of the conference you wish to attend.</li>
+<li>Registration confirmation number.</li>
+<li>If you are the author of any papers accepted for the conference, please provide the title.</li>
+<li>Fax number and/or e-mail address of where the invitation letter should be sent</li>
+</ol>
+
+
+## Registration          
 <center style="margin-top: -20px; margin-bottom: 20px">
 <h3><a href="https://cvent.me/17lVE2">Registration is now open here.</a></h3>
 </center>
@@ -62,9 +84,9 @@ The 53rd ACM Technical Symposium on Computer Science Education Hybrid Event will
 The SIGCSE TS 2022 organizing committee is excited to offer options for participants to participate virtually or travel to Providence and attend the conference in person. We hope to have an exciting and engaging experience for all participants, and hope very much to see many of you in person.  Recognizing that participants need information to make decisions about travel and gathering, we will keep this site updated with information as it is available.  Our registration system will allow you to switch your own registration between in-person and virtual participation, but keep in mind the discount dates.  The cost for your new registration will be based on the date you change it, not the date when you first registered. 
 
 
-### In-Person Registration
+### In-Person Participants
 {% for rate_category in site.data.registration.rates %}
-  <h3>{{ rate_category[0] }}</h3>
+  <h4>{{ rate_category[0] }}</h4>
   <table width="100%" class="multibody">
     <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.registration.dates.early}}</th><th scope="col">Regular: <br>{{site.data.registration.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.registration.dates.day-of}}</th></tr>
     <tbody>
@@ -73,12 +95,12 @@ The SIGCSE TS 2022 organizing committee is excited to offer options for particip
     {% endfor %}
     </tbody>
   </table>
-  
 {% endfor %}
 
-### Virtual Registration
+
+### Remote Participants
 {% for rate_category in site.data.virtualRegistration.virtual %}
-  <h3>{{ rate_category[0] }}</h3>
+  <h4>{{ rate_category[0] }}</h4>
   <table width="100%" class="multibody">
     <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtualRegistration.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtualRegistration.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.virtualRegistration.dates.day-of}}</th></tr>
     <tbody>
@@ -87,13 +109,13 @@ The SIGCSE TS 2022 organizing committee is excited to offer options for particip
     {% endfor %}
     </tbody>
   </table>
-  
 {% endfor %}
 * _All registration rates are in US$._    
 * _Student registration rates are for full-time students only. Please bring evidence of full-time student status to the conference._    
 * _The Exhibits Only registration rates grant access ONLY to the exhibit hall, supporter sessions, and selected Affiliated Events.  Such participants will NOT have access to any other content from the Technical Symposium with this type of registration, including keynotes, technical sessions, workshops, Birds-of-a-Feather, and others.  Presenters cannot choose this category._
 
-# Workshops
+
+### Workshops
   <table width="100%" class="multibody">
     <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtualRegistration.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtualRegistration.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.virtualRegistration.dates.day-of}}</th></tr>
     <tbody>
@@ -107,30 +129,14 @@ The SIGCSE TS 2022 organizing committee is excited to offer options for particip
 To see what workshops are being offered, you can look at the [list of workshops](https://sigcse2022.sigcse.org/schedule/workshops/).
   
 
-## Hybrid Experience
-Program content will be delivered in a hybrid modality, with the virtual component hosted on Pathable. Specifically, presenters may participate either in-person or remotely. Selected presentations will be live-streamed to remote participants, including the keynote addresses, panels, special sessions, and nifty assignments. All papers, lightning talks, demos, and posters will have a pre-recorded video on the online platform. Authors of in-person presentations that are not live-streamed will be online at specific times in the Authors’ Corner, where they will be available to discuss their work.
+### Cancellation Policy
+<p><strong>Cancellation requests must be made by March 1, 2022 at 11:59 PM Eastern Time.</strong> A processing fee of US$100 will be assessed for full rate registrations. A processing fee of US$25 will be assessed for reduced rate and virtual registrations. Regrettably, cancellations received after that date cannot be honored. The conference committee recognizes that sometimes last-minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts. In-person registrants are strongly advised to purchase travel insurance to cover their non-refundable expenses. Also, registrants who find themselves unable to attend should be aware that registrations are transferable, but in general the conference committee cannot assist in finding an appropriate recipient.</p>
+
+<p><strong>In the event that the Symposium is cancelled due to circumstances beyond the organizers' control,</strong> refunds are not guaranteed. If refunds are issued, the amount will depend on the expenses and financial commitments incurred by the Symposium as of the cancellation date.</p>
+
 
 ## On-Site Student Volunteers 
-
 Student volunteers are an important part of the SIGCSE Symposium and have been for many years. Student volunteers are on-site attendees attending the physical conference who are full-time undergraduate or graduate students. Each volunteer works for 9 hours (or less, as assigned), helping with various conference management activities. You'll interact with the conference organizers and presenters and will meet other students from all over the world. [More information about the experience, the benefits, and how to sign up are provided here](/participants/studentvolunteers).
-
-
-<!--
-## Health and Safety
-The ACM SIGCSE TS 2022 committee is commited to providing our community with a conference that supports virtual and in-person participation.  As the registration dates get closer, we will provide details on the platform for virtual attendees and what to expect if traveling to Providence.
-
-Please know that we will adhere to ACM, ACM SIGCSE, [CDC](https://www.cdc.gov/coronavirus/2019-ncov/your-health/gatherings.html) and [Rhode Island Convention Center](https://www.riconvention.com/attend-an-event/covid-19-event-updates) recommendations, guidelines, and health protocols. In particular, the SIGCSE Board is requiring all in-person attendees at the SIGCSE Technical Symposium 2022 in Providence, RI, USA, to show proof of full vaccination. They are not allowing exemptions at this time because there are opportunities for attendees to participate remotely.
--->
-
-## Visas
-<p><strong>Letters from ACM in support of visa applications:</strong></p><p>ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee. For visa support letters, please send all requests to supportletters@acm.org with the following information.</p>
-<ol>
-<li>Name and mailing address as it appears on your passport.</li>
-<li>The name of the conference you wish to attend.</li>
-<li>Registration confirmation number.</li>
-<li>If you are the author of any papers accepted for the conference, please provide the title.</li>
-<li>Fax number and/or e-mail address of where the invitation letter should be sent</li>
-</ol>
 
 
 ## Carbon Offsets
@@ -148,10 +154,6 @@ Please make checks payable to ACM/SIGCSE with the memo "The SIGCSE Travel Grant 
 
 -->
 
-## Roommate Database
-The [SIGCSE TS 2022 Roommate Finder](https://app.miniextensions.com/form/HQQb5whwEXxH4RqmnHcp) database's purpose is to allow SIGCSE attendees to 
-search for other attendees wanting to share rooms.  The database is an information resources only, the rest is up to you.
-This database stores your information, whether you have a hotel room or not, and then allows you to search for a roommate.  Once you and a roommate agree to share,  please fill out the form filled to you to be removed from the active list of roommate seekers.
 
 ## KidsCamp
 Unfortunately, due to the uncertainty of travel and lack of vaccine availability for children under 5, we are unable to offer Kids' Camp this year.
@@ -207,11 +209,5 @@ For help with special circumstances, such as proof of participation, please emai
 
 Authors or presenters with questions regarding their participation in the Technical Symposium should email [program@sigcse2022.org](mailto:program@sigcse2022.org) or [symposium@sigcse2022.org](mailto:symposium@sigcse2022.org) as appropriate.
 -->
-
-## Cancellation Policy
-
-<p><strong>Cancellation requests must be made by March 1, 2022 at 11:59 PM Eastern Time.</strong> A processing fee of US$100 will be assessed for full rate registrations. A processing fee of US$25 will be assessed for reduced rate and virtual registrations. Regrettably, cancellations received after that date cannot be honored. The conference committee recognizes that sometimes last-minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts. In-person registrants are strongly advised to purchase travel insurance to cover their non-refundable expenses. Also, registrants who find themselves unable to attend should be aware that registrations are transferable, but in general the conference committee cannot assist in finding an appropriate recipient.</p>
-
-<p><strong>In the event that the Symposium is cancelled due to circumstances beyond the organizers' control,</strong> refunds are not guaranteed. If refunds are issued, the amount will depend on the expenses and financial commitments incurred by the Symposium as of the cancellation date.</p>
 
 <hr />
