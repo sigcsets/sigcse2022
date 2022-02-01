@@ -16,9 +16,7 @@ Posters should not be previously published, as a paper or a poster.
  
 Graduate or undergraduate students submitting posters may instead wish to submit to the [ACM Student Research Competition (SRC)]({{ site.url }}{{ site.baseurl }}/authors/src) held at SIGCSE Technical Symposium. Like normal posters, ACM SRC posters are displayed at the conference, but the top poster authors also present their work orally, may win prizes and proceed to the international ACM Student Research Competition. 
  
-Separately from the ACM SRC, this year there is also an [award from the Council of Undergraduate Research (CUR) for undergraduates presenting posters.](#cur) 
- 
- 
+Unfortunately there will not be an [award from the Council of Undergraduate Research (CUR) for undergraduates presenting posters](#cur) at SIGCSE TS 2022. 
 {% include review-anonymity.html %}
  
  
