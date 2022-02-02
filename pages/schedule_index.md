@@ -172,7 +172,7 @@ We thank you for your patience with us as we navigate the complexities associate
 		{% endif %}
 	<br>
     {% if session.location %} <i>{{ session.location }}</i><br> {% endif %}
-    {% if session.subsessions == null and session.presenters %}
+    {% if session.presenters %}
 		<p>{{session.presenters}}</p>
     {% endif %}
     {% if session.description != null %}<span markdown="1">{{ session.description }}</span><br><br>{% endif %}

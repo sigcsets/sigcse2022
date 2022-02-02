@@ -353,7 +353,7 @@ sessions:
     end: "12:00"
     location: "Providence Ballroom I/IV (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Gustavo Rodriguez-Rivera (Purdue University, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Integrated Data Science for Secondary Schools: Design and Assessment of a Curriculum"
@@ -386,7 +386,7 @@ sessions:
     end: "12:00"
     location: "Providence Ballroom II/III (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Helen Zhang (Boston College, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Remote Early Research Experiences for Undergraduate Students in Computing"
@@ -411,7 +411,7 @@ sessions:
     end: "12:00"
     location: "Narragansett Ballroom A (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Anni Reinking (CSEdResearch.org)"
     subsessions:
         - type: "Paper Sessions"
           title: "English Language Learners in Computer Science Education: A Scoping Review"
@@ -444,7 +444,7 @@ sessions:
     end: "12:00"
     location: "Narragansett Ballroom B (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Joel Adams (Calvin University, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Preventing Cheating in Hands-on Lab Assignments (ERT Best Paper)"
@@ -477,7 +477,7 @@ sessions:
     end: "12:00"
     location: "Narragansett Ballroom C (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: John Edwards (Utah State University)"
     subsessions:
         - type: "Paper Sessions"
           title: "Cheating Detection in Online Assessments via Timeline Analysis (ERT Best Paper)"
@@ -510,7 +510,7 @@ sessions:
     end: "12:00"
     location: "Waterplace Ballroom I (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Eric Fouh (University of Pennsylvania, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Labtool: A Command-Line Interface Lab Assistant and Assessment Tool"
@@ -626,7 +626,7 @@ sessions:
     end: "15:00"
     location: "Providence Ballroom I/IV (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Luther Tychonievich (University of Virginia, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Predicting Student Success in CS2: A Study of CS1 Exam Questions"
@@ -659,7 +659,7 @@ sessions:
     end: "15:00"
     location: "Providence Ballroom II/III (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Michelle Friend (University of Nebraska at Omaha, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Exploring Common Writing Issues in Upper-Year Computer Science"
@@ -692,7 +692,7 @@ sessions:
     end: "15:00"
     location: "Narragansett Ballroom A (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Guarionex Salivia (Minnesota State University, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Let's Play: Increasing Accessibility Awareness and Empathy Through Games"
@@ -725,7 +725,7 @@ sessions:
     end: "15:00"
     location: "Narragansett Ballroom B (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Angelica Thompson (CSEdResearch.org)"
     subsessions:
         - type: "Paper Sessions"
           title: "AI Book Club: An Innovative Professional Development Model for AI Education"
@@ -758,7 +758,7 @@ sessions:
     end: "15:00"
     location: "Narragansett Ballroom C (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Cecilia O. Alm (Rochester Institute of Technology, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Using Assignment Design as an Instrument to Collect Student Voice"
@@ -791,7 +791,7 @@ sessions:
     end: "15:00"
     location: "Waterplace Ballroom I (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Carla Brodley (Northeastern University, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Peer Grading Without Protest: The SPARK Approach to Summative Peer Assessment"
@@ -904,7 +904,7 @@ sessions:
     end: "17:00"
     location: "Providence Ballroom I/IV (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Alexander Chizhik (San Diego State University, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "How Well do Students Understand the All-Encompassing, Ubiquitous, and Interconnected Nature of IoT? Evaluating Student Capstone Projects"
@@ -937,7 +937,7 @@ sessions:
     end: "17:00"
     location: "Providence Ballroom II/III (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Barbara Ericson (University of Michigan, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "CS Education for the Socially-Just Worlds We Need: The Case for Justice-Centered Approaches to CS in Higher Education"
@@ -970,7 +970,7 @@ sessions:
     end: "17:00"
     location: "Narragansett Ballroom A (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Austin Cory Bart (University of Delaware, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Factors Influencing Student Performance and Persistence in CS2"
@@ -1003,7 +1003,7 @@ sessions:
     end: "17:00"
     location: "Narragansett Ballroom B (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Bita Akram (North Carolina State University, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "*Big Brother*: A Tool for Assessing the Code Quality of Solutions to Programming Assignments"
@@ -1616,7 +1616,7 @@ sessions:
     day: "3/4/2022"
     start: "10:45"
     end: "12:00"
-    location: "Providence Ballroom I/IV (Omni)"
+    presenters: "Session Chair: Brett Becker (University College Dublin, Ireland)"
     hybrid: "N"
     presenters: "Session Chair: TBA"
     subsessions:
@@ -1651,7 +1651,7 @@ sessions:
     end: "12:00"
     location: "Providence Ballroom II/III (Omni)"
     hybrid: "N"
-    presenters: ""
+    presenters: "Session Chair: Briana Morrison and Michelle Craig (University of Virginia, USA and University of Toronto, Canada)"
     subsessions:
         - type: "Sister Sessions"
           title: "Decision Trees for Text Classification in CS2"
@@ -1700,7 +1700,7 @@ sessions:
     end: "12:00"
     location: "Narragansett Ballroom A (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Christopher Hovey (NCWIT/University of Colorado, Boulder, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "What is a Computer Scientist?: Unpacking the Ontological Beliefs of Black and Hispanic Female Computing Students"
@@ -1733,7 +1733,7 @@ sessions:
     end: "12:00"
     location: "Narragansett Ballroom B (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Helen Hu (Westminster College, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Trends in CS Teacher Professional Development: A Report from the CSTA PD Committee"
@@ -1766,7 +1766,7 @@ sessions:
     end: "12:00"
     location: "Narragansett Ballroom C (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Harini Ramaprasad (University of North Carolina at Charlotte, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Comparing Student Experiences of Collaborative Learning in Synchronous CS1 Classes in Gather.Town vs. Zoom"
@@ -1799,7 +1799,7 @@ sessions:
     end: "12:00"
     location: "Waterplace Ballroom I (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Lecia Barker (NCWIT/University of Colorado, Boulder, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Experience Report on the Use of Breakout Rooms in a Large Online Course"
@@ -1896,7 +1896,7 @@ sessions:
     end: "15:00"
     location: "Providence Ballroom I/IV (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: James Prather (Abilene Christian University, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Engineering a Complete Curriculum Overhaul"
@@ -1929,7 +1929,7 @@ sessions:
     end: "15:00"
     location: "Providence Ballroom II/III (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Joe Hummel (University of Illinois, Chicago, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Principles Matter: Integrating an Ethics Intervention into a Computer Security Course"
@@ -1962,7 +1962,7 @@ sessions:
     end: "15:00"
     location: "Narragansett Ballroom A (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Kai Presler-Marshall (North Carolina State University, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Investigating the Impact of Using a Live Programming Environment in a CS1 Course"
@@ -1995,7 +1995,7 @@ sessions:
     end: "15:00"
     location: "Narragansett Ballroom B (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Marnie Hill (North Carolina State University, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Developing Evidence-Based Teacher Practice Briefs with Middle School Computer Science Teachers"
@@ -2028,7 +2028,7 @@ sessions:
     end: "15:00"
     location: "Narragansett Ballroom C (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Mia Minnes (University of California, San Diego, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "CS Curricular Innovations with a Liberal Arts Philosophy"
@@ -2061,7 +2061,7 @@ sessions:
     end: "15:00"
     location: "Waterplace Ballroom I (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Yada Chuengsatiansup (University of California, San Diego, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Gender Influence on Communication Initiated within Student Teams"
@@ -2235,7 +2235,7 @@ sessions:
     end: "17:00"
     location: "Narragansett Ballroom A (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Angelica Thompson (CSEdResearch.org)"
     subsessions:
         - type: "Paper Sessions"
           title: "Departmental Culture and Pedagogical Choices: Student-Centered Teaching in Introductory Computing Classes"
@@ -2260,7 +2260,7 @@ sessions:
     end: "17:00"
     location: "Narragansett Ballroom B (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Nicholas Lytle (University of Florida, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "How a Research-Practice Partnership Refined its Strategy for Integrating CS/CT into K-5 Curricula: An Experience Report"
@@ -2293,7 +2293,7 @@ sessions:
     end: "17:00"
     location: "Narragansett Ballroom C (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Max Fowler (University of Illinois Urbana Champaign, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "YODA: A Pedagogical Tool for Teaching Systems Concepts"
@@ -2326,7 +2326,7 @@ sessions:
     end: "17:00"
     location: "Waterplace Ballroom I (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Adalbert Gerald Soosai Raj (University of California, San Diego, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "A Practical Model of Student Engagement While Programming"
@@ -2553,7 +2553,7 @@ sessions:
     end: "10:35"
     location: "Providence Ballroom I/IV (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Kathryn Cunningham (Northwestern University, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "A Study of the Effects of Oral Proficiency Exams in Introductory Programming Courses on Underrepresented Groups"
@@ -2586,7 +2586,7 @@ sessions:
     end: "10:35"
     location: "Providence Ballroom II/III (Omni)"
     hybrid: "N"
-    presenters: ""
+    presenters: "Session Chair: Amy J. Ko (University of Washington, USA)"
     subsessions:
         - type: "Sister Sessions"
           title: "Psychometric Evaluation of the Cybersecurity Concept Inventory"
@@ -2660,7 +2660,7 @@ sessions:
     end: "10:35"
     location: "Narragansett Ballroom A (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Lecia Barker (NCWIT/University of Colorado, Boulder, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Additional Evidence for the Prevalence of the Impostor Phenomenon in Computing"
@@ -2693,7 +2693,7 @@ sessions:
     end: "10:35"
     location: "Narragansett Ballroom B (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Mohammed Hassan (University of Illinois Urbana Champaign, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Teach More, Not Less Computability Theory in CS202X: A Case for Teaching Multiple Representations of the Church-Turing Thesis"
@@ -2726,7 +2726,7 @@ sessions:
     end: "10:35"
     location: "Narragansett Ballroom C (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Yang Shi (North Carolina State University, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Criminal Investigations: An Interactive Experience to Improve Student Engagement and Achievement in Cybersecurity Courses"
@@ -2928,7 +2928,7 @@ sessions:
     end: "12:30"
     location: "Providence Ballroom I/IV (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Kevin Lin (University of Washingon, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Training Teaching Assistants by Offering an Introductory Course"
@@ -2961,7 +2961,7 @@ sessions:
     end: "12:30"
     location: "Providence Ballroom II/III (Omni)"
     hybrid: "N"
-    presenters: ""
+    presenters: "Session Chair: Monica McGill (CSEdResearch.org)"
     subsessions:
         - type: "Sister Sessions"
           title: "Hiring CS graduates: what we learned from employers"
@@ -3019,7 +3019,7 @@ sessions:
     end: "12:30"
     location: "Narragansett Ballroom A (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Satabdi Basu (SRI International, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Anonymity: A Double-Edged Sword for Gender Equity in a CS1 Forum?"
@@ -3052,7 +3052,7 @@ sessions:
     end: "12:30"
     location: "Narragansett Ballroom B (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: James Prather (Abilene Christian University, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Evaluating Two Approaches to Assessing Student Progress in Cybersecurity Exercises"
@@ -3085,7 +3085,7 @@ sessions:
     end: "12:30"
     location: "Narragansett Ballroom C (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Nicholas Lytle (University of Florida, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Department-wide Multi-semester Community Engaged Learning Initiative to Overcome Common Barriers to Service-Learning Implementation"
@@ -3118,7 +3118,7 @@ sessions:
     end: "12:30"
     location: "Waterplace Ballroom I (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: Vardhan Agarwal (University of California, San Diego, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Comfortable Cohorts and Tractable Teams: Making Large Computing Theory Courses Feel Small"
@@ -3143,7 +3143,7 @@ sessions:
     end: "12:30"
     location: "Room 555 A/B (RICC, Hybrid Room)"
     hybrid: "Y"
-    presenters: "Session Chair: TBA"
+    presenters: "Session Chair: RIchard Blumenthal (Regis University, USA)"
     subsessions:
         - type: "Paper Sessions"
           title: "Training Computing Educators to Become Computing Education Researchers"
