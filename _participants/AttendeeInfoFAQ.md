@@ -22,9 +22,13 @@ We will be offering the conference at the Rhode Island Convention Center, Omni H
 
 ### Answer: Please see our COVID Concierge web page at [new page here].
 
+---
+
 ## Question:  I would like to switch my registration from in-person[virtua] to virtual[in-person].  What should I do?
 
-### Answer: This can be done through Cvent!  If you have any problems, please contact 
+### Answer: This can be done through Cvent!  If you have any problems, please contact <registration@sigcse2022.org] or [symposium@sigcse2022.org].
+
+---
 
 ## Question: Where can I find the most current scheduled program? 
 
@@ -32,7 +36,7 @@ We will be offering the conference at the Rhode Island Convention Center, Omni H
 
 ## Question: I am an in-person attendee and would like to attend some virtual events. Is this possible?
 
-###  Answer:  Yes! SIGCSE is a community, and all are welcome to attend virtual events.  We ask that if you will be participating in an event where you will be uploading your video that you consider doing that outside of the RICC to ensure all SIGCSE TS attendees can access wifi.  <i> There is one exception to this and that are workshops.  We offer workshops in just one modality (in-person or virtual) and in order to support virtual attendees, only virtual registratants can register for virtual workshops. 
+###  Answer:  Yes! SIGCSE is a community, and all are welcome to attend virtual events.  We ask that if you will be participating in an event where you will be uploading your video that you consider doing that outside of the RICC to ensure all SIGCSE TS attendees can access wifi.  *There is one exception to this and that are workshops.  We offer workshops in just one modality (in-person or virtual) and in order to support virtual attendees, only virtual registratants can register for virtual workshops.*
 
 ## Question: Why aren't workshops/BOFs in hybrid mode?
 
