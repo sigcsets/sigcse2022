@@ -826,7 +826,7 @@ sessions:
     end: "15:00"
     location: "Room 552 A/B (RICC, Hybrid Room)"
     hybrid: "Y"
-    presenters: "Lyn E. Swackhamer (University of Colorado); Terina-Jasmine Alladin (NCWIT); Hana Memon (Barnard College); Amy J. Ko (University of Washington); Shira Wein (Georgetown University)"
+    presenters: "Lyn E. Swackhamer (University of Colorado Boulder / NCWIT); Edie Cheng (University of Colorado Boulder / NCWIT); Amy J. Ko (University of Washington); Hana Memon (Barnard College); Shira Wein (Georgetown University)"
   - type: "Panels"
     title: "Panel Session &mdash; It Seemed Like a Good Idea at the Time (COVID-19 edition)"
     day: "3/3/2022"
