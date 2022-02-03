@@ -26,7 +26,7 @@ We will be offering the conference at the Rhode Island Convention Center, Omni H
 
 ## Question:  I would like to switch my registration from in-person[virtua] to virtual[in-person].  What should I do?
 
-### Answer: This can be done through Cvent!  If you have any problems, please contact <registration@sigcse2022.org] or [symposium@sigcse2022.org].
+### Answer: This can be done through Cvent!  If you have any problems, please contact <registration@sigcse2022.org> or <symposium@sigcse2022.org>.
 
 ---
 
@@ -48,5 +48,5 @@ We will be offering the conference at the Rhode Island Convention Center, Omni H
 
 ## Question: Why isn't everything hybrid? 
 
-### Answer: Great question! This is our first foray into offering the SIGCSE TS in a hybrid format.  Our goal is to have a seamless SIGCSE TS, and this is our first huge step in that direction.  
+#### Answer: Great question! This is our first foray into offering the SIGCSE TS in a hybrid format.  Our goal is to have a seamless SIGCSE TS, and this is our first huge step in that direction.  
 
