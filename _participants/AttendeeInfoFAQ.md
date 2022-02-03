@@ -10,43 +10,43 @@ We are so excited to provide our community with a technical symposium supporting
 
 We will be offering the conference at the Rhode Island Convention Center, Omni Hotel and through Pathable.   All attendees will have events available daily March 3-5th.  Virtual and in-person attendees will be together for all keynote sessions.  In addition, there will be three streaming rooms hosting panels and special sessions, 
 
-## Question:  I am attending in-person, what should I expect?
+### Question:  I am attending in-person, what should I expect?
 
-### Answer: Please see [new page here]
+Answer: Please see [new page here]
 
-## Question:  I am attending virtually, what should I expect?
+### Question:  I am attending virtually, what should I expect?
 
-### Answer: Please see [new page here] 
+Answer: Please see [new page here] 
 
-## Question: I am attending in-person and have questions related to COVID. 
+### Question: I am attending in-person and have questions related to COVID. 
 
-### Answer: Please see our COVID Concierge web page at [new page here].
-
----
-
-## Question:  I would like to switch my registration from in-person[virtua] to virtual[in-person].  What should I do?
-
-### Answer: This can be done through Cvent!  If you have any problems, please contact <registration@sigcse2022.org> or <symposium@sigcse2022.org>.
+Answer: Please see our COVID Concierge web page at [new page here].
 
 ---
 
-## Question: Where can I find the most current scheduled program? 
+### Question:  I would like to switch my registration from in-person[virtua] to virtual[in-person].  What should I do?
 
-### Answer:  We always have changes to the program, so the printed program is a fantastic place to start planning your agenda for the conference.  Once the conference starts, Pathable will have the current schedule for virtual attendees.  The website will have the latest information for in-person sessions. 
+Answer: This can be done through Cvent!  If you have any problems, please contact <registration@sigcse2022.org> or <symposium@sigcse2022.org>.
 
-## Question: I am an in-person attendee and would like to attend some virtual events. Is this possible?
+---
 
-###  Answer:  Yes! SIGCSE is a community, and all are welcome to attend virtual events.  We ask that if you will be participating in an event where you will be uploading your video that you consider doing that outside of the RICC to ensure all SIGCSE TS attendees can access wifi.  *There is one exception to this and that are workshops.  We offer workshops in just one modality (in-person or virtual) and in order to support virtual attendees, only virtual registratants can register for virtual workshops.*
+### Question: Where can I find the most current scheduled program? 
 
-## Question: Why aren't workshops/BOFs in hybrid mode?
+Answer:  We always have changes to the program, so the printed program is a fantastic place to start planning your agenda for the conference.  Once the conference starts, Pathable will have the current schedule for virtual attendees.  The website will have the latest information for in-person sessions. 
 
-### Answer:  This was discussed extensively within the team. Three of the accepted workshops indicated an interest in offering it in a hybrid format and while we wish we could offer them, it is cost-prohibitive for supporting streaming and Pathable use.  Without this, there is no guarantee of adequately working technology and the risks outweighed the benefits for this year.  
+### Question: I am an in-person attendee and would like to attend some virtual events. Is this possible?
 
-## Question: I would like to meet with one of the authors, how can I connect with them?
+Answer:  Yes! SIGCSE is a community, and all are welcome to attend virtual events.  We ask that if you will be participating in an event where you will be uploading your video that you consider doing that outside of the RICC to ensure all SIGCSE TS attendees can access wifi.  *There is one exception to this and that are workshops.  We offer workshops in just one modality (in-person or virtual) and in order to support virtual attendees, only virtual registratants can register for virtual workshops.*
 
-### Answer:  If you are both in-person, then attend their session.  If you are both virtual, then plan to attend the Author's Corner where this author will be participating.  If you can't attend the session, Authors' Corner or are attending in different modalities, then please contact the author through Pathable! 
+### Question: Why aren't workshops/BOFs in hybrid mode?
 
-## Question: Why isn't everything hybrid? 
+Answer:  This was discussed extensively within the team. Three of the accepted workshops indicated an interest in offering it in a hybrid format and while we wish we could offer them, it is cost-prohibitive for supporting streaming and Pathable use.  Without this, there is no guarantee of adequately working technology and the risks outweighed the benefits for this year.  
 
-#### Answer: Great question! This is our first foray into offering the SIGCSE TS in a hybrid format.  Our goal is to have a seamless SIGCSE TS, and this is our first huge step in that direction.  
+### Question: I would like to meet with one of the authors, how can I connect with them?
+
+Answer:  If you are both in-person, then attend their session.  If you are both virtual, then plan to attend the Author's Corner where this author will be participating.  If you can't attend the session, Authors' Corner or are attending in different modalities, then please contact the author through Pathable! 
+
+### Question: Why isn't everything hybrid? 
+
+Answer: Great question! This is our first foray into offering the SIGCSE TS in a hybrid format.  Our goal is to have a seamless SIGCSE TS, and this is our first huge step in that direction.  
 
