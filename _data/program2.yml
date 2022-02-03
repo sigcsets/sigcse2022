@@ -14,17 +14,19 @@ sessions:
 
 # 3/2 0800
 
-  # - type: "Affiliated Event"
-    # title: "Affiliated Event &mdash; Professional Development Session for New and Aspiring Educators"
-    # day: "3/2/2022"
-    # start: "08:30"
-    # end: "12:00"
-    # location: "Room 556 A/B (RICC)"
-    # presenters: "Sarah Heckman and others"
-    # description: 
-        # "The Peer Teaching Summit 2022 will bring together Computer Science (CS) faculty and peer teaching leaders who are seeking resources, tools, and strategies for training and supporting peer teachers for large enrollment CS classes. The Summit will build on the community developed in 2019. Undergraduates can be employed in support of a department's teaching mission to improve student engagement, learning, and retention - particularly among students from groups underrepresented in CS. Summit participants will discuss how their program supports and trains undergraduates as teaching assistants, section leaders, lab assistants, mentors, and tutors. In describing their programs, participants will share best practices, lessons learned, and relevant research. This summit will connect faculty and peer teaching leaders who are interested in brainstorming and sharing tools and strategies for peer teaching programs.
-        # <br><br>
-        # Visit their [website](http://www.peerteaching.org/summit-2022) for more information."
+  - type: "Affiliated Event"
+    title: "Affiliated Event &mdash; Peer Teaching Summit 2022"
+    day: "3/2/2022"
+    start: "08:30"
+    end: "12:00"
+    location: "Room 556 A/B (RICC) and via Zoom"
+    presenters: "Sarah Heckman and others"
+    description: 
+        "The Peer Teaching Summit 2022 will bring together Computer Science (CS) faculty and peer teaching leaders who are seeking resources, tools, and strategies for training and supporting peer teachers (also referred to as undergraduate teaching assistants, tutors, etc.) for large enrollment CS classes. Undergraduates can be employed in support of a department's teaching mission to improve student engagement, learning, and retention - particularly among students from groups underrepresented in CS.
+        <br><br>
+        Summit participants will discuss how their program supports and trains undergraduates as teaching assistants, section leaders, lab assistants, mentors, and tutors. How do peer teachers most effectively help students to problem-solve? To debug? To create an inclusive culture in computing? To gain confidence? In describing their programs, participants will share best practices, lessons learned, and relevant research. This summit will connect faculty and peer teaching leaders who are interested in brainstorming and sharing tools and strategies for peer teaching programs.
+        <br><br>
+        Visit their [website](http://www.peerteaching.org/summit-2022) for more information."
 
   - type: "Affiliated Event"
     title: "Affiliated Event &mdash; Professional Development Session for New and Aspiring Educators"
