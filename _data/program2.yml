@@ -1008,7 +1008,7 @@ sessions:
     presenters: "Session Chair: Bita Akram (North Carolina State University, USA)"
     subsessions:
         - type: "Paper Sessions"
-          title: "*Big Brother*: A Tool for Assessing the Code Quality of Solutions to Programming Assignments"
+          title: "<i>Hyperstyle</i>: A Tool for Assessing the Code Quality of Solutions to Programming Assignments"
           day: "3/3/2022"
           start: "15:45"
           end: "17:00"
