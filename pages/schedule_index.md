@@ -413,7 +413,7 @@ William Allen (Rensselaer Polytechnic Institute); Shelly Belsky (Rensselaer Poly
 **An Introduction to Computer Science in the New Curriculum for Wales**  
 Tom Crick (Swansea University)
   
-<h3 id="poster-session-4">Poster Session #4 [Virtual]</h3>
+<h3 id="virtual-poster-session">Virtual Poster Session</h3>
 
 **From the Game Ideas Prototypes to their Final Versions using International Intensive Project Results**  
 Piotr Milczarski (University of Lodz); Norbert Borowski (University of Lodz); Artur Hłobaż (University of Lodz); Michał Beczkowski (University of Lodz)
@@ -504,9 +504,6 @@ Oleg Sychev (Volgograd State Technical University); Yaroslav Kamennov (Volgograd
 **K-12 CS Teacher Licensing in the US**  
 Jessica M Yauney (Brigham Young University)
   
-**Constructivism in Computer Science Education**  
-Julie Smith (University of North Texas)
-  
 **Rho-NLR: A Neural Lumigraph Renderer with Controllable Illumination**  
 Laura Perkins (New College of Florida)
   
@@ -547,3 +544,7 @@ Emily Relkin (Tufts University)
 
 **[Virtual] Supporting Novice Learners’ Coding through Productive Failure-Based Debugging Activities** 
 Sagun Giri (The Pennsylvania State University)
+
+**Constructivism in Computer Science Education**  
+Julie Smith (University of North Texas)
+  
