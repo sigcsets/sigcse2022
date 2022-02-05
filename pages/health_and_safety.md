@@ -30,7 +30,7 @@ __Social Distancing:__ Space planning in all meeting rooms will include social d
 
 SIGCSE TS 2022 may enforce additional requirements, particularly to align with CDC guidelines for masking and social distancing at the time of the meeting.
 
-__Hygiene:__ Throughout the Rhode Island Convention Center multiple non-contact hand sanitizer dispensers have been placed. Although nothing replaces washing our hands with soap and water, these hand sanitizer dispensers have been placed for the convenience of all who attend events at the arena.
+__Hygiene:__ Non-contact hand sanitizer dispensers have been placed throughout the Rhode Island Convention Center.  Although nothing replaces washing our hands with soap and water, these hand sanitizer dispensers are available for the convenience of all who attend events at the convention center.
 
 __Cleaning:__ Prior to every event, trained staff will follow CDC and local guidelines on the cleaning and disinfecting of all areas including touch points (handrails, seats, restrooms, etc.). The Environmental Hygiene program was developed with guidance from CDC, NHS, PHAA, WHO and experts in hygiene.
     
