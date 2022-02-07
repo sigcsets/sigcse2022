@@ -22,7 +22,7 @@ After you have received your ‘Vaxed’ bracelet, you are ready to pick up your
 
 ## Daily
 
-Please monitor and report your health daily!  *If you feel well,*  then join the crowds and don’t forget to get your Safety Checked sticker in the registration area. *If you do not feel well,* we hope you will feel well enough to participate in the conference using Pathable. 
+Please monitor and [report your health daily](https://docs.google.com/forms/d/1Eu-ttWn0kzKiT9Ul7WQ6U4t1heYfDO8HW5RborNmjF8/edit)!  *If you feel well,*  then join the crowds and don’t forget to get your Safety Checked sticker in the registration area. *If you do not feel well,* we hope you will feel well enough to participate in the conference using Pathable. 
 
 Please wear your mask and badge at all times during the conference
 
