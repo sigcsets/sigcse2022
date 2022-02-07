@@ -8,9 +8,10 @@ showTitle: true
 
 
 ## Before You Leave Home
-Immunoband is providing vaccine verification.  In order to support our global participants, humans review/approve vaccine documentation.  Therefore, please create your account and upload your vaccine card before you leave.  You will receive an email from Immunoband after you register with instructions on how to work with their system. 
 
-![picture of face mask](image/facemasks.jpg)
+[Immunaband](https://www.immunaband.com) is providing vaccine verification.  In order to support our global participants, humans review/approve vaccine documentation.  Therefore, please create your account and upload your vaccine card before you leave.  You will receive an email from Immunaband after you register with instructions on how to work with their system. 
+
+![picture of face mask](image/facemasks.jpeg)
 Please don't forget to pack your facemask! 
 
 ## Picking up your Registration Materials
