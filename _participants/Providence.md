@@ -9,9 +9,11 @@ showTitle: true
 
 ## Before You Leave Home
 
-[Immunaband](https://www.immunaband.com) is providing vaccine verification.  In order to support our global participants, humans review/approve vaccine documentation.  Therefore, please create your account and upload your vaccine card before you leave.  You will receive an email from Immunaband after you register with instructions on how to work with their system. 
+SIGCSE TS 2022 has partnered with [Immunaband](https://www.immunaband.com) to verify attendee vaccination status for the SIGCSE 2022 Technical Symposium. You will receive an email from Immunaband to create a profile and upload your vaccine card. SIGCSE TS will accept WHO-approved vaccines, plus vaccines authorized or approved by the national health authority of the country where it was administered. You will be required to show your verified QR code before accessing attendee registration.
 
-![picture of face mask](image/facemasks.jpeg)
+**You must be verified and cleared before picking up your badge at SIGCSE TS attendee registration. Be sure to submit you vaccine card no later than Monday, February 28.**
+
+![picture of face mask](facemasks.jpeg)
 Please don't forget to pack your facemask! 
 
 ## Picking up your Registration Materials
