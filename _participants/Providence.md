@@ -10,6 +10,8 @@ showTitle: true
 ## Before You Leave Home
 Immunoband is providing vaccine verification.  In order to support our global participants, humans review/approve vaccine documentation.  Therefore, please create your account and upload your vaccine card before you leave.  You will receive an email from Immunoband after you register with instructions on how to work with their system. 
 
+![picture of face mask](image/facemasks.jpg)
+Please don't forget to pack your facemask! 
 
 ## Picking up your Registration Materials
 
@@ -28,9 +30,9 @@ Our keynotes will be delivered in a hybrid format. If you would like to ask a qu
 
 All rooms at the conference will have normal and social-distance seating.  Please sit where you feel comfortable and enjoy the presentations!  
 
-## Panels and Special Sessions in RICC xxx/yyy/zzz  - Hybrid Rooms
+## Panels and Special Sessions in RICC 552 A/B, 555 A/B and 556 A/B  - Hybrid Rooms
 
-Panels and Special Sessions will all be held in one of the three conference rooms supporting a hybrid format.  These rooms are RICC 5xxx/yyy/zzz.  This is a new experience for SIGCSE, where presenters and attendees will be virtual and in-person!  There will be a camera focused on the front of the room, and no technician, so please follow the directions for interacting to ensure everyone can participate.  
+Panels and Special Sessions will all be held in one of the three rooms supporting a hybrid format at the Rhode Island Convention Center.  These rooms are RICC 552, 555, and 556.  This is a new experience for SIGCSE, where presenters and attendees will be virtual and in-person!  There will be a camera focused on the front of the room, and no technician, so please follow the directions for interacting to ensure everyone can participate.  
 
 If you would like to ask a question, or make a comment, then you will do that through the Pathable app instead of going up to the microphone. This will be different, however it provides all participants the chance to ask questions and minimizes our technology requirements. 
 
