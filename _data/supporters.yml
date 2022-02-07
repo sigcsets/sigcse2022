@@ -80,6 +80,18 @@ Gold:
 #  
 #
 Silver:
+- name: CodeGrade
+  image: codegrade-200.png
+  link: "https://codegrade.com/"
+
+- name: "Coding Rooms"
+  image: codingrooms.png
+  link: "https://www.codingrooms.com/"
+
+- name: "MongoDB"
+  image: mongodb.png
+  link: "https://www.mongodb.com/"
+
 - name: ABET
   image: abet-200.png
   link: https://www.abet.org/
@@ -90,21 +102,10 @@ Silver:
 #  - name: AWS Educate
 #    link: "https://aws.amazon.com/education/awseducate/"
 #    image: awseducate-200.png
-- name: CodeGrade
-  image: codegrade-200.png
-  link: "https://codegrade.com/"
 
 - name: "Pearson"
   image: pearson-200.png
   link: "https://pearson.com/"
-
-- name: "Coding Rooms"
-  image: codingrooms.png
-  link: "https://www.codingrooms.com/"
-
-- name: "MongoDB"
-  image: mongodb.png
-  link: "https://www.mongodb.com/"
 
 
 
