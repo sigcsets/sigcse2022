@@ -1016,7 +1016,7 @@ sessions:
           end: "17:00"
           location: "Narragansett Ballroom B (Omni)"
           hybrid: "N"
-          presenters: "Anastasiia Birillo (JetBrains Research); Ilya Vlasov (Saint Petersburg State University); Artyom Burylov (Stepik;Miro); Vitalii Selishchev (Computer Science Center); Artyom Goncharov (Computer Science Center); Elena Tikhomirova (JetBrains Research); Nikolay Vyahhi (Stepik); Timofey Bryksin (JetBrains Research; Saint Petersburg State University)"
+          presenters: "Anastasia Birillo (JetBrains Research); Ilya Vlasov (Saint Petersburg State University); Artyom Burylov (Stepik;Miro); Vitalii Selishchev (Computer Science Center); Artyom Goncharov (Computer Science Center); Elena Tikhomirova (JetBrains Research); Nikolay Vyahhi (Stepik); Timofey Bryksin (JetBrains Research; Saint Petersburg State University)"
         - type: "Paper Sessions"
           title: "Are Undergraduate Creative Coders Clean Coders? A Correlation Study"
           day: "3/3/2022"
