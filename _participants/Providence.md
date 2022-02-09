@@ -15,13 +15,15 @@ SIGCSE TS 2022 has partnered with [Immunaband](https://www.immunaband.com) to ve
 
 **You must be verified and cleared before picking up your badge at SIGCSE TS attendee registration. Be sure to submit you vaccine card no later than Monday, February 28.**
 
-![picture of face mask](image/facemasks.jpeg)
-Please don't forget to pack your facemask! 
-
 ### What to Pack for the new era of in-person conferences
 1. Your vaccination card, only as a backup measure in case of system failure.
 2. Your Immunaband email stating this is your vaccination verification receipt for the conference
 3. Masks
+
+
+![picture of face mask](facemasks.jpeg)
+
+
 
 ## Picking up your Registration Materials
 
