@@ -9,18 +9,34 @@ showTitle: true
 
 ## Before You Leave Home
 
-SIGCSE TS 2022 has partnered with [Immunaband](https://www.immunaband.com) to verify attendee vaccination status for the SIGCSE 2022 Technical Symposium. You will receive an email from Immunaband to create a profile and upload your vaccine card. SIGCSE TS will accept WHO-approved vaccines, plus vaccines authorized or approved by the national health authority of the country where it was administered. You will be required to show your verified QR code before accessing attendee registration.
+SIGCSE TS 2022 has partnered with [Immunaband](https://www.immunaband.com) to verify attendee vaccination status for the SIGCSE 2022 Technical Symposium. You will receive an email from Immunaband to create a profile and upload your vaccine card. SIGCSE TS will accept WHO-approved vaccines, plus vaccines authorized or approved by the national health authority of the country where it was administered.  You will receive an two emails:
+1. Immunaband email confirming your vaccination authorization.
+2. An week or so before the conference, Immumaband will email you a receipt to bring to the conference.  **This is your proof of vaccination.** 
 
 **You must be verified and cleared before picking up your badge at SIGCSE TS attendee registration. Be sure to submit you vaccine card no later than Monday, February 28.**
 
-![picture of face mask](facemasks.jpeg)
+![picture of face mask](image/facemasks.jpeg)
 Please don't forget to pack your facemask! 
+
+### What to Pack for the new era of in-person conferences
+1. Your vaccination card, only as a backup measure in case of system failure.
+2. Your Immunaband email stating this is your vaccination verification receipt for the conference
+3. Masks
 
 ## Picking up your Registration Materials
 
-Registration will be a tad different this year since all in- person attendees are required to be vaccinated.  Verifying vaccination will be the first thing you need to do to kick off the conference!  You will have created your account with Immunoband, and will now check-in at the Vaccine Verification table.  At this table, you will check your vaccination app with security and receive your bracelet. 
+Registration will be a tad different this year since all in-person attendees are required to be vaccinated.  Verifying vaccination will be the first thing you need to do to kick off the conference!  Stop at the Vaccine Verification desk, hand in the email proving you are vaccinated and receive a "I'm vaxed" bracelet. 
 
-After you have received your ‘Vaxed’ bracelet, you are ready to pick up your registration materials or register at the registration booth. 
+After you have received your ‘Vaxed’ bracelet, head over to registration to pick up your registration materials or register for the conference! 
+
+### I forgot my email
+We have set up this process to expidite checking into the conference.  The vaccine verification table will have a list of all attendees with confirmed vaccinations and can look up your name.  This will slow things down a bit, but you will not be turned away! 
+
+### I forgot to register
+We will have onsite registration available.  Once you have confirmed your vaccination status, the Registration Desk can help you get registered.
+
+### I forgot to verify I was vaccinated
+If you brought your vaccination card and can access your email, then things will be fine.  Create an account with Immunaband, upload pictures of your card and await receipt of verification.   Please be patient.  This will not be immediate, so you may want to check into your room, grab a snack or check email.  Once you receive confirmation, then go to the Vaccine Verification desk, and things will be fine. 
 
 ## Daily
 
