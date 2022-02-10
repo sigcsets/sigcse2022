@@ -1,4 +1,7 @@
 Platinum:
+  - name: "NSF"
+    image: nsf-200.png
+    link: "https://nsf.gov/"
   - name: "GitHub Education"
     image: github-200.png
     link: "https://education.github.com/"
@@ -115,9 +118,6 @@ Silver:
 #      time: 5:30 PM (ET) - 6:45 PM (ET)
 #      presenters: Youri Voet (CodeGrade)
 #      description: "In this session, Youri Voet, CEO and co-founder of CodeGrade, will guide you through converting a fully manually graded programming course step by step to a powerful (semi) automated course.<br><br>First, we will simply start by using some powerful manual feedback tools offered in CodeGrade, such as inline comments and snippets. Then, we will add a rubric to give the students clear objectives and make grading explainable and consistent. Once we have an efficient manual environment set up, we will start adding basic automated tests to provide instant feedback to students and improve quality of code. Once comfortable with this, we will start increasing the complexity of the tests to further automate the grading process. Reducing the time spent marking allows the grader to focus on the important aspects of giving feedback to learners. Lastly, we will show you how to check for code plagiarism and analyze your assignment.<br><br>This session will show you from end to end how you would set up and convert an assignment to a powerful graded CodeGrade assignment."
-#  - name: Gradescope by Turnitin
-#    link: "http://gradescope.com"
-#    image: gradescope-200.png
 #    sessions:
 #    - title: "Gradescope: One Platform for Paper, Online, and Programming Assignments"
 #      day: Wednesday, March 17
@@ -147,6 +147,10 @@ Silver:
 #      description: "Nearly 80% of instructors who use zyLabs auto-grader switched from grading programming assignments by hand. They saved an average of 9 hours per week, with some reporting up to 20 hours saved. In recent years, computer science educators have increasingly shifted how they grade programming assignments, from grading manually or using batch scripts, to using auto-graders with immediate score feedback to students. zyBooks has been a pioneer by developing the zyLabs auto-grader, that is easy to use and integrated with our state of the art e-learning platform. This shift illustrates a future with a much different classroom dynamic, in which students view instructors less as evaluators and more as hands-on educators.  To support educators in this new role, zyLabs also provides support across a wide range of activities by providing a library of high-quality pre-written programming assignments, an intuitive interface for customizing content, and tools to promote student integrity. In this session, we'll talk about the growth and benefits of zyLabs auto-grading, demonstrate our library of programming assignments, and illustrate how zyLabs features promote academic honesty."
 #
 Bronze:
+ - name: Gradescope by Turnitin
+   link: "http://gradescope.com"
+   image: gradescope-200.png
+
 #  - name: AdaCore
 #    image: adacore-200.png
 #    link: "http://www.adacore.com"
