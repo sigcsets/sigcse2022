@@ -145,8 +145,7 @@ Last update: {{ "now" | date: "%A, %B %d, %Y" }}
 <div markdown="1">
 1. The program below may not reflect recent changes in which authors have changed their presentation mode, title, author names, or affiliations. Such changes will be updated periodically betweeen now and the start of the Technical Symposium.
 1. Each entry includes the day, time, and room assigned. The day and time assignments should be correct and final, whereas the room assignment process is still on-going. All times shown are Eastern Standard Time (EST).
-1. For full details about the Workshops, please visit the [Workshops Page](/schedule/workshops).
-1. Full details about Affiliated Events are now included below.
+1. For full details about the Workshops, please visit the [Workshops Page](/schedule/workshops). Note: "Workshops" are a specific track within the SIGCSE Technical Symposium's main program, available at an additional cost to registered SIGCSE TS participants. They are distinct from <strong>Affiliated Events and Sponsor Sessions</strong>, which are clearly identified within the agenda below.
 1. A [roadmap](https://docs.google.com/document/d/1Z7w8HJ03WB5X0qF0b71eOKaP6CsDUMPw/edit?usp=sharing&ouid=107906839535250673001&rtpof=true&sd=true) of suggested sessions for K-12 participants to attend is now available.
 1. A [roadmap](/schedule/cc) of suggested sessions for Community College participants to attend is now available.
 1. A [roadmap](https://docs.google.com/document/d/1rdY4KBeCq2A9ZRn2-YjrPo5MHK2aUeRs/edit?usp=sharing&ouid=107906839535250673001&rtpof=true&sd=true) of suggested sessions for Global participants to attend is now available.

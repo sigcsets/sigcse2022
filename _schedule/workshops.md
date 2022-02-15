@@ -5,7 +5,9 @@ title: Workshop Schedule
 sidebar: schedule_workshops
 ---
 
-<button onclick="topFunction()" id="toTopButton" title="Go to top">Back to Top</button> 
+<button onclick="topFunction()" id="toTopButton" title="Go to top">Back to Top</button>
+
+"Workshops" are a specific track within the SIGCSE Technical Symposium's main program, available at an additional cost to registered SIGCSE TS participants. This page does not include information about Affiliated Events or Sponsor Sessions, which are listed within the agenda on [the main program schedule page](/schedule).
 
 Workshops will take place duing these time blocks:
 <ul>
@@ -14,7 +16,7 @@ Workshops will take place duing these time blocks:
 {% endfor %}
 </ul>
 
-<strong>How to register for workshops</strong> : Workshops are a part of the SIGCSE Technical Symposium's main program.  You can add workshops to your Symposium registration when you register through Cvent for an additional cost.  <em>Symposium registration is required to attend any SIGCSE TS 2022 workshop.</em>
+<strong>How to register for workshops</strong> : You can add workshops to your Symposium registration when you register through Cvent for an additional cost.  <em>Symposium registration is required to attend any SIGCSE TS 2022 workshop.</em>
 
 {% assign block = "X" %}
 {% assign position = -1 %}
@@ -31,7 +33,7 @@ Workshops will take place duing these time blocks:
 <p><strong>Modality</strong> : {{workshop.mode}}</p>
 {% if workshop.url %}
 <p><strong>Workshop website</strong> : <a href="{{workshop.url}}" target=_new>{{workshop.url}}</a></p>
-{% endif %} 
+{% endif %}
 <p><strong>Workshop organizers</strong> : {{workshop.presenters}}</p>
 <p><strong>{{workshop.block}} Workshops</strong> - {{ site.data.workshops.blocks[position].day }} @ {{ site.data.workshops.blocks[position].time }}</p>
 <p>{{workshop.ad}}</p>
