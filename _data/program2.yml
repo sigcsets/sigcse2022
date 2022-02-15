@@ -21,7 +21,7 @@ sessions:
     end: "12:00"
     location: "Room 556 A/B (RICC) and via Zoom"
     presenters: "Sarah Heckman and others"
-    description: 
+    description:
         "The Peer Teaching Summit 2022 will bring together Computer Science (CS) faculty and peer teaching leaders who are seeking resources, tools, and strategies for training and supporting peer teachers (also referred to as undergraduate teaching assistants, tutors, etc.) for large enrollment CS classes. Undergraduates can be employed in support of a department's teaching mission to improve student engagement, learning, and retention - particularly among students from groups underrepresented in CS.
         <br><br>
         Summit participants will discuss how their program supports and trains undergraduates as teaching assistants, section leaders, lab assistants, mentors, and tutors. How do peer teachers most effectively help students to problem-solve? To debug? To create an inclusive culture in computing? To gain confidence? In describing their programs, participants will share best practices, lessons learned, and relevant research. This summit will connect faculty and peer teaching leaders who are interested in brainstorming and sharing tools and strategies for peer teaching programs.
@@ -35,7 +35,7 @@ sessions:
     end: "17:30"
     location: "Room 552 A/B (RICC)"
     presenters: "Meghan Allen and Diane Horton"
-    description: 
+    description:
         "A successful career as an educator involves more than a deep understanding of a research area. Even so, many new CS educators experience relatively little training as educators – and face more questions than answers, e.g., How do I find a career path and institution that are right for me? What strategies can I use during the job search and interviewing process to achieve my goals? What tips could help me organize a course, scaffold engaging experiences, and build lasting relationships with students? What practical steps can I take to support equity, diversity, and inclusion in my work?
         <br><br>
         The Professional Development Session for New and Aspiring Educators is a pre-symposium event at SIGCSE 2022 that, through presentations, discussions, and small-group community building, will tackle these questions. The session is designed to assist aspiring and early-career educators in exploring the non-research facets of an academic career. It will run on March 2, 2022 in Providence, Rhode Island, USA from 9am to 5pm, and is open to postdocs and graduate students in any year who are considering careers in academia, as well as pre-tenure faculty members and new teaching-track faculty seeking guidance and/or networking support. This session is one of several career-focused, SIGCSE-affiliated events at the 2022 Technical Symposium that have served more than 200 educators over the past decade.
@@ -61,7 +61,7 @@ sessions:
     end: "17:30"
     location: "Room 555 A/B (RICC)"
     presenters: "Amanda Holland-Minkley and Grant Braught"
-    description: 
+    description:
         "Organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges, this Pre-Symposium event will promote connection and collaboration within the liberal arts computing community. This full day event will be split into two sessions. The first session will focus on innovations in computing education in the liberal arts and may include courses, curricula, co-curricular programs or other elements that reflect a specifically liberal arts perspective. Selected submissions will be presented and discussed at the event and also be added to the Committee’s growing repository of materials. The second session will be held in an “unconference” format, with proposals accepted for working group topics from the community as a whole. Possible topics include but are not limited to course design and assessment for CS+X courses, strategies for recruiting faculty to teach at liberal arts colleges, and course- specific topics such as implementing specifications grading or implementing inclusive teaching practices. Throughout the event, sessions will give participants an opportunity to learn about work already taking place within the liberal arts computing community as well as to engage in Q&A and breakout discussions. All interested faculty and students are welcome.
         <br><br>
         Visit their [website](https://computing-in-the-liberal-arts.github.io/SIGCSE2022-Affiliated-Event/) for more information."
@@ -73,7 +73,7 @@ sessions:
     end: "17:30"
     location: "Narragansett A Ballroom (Omni)"
     presenters: "Greg Hislop, Lori Postner, Grant Braught, Darci Burdge, Heidi Ellis, Herman Jackson, Cam Macdonell, Wes Turner, Karl Wurst"
-    description: 
+    description:
         "Student participation in Humanitarian Free and Open Source Software (HFOSS) provides an opportunity for learning software engineering technical and professional skills while also engaging students with computing for social good.  Experience indicates that faculty are interested in employing HFOSS but also find this teaching approach challenging, especially at first.  To better support instructors, HFOSS educators are exploring ways to provide better support and control for instructors taking initial steps in using HFOSS with students.
         <br><br>
         Visit their [website](http://foss2serve.org/index.php/SIGCSE_2022_Affiliated_Event) for more information."
@@ -85,7 +85,7 @@ sessions:
     end: "15:30"
     location: "Narragansett B Ballroom (Omni)"
     presenters: "Geoffrey Herman, Amy Ko, Brandon Myers and Lori Pollock"
-    description: 
+    description:
         "Enrollment in CS courses and programs continues to be high. To meet this increased demand, many Ph.D. granting departments have added or are actively recruiting teaching faculty (typically with academic rank) to their faculty. This whole-day event will focus on the professional development of teaching-track faculty (professor of practice, instructor, clinical faculty, lecturer, etc.) in Ph.D. granting departments. The event fills a crucial need as many departments have limited experience on how to mentor, evaluate, and promote this new type of faculty. The sessions will focus on how teaching faculty can strategize their involvement in departmental as well as research activities, different forms of scholarship and leadership activities to pursue, and best practices for success, promotion, and advancement. Junior and mid-career teaching-track faculty will participate in an “unconference” format. By gathering topics of common interest, attendees will self organize to provide peer mentoring and to collect advice for professional development rather than having pre-planned panels or sessions at the discretion of the organizers.
         <br><br>
         Visit their [website](https://cra.org/crae/professional-development-workshop-for-teaching-track-faculty-at-sigcse-2022/) for more information."
@@ -99,7 +99,7 @@ sessions:
     end: "17:00"
     location: "Providence I/IV Ballroom (Omni)"
     presenters: "Mikey Goldweber, Lisa Kaczmarczyk, Rick Blumenthal and Johanna Blumenthal"
-    description: 
+    description:
         "Computing for the Social Good in Education (CSG-Ed) deals with methods for producing computing graduates who are focused on using their computing education towards the benefit of society. We invite participants to discuss how they would reimagine their insti- tution’s and general computing curriculum, if they were supreme, magic wand wielding, curricular overlords.
         <br><br>
         Currently, computing is perceived as a practical means to ensure a livelihood, but often overlooked as a path for empowering the disadvantaged and raising the quality of life for all. Furthermore, the numerous headlines exemplifying computing by the elite and for the elite at the expense of everyone else, or, stated differently, examples of technology companies shirking any responsibility to remedy the unintended harmful consequences of their products, pushes a view of computing that is a self-serving one. The view being that those making the technology get rich doing it, leave everyone else behind and do not care about those left behind or harmed by their products. This prevailing, and somewhat bleak, perception of computing’s impact on society is not the whole picture. Yet, such a climate can impact students’ choice of major, how they view their own field and the choices they make as a professional after they graduate. How are our computing curricula perpetuating the current perceptions of computing, acquiescing to this perception or working to expand the view of what computing can do for society? Are we combating the false dichotomy and showing students that they can have a successful career without exploiting anyone and do so while using their computing skills to benefit society?
@@ -143,7 +143,7 @@ sessions:
     end: "18:30"
     location: "Providence II/III Ballroom (Omni)"
     presenters: "Richard Ladner, Amy Ko, and Kristen Shinohara"
-    description: 
+    description:
         "In this session, participants will learn from faculty about how they have integrated accessibility and disability topics into their computer science courses. There are certain courses, such as web or app design and development and human-computer interactions, that should be addressing accessibility because of the human-facing nature of software. Less obvious are courses, such as intro CS, computer vision, natural language processing, data compression, software engineering, and others, that can also have accessibility and disability content. After the presentations, participants will break into small groups to discuss more ways to include these topics into their courses. The contents of the workshop will be documented and be available on the AccessComputing website after the conference.
         <br><br>
         Visit their [website](https://www.washington.edu/accesscomputing/accesscomputing-workshop-integrating-accessibility-and-disability-computing-curriculum) for more information."
@@ -2189,7 +2189,7 @@ sessions:
     hybrid: "N"
     presenters: "Sasha Varlamov (Coding Rooms Co-founder and CEO); Joe Mazzone (Coding Rooms Customer Success/Product Manager)"
     description: "So many educators are stuck with rigid learning platforms that don't perfectly fit their teaching and learning style; very few are able to modify those platforms however they want.¬† With Coding Rooms, we empower educators with a platform that enables them to build their own teaching tools, freely design their content, and bring their teaching style to life, ultimately giving learners the best experience possible!
-    Join our session to learn how to create engaging online curriculum with Coding Rooms: 
+    Join our session to learn how to create engaging online curriculum with Coding Rooms:
     * A redefined online curriculum management platform built for technical subjects.
     * Student work and progress update on all pages in real-time.
     * Embeddable, collaborative, online coding environments supporting the most popular languages. No downloads or setup required! Students can access from any device connected to the internet.
@@ -3311,7 +3311,7 @@ sessions:
           hybrid: "N"
           presenters: "Veronica Cateté (North Carolina State University); Lauren Alvarez (North Carolina State University); Shuchi Grover (Looking Glass Ventures & Stanford University); Isabella Gransbury (North Carolina State University); Brian Broll (Vanderbilt University); Madeline Drayton (Providence High School); Audrey Coats (Lynnfield High School); April Collins (MLK Jr. High School); Ákos Lédeczi (Vanderbilt University); Tiffany Barnes (North Carolina State University)"
         - type: "Workshops"
-          title: "W406: Adaptable Toolkits for CS Mentoring Programs in Academia and Industry"
+          title: "CANCELLED &mdash; W406: Adaptable Toolkits for CS Mentoring Programs in Academia and Industry"
           day: "3/5/2022"
           start: "15:00"
           end: "18:00"
