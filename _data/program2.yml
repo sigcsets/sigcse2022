@@ -112,11 +112,11 @@ sessions:
 # 3/2 1330
 
   - type: "Supporter Sessions"
-    title: "<span style=\"color:red;\">[Now Friday, March 4 / 19:00 - 22:00] &mdash;</span>Microsoft Supporter Session &mdash; MakeCode Sampler Pack!"
+    title: "<span style=\"color:red;\">[Now Friday, March 4 / 19:00 - 22:00] &mdash;</span> Microsoft Supporter Session &mdash; MakeCode Sampler Pack!"
     day: "3/2/2022"
-    start: "13:30"
-    end: "17:00"
-    location: "Room 551 A/B (RICC)"
+    # start: "13:30"
+    # end: "17:00"
+    # location: "Room 551 A/B (RICC)"
     hybrid: "N"
     presenters: "Jacqueline Russell (Microsoft)"
     description: "Looking for some high-engagement options for teaching CS?  Join us for a fun, hands-on workshop where we’ll take a tour around MakeCode – exploring physical computing with the micro:bit, game development with MakeCode Arcade, and game modding with Minecraft!  We will walk through step-by-step coding challenges and build projects together that you can use in the classroom.  This is a beginner-level workshop – no prior experience required.  Attendees should bring a smile and a laptop to the session. Please note: this workshop will only be hosted in person.
@@ -2442,7 +2442,7 @@ sessions:
     day: "3/4/2022"
     start: "19:00"
     end: "22:00"
-    location: "Room TBA"
+    location: "Narragansett B Ballroom (Omni)"
     hybrid: "N"
     presenters: "Jacqueline Russell (Microsoft)"
     description: "Looking for some high-engagement options for teaching CS?  Join us for a fun, hands-on workshop where we’ll take a tour around MakeCode – exploring physical computing with the micro:bit, game development with MakeCode Arcade, and game modding with Minecraft!  We will walk through step-by-step coding challenges and build projects together that you can use in the classroom.  This is a beginner-level workshop – no prior experience required.  Attendees should bring a smile and a laptop to the session. Please note: this workshop will only be hosted in person.
@@ -2452,7 +2452,7 @@ sessions:
     title: "Workshops 3xx"
     day: "3/4/2022"
     start: "19:00"
-    end: "20:00"
+    end: "22:00"
     hybrid: "N"
     presenters: "Track Chairs: S. Monisha Pulimood (The College of New Jersey); Cheryl Swanier (UMass Amherst)"
     subsessions:
