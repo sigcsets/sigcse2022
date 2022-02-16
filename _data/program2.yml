@@ -601,7 +601,7 @@ sessions:
     end: "15:00"
     location: "Room 551 A/B (RICC)"
     hybrid: "N"
-    presenters: "Kim Roberts, Kyle Ali, Chris Stephenson, Sidnie Davis, Shanika Hope, Tina Ornduff, Peta-Gay Clarke, Heather Smith (Google)"
+    presenters: "Kim Roberts, <span style=\"color:red;\">Nicki Anselmo</span>, Chris Stephenson, Sidnie Davis, Shanika Hope, Tina Ornduff, Peta-Gay Clarke, Heather Smith (Google)"
     description: "As the impact of current CS advocacy efforts roll out across U.S. states and internationally, there is increasing need for all levels of education to work together to address common needs and challenges. This session will provide participants with an opportunity to hear from leads for a wide variety of solution-oriented programs from Google. The broad array of interventions and resources will include high-school to undergraduate transitional programs, the growing importance of self-driven learning opportunities, new research on social capital, efforts to diversify the CS education research community, and new thinking on how Google can better connect with our ecosystem partners."
   - type: "Supporter Sessions"
     title: "zyBooks, A Wiley Brand's Supporter Session &mdash; Now is a great time for interactive textbooks"
