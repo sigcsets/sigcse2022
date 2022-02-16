@@ -24,7 +24,7 @@ SIGCSE TS 2022 will require all in-person attendees, exhibitors, volunteers, and
 
 #### Additional Protocols
 
-__Face Coverings:__ The CDC currently recommends wearing a mask indoors in public if in an area of substantial or high transmission.
+__Face Coverings:__ Mask will be required during all TS 2022 activities.
 
 __Social Distancing:__ Space planning in all meeting rooms will include social distancing.
 
@@ -33,7 +33,7 @@ SIGCSE TS 2022 may enforce additional requirements, particularly to align with C
 __Hygiene:__ Non-contact hand sanitizer dispensers have been placed throughout the Rhode Island Convention Center.  Although nothing replaces washing our hands with soap and water, these hand sanitizer dispensers are available for the convenience of all who attend events at the convention center.
 
 __Cleaning:__ Prior to every event, trained staff will follow CDC and local guidelines on the cleaning and disinfecting of all areas including touch points (handrails, seats, restrooms, etc.). The Environmental Hygiene program was developed with guidance from CDC, NHS, PHAA, WHO and experts in hygiene.
-    
+
 ### Before You Travel
 
 We will continue to closely monitor specific travel advisories through official channels, which include WHO and the CDC, as well as safety guidelines at the local and state levels.
@@ -57,13 +57,13 @@ __Do I have to pay to have my vaccination status validated?__
 There will be no cost to SIGCSE TS 2022 participants associated with the vaccine verification process.
 
 __Will there be a mask requirement at SIGCSE TS 2022?__
-The CDC currently recommends wearing a mask indoors in public if in an area of substantial or high transmission. SIGCSE TS 2022 will continue to monitor requirements set by local government as well as guidelines from the CDC. A decision on mask requirements will be made closer to the start of SIGCSE TS 2022.
+Yes. Masks will be required at all SIGCSE TS 2022 activities.
 
 __How will TS 2022 support social distancing at the conference?__
 All meeting rooms will include options for social distancing. All SIGCSE TS 2022 participants, including exhibitors, are asked to follow rules and local guidance with respect to social distancing.
 
 __What are the entry requirements for all special events, including the keynote and the receptions?__
-Entry requirements will apply across all SIGCSE TS 2022-hosted events. This includes proof of vaccination and any mask requirements at the time of the conference.
+Entry requirements will apply across all SIGCSE TS 2022-hosted events. This includes proof of vaccination and an appropriate mask.
 
 __What other measures is SIGCSE TS 2022 taking to ensure a safe conference?__
 Up until and through SIGCSE TS 2022, this page will contain the most up to date information on the safety protocols being followed for the conference. We will continue to look at ways to enhance our health and safety measures as needed.
