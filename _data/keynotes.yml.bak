@@ -1,0 +1,47 @@
+keynotes:
+  # - id: liskov
+    # session: Opening Keynote
+    # title: Reflections on Programming Methodology
+    # day: Thursday, March 3
+    # time: 8:15 AM (ET)
+    # speaker: Barbara Liskov
+    # affiliation: Massachusetts Insitute of Technology
+    # url: https://www.csail.mit.edu/person/barbara-liskov
+    # description: "Research in programming methodology led to the development of the principles and methods that underlie how modern software systems are designed and structured. At the center of this work are the notions of abstraction and modularity. These ideas are related: design is the process of inventing and identifying abstractions, and the implementations of the abstractions become the modules that make up the program This talk will discuss our current understanding of abstraction and modularity and the research that got us to where we are today."
+    # headshot: liskov.png
+  # - id: ericson
+    # session: SIGCSE Award for Outstanding Contributions to Computer Science Education Keynote
+    # title: "Automated Feedback, the Next Generation: Designing Learning Experiences"
+    # day: Friday, March 4
+    # time: 8:15 AM (ET)
+    # speaker: Barbara Ericson
+    # affiliation: University of Michigan
+    # url: https://www.si.umich.edu/people/barbara-ericson
+    # description: "My goal is to increase diversity in computing. In this talk I explain why diversity is important to me. My strategy to improve diversity is to increase access and success. This work includes teacher professional development, summer camps, weekend workshops with youth serving organizations, curriculum development, helping states make systemic changes to computing education, publicizing gender and race issues in Advanced Placement Computer Science, creating free and interactive ebooks, testing new types of practice problems/tools, and offering near-peer mentoring programs."
+    # headshot: ericson.png
+  -  id: deers
+    session: SIGCSE TS First Timers Luncheon
+    title: "Getting Involved with the SIGCSE Technical Symposium and Education Research"
+    day: Thursday, March 3
+    time: 12:00 PM (ET)
+    speaker: Jeffery C. Carver
+    affiliation: University of Alabama
+    speaker: Sarah Heckman
+    affiliation: North Carolina State University
+    speaker: Mark Sheriff
+    affiliation: University of Virginia
+    url: http://empiricalcsed.org/
+    description: "Welcome to the SIGCSE Technical Symposium, where there’s always a lot going on! As a first timer it can be difficult to decide how to allocate your time among all of the technical sessions, panels, special sessions, supporter sessions, birds-of-a-feather sessions, posters, the show floor, and more. Jeff, Sarah, and Mark will provide tips on how to make the most of your time during the Technical Symposium and how to get involved in the future. One great way to get involved is to take the excitement and inspiration from your first Technical Symposium to start your own empirical computing education research journey."
+    headshot: carver.png
+    headshot: heckman.png
+    headshot: sheriff.png
+ - id: daily
+    session: Closing Keynote
+    title: "Diversifying Coomputing: Real Change Must Come from Within"
+    day: Saturday, March 5
+    time: 8:15 AM (ET)
+    speaker: Shaundra B. Daily
+    affiliation: Duke University
+    description: "In addition to holding the key to solving some of our most pressing challenges, it is no secret that computing touches nearly every facet of modern life. As a result, society can no longer afford for these fields to be reserved for a chosen few. It is imperative that we are inclusive of a broad range of student identities, so they can contribute to the driving the future of technologies that will impact the world as well as participate in economic opportunities presented by tech innovation. Changing this trajectory cannot rely on those most marginalized in computing. Rather, institutions must actively analyze and change the policies and practices that serve as barriers to diversifying the landscape. In this talk, Dr. Daily will discuss the challenges associated with centering interventions on marginalized groups as well as how we can move towards a more inclusive future of computing by focusing within."    url: 
+    url: https://www.shanibphd.com/
+    headshot: daily.png
