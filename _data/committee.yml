@@ -120,7 +120,7 @@
       - name: Cheryl Swanier
         inst: UMass Amherst
         role: junior
- 
+
 ######################
 
 "Organizing Committee":
@@ -154,7 +154,7 @@
         inst: Macalester College
         role: junior
 
-      - name: Sam Rebelsky 
+      - name: Sam Rebelsky
         inst: Grinnell College
         role: senior
 
@@ -175,7 +175,7 @@
       - name: Susan Mengel
         inst: Texas Tech University
         role: senior
-       
+
       - name: Kathryn Perry
         inst: Burnt Hills - Ballston Lake High School
         role: junior
@@ -199,9 +199,6 @@
 
         - name: Shamsi Mooussavi
           inst: MassBay Community College
-
-        - name: Sally Hamouda
-          inst: Rhode Island College
 
           #"Minority Serving Institution Liaison":
           #email: publications@sigcse2022.org
@@ -254,7 +251,7 @@
 
 
   "SIGCSE Board Liaison":
-    members: 
+    members:
       - name: Manuel Pérez-Quiñones
         inst: University of North Carolina at Charlotte
 
@@ -274,7 +271,7 @@
         role: senior
 
       - name: Timothy Yuen
-        inst: The University of Texas at San Antonio                            
+        inst: The University of Texas at San Antonio
         role: junior
 
   "Sponsor/Exhibitor Liaisons":
@@ -307,7 +304,7 @@
         inst: California Institute of Technology
         role: senior
 
-      - name: Michael Bauer 
+      - name: Michael Bauer
         inst: Leeward Community College
         role: junior
 
@@ -458,7 +455,7 @@
 ####################
 
 "Global Committee":
-  members: 
+  members:
     - name: Brett Becker
       inst: University College Dublin
     - name: Rodrigo Duran
