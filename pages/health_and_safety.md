@@ -6,7 +6,7 @@ permalink: "/health/"
 sidebar: health
 ---
 
-Current as of: December 17, 2021
+Current as of: February 16, 2022
 
 ## SIGCSE TS 2022 Is Planning for an In-Person Event & Remote Participation
 

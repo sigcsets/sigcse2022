@@ -119,9 +119,8 @@ sessions:
     # location: "Room 551 A/B (RICC)"
     hybrid: "N"
     presenters: "Jacqueline Russell (Microsoft)"
-    description: "Looking for some high-engagement options for teaching CS?  Join us for a fun, hands-on workshop where we’ll take a tour around MakeCode – exploring physical computing with the micro:bit, game development with MakeCode Arcade, and game modding with Minecraft!  We will walk through step-by-step coding challenges and build projects together that you can use in the classroom.  This is a beginner-level workshop – no prior experience required.  Attendees should bring a smile and a laptop to the session. Please note: this workshop will only be hosted in person.
-    |
-    Register for the Microsoft MakeCode Sampler Pack! Pre-Symposium session: [https://forms.office.com/r/R0F2ACEuss](https://forms.office.com/r/R0F2ACEuss)"
+    description: "What’s more fun on a Friday night than spending time with colleagues making and coding?!  Join us for a fun session with free devices and food/drinks! In this hands-on workshop, we’ll take a tour around MakeCode – exploring physical computing with the micro:bit, game development with MakeCode Arcade, and game modding with Minecraft! We will walk through step-by-step coding challenges and build projects together that you can use in the classroom. This is a beginner-level workshop – no prior experience required. This is a bring-your-own-device workshop – attendees should bring a laptop with internet and a USB port to the session. This workshop will only be hosted in person, and registration is required at: [https://forms.office.com/r/R0F2ACEuss](https://forms.office.com/r/R0F2ACEuss)"
+
 
 # 3/2 1500
 
@@ -1900,7 +1899,7 @@ sessions:
     end: "15:00"
     location: "Room 553 A/B (RICC)"
     hybrid: "N"
-    presenters: "Elise Deitrick (Codio)"
+    presenters: "Patrick Ester (Codio)"
     description: "Enjoying learning about research-based pedagogy but wondering how to implement it in your computing classroom? Codio helps you adopt evidence-based tools and approaches such as (1) editable, interactive, minimal text content, (2) a wide range of assessment tools that offer instant, elaborated feedback, (3) code visualization, (4) parsons problems, and (5) paired or mob programming. Codio simultaneously addresses many logistical concerns such as (1) accessibility, (2) cloud-based, instructor or pre-configured containers, (3) LMS integration, (4) in-line code comments and rubrics for manual feedback, (5) code playback to understand students’ programming process, (6) automated email nudging for students and (7) instructor-facing data visualizations to help identify struggling students."
   - type: "Paper Sessions"
     title: "Paper Session &mdash; Reducing Curricular Barriers"
@@ -2445,9 +2444,8 @@ sessions:
     location: "Narragansett B Ballroom (Omni)"
     hybrid: "N"
     presenters: "Jacqueline Russell (Microsoft)"
-    description: "Looking for some high-engagement options for teaching CS?  Join us for a fun, hands-on workshop where we’ll take a tour around MakeCode – exploring physical computing with the micro:bit, game development with MakeCode Arcade, and game modding with Minecraft!  We will walk through step-by-step coding challenges and build projects together that you can use in the classroom.  This is a beginner-level workshop – no prior experience required.  Attendees should bring a smile and a laptop to the session. Please note: this workshop will only be hosted in person.
-    |
-    Register for the Microsoft MakeCode Sampler Pack! session: [https://forms.office.com/r/R0F2ACEuss](https://forms.office.com/r/R0F2ACEuss)"
+    description: "What’s more fun on a Friday night than spending time with colleagues making and coding?!  Join us for a fun session with free devices and food/drinks! In this hands-on workshop, we’ll take a tour around MakeCode – exploring physical computing with the micro:bit, game development with MakeCode Arcade, and game modding with Minecraft! We will walk through step-by-step coding challenges and build projects together that you can use in the classroom. This is a beginner-level workshop – no prior experience required. This is a bring-your-own-device workshop – attendees should bring a laptop with internet and a USB port to the session. This workshop will only be hosted in person, and registration is required at: [https://forms.office.com/r/R0F2ACEuss](https://forms.office.com/r/R0F2ACEuss)"
+
   - type: "Workshops"
     title: "Workshops 3xx"
     day: "3/4/2022"
