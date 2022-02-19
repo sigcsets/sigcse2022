@@ -141,7 +141,7 @@ a {
 }
 
 a.is-checked {
-    background-color: #82bdf9; 
+    background-color: #82bdff; 
 }
 </style>
 
@@ -177,6 +177,11 @@ $('.button-group').each( function( i, buttonGroup ) {
         filters[ filterGroup ] = $this.attr('data-filter');
         var filterValue = concatValues( filters );
         window.isotope.arrange({ filter: filterValue });
+          if ( !window.isotope.filteredItems.length ) {
+            $('.message-div').fadeIn('slow');
+          } else {
+            $('.message-div').fadeOut('fast');
+          }
     });
 });
 
@@ -207,29 +212,32 @@ Last update: {{ "now" | date: "%A, %B %d, %Y" }}
 We thank you for your patience with us as we navigate the complexities associated with the hybrid design of this conference while adjusting to the evolving pandemic situation. If you have any questions, please do not hesitate to contact the Program Co-Chairs (Judy, Leen-Kiat, and Brian) at [program@sigcse2022.org](mailto:program@sigcse2022.org).
 </div>
 
-Day: 
+Filter By Day: 
 <div class="button-group" data-filter-group="day">
-  <a class="button" data-filter="">All</a>
-  <a class="button" data-filter=".Wed">Wed</a>
-  <a class="button" data-filter=".Thu">Thu</a>
-  <a class="button" data-filter=".Fri">Fri</a>
-  <a class="button" data-filter=".Sat">Sat</a>
-  <a class="button" data-filter=".Asynch">Asychronous</a>
+  <a class="button small" data-filter="">All</a>
+  <a class="button small" data-filter=".Wed">Wed</a>
+  <a class="button small" data-filter=".Thu">Thu</a>
+  <a class="button small" data-filter=".Fri">Fri</a>
+  <a class="button small" data-filter=".Sat">Sat</a>
+  <a class="button small" data-filter=".Asynch">Asychronous</a>
 </div>
 
-Session Type: 
+Filter By Session Type: 
 <div class="button-group" data-filter-group="type">
-  <a class="button" data-filter="">All</a>
-  <a class="button" data-filter=".affiliatedevent">Affiliated Events</a>
-  <a class="button" data-filter=".keynotes">Keynotes</a>
-  <a class="button" data-filter=".lightningtalks">Lightning Talks</a>
-  <a class="button" data-filter=".panels">Panels</a>
-  <a class="button" data-filter=".posters">Posters</a>
-  <a class="button" data-filter=".papersessions">Paper Sessions</a>
-  <a class="button" data-filter=".specialsessions">Special Sessions</a>
-  <a class="button" data-filter=".supportersessions">Supporter Sessions</a>
+  <a class="button small" data-filter="">All</a>
+  <a class="button small" data-filter=".affiliatedevent">Affiliated Events</a>
+  <a class="button small" data-filter=".keynotes">Keynotes</a>
+  <a class="button small" data-filter=".lightningtalks">Lightning Talks</a>
+  <a class="button small" data-filter=".panels">Panels</a>
+  <a class="button small" data-filter=".posters">Posters</a>
+  <a class="button small" data-filter=".papersessions">Paper Sessions</a>
+  <a class="button small" data-filter=".specialsessions">Special Sessions</a>
+  <a class="button small" data-filter=".supportersessions">Supporter Sessions</a>
 </div>
 
+<div class="message-div" style="display: none">
+No matching sessions found.
+</div>
 
 <div class="isotope">
 {% for day in site.data.program2['days'] %}
