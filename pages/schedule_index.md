@@ -140,7 +140,7 @@ a {
 	}
 }
 
-a.is-checked {
+a.button.is-checked, a.button:hover {
     color: black;
     background-color: #f2cdff; 
 }
