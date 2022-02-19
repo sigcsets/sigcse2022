@@ -1,14 +1,19 @@
 days:
   - day: "3/2/2022"
     name: "Wednesday, March 2"
+    short: "Wed"
   - day: "3/3/2022"
     name: "Thursday, March 3"
+    short: "Thu"
   - day: "3/4/2022"
     name: "Friday, March 4"
+    short: "Fri"
   - day: "3/5/2022"
     name: "Saturday, March 5"
+    short: "Sat"
   - day: "Asynchronous"
     name: "Asynchronous Paper Sessions"
+    short: "Asynch"
 
 sessions:
 
@@ -2501,7 +2506,7 @@ sessions:
           end: "20:00"
           location: "Room 556 A/B (RICC)"
           hybrid: "N"
-          presenters: "Eric Van Dusen (University of California, Berkeley); John DeNero (University of California, Berkeley); Kseniya Usovich (University of California, Berkeley)"
+          presenters: "Eric Van Dusen (University of California, Berkeley); John DeNero (University of California, Berkeley); Kseniya Usovich (University of California, Berkeley)<br><font color='red'>Food and beverages will be provided!</font>"
         - type: "Workshops"
           title: "W307: STARS Ignite: A Program for Supporting Professors in Organizing Student Cohorts for Conferences"
           day: "3/4/2022"

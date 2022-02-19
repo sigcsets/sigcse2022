@@ -139,7 +139,59 @@ a {
 		align-self: flex-start;
 	}
 }
+
+a.is-checked {
+    background-color: #82bdf9; 
+}
 </style>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script src="/assets/js/isotope.js"></script>
+
+<script>
+var filters = {};
+$(document).ready(function() {
+var $grid = $('.isotope');
+window.isotope = new Isotope($grid[0], {
+  itemSelector: '.element-item',
+  layoutMode: 'vertical'
+});
+
+function concatValues( obj ) {
+  var value = '';
+  for ( var prop in obj ) {
+    value += obj[ prop ];
+  }
+  return value;
+}
+
+$('.button-group').each( function( i, buttonGroup ) {
+    var $buttonGroup = $( buttonGroup );
+    $buttonGroup.on( 'click', 'a', function() {
+
+          // get group key
+        var $this = $(this);
+        var $buttonGroup = $this.parents('.button-group');
+        var filterGroup = $buttonGroup.attr('data-filter-group');
+          // set filter for group
+        filters[ filterGroup ] = $this.attr('data-filter');
+        var filterValue = concatValues( filters );
+        window.isotope.arrange({ filter: filterValue });
+    });
+});
+
+
+  // change is-checked class on buttons
+  $('.button-group').each( function( i, buttonGroup ) {
+    var $buttonGroup = $( buttonGroup );
+    $buttonGroup.on( 'click', 'a', function() {
+      $buttonGroup.find('.is-checked').removeClass('is-checked');
+      $( this ).addClass('is-checked');
+    });
+  });
+});
+</script>
+
 Last update: {{ "now" | date: "%A, %B %d, %Y" }}    
 
 <div markdown="1">
@@ -155,14 +207,39 @@ Last update: {{ "now" | date: "%A, %B %d, %Y" }}
 We thank you for your patience with us as we navigate the complexities associated with the hybrid design of this conference while adjusting to the evolving pandemic situation. If you have any questions, please do not hesitate to contact the Program Co-Chairs (Judy, Leen-Kiat, and Brian) at [program@sigcse2022.org](mailto:program@sigcse2022.org).
 </div>
 
+Day: 
+<div class="button-group" data-filter-group="day">
+  <a class="button" data-filter="">All</a>
+  <a class="button" data-filter=".Wed">Wed</a>
+  <a class="button" data-filter=".Thu">Thu</a>
+  <a class="button" data-filter=".Fri">Fri</a>
+  <a class="button" data-filter=".Sat">Sat</a>
+  <a class="button" data-filter=".Asynch">Asychronous</a>
+</div>
+
+Session Type: 
+<div class="button-group" data-filter-group="type">
+  <a class="button" data-filter="">All</a>
+  <a class="button" data-filter=".affiliatedevent">Affiliated Events</a>
+  <a class="button" data-filter=".keynotes">Keynotes</a>
+  <a class="button" data-filter=".lightningtalks">Lightning Talks</a>
+  <a class="button" data-filter=".panels">Panels</a>
+  <a class="button" data-filter=".posters">Posters</a>
+  <a class="button" data-filter=".papersessions">Paper Sessions</a>
+  <a class="button" data-filter=".specialsessions">Special Sessions</a>
+  <a class="button" data-filter=".supportersessions">Supporter Sessions</a>
+</div>
+
+
+<div class="isotope">
 {% for day in site.data.program2['days'] %}
-<div class="block_header">{{day.name}}</div>
+<div class="element-item block_header {{ day.short }}">{{day.name}}</div>
 {% for session in site.data.program2['sessions'] %}
 {% if day.day == session.day %}
 {% if session.id == null %}
-<div class="element-item card" style="width: 100%">
+<div class="element-item card {{ day.short }} {{session.type | downcase | replace: ' / ', '_' | remove: ' '}}" style="width: 100%">
 {% else %}
-<div class="element-item card" style="width: 100%" id="{{ session.id }}">
+<div class="element-item card {{ day.short }} {{session.type | downcase | replace: ' / ', '_' | remove: ' '}}" style="width: 100%" id="{{ session.id }}">
 {% endif %}  
   <div class="container">
     <h3>{{session.title}}</h3>
@@ -192,8 +269,10 @@ We thank you for your patience with us as we navigate the complexities associate
 {% endfor %}
 {% endfor %}
 
-<div class="block_header">Posters</div>
+<div class="element-item block_header posters">Posters</div>
 
+<div class="element-item card posters" style="width: 100%">
+<div class="container" markdown="1">
 <h3 id="poster-session-1">Poster Session #1</h3>
 
 **An Exploration into School District Decision Making Around Elementary Computer Science Programs**  
@@ -267,7 +346,11 @@ Sherry Seibel (Simmons University); Nanette Veilleux (Simmons University); Tabit
 
 **Building Community and Validating Co-Curricular Achievement**  
 Paul Gestwicki (Ball State University); David L. Largent (Ball State University)
+</div>
+</div>
 
+<div class="element-item card posters" style="width: 100%">
+<div class="container" markdown="1">
 <h3 id="poster-session-2">Poster Session #2</h3>
 
 **The Sol y Agua RPP: A Bilingual and Culturally Responsive Approach to Introduce Computational Thinking in Middle School**  
@@ -341,7 +424,11 @@ David L. Largent (Ball State University)
 
 **Insights from Virtual Culturally Responsive Computing Camps**  
 Jaemarie Solyst (Carnegie Mellon University); Tara Nkrumah (Arizona State University); Angela Stewart (Carnegie Mellon University); Amanda Buddemeyer (University of Pittsburgh); Erin Walker (University of Pittsburgh); Amy Ogan (Carnegie Mellon University)
+</div>
+</div>
 
+<div class="element-item card posters" style="width: 100%">
+<div class="container" markdown="1">
 <h3 id="poster-session-3">Poster Session #3</h3>
 
 **Computational Thinking Integration Design Principles in Humanities**  
@@ -412,7 +499,11 @@ William Allen (Rensselaer Polytechnic Institute); Shelly Belsky (Rensselaer Poly
 
 **An Introduction to Computer Science in the New Curriculum for Wales**  
 Tom Crick (Swansea University)
+</div>
+</div>
 
+<div class="element-item card posters" style="width: 100%">
+<div class="container" markdown="1">
 <h3 id="virtual-poster-session">Virtual Poster Session</h3>
 
 **From the Game Ideas Prototypes to their Final Versions using International Intensive Project Results**  
@@ -498,7 +589,11 @@ Tom Crick (Swansea University); Tom Prickett (Northumbria University); Jill Brad
 
 **Grading Mastery: Calculating Grades from Domain-Law Violations**  
 Oleg Sychev (Volgograd State Technical University); Yaroslav Kamennov (Volgograd State Technical University)
+</div>
+</div>
 
+<div class="element-item card posters" style="width: 100%">
+<div class="container" markdown="1">
 <h3 id="poster-session-SRC-UG">Undergraduate Student Research Competition Poster Session</h3>
 
 **K-12 CS Teacher Licensing in the US**  
@@ -524,7 +619,11 @@ Alia E. Alramahi (Benedictine University); Adrian K. Cornely (Benedictine Univer
 
 **[Virtual] Mining Data on Computing Majors Knowledge Game**
 Sam Thach (Oregon Institute of Technology); Cecily Heiner (Oregon Institute of Technology)
+</div>
+</div>
 
+<div class="element-item card posters" style="width: 100%">
+<div class="container" markdown="1">
 <h3 id="poster-session-SRC-G">Graduate Student Research Competition Poster Session</h3>
 
 **The Development of Computational Thinking in Computing Higher Education**  
@@ -547,3 +646,6 @@ Sagun Giri (The Pennsylvania State University)
 
 **Constructivism in Computer Science Education**  
 Julie Smith (University of North Texas)
+</div>
+</div>
+</div>
