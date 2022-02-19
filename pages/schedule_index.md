@@ -141,7 +141,8 @@ a {
 }
 
 a.is-checked {
-    background-color: #82bdff; 
+    color: black;
+    background-color: #f2cdff; 
 }
 </style>
 
@@ -232,12 +233,12 @@ Filter By Session Type:
   <a class="button small" data-filter=".coffeebreaks">Coffee Breaks</a>
   <a class="button small" data-filter=".demos">Demos</a>
   <a class="button small" data-filter=".exhibithall">Exhibit Hall</a>
-  <a class="button small" data-filter=".keynotes">Keynotes</a>
   <a class="button small" data-filter=".lightningtalks">Lightning Talks</a>
   <a class="button small" data-filter=".lunches">Lunches</a>
   <a class="button small" data-filter=".meetings">Meetings</a>
   <a class="button small" data-filter=".niftyassignments">Nifty Assignments</a>
   <a class="button small" data-filter=".panels">Panels</a>
+  <a class="button small" data-filter=".keynotes">Plenaries</a>
   <a class="button small" data-filter=".posters">Posters</a>
   <a class="button small" data-filter=".papersessions">Paper Sessions</a>
   <a class="button small" data-filter=".reception">Reception</a>
