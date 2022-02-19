@@ -226,6 +226,7 @@ Filter By Session Type:
 <div class="button-group" data-filter-group="type">
   <a class="button small" data-filter="">All</a>
   <a class="button small" data-filter=".affiliatedevent">Affiliated Events</a>
+  <a class="button small" data-filter=".bofs">Birds of a Feather</a>
   <a class="button small" data-filter=".coffeebreaks">Coffee Breaks</a>
   <a class="button small" data-filter=".demos">Demos</a>
   <a class="button small" data-filter=".exhibithall">Exhibit Hall</a>
@@ -235,7 +236,9 @@ Filter By Session Type:
   <a class="button small" data-filter=".panels">Panels</a>
   <a class="button small" data-filter=".posters">Posters</a>
   <a class="button small" data-filter=".papersessions">Paper Sessions</a>
+  <a class="button small" data-filter=".reception">Reception</a>
   <a class="button small" data-filter=".registration">Registration</a>
+  <a class="button small" data-filter=".sistersessions">Sister Sessions</a>
   <a class="button small" data-filter=".specialsessions">Special Sessions</a>
   <a class="button small" data-filter=".supportersessions">Supporter Sessions</a>
 </div>
