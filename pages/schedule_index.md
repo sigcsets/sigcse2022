@@ -225,6 +225,7 @@ Filter By Day:
 Filter By Session Type: 
 <div class="button-group" data-filter-group="type">
   <a class="button small" data-filter="">All</a>
+  <a class="button small" data-filter=".acmsrc">ACM SRC</a>
   <a class="button small" data-filter=".affiliatedevent">Affiliated Events</a>
   <a class="button small" data-filter=".bofs">Birds of a Feather</a>
   <a class="button small" data-filter=".coffeebreaks">Coffee Breaks</a>
@@ -233,14 +234,18 @@ Filter By Session Type:
   <a class="button small" data-filter=".keynotes">Keynotes</a>
   <a class="button small" data-filter=".lightningtalks">Lightning Talks</a>
   <a class="button small" data-filter=".lunches">Lunches</a>
+  <a class="button small" data-filter=".meetings">Meetings</a>
+  <a class="button small" data-filter=".niftyassignments">Nifty Assignments</a>
   <a class="button small" data-filter=".panels">Panels</a>
   <a class="button small" data-filter=".posters">Posters</a>
   <a class="button small" data-filter=".papersessions">Paper Sessions</a>
   <a class="button small" data-filter=".reception">Reception</a>
   <a class="button small" data-filter=".registration">Registration</a>
   <a class="button small" data-filter=".sistersessions">Sister Sessions</a>
+  <a class="button small" data-filter=".speakersbreakfasts">Speakers' Breakfasts</a>
   <a class="button small" data-filter=".specialsessions">Special Sessions</a>
   <a class="button small" data-filter=".supportersessions">Supporter Sessions</a>
+  <a class="button small" data-filter=".workshops">Workshops</a>
 </div>
 
 <div class="message-div" style="display: none">
@@ -253,9 +258,9 @@ No matching sessions found.
 {% for session in site.data.program2['sessions'] %}
 {% if day.day == session.day %}
 {% if session.id == null %}
-<div class="element-item card {{ day.short }} {{session.type | downcase | replace: ' / ', '_' | remove: ' '}}" style="width: 100%">
+<div class="element-item card {{ day.short }} {{session.type | downcase | replace: ' / ', '_' | remove: ' ' | remove: "'" }}" style="width: 100%">
 {% else %}
-<div class="element-item card {{ day.short }} {{session.type | downcase | replace: ' / ', '_' | remove: ' '}}" style="width: 100%" id="{{ session.id }}">
+<div class="element-item card {{ day.short }} {{session.type | downcase | replace: ' / ', '_' | remove: ' ' | remove: "'" }}" style="width: 100%" id="{{ session.id }}">
 {% endif %}  
   <div class="container">
     <h3>{{session.title}}</h3>
