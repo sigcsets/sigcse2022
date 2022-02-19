@@ -226,6 +226,7 @@ Filter By Session Type:
 <div class="button-group" data-filter-group="type">
   <a class="button small" data-filter="">All</a>
   <a class="button small" data-filter=".acmsrc">ACM SRC</a>
+  <a class="button small" data-filter=".authorscorner">Authors' Corner</a>
   <a class="button small" data-filter=".affiliatedevent">Affiliated Events</a>
   <a class="button small" data-filter=".bofs">Birds of a Feather</a>
   <a class="button small" data-filter=".coffeebreaks">Coffee Breaks</a>
