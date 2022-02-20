@@ -595,6 +595,30 @@ sessions:
       **Sarah Heckman** is a Teaching Professor and Director of Undergraduate Programs in the Department of Computer Science at NC State University.  She has received several teaching awards including recognition as an Alumni Distinguished Undergraduate Professor from NC State.  Her research interests are in computing education research, particularly around student help-seeking and support. Sarah is a member of the SIGCSE Technical Symposium Steering Committee, a member of the SIGCSE 2022 TS registration team (stop by the registration desk to say hi!), and was the Program Chair for the Technical Symposium in 2019 and 2020.  She is a Senior Member of the ACM and IEEE.  More details are available on her website: <https://people.engr.ncsu.edu/sesmith5/>. She may be reached at <sarah_heckman@ncsu.edu>.
       <br><br>
       **Mark Sherriff** is a Professor of Computer Science (Academic General Faculty) in the Department of Computer Science at the University of Virginia.  He was the founding director of the Center for Innovation in Computing Education and Outreach, which focuses on improving the impact of CS education research at UVA and abroad.  He has received numerous teaching awards in his career, including the 2016 IEEE Computer Society Mary Kenneth Keller Computer Science & Engineering Undergraduate Teaching Award and the 2014 UVA All-University Teaching Award.  He is active in the SIGCSE community, serving as Symposium Co-Chair for the 2020 and 2021 SIGCSE Technical Symposium.  He is a Senior Member of the ACM and IEEE.  More details are available on his website <http://marksherriff.com>.  He can be reached at <sherriff@virginia.edu>."
+  - type: "Authors' Corner"
+    title: "Authors' Corner"
+    day: "3/3/2022"
+    start: "12:15"
+    end: "13:00"
+    location: "Virtual"
+    hybrid: "Y"
+    presenters: "
+      Anastasiia Birillo,
+      Heeryung Choi,
+      Didem Demirag,
+      Paris Kalathas,
+      Ioannis Karvelas,
+      Celine Latulipe,
+      Juho Leinonen,
+      Bin Peng,
+      Vinhthuy Phan,
+      Emma Riese,
+      J. Ben Schafer,
+      leen Timmerman,
+      Tammy VanDeGrift,
+      and others TBA
+    "
+    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person."
 
 # 3/3 1345
 
@@ -607,17 +631,17 @@ sessions:
     hybrid: "N"
     presenters: "Kim Roberts, <span style=\"color:red;\">Nicki Anselmo</span>, Chris Stephenson, Sidnie Davis, Shanika Hope, Tina Ornduff, Peta-Gay Clarke, Heather Smith (Google)"
     description: "As the impact of current CS advocacy efforts roll out across U.S. states and internationally, there is increasing need for all levels of education to work together to address common needs and challenges. This session will provide participants with an opportunity to hear from leads for a wide variety of solution-oriented programs from Google. The broad array of interventions and resources will include high-school to undergraduate transitional programs, the growing importance of self-driven learning opportunities, new research on social capital, efforts to diversify the CS education research community, and new thinking on how Google can better connect with our ecosystem partners."
-  - type: "Supporter Sessions"
-    title: "zyBooks, A Wiley Brand's Supporter Session &mdash; Now is a great time for interactive textbooks"
-    day: "3/3/2022"
-    start: "13:45"
-    end: "15:00"
-    location: "Room 553 A/B (RICC)"
-    hybrid: "N"
-    presenters: "Cay Horstmann, Ph.D. (University of Michigan-Ann Arbor) and Kim Conrad (zyBooks, A Wiley Brand)"
-    description: "For students, the textbook is a tool. Students want to read just what they need, jump around, and come back to things — which keeps them moving through the material while stayingmotivated. With interactive material, students can instantly assess what they have learned and where they still need to put in work. Cay will show how this works in the zyBooks version of [Big Java: Late Objects](https://www.zybooks.com/catalog/big-java-late-objects-2e/).
-    <br><br>
-    Professors can use interactives to better understand where students are succeeding or struggling. Kim will demonstrate how to do that with the zyBooks tools for professors. As an author,Cay is delighted that he no longer has to rely solely on his writing to get the message across. He will talk about strategies for designing compelling activities that drive students to actuallyread the text."
+  # - type: "Supporter Sessions"
+  #   title: "zyBooks, A Wiley Brand's Supporter Session &mdash; Now is a great time for interactive textbooks"
+  #   day: "3/3/2022"
+  #   start: "13:45"
+  #   end: "15:00"
+  #   location: "Room 553 A/B (RICC)"
+  #   hybrid: "N"
+  #   presenters: "Cay Horstmann, Ph.D. (University of Michigan-Ann Arbor) and Kim Conrad (zyBooks, A Wiley Brand)"
+  #   description: "For students, the textbook is a tool. Students want to read just what they need, jump around, and come back to things — which keeps them moving through the material while stayingmotivated. With interactive material, students can instantly assess what they have learned and where they still need to put in work. Cay will show how this works in the zyBooks version of [Big Java: Late Objects](https://www.zybooks.com/catalog/big-java-late-objects-2e/).
+  #   <br><br>
+  #   Professors can use interactives to better understand where students are succeeding or struggling. Kim will demonstrate how to do that with the zyBooks tools for professors. As an author,Cay is delighted that he no longer has to rely solely on his writing to get the message across. He will talk about strategies for designing compelling activities that drive students to actuallyread the text."
   - type: "Supporter Sessions"
     title: "National Science Foundation Supporter Session &mdash; NSF Merit Review System and Grant Writing"
     day: "3/3/2022"
@@ -627,6 +651,14 @@ sessions:
     hybrid: "N"
     presenters: "Michelle Rogers (Program Director, CISE/CNS); HuiHui Wang (Program Director, EHR/DUE); Li Wang (Program Director EHR/DGE)"
     description: "What is the NSF merit review process and what does it take to ensure that reviewers find merit in your NSF proposal? Join us for an inside look at the NSF proposal process from solicitation to award or decline. Learn to identify key components and address intellectual merit and broader impact. This interactive session leads participants through each component by introducing related issues, engaging participants in group exercises designed to explore and share their understanding of the issues and providing guidance on these issues. Approaches for volunteering to review and the elements of a good review are covered, along with resources, Helpful Hints and Fatal Flaws."
+    title: "zyBooks Supporter Session &mdash; Reimagining CS Learning Solutions with zyBooks"
+    day: "3/3/2022"
+    start: "13:45"
+    end: "15:00"
+    location: "TBA"
+    hybrid: "N"
+    presenters: "Greg Monteforte and Kim Conrad (both from zyBooks, A Wiley Brand)"
+    description: "In this interactive session we will discuss how better-prepared students lead to an engaged and confident classroom. Learn about the zyBooks story, how interactives and analytics can better prepare both student and professor for lecture, and get updated on our newest projects and tools."
   - type: "Paper Sessions"
     title: "Paper Session &mdash; Predicting Success"
     day: "3/3/2022"
@@ -1489,6 +1521,26 @@ sessions:
     hybrid: "N"
     presenters: ""
 
+# 3/4 0845
+
+  - type: "Authors' Corner"
+    title: "Authors' Corner"
+    day: "3/3/2022"
+    start: "21:00"
+    end: "21:45"
+    location: "Virtual"
+    hybrid: "Y"
+    presenters: "
+      Kathryn Bridson,
+      Paul Denny,
+      Tomas Effenberger,
+      James Finnie-Ansley,
+      Scott D. Fleming,
+      Naser Al Madi,
+      David Liben-Nowell,
+      and others TBA"
+    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person."
+
 # 3/4 0700
 
   - type: "Speakers' Breakfasts"
@@ -1885,6 +1937,24 @@ sessions:
     location: "Room 557 (RICC)"
     hybrid: "N"
     presenters: ""
+
+# 3/4 1215
+
+  - type: "Authors' Corner"
+    title: "Authors' Corner"
+    day: "3/4/2022"
+    start: "12:15"
+    end: "13:00"
+    location: "Virtual"
+    hybrid: "Y"
+    presenters: "
+      Wouter Groeneveld,
+      Jacqueline Staub,
+      Hannah Miller,
+      Yongzhi Wang,
+      and others TBA
+    "
+    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person."
 
 # 3/4 1345
 
@@ -2523,6 +2593,28 @@ sessions:
           location: "Providence Ballroom II/III (Omni)"
           hybrid: "N"
           presenters: "Benjamin Walsh (University of Colorado Boulder); Safinah Ali (Massachusetts Institute of Technology); Francisco Castro (University of Massachusetts Amherst); Kayla Desportes (New York University); Daniella DiPaola (Massachusetts Institute of Technology); Irene Lee (Massachusetts Institute of Technology); William Payne (New York University); Scott Sieke (CU Science Discovery); Helen Zhang (Boston College)"
+
+# 3/4 2100
+
+  - type: "Authors' Corner"
+    title: "Authors' Corner"
+    day: "3/4/2022"
+    start: "21:00"
+    end: "21:45"
+    location: "Virtual"
+    hybrid: "Y"
+    presenters: "
+      Kevin Buffardi,
+      Victoria Dean,
+      Sarah Foss,
+      Rita Garcia,
+      Ruanqianqian (Lisa) Huang,
+      Kevin Lin,
+      Stefan Podlipnig,
+      Sadia Sharmin,
+      and others TBA
+    "
+    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person."
 
 # 3/5 0700
 
@@ -3285,6 +3377,30 @@ sessions:
     hybrid: "N"
     presenters: ""
     description: ""
+
+# 3/5 1245
+
+  - type: "Authors' Corner"
+    title: "Authors' Corner"
+    day: "3/5/2022"
+    start: "12:45"
+    end: "13:30"
+    location: "Virtual"
+    hybrid: "Y"
+    presenters: "
+      Paul E. Dickson,
+      Yuan Garcia,
+      Beryl Hoffman,
+      Shamika Klassen,
+      Xumin Liu,
+      W. Richards Adrion,
+      Dana Saito-Stehberger,
+      Hussel Suriyaarachchi,
+      Florence Sullivan,
+      Wengren Wang,
+      and others TBA
+    "
+    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person."
 
 # 3/5 1500
 

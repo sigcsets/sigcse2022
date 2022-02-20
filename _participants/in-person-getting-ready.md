@@ -72,7 +72,11 @@ The Vaccination Verification desk will have a list of all in-person participants
 If you brought your vaccination card and can access your email, then all is not lost. Somewhere other than the RICC and the Omni meeting rooms, pick up where you left off in the vaccination verification process described above and wait for it to complete. This will not be immediate, so you may want to check into your room, grab a snack, or check email.  Once you receive the receipt email from Immunaband, return to the RICC and show it to the folks at the Vaccination Verification desk.
 
 ### I forgot to register, but at least I remembered my proof of vaccination
-The [registration system](/participants#registration) will remain open through the end of TS 2022, so somewhere other than the RICC, register yourself. You won't be able to pick up your badge or registration materials yet, but one of the symposium organizers will begin the vaccination verification process for you. Wait for the emails from Immunaband and follow the process described above. Then find something to do while you wait for it to be verified. When you get your receipt email from Immunaband, return to the RICC and show it to the folks at the Vaccination Verification desk.
+The [registration system](/participants#registration) will close for in-person participation at 9:00 PM EST on Wednesday, March 2.
+
+If you arrive in Providence before that time, then somewhere other than the RICC, register yourself. You won't be able to pick up your badge or registration materials yet, but one of the symposium organizers will begin the vaccination verification process for you. Wait for the emails from Immunaband and follow the process described above. Then find something to do while you wait for it to be verified. When you get your receipt email from Immunaband, return to the RICC and show it to the folks at the Vaccination Verification desk.
+
+If you arrive in Providence after registration for in-person participation closes, we invite you to register for virtual participation.
 
 ### I forgot to register, and I can't access my proof of vaccination
 Maybe somebody can help you access your proof of vaccination? If not, then fortunately, TS 2022 is a hybrid event. We're very sorry that you won't be able to participate in person, but you can still [register](/participants#registration) for virtual participation.
