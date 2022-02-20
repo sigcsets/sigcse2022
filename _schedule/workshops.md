@@ -28,7 +28,7 @@ Workshops will take place duing these time blocks:
 {% endif %}
 <div class="card">
 <div class="container">
-<h3 id="workshop-{{workshop.number}}">Workshop {{workshop.number}} : {{workshop.title}}</h3>
+<h3 id="workshop-{{workshop.number}}">{{workshop.status}}Workshop {{workshop.number}} : {{workshop.title}}</h3>
 <span class="alert-box workshop"><strong>{{workshop.block}} Workshops</strong> - {{ site.data.workshops.blocks[position].day }} / {{ site.data.workshops.blocks[position].time }}</span>
 <p><strong>Modality</strong> : {{workshop.mode}}</p>
 {% if workshop.url %}

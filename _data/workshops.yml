@@ -47,6 +47,7 @@ workshops:
     ad: "Want to teach mobile app development but don't know where to start? Then this is the workshop for you! This interactive and hands-on session will guide you the process of making your first mobile app and then help you build apps that solve real-world problems. Our team from Carnegie Mellon University Department of Information Systems has developed a curriculum using Flutter, to rapidly onboard students into making apps that run on both iOS and Android. We will share all our open-source resources, and provide step-by-step instruction, so that you can feel confident teaching this in your classroom. You've never heard of Flutter? It is a framework, made by Google, that lets you build across platforms like iOS and Android. You program it in Dart, which looks like JavaScript, and is incredibly straight-forward to pick up. Come to the workshop and we will explain the whole process. One bit of prep you will need to do is install the necessary tools before the session. All setup instructions will be provided ahead of time.  Laptop required.  We'll see you at our workshop!"
     mode: "In-person"
   - number: 106
+    status: "<span style=\"color:red;\">CANCELLED</span> &mdash;"
     submission: 709
     block: Wednesday
     title: "Heterogeneous Computing for Undergraduates: Introducing the ToUCH Module Repository"
@@ -89,6 +90,7 @@ workshops:
     ad: "This hands-on workshop is designed for CS instructors who have never taught with (or even heard of) Process Oriented Guided Inquiry Learning. We will experience POGIL practices as we work through POGIL-style activities as students and as teachers, to understand what a POGIL class is like for students and teachers, how POGIL activities are structured, and how POGIL improves student outcomes. Devices are optional."
     mode: "In-person"
   - number: 304
+    status: "<span style=\"color:red;\">CANCELLED</span> &mdash;"
     submission: 679
     block: Friday
     title: "A Tutorial for Adopting the uMPS3/Pandos Project in the Operating Systems Course"
@@ -110,6 +112,7 @@ workshops:
     ad: "Come and learn about UC Berkeley’s new Data Science Undergraduate Program, with over 1000 majors currently declared.  The program is based on Data 8, a popular introductory course, and Data 100, each of which are taught with an open stack of technology built to scale.  The design of the major and outline of courses will be elaborated.  We will discuss the efforts to make data science interdisciplinary and inclusive and incorporate ethics into the curriculum.  Workshop participants will have the opportunity for a hands-on demonstration of some of the curricular materials.   This workshop is intended for: Faculty looking to add or adapt Data Science courses; Departments looking to add Data Science as a course of study ; People interested in open teaching technologies and curriculum. Bringing a laptop is recommended for hands on curriculum demonstrations. By engaging with students’ interest in the applications of computing on data, and integrating societal impact from the start, the program has developed a long-term commitment to advance computational skills for large numbers of students. These innovations in teaching not only convey important computational content, but also broaden participation beyond existing approaches to computer science. Goals include increasing diversity among students learning computer science, giving students a strong ethical foundation within their computer science work, and encouraging critical thinking in the application of inference and statistical techniques. Laptop is recommended.  <font color='red'>Food and beverages will be provided!</font>"
     mode: "In-person"
   - number: 307
+    status: "<span style=\"color:red;\">CANCELLED</span> &mdash;"
     submission: 706
     block: Friday
     title: "STARS Ignite: A Program for Supporting Professors inOrganizing Student Cohorts for Conferences"
@@ -131,6 +134,7 @@ workshops:
     ad: "Students in introductory courses have under-developed debugging skills, intuition, and vocabulary, which makes it difficult for those students to understand logic errors in their code and to interpret messages designed to assist them in doing so. This is particularly true when instructors are relying on automated grading frameworks to providing students with instantaneous feedback. This Designing Autograders for Novice Programmers workshop will present and discuss strategies for using industry-standard testing frameworks to design automatic tests, or autograders, that are particularly targeted to the novice student.  Novice students make a much wider variety of mistakes than students in upper-division courses, including many that would cause simple autograders to fail spectacularly (i.e. submitting the wrong file). For these reasons, a poorly-designed autograder may be less useful to novice students than none at all. However, we will present strategies for thoughtfully designing your autograder that will anticipate a wide variety of possible failure modes, explore deeply to discover their root causes, and explain the failures in a way that is comprehensible. We will demonstrate how we have done this using existing grading frameworks (i.e., Autogradr, Gradescope) using static analysis, unit tests, and other techniques. Both instructors who have never written autograders before and those who have but have been dissatisfied with the quality of feedback that they produce will benefit from the workshop.  One of the presenters primarily works with undergraduates and the other with graduate students (who are novice programmers), but the same techniques should also be applicable in secondary education.  Following discussion of design strategies and examples, attendees will work to build an autograder for a simple programming assignment and test submitting to an autograder built by another attendee.  Access to a computing device that can edit text documents and upload them through a web interface will be required.  Persons attending the workshop virtually should expect to have a similar experience to those attending physically."
     mode: "In-person"
   - number: 402
+    status: "<span style=\"color:red;\">CANCELLED</span> &mdash;"
     submission: 659
     block: Saturday
     title: "Beauty and Joy Computing: AP CS Principles & Middle School Curriculum"
