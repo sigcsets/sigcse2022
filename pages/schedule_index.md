@@ -142,7 +142,7 @@ a {
 
 a.button.is-checked, a.button:hover {
     color: black;
-    background-color: #f2cdff; 
+    background-color: #f2cdff;
 }
 </style>
 
@@ -213,7 +213,7 @@ Last update: {{ "now" | date: "%A, %B %d, %Y" }}
 We thank you for your patience with us as we navigate the complexities associated with the hybrid design of this conference while adjusting to the evolving pandemic situation. If you have any questions, please do not hesitate to contact the Program Co-Chairs (Judy, Leen-Kiat, and Brian) at [program@sigcse2022.org](mailto:program@sigcse2022.org).
 </div>
 
-Filter By Day: 
+Filter By Day:
 <div class="button-group" data-filter-group="day">
   <a class="button small" data-filter="">All</a>
   <a class="button small" data-filter=".Wed">Wed</a>
@@ -223,7 +223,7 @@ Filter By Day:
   <a class="button small" data-filter=".Asynch">Asychronous</a>
 </div>
 
-Filter By Session Type: 
+Filter By Session Type:
 <div class="button-group" data-filter-group="type">
   <a class="button small" data-filter="">All</a>
   <a class="button small" data-filter=".acmsrc">ACM SRC</a>
@@ -298,7 +298,7 @@ No matching sessions found.
 <div class="container" markdown="1">
 <h3 id="poster-session-1">Poster Session #1</h3>
 
-**An Exploration into School District Decision Making Around Elementary Computer Science Programs**  
+**[Now Virtual] An Exploration into School District Decision Making Around Elementary Computer Science Programs**  
 Eleanor Richard (University of Massachusetts Dartmouth)
 
 **Exploring Threshold Concepts for Intermediate Students**  
@@ -313,7 +313,7 @@ Sheikh Rabiul Islam (University of Hartford); Ingrid Russell (University of Hart
 **Including Neurodiversity in Foundational and Applied Computational Thinking (INFACT)**  
 Jodi Asbell-Clarke (TERC); Tara Robillard (TERC); Teon Edwards (TERC); Erin Bardar (TERC); Maya Israel (University of Florida); David Weintrop (University of Maryland); Shuchi Grover (Looking Glass Inc)
 
-**Using Deep Learning to Localize Errors in Student Code Submissions**  
+**[Now Virtual] Using Deep Learning to Localize Errors in Student Code Submissions**  
 Shion Fujimori (University of Toronto); Mohamed Harmanani (University of Toronto); Owais Siddiqui (University of Toronto Mississauga); Lisa Zhang (University of Toronto Mississauga)
 
 **LupSeat: A Randomized Seating Chart Generator to Prevent Exam Cheating**  
@@ -349,7 +349,7 @@ Nathan Percival (University of Massachusetts Lowell); Pranathi Rayavaram (Univer
 **Exploration of the Week-by-Week ICAP Transitions by Students**  
 Adam M Gaweda (North Carolina State University); Collin F Lynch (North Carolina State University)
 
-**Developing Inclusive Computing with the CT Pathways Toolkit**  
+**[Now Virtual] Developing Inclusive Computing with the CT Pathways Toolkit**  
 Merijke Coenraad (Digital Promise); Quinn Burke (Digital Promise); Pati Ruiz (Digital Promise); Kelly Mills (Digital Promise); Jeremy Roschelle (Digital Promise)
 
 **Cybersecurity Shuffle: Using Card Magic to Introduce Cybersecurity Concepts**  
@@ -376,13 +376,13 @@ Paul Gestwicki (Ball State University); David L. Largent (Ball State University)
 <div class="container" markdown="1">
 <h3 id="poster-session-2">Poster Session #2</h3>
 
-**The Sol y Agua RPP: A Bilingual and Culturally Responsive Approach to Introduce Computational Thinking in Middle School**  
+**[Now Virtual] The Sol y Agua RPP: A Bilingual and Culturally Responsive Approach to Introduce Computational Thinking in Middle School**  
 Monika Akbar (The University of Texas at El Paso); Katherine Mortimer (The University of Texas at El Paso); Grecia Navarrete (The University of Texas at El Paso); Stephanie Galvan (The University of Texas at El Paso); George Molina (The University of Texas at El Paso); Romelia Reyes (The University of Texas at El Paso); Cynthia Ontiveros (El Paso Independent School District); Scott Gray (El Paso Independent School District); Sarah Escandon (El Paso Independent School District); Monica Lyons (El Paso Independent School District); Pedro Delgado (El Paso Independent School District); Victor Medrano (El Paso Independent School District); Haleigh Kneedler (El Paso Independent School District); Patricia Benitez (El Paso Independent School District); Jacob Ramirez (El Paso Independent School District); Jesus Vazquez (El Paso Independent School District); Melissa Anderson (El Paso Independent School District)
 
 **XDesign: Integrating Interface Design into Explainable AI Education**  
 Hyungyu Shin (KAIST (Korea Advanced Institute of Science and Technology)); Nabila Sindi (KAIST (Korea Advanced Institute of Science and Technology)); Yoonjoo Lee (KAIST (Korea Advanced Institute of Science and Technology)); Jaeryoung Ka (KAIST (Korea Advanced Institute of Science and Technology)); Jeanyoung Y. Song (DGIST (Daegu Gyeongbuk Institute of Science and Technology)); Juho Kim (KAIST (Korea Advanced Institute of Science and Technology))
 
-**Introducing Programming to Middle School Students to Increase Knowledge and Interest in Computer Science**  
+**[Now Virtual] Introducing Programming to Middle School Students to Increase Knowledge and Interest in Computer Science**  
 Callan J. Noak (Lamar University); Jennifer L. Tsan (Lamar University); Sujing Wang (Lamar University); Stefan Andrei (Lamar University)
 
 **INSPIRE: Fourth Industrial Revolution Teaching in the Classroom**  
@@ -418,7 +418,7 @@ Felicia Hellems (Sacred Heart University); Sajal Bhatia (Sacred Heart University
 **Teaching Parallel Programming with Java and Pyjama**  
 Ruth Kurniawati (Westfield State University)
 
-**Can CS1 Curricula Be Used For Middle School Computer Programming Education?**  
+**[Now Virtual] Can CS1 Curricula Be Used For Middle School Computer Programming Education?**  
 Gurmeher Kaur (Chapel Hill High School); Kris Jordan (University of North Carolina at Chapel Hill); Jasleen Kaur (University of North Carolina at Chapel Hill)
 
 **Equity in Access to and Participation in K-12 Computer Science Education**  
@@ -433,7 +433,7 @@ Ella Truslow (University of Virginia); Nour Goulmamine (University of Virginia);
 **MOCSIDE: An Open-source and Scalable Online IDE and Auto-Grader for Computer Science Education**  
 Jonathan Cazalas (Florida Southern College); Max Barlow (Florida Southern College); Ibraheem Cazalas (Florida Southern College); Chase Robinson (Florida Southern College)
 
-**The Effect of Program Cost on Minority Student Virtual Computing Outreach Participation**  
+**[Now Virtual] The Effect of Program Cost on Minority Student Virtual Computing Outreach Participation**  
 Kaylah Mackroy (Morehouse College); Whitney Nelson (Morehouse College); Kinnis Gosha (Morehouse College)
 
 **Measuring the Impact of COVID-19 on the Health and Wellbeing of Computer Science Practitioners**  
@@ -454,19 +454,19 @@ Jaemarie Solyst (Carnegie Mellon University); Tara Nkrumah (Arizona State Univer
 <div class="container" markdown="1">
 <h3 id="poster-session-3">Poster Session #3</h3>
 
-**Computational Thinking Integration Design Principles in Humanities**  
+**[Now Virtual] Computational Thinking Integration Design Principles in Humanities**  
 Secil Caskurlu (Michigan State University); Anne Drew Hu (Michigan State University); Aman Yadav (Michigan State University); Rafi Santo (Telos Learning)
 
 **Designing Equity-Centered Formative Assessment Artifacts for Computing**  
 Pati Ruiz (Digital Promise); Emily Nestor (Talladega County Schools); Kelly Mills (Digital Promise); Merijke Coenraad (Digital Promise); Quinn Burke (Digital Promise)
 
-**ExCITE: Broadening Participation with Service Learning**  
+**[Now Virtual] ExCITE: Broadening Participation with Service Learning**  
 Lily R. Liang (University of the District of Columbia); Briana Wellman (University of the District of Columbia); Uzma Amir (University of the District of Columbia)
 
 **Beyond MCQ: Designing Innovative, Engaging, Autogradable Assessments for Supporting Teaching & Learning in K-12 Computer Science**  
 Shuchi Grover (Looking Glass Ventures); Bob Carmichael (Looking Glass Ventures); Shivram Venkatasubramaniam (Looking Glass Ventures)
 
-**Investigating the Impact of Voice Response Options in Surveys**  
+**[Now Virtual] Investigating the Impact of Voice Response Options in Surveys**  
 Pan Chen (University of Toronto); Naaz Sibia (University of Toronto Mississauga); Angela Zavaleta Bernuy (University of Toronto); Michael Liut (University of Toronto Mississauga); Joseph Jay Williams (University of Toronto)
 
 **Training Near-Peer Mentors for Instructional Roles in Informal K-12 Computing Programs**  
@@ -484,7 +484,7 @@ Julio César Bahamón (University of North Carolina at Charlotte)
 **Women More Likely to Have a Sense of Belonging in Coding Bootcamps than University Computer Science Programs**  
 Sherry Seibel (Simmons University); Nanette Veilleux (Simmons University); Tabitha Miles (Simmons University); Rachel Beaulieu (Simmons University)
 
-**How Do Students Seek Help and How Do TAs Respond? Investigating Help-Seeking Strategies in CS1 Office Hours**  
+**[Now Virtual] How Do Students Seek Help and How Do TAs Respond? Investigating Help-Seeking Strategies in CS1 Office Hours**  
 Harrison Kwik (Northwestern University); Haoqi Zhang (Northwestern University); Eleanor O'Rourke (Northwestern University)
 
 **Bringing Ethics and Justice into CS1 Courses through Data that Shows an Incomplete Picture**  
@@ -493,10 +493,10 @@ Yunhao Wang (University of Michigan); Johanna Okerlund (University of Michigan);
 **Universal Design of Interactive Mathematical Notebooks on Programming**  
 Bin Guo (McMaster University); Jason Nagy (McMaster University); Emil Sekerinski (McMaster University)
 
-**Curricula Design in Public Interest Tech Using OER**  
+**[Now Virtual] Curricula Design in Public Interest Tech Using OER**  
 Susan P. Imberman (College of Staten Island CUNY)
 
-**Validation of the Programming Emotions Questionnaire**  
+**[Now Virtual] Validation of the Programming Emotions Questionnaire**  
 Sarthak Awasthi (The Ohio State University); Rakhi Batra (The Ohio State University); Syedah Zahra Atiq (The Ohio State University)
 
 **Students' Engagement in Collaborative Active Learning - Online v.s. Face-to-Face**  
@@ -612,6 +612,37 @@ Tom Crick (Swansea University); Tom Prickett (Northumbria University); Jill Brad
 
 **Grading Mastery: Calculating Grades from Domain-Law Violations**  
 Oleg Sychev (Volgograd State Technical University); Yaroslav Kamennov (Volgograd State Technical University)
+
+**[Now Virtual] The Sol y Agua RPP: A Bilingual and Culturally Responsive Approach to Introduce Computational Thinking in Middle School**  
+Monika Akbar (The University of Texas at El Paso); Katherine Mortimer (The University of Texas at El Paso); Grecia Navarrete (The University of Texas at El Paso); Stephanie Galvan (The University of Texas at El Paso); George Molina (The University of Texas at El Paso); Romelia Reyes (The University of Texas at El Paso); Cynthia Ontiveros (El Paso Independent School District); Scott Gray (El Paso Independent School District); Sarah Escandon (El Paso Independent School District); Monica Lyons (El Paso Independent School District); Pedro Delgado (El Paso Independent School District); Victor Medrano (El Paso Independent School District); Haleigh Kneedler (El Paso Independent School District); Patricia Benitez (El Paso Independent School District); Jacob Ramirez (El Paso Independent School District); Jesus Vazquez (El Paso Independent School District); Melissa Anderson (El Paso Independent School District)
+
+**[Now Virtual] Introducing Programming to Middle School Students to Increase Knowledge and Interest in Computer Science**  
+Callan J. Noak (Lamar University); Jennifer L. Tsan (Lamar University); Sujing Wang (Lamar University); Stefan Andrei (Lamar University)
+
+**[Now Virtual] Can CS1 Curricula Be Used For Middle School Computer Programming Education?**  
+Gurmeher Kaur (Chapel Hill High School); Kris Jordan (University of North Carolina at Chapel Hill); Jasleen Kaur (University of North Carolina at Chapel Hill)
+
+**[Now Virtual] The Effect of Program Cost on Minority Student Virtual Computing Outreach Participation**  
+Kaylah Mackroy (Morehouse College); Whitney Nelson (Morehouse College); Kinnis Gosha (Morehouse College)
+
+**[Now Virtual] Computational Thinking Integration Design Principles in Humanities**  
+Secil Caskurlu (Michigan State University); Anne Drew Hu (Michigan State University); Aman Yadav (Michigan State University); Rafi Santo (Telos Learning)
+
+**[Now Virtual] ExCITE: Broadening Participation with Service Learning**  
+Lily R. Liang (University of the District of Columbia); Briana Wellman (University of the District of Columbia); Uzma Amir (University of the District of Columbia)
+
+**[Now Virtual] Investigating the Impact of Voice Response Options in Surveys**  
+Pan Chen (University of Toronto); Naaz Sibia (University of Toronto Mississauga); Angela Zavaleta Bernuy (University of Toronto); Michael Liut (University of Toronto Mississauga); Joseph Jay Williams (University of Toronto)
+
+**[Now Virtual] How Do Students Seek Help and How Do TAs Respond? Investigating Help-Seeking Strategies in CS1 Office Hours**  
+Harrison Kwik (Northwestern University); Haoqi Zhang (Northwestern University); Eleanor O'Rourke (Northwestern University)
+
+**[Now Virtual] Curricula Design in Public Interest Tech Using OER**  
+Susan P. Imberman (College of Staten Island CUNY)
+
+**[Now Virtual] Validation of the Programming Emotions Questionnaire**  
+Sarthak Awasthi (The Ohio State University); Rakhi Batra (The Ohio State University); Syedah Zahra Atiq (The Ohio State University)
+
 </div>
 </div>
 
@@ -619,10 +650,10 @@ Oleg Sychev (Volgograd State Technical University); Yaroslav Kamennov (Volgograd
 <div class="container" markdown="1">
 <h3 id="poster-session-SRC-UG">Undergraduate Student Research Competition Poster Session</h3>
 
-**K-12 CS Teacher Licensing in the US**  
+**[Now Virtual] K-12 CS Teacher Licensing in the US**  
 Jessica M Yauney (Brigham Young University)
 
-**Rho-NLR: A Neural Lumigraph Renderer with Controllable Illumination**  
+**[Now Virtual] Rho-NLR: A Neural Lumigraph Renderer with Controllable Illumination**  
 Laura Perkins (New College of Florida)
 
 **The Effect of Animation and Real-world Analogies on Learning Computer Systems Concepts by Diverse Students**  
@@ -634,7 +665,7 @@ Tabitha Miles (Simmons University)
 **Interactive Network Visualization of Learning Progressions**  
 Nathan Hurtig (Rose-Hulman Institute of Technology)
 
-**Celer: A Smart Fleet Management System (Optimizing Traffic Flow in New York City)**  
+**[Now Virtual] Celer: A Smart Fleet Management System (Optimizing Traffic Flow in New York City)**  
 Ugo Dos Reis (University of Toronto); Maheen Ferdousi (University of Toronto); Ilir Dema (University of Toronto)
 
 **Using LSTM Networks for Multiparameter Physiological Signal Reconstruction to Reduce Training Time**  
@@ -658,7 +689,7 @@ Taichi Imbe (Meisei University)
 **What Does Literature Tell Us About Recursion?**  
 Sean Mackay (University at Buffalo)
 
-**Equipping Middle School Teachers with Culturally Responsive Pedagogy for Computer Science Through Community-centered Professional Development**  
+**[Now Virtual] Equipping Middle School Teachers with Culturally Responsive Pedagogy for Computer Science Through Community-centered Professional Development**  
 Gillian Bausch (University at Albany, SUNY)
 
 **Cross-grade Comparison of Computational Thinking in Young Children Using Normalized Unplugged Assessment Scores**  
