@@ -220,7 +220,7 @@ Filter By Day:
   <a class="button small" data-filter=".Thu">Thu</a>
   <a class="button small" data-filter=".Fri">Fri</a>
   <a class="button small" data-filter=".Sat">Sat</a>
-  <a class="button small" data-filter=".Asynch">Asychronous</a>
+  <a class="button small" data-filter=".Asynch">Asynchronous</a>
 </div>
 
 Filter By Session Type:
