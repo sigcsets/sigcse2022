@@ -3349,16 +3349,7 @@ sessions:
     hybrid: "N"
     presenters: ""
     description: ""
-  - type: "Lunches"
-    title: "SIGCSE TS 2022/2023 Reflections and Meetup"
-    day: "3/5/2022"
-    start: "13:00"
-    end: "14:00"
-    location: "Narragansett B"
-    hybrid: "N"
-    presenters: "dlPlan and SIGCSE TS 2022 Chairs"
-    description: "Immediate reflections of the conference and meetup for the teams. Please have lunch beforehand in the Ballroom."
-
+ 
 # 3/5 1245
 
   - type: "Authors' Corner"
@@ -3382,6 +3373,17 @@ sessions:
       and others TBA
     "
     description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person."
+
+# 3/5 1300
+ - type: "Meetings"
+    title: "SIGCSE TS 2022 and SIGCSE TS 2023 Committee Meeting"
+    day: "3/5/2022"
+    start: "13:00"
+    end: "14:00"
+    location: "Narragansett B (Omni)"
+    hybrid: "N"
+    presenters: "dlPlan and SIGCSE TS 2022 Chairs"
+    description: "Immediate reflections of the conference and meetup for the teams. Please have lunch beforehand in the Ballroom."
 
 # 3/5 1500
 
