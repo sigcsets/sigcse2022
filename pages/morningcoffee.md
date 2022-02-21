@@ -1,14 +1,13 @@
 ---
 layout: page-fullwidth
-title: "SIGCSE Morning Coffee"
-meta_title: "SIGCSE Morning Coffee"
-permalink: "/morningcoffee/"
+title: "SIGCSE Coffee Break"
+meta_title: "SIGCSE Coffee Break"
+permalink: "/sigcsecoffeebreak/"
 ---
 
-<img src="{{site.url}}/images/SIGCSETS21-Coffee-header.png" alt="SIGCSE Morning Coffee Logo" style="padding: 10px" />
+<img src="/images/sigcse-coffee-break-logo-small.png" alt="SIGCSE Morning Coffee Logo" style="padding: 10px" />
 
-Join us each morning during the SIGCSE Technical Symposium for Morning Coffee - a morning show highlighting all that's going on at the Symposium that day!  Hosted by a rotating cast of Mark Sherriff, Larry Merkle, Pam Cutter, Alvaro Monge, and Judy Sheard, the show will cover the day's calendar, along with interviews with members of the SIGCSE community!
+Join us live from the Exhibit Hall floor at the Rhode Island Convention Center during the five break sessions for SIGCSE Coffee Break &mdash; a show about everything going on at the 2022 SIGCSE Technical Symposium!  Host Mark Sherriff will be joined by a rotating cast of co-hosts and interview guests as they cover the day’s calendar and exciting events going on at the Symposium.
 
-__Watch the entire 2021 season on our YouTube channel:__ [https://youtube.com/playlist?list=PL04L3zqnbRa_SxGO6HuaheBz_TzeNqObI](https://youtube.com/playlist?list=PL04L3zqnbRa_SxGO6HuaheBz_TzeNqObI)
 
-__Listen to the audio podcast version:__ [https://anchor.fm/sigcsemorningcoffee](https://anchor.fm/sigcsemorningcoffee)
+__Watch the entire 2021 season on our__ [YouTube channel](https://youtube.com/playlist?list=PL04L3zqnbRa_SxGO6HuaheBz_TzeNqObI).
