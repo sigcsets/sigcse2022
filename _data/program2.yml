@@ -879,7 +879,7 @@ sessions:
     location: "Room 556 A/B (RICC, Hybrid Room)"
     hybrid: "Y"
     presenters: "Amruth N. Kumar (Ramapo College of New Jersey); Rajendra K. Raj (Rochester Institute of Technology)"
-  - type: "Poster Sessions"
+  - type: "ACM SRC"
     title: "Poster Session &mdash; ACM Student Research Competition (SRC)"
     day: "3/3/2022"
     start: "13:45"
