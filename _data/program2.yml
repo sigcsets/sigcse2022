@@ -3349,7 +3349,7 @@ sessions:
     hybrid: "N"
     presenters: ""
     description: ""
- 
+
 # 3/5 1245
 
   - type: "Authors' Corner"
@@ -3375,7 +3375,8 @@ sessions:
     description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person."
 
 # 3/5 1300
- - type: "Meetings"
+
+  - type: "Meetings"
     title: "SIGCSE TS 2022 and SIGCSE TS 2023 Committee Meeting"
     day: "3/5/2022"
     start: "13:00"
