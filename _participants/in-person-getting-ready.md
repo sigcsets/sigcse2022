@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Getting Ready: SIGCSE TS 2022 In-Person Registration"
+title: "Getting Ready: SIGCSE TS 2022 In-Person Participation"
 showTitle: true
 ---
 
@@ -35,7 +35,7 @@ ACM and SIGCSE have partnered with [Immunaband](https://www.immunaband.com) to v
 <img src="/images/immunaband_password_changed_email.png" width="200" height="100" alt="Immunaband Password Changed Email">
 <br><br>
 1. You will then be able to log in to Immunaband, accept the Terms and Conditions, click on "manage your vaccine info," and complete the information on your "Manage Vaccination Information" page. Specifically, you need to (a) edit your name to match your proof of vaccination; (b) enter your date of birth; (c) enter the type (manufacturer), lot number, and date for each of your shots (jabs); and (d) upload an image (not PDF) of your proof of vaccination. There is no "Save" button &mdash; information is saved as it is entered and uploaded. **We highly encourage you to submit your proof of vaccination as early as possible, and no later than Monday, February 28.**
-1. Once you have uploaded your proof of vaccination, Immunaband's experts will examine and verify it. We hope this step will take no more than 48 hours. If they need more information, a clearer image, etc., they will email you (we don't include any such emails in our counting). Once Immunaband has verified your vaccination status, you will receive a fourth email from them. It is for your information only, informing you that the verification is complete (or requesting additional information). If you log in to your Immunaband account at this point (which is not necessary), your "Dashboard" page will show a "badge" near the lower left corner (a white check mark in a green box).
+1. Once you have uploaded your proof of vaccination, Immunaband's experts will examine and verify it. We hope this step will take no more than 48 hours. If they need more information, a clearer image, etc., they will email you (we don't include any such emails in our counting). Once Immunaband has verified your vaccination status, you will receive a fourth email from them, with the subject line "Immunaband Vaccination Card Approved." It is for your information only, informing you that the verification is complete (or requesting additional information). If you log in to your Immunaband account at this point (which is not necessary), your "Dashboard" page will show a "badge" near the lower left corner (a white check mark in a green box).
 <br><br>
 <img src="/images/immunaband_approved_email.png" width="200" height="100" alt="Immunaband You've Been Added Email">
 <br><br>
@@ -72,7 +72,7 @@ The Vaccination Verification desk will have a list of all in-person participants
 If you brought your vaccination card and can access your email, then all is not lost. Somewhere other than the RICC and the Omni meeting rooms, pick up where you left off in the vaccination verification process described above and wait for it to complete. This will not be immediate, so you may want to check into your room, grab a snack, or check email.  Once you receive the receipt email from Immunaband, return to the RICC and show it to the folks at the Vaccination Verification desk.
 
 ### I forgot to register, but at least I remembered my proof of vaccination
-The [registration system](/participants#registration) will close for in-person participation at 9:00 PM EST on Wednesday, March 2.
+The [registration system](/participants#registration) will close for in-person participation at 9:00 PM EST on Wednesday, March 2. Also, due to the time required for the vaccination verification process, there is a risk that you may be unable to participate in person in some or all sessions.
 
 If you arrive in Providence before that time, then somewhere other than the RICC, register yourself. You won't be able to pick up your badge or registration materials yet, but one of the symposium organizers will begin the vaccination verification process for you. Wait for the emails from Immunaband and follow the process described above. Then find something to do while you wait for it to be verified. When you get your receipt email from Immunaband, return to the RICC and show it to the folks at the Vaccination Verification desk.
 
