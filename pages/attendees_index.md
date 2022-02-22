@@ -42,15 +42,33 @@ Note that anyone that already has purchased full registration to the 2021 Techni
 -->
 
 
-The 53rd ACM Technical Symposium on Computer Science Education hybrid event will be held in early March 2022 at the [Rhode Island Convention Center](http://www.riconvention.com) and [Omni Providence Hotel](https://www.omnihotels.com/hotels/providence) in Providence, Rhode Island, USA. 
+The 53rd ACM Technical Symposium on Computer Science Education hybrid event will be held in early March 2022. The in-person component will take place at the [Rhode Island Convention Center](http://www.riconvention.com) and [Omni Providence Hotel](https://www.omnihotels.com/hotels/providence) in Providence, Rhode Island, USA. The virtual component will be hosted on [Pathable](https://sigcse2022.us2.pathable.com/).
 
+We are very excited to provide our community with a technical symposium supporting both virtual and in-person participation.  We have done our best to design a conference that is engaging and open to all. Part of being open to all is keeping costs down, which means that we will have some sessions with both in-person and virtual participation, while others will have only in-person participation or only virtual participation. Plenary sessions, including keynote presentations, will be among those with both in-person and virtual participation, as will all panels and special sessions.
 
-## Hybrid Experience
+We ask for your patience and constructive feedback while we find a way to offer the symposium to all who are interested.  If you are like us, you will have questions. This page and its links are here to help you navigate this years offering!
+
+## Hybrid Experience: What to Know/Expect
+
+### The Big Picture
 Program content will be delivered in a hybrid modality, with the virtual component hosted on Pathable. Specifically, presenters may participate either in-person or remotely. Selected presentations will be live-streamed to remote participants, including the keynote addresses, panels, special sessions, and nifty assignments. All papers, lightning talks, demos, and posters will have a pre-recorded video on the online platform. Authors of in-person presentations that are not live-streamed will be online at specific times in the Authors’ Corner, where they will be available to discuss their work.
 
+Whether you are participating virtually or in person, please read more about what to expect with respect to Pathable and how to get the most out of your [TS 2022 Pathable experience](/participants/pathable).
+
+### Participants Registered for In-Person Participation
+
+The world has changed since we last met in-person, and preparing for conference participation is more complicated than it used to be. As mentioned above, you will want to customize your Pathable account. Most importantly, you will also need to have your COVID-19 vaccination status verified, preferably (by far) before you arrive onsite. You'll want to pack a few new items, too. Finally, some new procedures will be in place once we're onsite, especially on our first day at the conference venue. All of these topics are discussed on our page about [getting ready](/participants/in-person-getting-ready).
+
+Beyond changes in how we prepare for conference participation, you might be wondering how the TS 2022 program content will be delivered. What content will be in-person, hybrid, and virtual-only? How will participants with in-person registration participate in sessions with each of these modalities. For answers, see our page about the [program experience for participants with in-person registration](/participants/in-person-program-experience).
+
+### Participants Registered for Virtual Participation
+
+#### See [VGR](/participants/virtual-getting-ready)
+
+#### See [VPE](/participants/virtual-program-experience)
 
 ## Accessibility
-The SIGCSE community is becoming increasingly diverse, with attendees from all over the world who represent varied gender, racial, ethnic, disability, and other identities. This set of Frequently Asked Questions is here to help you navigate accessibility at the conference. If you have any additional questions or concerns, please contact the Accessibility Liaison, Mohsen Dorodchi, at [accessibility@sigcse2022.org](mailto:accessibility@sigcse2022.org).
+The SIGCSE community is becoming increasingly diverse, with participants from all over the world who represent varied gender, racial, ethnic, disability, and other identities. This set of Frequently Asked Questions is here to help you navigate accessibility at the conference. If you have any additional questions or concerns, please contact the Accessibility Liaison, Mohsen Dorodchi, at [accessibility@sigcse2022.org](mailto:accessibility@sigcse2022.org).
 
 ### Q: Is there a room for nursing mothers?
 **A:** Yes. There is a room for nursing on the fifth floor of the convention center next to room 557.  This room is equipped with a refrigerator and full bathroom.  Please see the Registration Desk to obtain the key.
@@ -96,7 +114,7 @@ RIPTA city bus service is available to/from T.F. Green on route numbers 1, 8, 14
 ### Q: Will the conference be a smoke-free environment?
 **A:** There is no smoking inside the conference hotels or the conference center.
 
-### Q: Will there be microphones for attendees in session rooms?
+### Q: Will there be microphones for participants in session rooms?
 **A:** Yes. Guidelines for session chairs and presenters request that all participants use microphones.
 
 ### Q: Is there an option to attend the conference remotely by robots (e.g., Beams)?
@@ -107,17 +125,17 @@ RIPTA city bus service is available to/from T.F. Green on route numbers 1, 8, 14
 
 
 ## Hotel and Travel Information          
-Once you have [chosen whether to arrive by plane, train, automobile](https://www.goprovidence.com/sigcse/getting-here/), or some combination thereof, [reserve your room](https://www.goprovidence.com/sigcse/hotel-information/) at the Omni Providence or one of the other fine conference hotels. The Omni is the 2022 SIGCSE Technical Symposium headquarters hotel and connected to the Rhode Island Convention Center by an enclosed skybridge. 
+Once you have [chosen whether to arrive by plane, train, automobile](https://www.goprovidence.com/sigcse/getting-here/), or some combination thereof, [reserve your room](https://www.goprovidence.com/sigcse/hotel-information/) at the Omni Providence or one of the other fine conference hotels. The Omni is the 2022 SIGCSE Technical Symposium headquarters hotel and connected to the Rhode Island Convention Center by an enclosed skybridge.
 
 Make your room reservation by Feb 7 to ensure the SIGCSE discounted rate. Hotel rooms and rates are based on availability.
 
 
 ### Roommate Database
-The [SIGCSE TS 2022 Roommate Finder](https://app.miniextensions.com/form/HQQb5whwEXxH4RqmnHcp) database's purpose is to support in-person SIGCSE TS attendees who are looking for others wanting to share hotel rooms. It stores your relevant information, including travel dates and contact details, as well as whether you already have a hotel room reserved or not. It then allows you to search for potential matching roommates.  It is an information resource only. Actually contacting potential roommates and determining compatibility is up to you. Once you and a roommate agree to share, please follow the instructions provided to remove yourself from the active list of roommate seekers.
+The [SIGCSE TS 2022 Roommate Finder](https://app.miniextensions.com/form/HQQb5whwEXxH4RqmnHcp) database's purpose is to support in-person SIGCSE TS participants who are looking for others wanting to share hotel rooms. It stores your relevant information, including travel dates and contact details, as well as whether you already have a hotel room reserved or not. It then allows you to search for potential matching roommates.  It is an information resource only. Actually contacting potential roommates and determining compatibility is up to you. Once you and a roommate agree to share, please follow the instructions provided to remove yourself from the active list of roommate seekers.
 
 
 ### Visas
-<strong>Letters from ACM in support of visa applications:</strong> ACM is able to provide visa support letters for in-person participation to attendees as well as authors with accepted papers, posters, or members of the conference committee. For visa support letters, you must first [register](/participants#registration) for the event. Then send your request to <supportletters@acm.org> with the following information.
+<strong>Letters from ACM in support of visa applications:</strong> ACM is able to provide visa support letters for in-person participation to participants as well as authors with accepted papers, posters, or members of the conference committee. For visa support letters, you must first [register](/participants#registration) for the event. Then send your request to <supportletters@acm.org> with the following information.
 <ol>
 <li>Name and mailing address as it appears on your passport.</li>
 <li>The name of the conference you wish to attend.</li>
@@ -132,8 +150,9 @@ The [SIGCSE TS 2022 Roommate Finder](https://app.miniextensions.com/form/HQQb5wh
 <h3><a href="https://cvent.me/17lVE2">Registration is now open here.</a></h3>
 </center>
 
-The SIGCSE TS 2022 organizing committee is excited to offer options for participants to participate virtually or travel to Providence and attend the conference in person. We hope to have an exciting and engaging experience for all participants, and hope very much to see many of you in person.  Recognizing that participants need information to make decisions about travel and gathering, we will keep this site updated with information as it is available.  Our registration system will allow you to switch your own registration between in-person and virtual participation, but keep in mind the discount dates.  The cost for your new registration will be based on the date you change it, not the date when you first registered. 
+The SIGCSE TS 2022 organizing committee is excited to offer options for participants to participate virtually or travel to Providence and attend the conference in person. We hope to have an exciting and engaging experience for all participants, and hope very much to see many of you in person.  Recognizing that participants need information to make decisions about travel and gathering, we will keep this site updated with information as it is available.  **Our registration system will allow you to switch your own registration between in-person and virtual participation, but keep in mind the discount dates.  The cost for your new registration will be based on the date you change it, not the date when you first registered.**
 
+For assistance with registration, contact our fabulous [Registration Team](registration@sigcse2022.org).
 
 ### In-Person Participants
 {% for rate_category in site.data.registration.rates %}
@@ -178,7 +197,7 @@ The SIGCSE TS 2022 organizing committee is excited to offer options for particip
 * _All registration rates are in US$._    
 
 To see what workshops are being offered, you can look at the [list of workshops](/schedule/workshops/).
-  
+
 
 ### Cancellation Policy
 <p><strong>Cancellation requests must be made by March 1, 2022 at 11:59 PM Eastern Time.</strong> A processing fee of US$100 will be assessed for full rate registrations. A processing fee of US$25 will be assessed for reduced rate and virtual registrations. Regrettably, cancellations received after that date cannot be honored. The conference committee recognizes that sometimes last-minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts. In-person registrants are strongly advised to purchase travel insurance to cover their non-refundable expenses. Also, registrants who find themselves unable to attend should be aware that registrations are transferable, but in general the conference committee cannot assist in finding an appropriate recipient.</p>
@@ -186,7 +205,7 @@ To see what workshops are being offered, you can look at the [list of workshops]
 <p><strong>In the event that the Symposium is cancelled due to circumstances beyond the organizers' control,</strong> refunds are not guaranteed. If refunds are issued, the amount will depend on the expenses and financial commitments incurred by the Symposium as of the cancellation date.</p>
 
 
-## On-Site Student Volunteers 
+## On-Site Student Volunteers
 Student volunteers are an important part of the SIGCSE Technical Symposium and have been for many years. Student volunteers are in-person participants who are full-time undergraduate or graduate students. Each volunteer works for 9 hours (or less, as assigned), helping with various symposium management activities. You'll interact with the symposium organizers and presenters and will meet other students from all over the world. More information about the experience, the benefits, and how to sign up are provided below.
 
 
@@ -206,7 +225,7 @@ When you get to the check out page, you can use the discount code from STEP 1 to
 
 Please note that while in previous years we have been able to accept everyone who registered in January and often anyone interested, we cannot guarantee that this is the case every year. Please try to register as early as possible (you can provide your availability for shifts closer to the symposium start as we understand that it can take a little while to arrange travel).
 
-Also, please note that if you are no longer able to attend, we greatly appreciate you going back to the student volunteer registration system to cancel and emailing [volunteers@sigcse2022.org](mailto:volunteers@sigcse2022.org). Failing to do so leaves us scrambling at the last minute to find a replacement for your assigned duties, and will result in notification of your designated faculty advisor. 
+Also, please note that if you are no longer able to attend, we greatly appreciate you going back to the student volunteer registration system to cancel and emailing [volunteers@sigcse2022.org](mailto:volunteers@sigcse2022.org). Failing to do so leaves us scrambling at the last minute to find a replacement for your assigned duties, and will result in notification of your designated faculty advisor.
 
 ### What To Do Once at the SIGCSE Technical Symposium
 
@@ -248,7 +267,7 @@ In exchange for 9 hours (or less, as assigned) of volunteer service, you will re
 -   Professional development workshops facilitated by faculty members specifically for student volunteers
 -   The opportunity to contribute to an effort to improve computing education... and our sincere gratitude for your efforts!
 
-Note that in addition to these benefits, since you are a registered SIGCSE Technical Symposium student attendee, you have all the rights of the non-volunteer student attendees:
+Note that in addition to these benefits, since you are a registered SIGCSE Technical Symposium student attendee, you have all the rights of the non-volunteer student participants:
 
 -   Access to all sessions, including papers, panels, seminars, and birds-of-a-feather discussions
 -   Access to all exhibits where book publishers and software vendors have displays and activities
@@ -256,13 +275,13 @@ Note that in addition to these benefits, since you are a registered SIGCSE Techn
 -   The main symposium reception on Thursday evening (typically includes *hors d'oeuvres* and a cash bar)
 -   The symposium luncheon on Saturday afternoon
 
-#### What kinds of work will I do as a student volunteer? 
+#### What kinds of work will I do as a student volunteer?
 
 It varies. Duties may include (and are not limited to) the following:
 
 -   You may work at the registration booth organizing attendee packets.
 -   You may monitor the exhibit hall or reception entrance to ensure those entering have the appropriate symposium badge.
--   You may count the attendees at various symposium sessions.
+-   You may count the participants at various symposium sessions.
 -   You may assist speakers at various session types with handouts or equipment.
 
 #### Do I have a say in what work I do as a student volunteer?
@@ -304,7 +323,7 @@ If you have questions about anything discussed above, please contact the [Stude
 
 
 ## Carbon Offsets
-ACM SIGCSE makes it is easy for attendees to offset their carbon footprint to the ACM SIGCSE Technical Symposium through the registration process. Donations will be passed directly to <a href="https://www.cooleffect.org/">Cool Effect</a>, an organization that helps individuals and businesses develop practical and cost-effective solutions to slow, stop, and reduce the climate crisis. During the registration process, you will see a check box option that will allow you to make a donation to offset your emissions from attending the symposium. This contribution is optional and distinct from the registration fee and will appear as such on your registration receipt. Please consult your organization in advance to determine if the expense is reimbursable. If you need to use different credit cards for your registration and your donation, you can simply log in again after registering, update your registration, and pay with a second credit card. ACM will forward the names of the individuals that contribute along with the amount of their contribution to Cool Effect who will acknowledge the contribution to the individual donor for tax purposes.  You can utilize the <a href="https://www.cooleffect.org/content/travel-offset">carbon offset calculator</a> to make the appropriate donation based on travel and lodging. 
+ACM SIGCSE makes it is easy for participants to offset their carbon footprint to the ACM SIGCSE Technical Symposium through the registration process. Donations will be passed directly to <a href="https://www.cooleffect.org/">Cool Effect</a>, an organization that helps individuals and businesses develop practical and cost-effective solutions to slow, stop, and reduce the climate crisis. During the registration process, you will see a check box option that will allow you to make a donation to offset your emissions from attending the symposium. This contribution is optional and distinct from the registration fee and will appear as such on your registration receipt. Please consult your organization in advance to determine if the expense is reimbursable. If you need to use different credit cards for your registration and your donation, you can simply log in again after registering, update your registration, and pay with a second credit card. ACM will forward the names of the individuals that contribute along with the amount of their contribution to Cool Effect who will acknowledge the contribution to the individual donor for tax purposes.  You can utilize the <a href="https://www.cooleffect.org/content/travel-offset">carbon offset calculator</a> to make the appropriate donation based on travel and lodging.
 
 <!--
 ## Henry Walker Fund
@@ -323,7 +342,7 @@ Please make checks payable to ACM/SIGCSE with the memo "The SIGCSE Travel Grant 
 Unfortunately, due to the uncertainty of travel and lack of vaccine availability for children under 5, we are unable to offer Kids' Camp this year.
 
 
-<!-- 
+<!--
 ## Workshops
 
 Workshops provide an in-depth review of, or introduction to, a topic of interest. A successful workshop should provide participants with materials and/or ideas that are immediately useful in the classroom.

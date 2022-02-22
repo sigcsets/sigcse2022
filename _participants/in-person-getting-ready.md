@@ -12,7 +12,13 @@ showTitle: true
 
 - [Reserve your hotel room](https://www.goprovidence.com/sigcse/hotel-information/). Although the deadline for the Symposium rate has passed, at last check rooms were still available in our block at The Graduate. You can also use the [SIGCSE TS 2022 Roommate Finder](http://localhost:4000/participants/#roommate-database).
 
-- [Arrange your planes, trains, and automobiles](https://www.goprovidence.com/sigcse/getting-here/). Also, consider participating in our [carbon offset program](/participants#carbon-offset).
+- [Arrange your planes, trains, and automobiles](https://www.goprovidence.com/sigcse/getting-here/).
+
+### The New Normal
+
+Please make sure you visit our [Health and Safety Information](/health) page.
+
+Also, consider participating in our [carbon offset program](/participants#carbon-offset).
 
 ## COVID-19 Vaccination Verification
 
