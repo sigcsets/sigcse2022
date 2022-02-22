@@ -315,7 +315,7 @@ Eleanor Richard (University of Massachusetts Dartmouth)
 **Exploring Threshold Concepts for Intermediate Students**  
 Brian M. McSkimming (University at Buffalo); Adrienne Decker (University at Buffalo)
 
-**ITT: An Interactive Tutoring Tool to Improve the Learning and Visualization of Compiler Design Theory From Implementation**  
+**[Now Virtual] ITT: An Interactive Tutoring Tool to Improve the Learning and Visualization of Compiler Design Theory From Implementation**  
 Rafael Del Vado Vírseda (Universidad Complutense de Madrid)
 
 **Incorporating the Concepts of Fairness and Bias into an Undergraduate Computer Science Course to Promote Fair Automated Decision Systems**  
@@ -653,6 +653,9 @@ Susan P. Imberman (College of Staten Island CUNY)
 
 **[Now Virtual] Validation of the Programming Emotions Questionnaire**  
 Sarthak Awasthi (The Ohio State University); Rakhi Batra (The Ohio State University); Syedah Zahra Atiq (The Ohio State University)
+
+**[Now Virtual] ITT: An Interactive Tutoring Tool to Improve the Learning and Visualization of Compiler Design Theory From Implementation**  
+Rafael Del Vado Vírseda (Universidad Complutense de Madrid)
 
 </div>
 </div>
