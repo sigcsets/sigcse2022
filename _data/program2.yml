@@ -341,7 +341,7 @@ sessions:
     end: "12:00"
     location: "Room 551 A/B (RICC)"
     hybrid: "N"
-    presenters: ""
+    presenters: "Josh Benaloh (Microsoft Research), Dan Wallach (Rice University)"
     description: "Microsoft’s ElectionGuard is a free, open-source toolkit that is being used by election equipment vendors to produce “end-to-end verifiable” elections.  In these elections, voters can confirm on their own that their votes are correctly counted – without having to trust election officials, equipment vendors, or anyone else.  Any and all tampering with votes and tallies – even insider tampering – becomes detectable by candidates, parties, news media, and even individual voters.  Independent election verification apps can be written to check the accuracy and consistency of publishes election records. This tutorial will describe how ElectionGuard works and how student projects can be fashioned to write independent ElectionGuard verifiers or work with the code in other ways."
   - type: "Supporter Sessions"
     title: "GitHub Supporter Session &mdash; GitHub Global Campus: the new home for teachers and developer"
@@ -1180,6 +1180,15 @@ sessions:
     location: "Room 556 A/B (RICC, Hybrid Room)"
     hybrid: "Y"
     presenters: "Monica M. McGill (CSEdResearch.org & Knox College); Jake Baskin (Computer Science Teachers Association); Miles Berry (University of Roehampton); Quinn Burke (Digital Promise); Leigh Ann Delyser (CSforALL); Shuchi Grover (Looking Glass Venture & Stanford University); Colleen Lewis (University of Illinois at Urbana-Champaign); Briana B. Morrison (University of Virginia); Davina Pruitt-Mentle (National Initiative for Cybersecurity Education (NICE) & National Institute of Standards and Technology (NIST))"
+  - type: "Supporter Sessions"
+    title: "Rephactor Supporter Session &mdash; The Online Textbook That You and Your Students Will Love"
+    day: "3/3/2022"
+    start: "15:45"
+    end: "17:00"
+    location: "Room 553 A/B (RICC)"
+    hybrid: "N"
+    presenters: "Tom Way, John Lewis (Rephactor)"
+    description: "Rephactor is an interactive, extensively customizable, and beautiful online textbook for introductory Java and Python courses. Come to this session to find out more, and bring your laptop to try it live. We all know that interactivity engages students and improves learning. Discover how Rephactor takes that to the next level. A Rephactor book includes hundreds of topics designed from the ground up for online use (not a print book put on the Web). Our tools include a customizable syllabus builder, an in-topic Run & Revise code explorer, and auto-graded Quick Check quizzes and Programming Exercise sets. The instructor dashboard lets you analyze student progress, automate attendance tracking, download slides, and manage grades. With Rephactor, you’ll save time and your students will learn more. Find out how Rephactor has encouraged thousands of students to explore material in a way that’s both challenging and fun. Refactor your course with Rephactor!"
 
 # 3/3 1730
 
@@ -1643,14 +1652,14 @@ sessions:
 # 3/4 1045
 
   - type: "Supporter Sessions"
-    title: "<span style=\"color:red;\">[Virtual] Google Supporter Session &mdash; Scalable, Flexible, Virtual: Building New Paradigms</span>"
+    title: "<span style=\"color:red;\">[Virtual] Google Supporter Session &mdash; Scalable, Flexible, Virtual: Building New Paradigms for Remote Computer Science Education</span>"
     day: "3/4/2022"
     start: "10:45"
     end: "12:00"
     location: "Virtual"
     hybrid: "N"
     presenters: "Eric Yurko (Technical Writer, Google)"
-    description: "Students remain interested in additional opportunities to expand their CS knowledge, but the ongoing pandemic has made in-person education challenging for both industry and academia. Over the last two years, Google’s Technical Higher Education Team has worked to create two different types of educational experiences in the hopes of being able to provide opportunities that can scale to many learners while remaining flexible in the face of screen fatigue and other challenges that students face. In this session we will explore these two models: a hybrid program called Problem of the Week, and our fully remote program, Bridge. The team will share our findings and what future steps Google plans to take for both online and in-person learning going forward with these programs."
+    description: "Students remain interested in additional opportunities to expand their CS knowledge, but the ongoing pandemic has made in-person education challenging for both industry and academia. Over the last two years, Google's Technical Higher Education Team has worked to create two different types of educational experiences in the hopes of being able to provide opportunities that can scale to many learners while remaining flexible in the face of screen fatigue and other challenges that students face. In this session we will explore these two models: a hybrid program called Problem of the Week, and our fully remote program, Bridge. The team will share our findings and what future steps Google plans to take for both online and in-person learning going forward with these programs."
   - type: "Supporter Sessions"
     title: "<del>Google Supporter Session &mdash; Supporting diverse, equitable, and inclusive student research in computing</del>"
     day: "3/4/2022"
@@ -1674,7 +1683,7 @@ sessions:
     day: "3/4/2022"
     start: "10:45"
     end: "12:00"
-    location: "Room 554 A/B (RICC)"
+    location: "Room 551 A/B (RICC)"
     hybrid: "N"
     presenters: "Michelle Rogers (Program Director, CISE/CNS); HuiHui Wang (Program Director, EHR/DUE); Li Wang (Program Director EHR/DGE)"
     description: "Finding the right NSF program for your computing education project can be a challenge. In this session we will discuss programs that support computing education and discuss what new programs might be coming. Programs that will be discussed will include Improving Undergraduate STEM Education (IUSE), Advanced Technological Education (ATE), Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM), Research on Emerging Technologies for Teaching and Learning (RETTL), Computing in Undergraduate Education (CUE), CyberCorps(R) Scholarship for Service, and Secure and Trustworthy Cyberspace (SaTC)’s education designation."
@@ -2290,7 +2299,7 @@ sessions:
     day: "3/4/2022"
     start: "15:45"
     end: "1700"
-    location: "Room TBA"
+    location: "Room 551 A/B (RICC)"
     hybrid: "N"
     presenters: "Sasha Varlamov (Coding Rooms Co-founder and CEO); Joe Mazzone (Coding Rooms Customer Success/Product Manager)"
     description: "So many educators are stuck with rigid learning platforms that don't perfectly fit their teaching and learning style; very few are able to modify those platforms however they want.¬† With Coding Rooms, we empower educators with a platform that enables them to build their own teaching tools, freely design their content, and bring their teaching style to life, ultimately giving learners the best experience possible!
@@ -2303,15 +2312,6 @@ sessions:
     * Use the code playback feature to check for plagiarism and monitor student effort. First-class support for synchronous and asynchronous teaching and learning.
     * Free curriculum content you can add to, modify, and delete from to build your own custom course.
     Come learn about the best platform for connecting with each student, seeing their work, and engage with their code instantly."
-  - type: "Supporter Sessions"
-    title: "Rephactor Supporter Session &mdash; The Online Textbook That You and Your Students Will Love"
-    day: "3/4/2022"
-    start: "15:45"
-    end: "17:00"
-    location: "Room 551 A/B (RICC)"
-    hybrid: "N"
-    presenters: "Tom Way, John Lewis (Rephactor)"
-    description: "Rephactor is an interactive, extensively customizable, and beautiful online textbook for introductory Java and Python courses. Come to this session to find out more, and bring your laptop to try it live. We all know that interactivity engages students and improves learning. Discover how Rephactor takes that to the next level. A Rephactor book includes hundreds of topics designed from the ground up for online use (not a print book put on the Web). Our tools include a customizable syllabus builder, an in-topic Run & Revise code explorer, and auto-graded Quick Check quizzes and Programming Exercise sets. The instructor dashboard lets you analyze student progress, automate attendance tracking, download slides, and manage grades. With Rephactor, you’ll save time and your students will learn more. Find out how Rephactor has encouraged thousands of students to explore material in a way that’s both challenging and fun. Refactor your course with Rephactor!"
   - type: "Supporter Sessions"
     title: "Microsoft Supporter Session &mdash; Core developer tools for your computer science classroom"
     day: "3/4/2022"
@@ -2549,7 +2549,9 @@ sessions:
     location: "Narragansett B Ballroom (Omni)"
     hybrid: "N"
     presenters: "Jacqueline Russell (Microsoft)"
-    description: "What’s more fun on a Friday night than spending time with colleagues making and coding?!  Join us for a fun session with free devices and food/drinks! In this hands-on workshop, we’ll take a tour around MakeCode – exploring physical computing with the micro:bit, game development with MakeCode Arcade, and game modding with Minecraft! We will walk through step-by-step coding challenges and build projects together that you can use in the classroom. This is a beginner-level workshop – no prior experience required. This is a bring-your-own-device workshop – attendees should bring a laptop with internet and a USB port to the session. This workshop will only be hosted in person, and registration is required at: [https://forms.office.com/r/R0F2ACEuss](https://forms.office.com/r/R0F2ACEuss)"
+    description: "What’s more fun on a Friday night than spending time with colleagues making and coding?!  Join us for a fun session with free devices and food/drinks! In this hands-on workshop, we’ll take a tour around MakeCode – exploring physical computing with the micro:bit, game development with MakeCode Arcade, and game modding with Minecraft! We will walk through step-by-step coding challenges and build projects together that you can use in the classroom. This is a beginner-level workshop – no prior experience required. This is a bring-your-own-device workshop – attendees should bring a laptop with internet and a USB port to the session.
+    <br><br>
+    This workshop will only be hosted in person. Please register at this link so we know how many device kits to bring: [https://forms.office.com/r/R0F2ACEuss](https://forms.office.com/r/R0F2ACEuss)"
 
   - type: "Workshops"
     title: "Workshops 3xx"
