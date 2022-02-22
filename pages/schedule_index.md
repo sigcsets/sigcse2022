@@ -218,7 +218,7 @@ The number of late-breaking changes to the program schedule this year has been u
 We thank you for your patience with us as we navigate the complexities associated with the hybrid design of this conference while adjusting to the evolving pandemic situation. If you have any questions, please do not hesitate to contact the Program Co-Chairs (Judy, Leen-Kiat, and Brian) at [program@sigcse2022.org](mailto:program@sigcse2022.org).
 </div>
 
-Filter by Day:
+Filter by Day (when filtered, shows in-person items only):
 <div class="button-group" data-filter-group="day">
   <a class="button small" data-filter="">All</a>
   <a class="button small" data-filter=".Wed">Wed</a>
