@@ -230,6 +230,7 @@ Filter by Day:
 Filter by Modality:
 <div class="button-group" data-filter-group="day">
   <a class="button small" data-filter="">All</a>
+  <a class="button small" data-filter=".InPerson">In-Person</a>
   <a class="button small" data-filter=".Asynch">Virtual</a>
 </div>
 
@@ -270,7 +271,7 @@ No matching sessions found.
 {% for session in site.data.program2['sessions'] %}
 {% if day.day == session.day %}
 {% if session.id == null %}
-<div class="element-item card {{ day.short }} {{session.type | downcase | replace: ' / ', '_' | remove: ' ' | remove: "'" }}" style="width: 100%">
+<div class="element-item card {{ day.short }} {% if day.short != 'Asynch' %}InPerson{% endif %} {{session.type | downcase | replace: ' / ', '_' | remove: ' ' | remove: "'" }}" style="width: 100%">
 {% else %}
 <div class="element-item card {{ day.short }} {{session.type | downcase | replace: ' / ', '_' | remove: ' ' | remove: "'" }}" style="width: 100%" id="{{ session.id }}">
 {% endif %}  
