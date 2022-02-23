@@ -6,7 +6,7 @@ permalink: "/health/"
 sidebar: health
 ---
 
-Current as of: February 20, 2022
+Current as of: February 23, 2022
 
 ## SIGCSE TS 2022 (TS 2022) will be an In-Person Event with Full Remote Participation Available
 
@@ -79,6 +79,8 @@ There is an appointment-only COVID-19 testing center in the south parking garage
 <span style="margin-left:10%">1 Sabin Street</span><br>
 <span style="margin-left:10%">Providence, RI 02903.<br><br>
 Rapid tests and PCR tests are available (rapid tests are only done for those with appointments who are exhibiting symptoms). This is a walk-up location and free of charge.
+
+Also, this [list of testing sites](https://docs.google.com/spreadsheets/d/1ZPU7c3QYweLDNa2TyCng_L5TC33CT_4xJrGEI_QrxSU/edit?usp=sharing) was current as of a few months ago.
 
 __Who is responsible for the costs associated with COVID-19 isolation?__
 Attendees are responsible for any costs associated with isolation. Attendees should work directly with hotel for accommodations.
