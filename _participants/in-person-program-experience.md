@@ -21,7 +21,7 @@ All rooms at the conference will have normal seating and social-distance seating
 
 ## Paper Presentations
 
-Paper presentations will be held in conference rooms solely virtually or in-person. There will be no hybrid capabilities.  Social distance seating will be available for in-person events and we envision in-person sessions being managed as they have been in previous SIGCSE TS’s.
+With one exception (at the current time), paper presentations will be held in conference rooms solely virtually or in-person. There will be no hybrid capabilities.  Social distance seating will be available for in-person events and we envision in-person sessions being managed as they have been in previous SIGCSE TS’s.
 
 ## Question: I am an in-person attendee and would like to attend some virtual events. Is this possible?
 
