@@ -33,10 +33,11 @@ workshops:
     ad: "Do you want to improve your classes? Find better and engaging materials that show relevance to real-world problems and applications? This workshop will teach you modern course design techniques, how they can help you find new content for your class, and how to design new content for your class to be engaging. In particular you will learn to use two tools, CS Materials for course design and material search, and BRIDGES for engaging students with real world relevance and interactive visualizations. Although we would love for you to use these tools, the lessons learnt in this workshop are actionable in your courses independently. Bring a laptop!"
     mode: "In-person"
   - number: 104
+    status: "<span style=\"color:red;\">CANCELLED</span> &mdash;"
     submission: 700
     block: Wednesday
     title: "Tools and Techniques for Increasing and Measuring Student Engagement with pre-recorded videos"
-    presenters: "Ananda Gunawardeba, Rutgers University, USA; Jeremie Lumbroso, Princeton University, USA"
+    presenters: "Ananda Gunawardeba, Rutgers University, USA"
     ad: "Are you looking for new ways to engage and motivate your students to better utilize pre-recorded lecture videos? Do you want to learn how to curate ordinary videos to make them awesome? We can help! Join us to learn free new tools (www.cubits.ai) and techniques that enable your existing YouTube/Vimeo videos to be curated (search, self-assessment, community) to increase student engagement. We will show you how easy it is to increase student interaction with curated videos and get amazing insights into student behavior using real-time data visualizations. There is nothing to change in your current course structure to integrate these tools and techniques. Just bring your laptop and video playlist, plug and play."
     mode: "In-person"
   - number: 105
