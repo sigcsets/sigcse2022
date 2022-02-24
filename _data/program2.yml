@@ -19,6 +19,14 @@ sessions:
 
 # 3/2 0800
 
+  - type: "Registration"
+    title: "Vaccination Verification Desk Open"
+    day: "3/2/2022"
+    start: "07:00"
+    end: "20:00"
+    location: "Exhibit Hall Pre-Function (RICC)"
+    hybrid: "N"
+    presenters: ""
   - type: "Affiliated Event"
     title: "Affiliated Event &mdash; Peer Teaching Summit 2022"
     day: "3/2/2022"
@@ -241,6 +249,14 @@ sessions:
 
 # 3/3 0700
 
+  - type: "Registration"
+    title: "Vaccination Verification Desk Open"
+    day: "3/3/2022"
+    start: "06:30"
+    end: "20:00"
+    location: "Exhibit Hall Pre-Function (RICC)"
+    hybrid: "N"
+    presenters: ""
   - type: "Speakers' Breakfasts"
     title: "Speakers' Breakfast"
     day: "3/3/2022"
@@ -1558,6 +1574,14 @@ sessions:
 
 # 3/4 0700
 
+  - type: "Registration"
+    title: "Vaccination Verification Desk Open"
+    day: "3/4/2022"
+    start: "07:00"
+    end: "19:00"
+    location: "Exhibit Hall Pre-Function (RICC)"
+    hybrid: "N"
+    presenters: ""
   - type: "Speakers' Breakfasts"
     title: "Speakers' Breakfast"
     day: "3/4/2022"
@@ -2658,6 +2682,14 @@ sessions:
 
 # 3/5 0700
 
+  - type: "Registration"
+    title: "Vaccination Verification Desk Open"
+    day: "3/5/2022"
+    start: "07:00"
+    end: "12:00"
+    location: "Exhibit Hall Pre-Function (RICC)"
+    hybrid: "N"
+    presenters: ""
   - type: "Speakers' Breakfasts"
     title: "Speakers' Breakfast"
     day: "3/5/2022"
