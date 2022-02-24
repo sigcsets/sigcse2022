@@ -7,15 +7,13 @@ showTitle: true
 Consider downloading the RICC and Omni [floor plans](/assets/pdf/RICC_and_Omni_Floor_Plans.pdf) (PDF).
 
 ## Keynote/Ballroom
-Our keynotes will be delivered in a hybrid format. If you would like to ask a question or make a comment, then you will do that through the Pathable app if you are attending virtually or going up to the microphone if you are attending in person.
+Our keynotes will be delivered in a hybrid format. You can ask questions and make comments using either the Pathable app or one of the microphones.
 
 All rooms at the conference will have normal and social-distance seating.  Please sit where you feel comfortable and enjoy the presentations!
 
 ## Panels and Special Sessions in RICC 552 A/B, 555 A/B and 556 A/B  - Hybrid Rooms
 
-Panels and Special Sessions will all be held in one of the three rooms supporting a hybrid format at the Rhode Island Convention Center.  These rooms are RICC 552, 555, and 556.  This is a new experience for SIGCSE, where presenters and attendees will be virtual and in-person!  There will be a camera focused on the front of the room, and no technician, so please follow the directions for interacting to ensure everyone can participate.
-
-If you would like to ask a question, or make a comment, then you will do that through the Pathable app if you are attending virtually or going up to the microphone if you are attending in person.
+Panels and Special Sessions will all be held in one of the three rooms supporting a hybrid format at the Rhode Island Convention Center.  These rooms are RICC 552, 555, and 556.  This is a new experience for SIGCSE, where presenters and attendees will be virtual and in-person!  There will be a camera focused on the front of the room, and no technician, so please follow the directions for interacting to ensure everyone can participate. You can ask questions and make comments using either the Pathable app or one of the microphones.
 
 All rooms at the conference will have normal seating and social-distance seating.  Please sit where you feel most comfortable and enjoy the presentations!
 

@@ -8,7 +8,7 @@ Your primary way to engage with the conference will be through Pathable. See mor
 
 ### Finding Sessions for Virtual Participation
 
-There are three kinds of sessions: virtual, hybrid, and in-person. Sessions that are virtual and hybrid are readily available for you to attend. On the [program schedule](/schedule) page you can find them by using the modality filters. On Pathable you can find them by using the Session Type filter. If they are also "Live" that means they have a specific timeslot to attend.
+There are three kinds of sessions: virtual, hybrid, and in-person. Sessions that are virtual and hybrid are readily available for you to attend. On the [program schedule](/schedule) page these events are marked as virtual or hybrid and all. Plenaries will also be hybrid. On Pathable you can find them by using the Session Type filter. If they are also "Live" that means they have a specific timeslot to attend.
 
 ### Authors' Corner
 

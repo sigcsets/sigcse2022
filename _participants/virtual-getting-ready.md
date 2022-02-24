@@ -6,27 +6,15 @@ showTitle: true
 
 We are so excited to provide our community with a technical symposium supporting virtual and in-person attendees.  We have tried to design a conference that is engaging and open to all, while also keeping costs down.  This means that we will have some sessions with in-person and virtual attendees, while others with only in-person attendees or virtual attendees.  We ask for your patience and constructive feedback while we find a way to offer the symposium to all who are interested.  If you are like us, you will have questions and this page, and its links, are here to help you navigate this years offering!
 
-We will be offering the conference at the Rhode Island Convention Center, Omni Hotel and through Pathable.   All attendees will have events available daily March 3-5th.  All TS 2022 participants can take part in daily plenary sessions, panels, special sessions and Authors’ Corner sessions.  Those participating in person will do so in the ballroom or one of three hybrid rooms, while those participating virtually will do so in Pathable.
-
-### Question:  I am attending in-person, what should I expect?
-
-Answer: Please see [new page here]
-
-### Question:  I am attending virtually, what should I expect?
-
-Answer: Please see [new page here]
+We will be offering the conference at the Rhode Island Convention Center, Omni Hotel and through Pathable.   All attendees will have events available daily March 3-5th.  All TS 2022 participants can take part in daily plenary sessions, panels, and special sessions.  Those participating in person will do so in the ballroom or one of three hybrid rooms, while those participating virtually will do so in Pathable. All TS 2022 participants can also take part in Authors’ Corner sessions through the Pathable app.  
 
 ### Question: I am attending in-person and have questions related to COVID.
 
 Answer: Please see our COVID Concierge web page at [new page here].
 
----
-
 ### Question:  I would like to switch my registration from in-person[virtua] to virtual[in-person].  What should I do?
 
 Answer: This can be done through Cvent!  If you have any problems, please contact <registration@sigcse2022.org> or <symposium@sigcse2022.org>.
-
----
 
 ### Question: Where can I find the most current scheduled program?
 
@@ -35,7 +23,6 @@ Answer:  The [program schedule page](/schedule) of this website is one of three 
 - The printed program booklet and addendum available to in-person attendees.
 
 The number of late-breaking changes to the program schedule this year has been unprecedented as fluctuating pandemic conditions and travel restrictions lead authors to switch from virtual to in-person participation and vice-versa. As such, the program schedule page may not reflect the most recent changes. **During the Symposium, participants should refer to either the printed program booklet with its addendum or the Pathable agenda.** The latter will be the most up-to-date. The program schedule page will be updated once more after the Symposium to serve as the publicly-accessible historical record of the Symposium.
-
 
 ### Question: I am an in-person attendee and would like to attend some virtual events. Is this possible?
 
