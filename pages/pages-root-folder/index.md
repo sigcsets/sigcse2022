@@ -21,10 +21,10 @@ widget1:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-# callforaction:
-#   url: https://cvent.me/lVegdP
-#   text: Register for SIGCSE TS 2021
-#   style: alert
+callforaction:
+  url: https://cvent.me/17lVE2
+  text: Register for SIGCSE TS 2022
+  style: alert
 
 permalink: /index.html
 #
