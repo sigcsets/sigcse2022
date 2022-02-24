@@ -566,6 +566,14 @@ sessions:
     location: "Room 556 A/B (RICC, Hybrid Room)"
     hybrid: "Y"
     presenters: "Bryan Twarek (Computer Science Teachers Association); Colleen Lewis (University of Illinois at Urbana-Champaign); Abigail Joseph (The Harker School); Charity Freeman (Discovery Partners Institute); Todd Lash (University of Illinois at Urbana-Champaign); Mariam Saffar Perez (University of Illinois at Urbana-Champaign)"
+  - type: "Special Sessions"
+    title: "Special Session [Virtual] &mdash; Exploring Lightweight Practices to Support Students' Well-being"
+    day: "3/3/2022"
+    start: "10:45"
+    end: "12:00"
+    location: "Virtual Room"
+    hybrid: "Y"
+    presenters: "Oluwakemi Ola (University of British Columbia); Brian Harrington (University of Toronto Scarborough)"
 
 # 3/3 1200
 
@@ -3322,14 +3330,6 @@ sessions:
           location: "Room 556 A/B (RICC, Hybrid Room)"
           hybrid: "Y"
           presenters: "Juliette Woodrow (Stanford University); Kathleen Creel (Stanford University); Nick Bowman (Stanford University)"
-  - type: "Special Sessions"
-    title: "Special Session [Virtual] &mdash; Exploring Lightweight Practices to Support Students' Well-being"
-    day: "3/5/2022"
-    start: "11:15"
-    end: "12:30"
-    location: "Virtual Room"
-    hybrid: "Y"
-    presenters: "Oluwakemi Ola (University of British Columbia); Brian Harrington (University of Toronto Scarborough)"
 
 # 3/5 1230
 
