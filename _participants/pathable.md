@@ -6,7 +6,7 @@ showTitle: true
 
 Even if you have not yet registered for TS 2022, you can view the agenda on the [TS 2022 Pathable site](http://pathable.sigcse2022.org). However, you won't be able to do much more until you [register for TS 2022](/participants#registration). Once an hour, Pathable automatically imports the list of TS 2022 registrants and creates accounts for those email addresses with which no account is already associated.
 
-While you are waiting for the synchronization, take the opportunity to (re-)watch the first episode of [SIGCSE Morning Coffee from TS 2021](https://www.youtube.com/watch?v=l0cDLoE3dpU), where we talk about how to use Pathable.
+While you are waiting for the synchronization, take the opportunity to (re-)watch [this episode of SIGCSE Morning Coffee from TS 2021](https://www.youtube.com/watch?v=l0cDLoE3dpU), where we talk about how to use Pathable.
 
 Once you are a registered TS 2022 participant and you have allowed time for the synchronization, you should reset your Pathable password and log in to claim your account. Of course, make sure to use the same email that you used to register for the Symposium in Cvent!
 
