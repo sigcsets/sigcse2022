@@ -63,9 +63,7 @@ Beyond changes in how we prepare for conference participation, you might be wond
 
 ### Participants Registered for Virtual Participation
 
-#### See [VGR](/participants/virtual-getting-ready)
-
-#### See [VPE](/participants/virtual-program-experience)
+Another significant change since the last time we met in person is that the world has embraced the possibilities of virtual events. To learn how TS 2022 allows you to make the most of this opportunity, be sure to see our [Getting Ready: SIGCSE TS Virtual Participation](/participants/virtual-getting-ready) and [Program Experience: SIGCSE TS 2022 Virtual Participation](/participants/virtual-program-experience) pages.
 
 ## Accessibility
 The SIGCSE community is becoming increasingly diverse, with participants from all over the world who represent varied gender, racial, ethnic, disability, and other identities. This set of Frequently Asked Questions is here to help you navigate accessibility at the conference. If you have any additional questions or concerns, please contact the Accessibility Liaison, Mohsen Dorodchi, at [accessibility@sigcse2022.org](mailto:accessibility@sigcse2022.org).
