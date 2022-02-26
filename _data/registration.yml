@@ -59,8 +59,8 @@ rates:
       day-of: $100
 dates:
   early: through Feb 2 (ET)
-  regular: Feb 3 - Mar 1 (ET) 
-  day-of: Feb 19 - Mar 5 (ET)
+  regular: Feb 3 - Feb 18 (ET) 
+  day-of: Feb 19 - Feb 26 (ET)
 workshoprates:
   "In-Person":
     early: $70

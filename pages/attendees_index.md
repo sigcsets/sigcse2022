@@ -158,7 +158,7 @@ For assistance with registration, contact our fabulous [Registration Team](regis
 {% for rate_category in site.data.registration.rates %}
   <h4>{{ rate_category[0] }}</h4>
   <table width="100%" class="multibody">
-    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.registration.dates.early}}</th><th scope="col">Regular: <br>{{site.data.registration.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.registration.dates.day-of}}</th></tr>
+    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.registration.dates.early}}</th><th scope="col">Regular: <br>{{site.data.registration.dates.regular}}</th><th scope="col">Late: <br>{{site.data.registration.dates.day-of}}</th></tr>
     <tbody>
     {% for rate_type in rate_category[1] %}
       <tr><td width="50%">{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].regular }}</td><td>{{ rate_type[1].day-of }}</td></tr>
@@ -172,7 +172,7 @@ For assistance with registration, contact our fabulous [Registration Team](regis
 {% for rate_category in site.data.virtualRegistration.virtual %}
   <h4>{{ rate_category[0] }}</h4>
   <table width="100%" class="multibody">
-    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtualRegistration.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtualRegistration.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.virtualRegistration.dates.day-of}}</th></tr>
+    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtualRegistration.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtualRegistration.dates.regular}}</th><th scope="col">Late: <br>{{site.data.virtualRegistration.dates.day-of}}</th></tr>
     <tbody>
     {% for rate_type in rate_category[1] %}
       <tr><td width="50%">{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].regular }}</td><td>{{ rate_type[1].day-of }}</td></tr>
@@ -187,7 +187,7 @@ For assistance with registration, contact our fabulous [Registration Team](regis
 
 ### Workshops
   <table width="100%" class="multibody">
-    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtualRegistration.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtualRegistration.dates.regular}}</th><th scope="col">On-site: <br>{{site.data.virtualRegistration.dates.day-of}}</th></tr>
+    <tr><th scope="col">Registration Type</th><th scope="col">Early: <br>{{site.data.virtualRegistration.dates.early}}</th><th scope="col">Regular: <br>{{site.data.virtualRegistration.dates.regular}}</th><th scope="col">Late: <br>{{site.data.virtualRegistration.dates.day-of}}</th></tr>
     <tbody>
     {% for rate_type in site.data.registration.workshoprates %}
       <tr><td width="50%">{{ rate_type[0] }}</td><td>{{ rate_type[1].early }}</td><td>{{ rate_type[1].regular }}</td><td>{{ rate_type[1].day-of }}</td></tr>
@@ -354,7 +354,7 @@ Each workshop will be three hours long.  A workshop fee is required and can be p
 __Workshop Registration Rates:__<br>
 Early: {{site.data.registration.dates.early}} - {{site.data.registration.workshoprates.early}}<br>
 Regular: {{site.data.registration.dates.regular}} - {{site.data.registration.workshoprates.regular}}<br>
-On-site: {{site.data.registration.dates.day-of}} - {{site.data.registration.workshoprates.day-of}}<br>
+Late: {{site.data.registration.dates.day-of}} - {{site.data.registration.workshoprates.day-of}}<br>
 <a href="{{ site.url }}/{{ site.baseurl }}/schedule/workshops">List of Available Workshops</a><br>
 
 #### Affiliated Events
