@@ -207,7 +207,7 @@ sessions:
           hybrid: "N"
           presenters: "Kalpathi Subramanian (University of North Carolina at Charlotte); Erik Saule (University of North Carolina at Charlotte); Jamie Payton (Temple University); Matthew Mcquaigue (University of North Carolina at Charlotte)"
         - type: "Workshops"
-          title: "<span style=\"color:red;\">CANCELLED </span>&mdash; W106 &mdash; W104 &mdash; Tools and Techniques for Increasing and Measuring Student Engagement with Pre-Recorded Videos"
+          title: "<span style=\"color:red;\">CANCELLED </span>&mdash; W104 &mdash; Tools and Techniques for Increasing and Measuring Student Engagement with Pre-Recorded Videos"
           day: "3/2/2022"
           start: "19:00"
           end: "22:00"
@@ -1205,6 +1205,7 @@ sessions:
     hybrid: "N"
     presenters: "Tom Way, John Lewis (Rephactor)"
     description: "Rephactor is an interactive, extensively customizable, and beautiful online textbook for introductory Java and Python courses. Come to this session to find out more, and bring your laptop to try it live. We all know that interactivity engages students and improves learning. Discover how Rephactor takes that to the next level. A Rephactor book includes hundreds of topics designed from the ground up for online use (not a print book put on the Web). Our tools include a customizable syllabus builder, an in-topic Run & Revise code explorer, and auto-graded Quick Check quizzes and Programming Exercise sets. The instructor dashboard lets you analyze student progress, automate attendance tracking, download slides, and manage grades. With Rephactor, you’ll save time and your students will learn more. Find out how Rephactor has encouraged thousands of students to explore material in a way that’s both challenging and fun. Refactor your course with Rephactor!"
+  - type: "Supporter Sessions"
     title: "National Science Foundation Supporter Session &mdash; NSF Merit Review System and Grant Writing"
     day: "3/3/2022"
     start: "15:45"
@@ -1234,6 +1235,22 @@ sessions:
     hybrid: "N"
     presenters: "Lena Vu Sawyer (Replit)"
     description: "Learn how Replit can help you unlock seamless, collaborative, and accessible coding experiences for your students! Replit is a zero-configuration real-time coding environment for any device. Replit Teams for Education presents an opportunity for instructors from all backgrounds to spend more time engaged in teaching than troubleshooting student environments and tediously sharing code. Attendees will experience first-hand how students can work together through Replit’s collaborative coding environment and how to leverage Replit’s unique technologies in their teaching practice.  Lena Vu Sawyer is the head of Community at Replit and a digital learning educator and artist. She hopes to empower people to make their mark on our digital world."
+  - type: "Supporter Sessions"
+    title: "[Virtual] Gradescope Supporter Session &mdash;One Platform for Paper, Online, and Programming Assignments"
+    day: "3/3/2022"
+    start: "17:30"
+    end: "18:20"
+    location: "Virtual"
+    hybrid: "Y"
+    presenters: ""
+    description: "
+      Gradescope is a single place for grading paper-based exams, programming projects, and online assignments. Don’t miss your opportunity to:
+      <br><br>
+      &bull; Learn how Gradescope’s rubric-based grading interface can help you grade your exams and homework, faster, without compromising on quality.
+      <br>
+      &bull; See how to review your programming projects, in any language, with our autograder platform, review for similarity, and distribute results.
+      <br><br>
+      Whether you’re grading 20, 200, or 2,000 students, Gradescope can help. Attend this session to find out more"
   - type: "BOFs"
     title: "Birds-of-a-Feather (BOFs) &mdash; Flock A and Flock C"
     day: "3/3/2022"
@@ -2554,11 +2571,20 @@ sessions:
     end: "19:00"
     location: "Room TBA"
     presenters: ""
-  - type: "Affiliated Event"
+  - type: "Reception"
     title: "<span style=\"color:red;\">[Now Virtual] </span>&mdash;  NCWIT Reception"
     day: "3/4/2022"
-    start: "TBA"
-    end: "TBA"
+    start: "18:00"
+    end: "19:00"
+    description: "
+      On behalf of the National Center for Women & Information Technology (NCWIT) Academic Alliance, we invite all those interested in broadening participation in computing to join our virtual reception. Typically held in-person at SIGCSE, this year we are hosting a virtual reception for those attending SIGCSE virtually and in-person, as well as anyone else interested in networking and sharing dialogue around important topics.
+      <br><br>
+      We plan to share some brief opening remarks before opening themed breakout rooms on the following topic areas: Connecting with K-12 and NCWIT Aspirations, Cultivating Collaborations to Broaden Participation in your Computing Program, Culture Change and Sustaining IDEA (Inclusion, Diversity, Equity, and Access), Integrating Ethics and Diversity across the Curriculum, and Partnerships between two-year and four-year institutions.
+      <br>br>
+      If you desire to network, discuss, and learn alongside passionate colleagues, join us!
+      <br><br>
+      Event Registration:  [https://us06web.zoom.us/meeting/register/tZUldOqtpjIoHtEfZd6Uh_SrUduA6Q2lqfMV](https://us06web.zoom.us/meeting/register/tZUldOqtpjIoHtEfZd6Uh_SrUduA6Q2lqfMV)
+      "
     # location: "Room TBA"
     hybrid: "Y"
     presenters: ""
