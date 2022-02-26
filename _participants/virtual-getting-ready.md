@@ -4,7 +4,7 @@ title: "Getting Ready: SIGCSE TS Virtual Participation"
 showTitle: true
 ---
 
-We are so excited to provide our community with a technical symposium supporting virtual and in-person attendees.  We have tried to design a conference that is engaging and open to all, while also keeping costs down.  This means that we will have some sessions with in-person and virtual attendees, while others with only in-person attendees or virtual attendees.  We ask for your patience and constructive feedback while we find a way to offer the symposium to all who are interested.  If you are like us, you will have questions and this page, and its links, are here to help you navigate this years offering!
+We are so excited to provide our community with a technical symposium supporting virtual and in-person attendees.  We have tried to design a conference that is engaging and open to all, while also keeping costs down.  This means that we will have some sessions with in-person and virtual attendees, while others with only in-person attendees or virtual attendees.  We ask for your patience and constructive feedback while we find a way to offer the symposium to all who are interested.  If you are like us, you will have questions and this page, and its links, are here to help you navigate this year's offering!
 
 We will be offering the conference at the Rhode Island Convention Center, Omni Hotel and through Pathable.   All attendees will have events available daily March 3-5th.  All TS 2022 participants can take part in daily plenary sessions, panels, and special sessions.  Those participating in person will do so in the ballroom or one of three hybrid rooms, while those participating virtually will do so in Pathable. All TS 2022 participants can also take part in Authors’ Corner sessions through the Pathable app.  
 
@@ -30,7 +30,7 @@ Answer:  Yes! SIGCSE is a community, and all are welcome to attend virtual event
 
 ### Question: Why aren't workshops/BOFs in hybrid mode?
 
-Answer:  This was discussed extensively within the team. Three of the accepted workshops indicated an interest in offering it in a hybrid format and while we wish we could offer them, it is cost-prohibitive for supporting streaming and Pathable use.  Without this, there is no guarantee of adequately working technology and the risks outweighed the benefits for this year.  
+Answer:  This was discussed extensively within the team. Several of the accepted workshop presenters indicated an interest in offering their workshop in a hybrid format and while we wish we could offer this, it is cost-prohibitive for supporting streaming and Pathable use. Without this support, there is no guarantee of adequately working technology and we considered that the risks outweighed the benefits for this year.  
 
 ### Question: I would like to meet with one of the authors, how can I connect with them?
 
