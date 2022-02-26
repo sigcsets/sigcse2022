@@ -2554,11 +2554,20 @@ sessions:
     end: "19:00"
     location: "Room TBA"
     presenters: ""
-  - type: "Affiliated Event"
+  - type: "Reception"
     title: "<span style=\"color:red;\">[Now Virtual] </span>&mdash;  NCWIT Reception"
     day: "3/4/2022"
-    start: "TBA"
-    end: "TBA"
+    start: "18:00"
+    end: "19:00"
+    description: "
+      On behalf of the National Center for Women & Information Technology (NCWIT) Academic Alliance, we invite all those interested in broadening participation in computing to join our virtual reception. Typically held in-person at SIGCSE, this year we are hosting a virtual reception for those attending SIGCSE virtually and in-person, as well as anyone else interested in networking and sharing dialogue around important topics.
+      <br><br>
+      We plan to share some brief opening remarks before opening themed breakout rooms on the following topic areas: Connecting with K-12 and NCWIT Aspirations, Cultivating Collaborations to Broaden Participation in your Computing Program, Culture Change and Sustaining IDEA (Inclusion, Diversity, Equity, and Access), Integrating Ethics and Diversity across the Curriculum, and Partnerships between two-year and four-year institutions.
+      <br>br>
+      If you desire to network, discuss, and learn alongside passionate colleagues, join us!
+      <br><br>
+      Event Registration:  [https://us06web.zoom.us/meeting/register/tZUldOqtpjIoHtEfZd6Uh_SrUduA6Q2lqfMV](https://us06web.zoom.us/meeting/register/tZUldOqtpjIoHtEfZd6Uh_SrUduA6Q2lqfMV)
+      "
     # location: "Room TBA"
     hybrid: "Y"
     presenters: ""
