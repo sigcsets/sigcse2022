@@ -626,23 +626,8 @@ sessions:
     end: "13:00"
     location: "Virtual"
     hybrid: "Y"
-    presenters: "
-      Anastasiia Birillo,
-      Heeryung Choi,
-      Didem Demirag,
-      Paris Kalathas,
-      Ioannis Karvelas,
-      Celine Latulipe,
-      Juho Leinonen,
-      Bin Peng,
-      Vinhthuy Phan,
-      Emma Riese,
-      J. Ben Schafer,
-      leen Timmerman,
-      Tammy VanDeGrift,
-      and others TBA
-    "
-    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person."
+    presenters: ""
+    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person. Participating authors are listed in the [Pathable agenda item for this event](https://sigcse2022.us2.pathable.com/meetings/virtual/xX3WyagTHXDHKnK5f)."
 
 # 3/3 1345
 
@@ -1578,16 +1563,8 @@ sessions:
     end: "21:45"
     location: "Virtual"
     hybrid: "Y"
-    presenters: "
-      Kathryn Bridson,
-      Paul Denny,
-      Tomas Effenberger,
-      James Finnie-Ansley,
-      Scott D. Fleming,
-      Naser Al Madi,
-      David Liben-Nowell,
-      and others TBA"
-    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person."
+    presenters: ""
+    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person. Participating authors are listed in the [Pathable agenda item for this event](https://sigcse2022.us2.pathable.com/meetings/virtual/DaN8wf8gkJ3J92MyA)."
 
 # 3/4 0700
 
@@ -2003,14 +1980,8 @@ sessions:
     end: "13:00"
     location: "Virtual"
     hybrid: "Y"
-    presenters: "
-      Wouter Groeneveld,
-      Jacqueline Staub,
-      Hannah Miller,
-      Yongzhi Wang,
-      and others TBA
-    "
-    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person."
+    presenters: ""
+    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person. Participating authors are listed in the [Pathable agenda item for this event](https://sigcse2022.us2.pathable.com/meetings/virtual/r2LrWDpCkp5oPrPsd)."
 
 # 3/4 1345
 
@@ -2656,7 +2627,7 @@ sessions:
           day: "3/4/2022"
           start: "19:00"
           end: "20:00"
-          location: "Providence Ballroom II/II (Omni)"
+          location: "Providence Ballroom II/III (Omni)"
           hybrid: "N"
           presenters: "Dee A. B. Weikle (James Madison University); Michael C. Stewart (James Madison University); Sharon Simmons (James Madison University)"
         - type: "Workshops"
@@ -2693,18 +2664,8 @@ sessions:
     end: "21:45"
     location: "Virtual"
     hybrid: "Y"
-    presenters: "
-      Kevin Buffardi,
-      Victoria Dean,
-      Sarah Foss,
-      Rita Garcia,
-      Ruanqianqian (Lisa) Huang,
-      Kevin Lin,
-      Stefan Podlipnig,
-      Sadia Sharmin,
-      and others TBA
-    "
-    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person."
+    presenters: ""
+    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person. Participating authors are listed in the [Pathable agenda item for this event](https://sigcse2022.us2.pathable.com/meetings/virtual/tvckmsQC479N7BEGg)."
 
 # 3/5 0700
 
@@ -3419,20 +3380,8 @@ sessions:
     end: "13:30"
     location: "Virtual"
     hybrid: "Y"
-    presenters: "
-      Paul E. Dickson,
-      Yuan Garcia,
-      Beryl Hoffman,
-      Shamika Klassen,
-      Xumin Liu,
-      W. Richards Adrion,
-      Dana Saito-Stehberger,
-      Hussel Suriyaarachchi,
-      Florence Sullivan,
-      Wengren Wang,
-      and others TBA
-    "
-    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person."
+    presenters: ""
+    description: "Paper authors presenting virtually will be available in Pathable during one of the Authors' Corner sessions, along with authors of some papers presented in person. Participating authors are listed in the [Pathable agenda item for this event](https://sigcse2022.us2.pathable.com/meetings/virtual/z94R3kAbDNyqiAXCP)."
 
 # 3/5 1300
 
