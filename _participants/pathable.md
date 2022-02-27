@@ -4,7 +4,7 @@ title: Pathable Information and FAQ
 showTitle: true
 ---
 
-Even if you have not yet registered for TS 2022, you can view the agenda on the [TS 2022 Pathable site](http://pathable.us2.sigcse2022.org). However, you won't be able to do much more until you [register for TS 2022](/participants#registration). Once an hour, Pathable automatically imports the list of TS 2022 registrants and creates accounts for those email addresses with which no account is already associated.
+Even if you have not yet registered for TS 2022, you can view the agenda on the [TS 2022 Pathable site](http://sigcse2022.us2.pathable.org). However, you won't be able to do much more until you [register for TS 2022](/participants#registration). Once an hour, Pathable automatically imports the list of TS 2022 registrants and creates accounts for those email addresses with which no account is already associated.
 
 While you are waiting for the synchronization, take the opportunity to (re-)watch [this episode of SIGCSE Morning Coffee from TS 2021](https://www.youtube.com/watch?v=l0cDLoE3dpU), where we talk about how to use Pathable.
 
