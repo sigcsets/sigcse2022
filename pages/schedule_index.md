@@ -201,23 +201,21 @@ $('.button-group').each( function( i, buttonGroup ) {
 Last update: {{ "now" | date: "%A, %B %d, %Y" }}    
 
 <div markdown="1">
+The number of late-breaking changes to the program schedule this year has been unprecedented as fluctuating pandemic conditions and travel restrictions lead authors to switch from virtual to in-person participation and vice-versa. As such, the program below may not reflect the most recent changes. We thank you for your patience with us as we navigate the complexities associated with the hybrid design of this conference while adjusting to the evolving pandemic situation. If you have any questions, please do not hesitate to contact the Program Co-Chairs (Judy, Leen-Kiat, and Brian) at [program@sigcse2022.org](mailto:program@sigcse2022.org).
+<hr>
 This page is one of three sources of program schedule information, the others being:
 - The [agenda on our Pathable site](https://sigcse2022.us2.pathable.com/agenda) (be patient, it takes a few seconds to load).
 - The printed program booklet and addendum available to in-person attendees.
 
-The number of late-breaking changes to the program schedule this year has been unprecedented as fluctuating pandemic conditions and travel restrictions lead authors to switch from virtual to in-person participation and vice-versa. As such, the program below may not reflect the most recent changes. **During the Symposium, participants should refer to either the printed program booklet with its addendum or the Pathable agenda.** The latter will be the most up-to-date. This version will be updated once more after the Symposium to serve as the publicly-accessible historical record of the Symposium.
-
-1. All times shown are Eastern Standard Time (EST).
+ **During the Symposium, this page will redirect to the Pathable agenda, which will be the most up-to-date source for schedule information.** This page will be updated once more after the Symposium to serve as the publicly-accessible historical record of the Symposium.
+<hr>
+1. All times shown are North American Eastern Standard Time (EST).
 1. For full details about the Workshops, please visit the [Workshops Page](/schedule/workshops). Note: "Workshops" are a specific track within the SIGCSE Technical Symposium's main program, available at an additional cost to registered SIGCSE TS participants. They are distinct from <strong>Affiliated Events and Sponsor Sessions</strong>, which are clearly identified within the agenda below.
 1. A [roadmap](https://docs.google.com/document/d/1Z7w8HJ03WB5X0qF0b71eOKaP6CsDUMPw/edit?usp=sharing&ouid=107906839535250673001&rtpof=true&sd=true) of suggested sessions for K-12 participants to attend is now available.
 1. A [roadmap](/schedule/cc) of suggested sessions for Community College participants to attend is now available.
 1. A [roadmap](https://docs.google.com/document/d/1rdY4KBeCq2A9ZRn2-YjrPo5MHK2aUeRs/edit?usp=sharing&ouid=107906839535250673001&rtpof=true&sd=true) of suggested sessions for Global participants to attend is now available.
 </div>
-
-<div markdown="1">
-We thank you for your patience with us as we navigate the complexities associated with the hybrid design of this conference while adjusting to the evolving pandemic situation. If you have any questions, please do not hesitate to contact the Program Co-Chairs (Judy, Leen-Kiat, and Brian) at [program@sigcse2022.org](mailto:program@sigcse2022.org).
-</div>
-
+<hr>
 Filter by Day (when filtered, shows in-person items only):
 <div class="button-group" data-filter-group="day">
   <a class="button small" data-filter="">All</a>
@@ -260,7 +258,7 @@ Filter by Session Type:
   <a class="button small" data-filter=".supportersessions">Supporter Sessions</a>
   <a class="button small" data-filter=".workshops">Workshops</a>
 </div>
-
+<hr>
 <div class="message-div" style="display: none">
 No matching sessions found.
 </div>
