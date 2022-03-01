@@ -8,9 +8,13 @@ layout: frontpage
 header:
   image_fullwidth: sigcse2021-logo-header.png
 widget1:
+  title: 'Housekeeping Video #1'
+  video: '9s8BSBmPHvo'
+widget2:
   title: The SIGCSE TS 2022 program schedule is live!
   url: '/schedule'
   style: alert
+
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -21,10 +25,10 @@ widget1:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://cvent.me/17lVE2
-  text: Register for SIGCSE TS 2022
-  style: alert
+#callforaction:
+#  url: https://cvent.me/17lVE2
+#  text: Register for SIGCSE TS 2022
+#  style: alert
 
 permalink: /index.html
 #

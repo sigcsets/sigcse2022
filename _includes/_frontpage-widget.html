@@ -19,7 +19,7 @@
 	{% if widget_url != empty %}<p><a class="button tiny radius" href="{{ widget_url }}">{{ site.data.language.more }}</a></p>{% endif %}
 
 	{% if include.widget.video %}
-		{{ include.widget.video }}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{include.widget.video}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	{% elsif widget_url == empty %}
 		{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
 	{% else %}

@@ -80,6 +80,10 @@ format: frontpage
 *
 {% endcomment %}
 <div class="row t60">
+     {% if page.youtube %}
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.youtube.url}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {% endif %}
+
 	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
 		{% include _frontpage-widget.html widget=page.widget1 %}
 	{% endif %}
@@ -91,7 +95,7 @@ format: frontpage
 
 	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
 		{% include _frontpage-widget.html widget=page.widget2 %}
-	{% endif %}
+	{% endif %} 
 </div>
 
 {% comment %}
@@ -111,7 +115,6 @@ format: frontpage
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
-
 
 
 {% comment %}
