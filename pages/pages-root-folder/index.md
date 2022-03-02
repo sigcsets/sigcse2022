@@ -8,8 +8,8 @@ layout: frontpage
 header:
   image_fullwidth: sigcse2021-logo-header.png
 widget1:
-  title: 'Housekeeping Video #1'
-  video: '9s8BSBmPHvo'
+  title: 'Housekeeping Video #2'
+  video: '2-RSdWs4Jrc'
 widget2:
   title: The SIGCSE TS 2022 program schedule is live!
   url: '/schedule'

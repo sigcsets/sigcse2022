@@ -408,7 +408,7 @@ sessions:
     end: "12:00"
     location: "Providence Ballroom II/III (Omni)"
     hybrid: "N"
-    presenters: "Session Chair: Helen Zhang (Boston College, USA)"
+    presenters: "Session Chair: Mohsen Dorodchi"
     subsessions:
         - type: "Paper Sessions"
           title: "Remote Early Research Experiences for Undergraduate Students in Computing"
